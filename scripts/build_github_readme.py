@@ -13,21 +13,24 @@ library = OrderedDict()
 for item in items:
     library.setdefault(item["subject"], OrderedDict()).setdefault(item["course"], []).append(item)
 
-ICONS = {"Computer Science":"💻", "Artificial Intelligence":"✦", "Mathematics":"∑", "Mathematics & Statistics":"◒", "Physics":"⚛", "Chemistry":"⚗", "Life Sciences":"⌬", "Neuroscience":"◉", "Psychology":"◌", "Economics":"↗", "Finance":"◈", "Political Science":"⌁", "Philosophy":"◐", "Literature":"✎", "Astronomy":"✧"}
-
 def slug(value):
     return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
 
 def card(subject, courses):
     count = sum(len(prompts) for prompts in courses.values())
     return f'''<td width="33%" valign="top">
-  <a href="#{slug(subject)}"><strong>{ICONS[subject]}<br>{html.escape(subject)}</strong><br><sub>{len(courses)} courses · {count} prompts</sub></a>
+  <img src="assets/subject-icons/{slug(subject)}.svg" width="54" alt="{html.escape(subject)} icon"><br>
+  <a href="#{slug(subject)}"><strong>{html.escape(subject)}</strong></a><br>
+  <sub>{len(courses)} courses · {count} prompts</sub>
 </td>'''
 
 def course_card(course, prompts):
     first = prompts[0]
+    course_code = first["tags"][1].lower()
     return f'''<td width="33%" valign="top">
-  <a href="#course-{first['tags'][1].lower()}"><strong>▣<br>{html.escape(course)}</strong><br><sub>{len(prompts)} prompts · {html.escape(first['textbook'])}</sub></a>
+  <img src="assets/course-covers/{course_code}.svg" width="100%" alt="{html.escape(course)} course cover"><br>
+  <a href="#course-{course_code}"><strong>{html.escape(course)}</strong></a><br>
+  <sub>{len(prompts)} prompts · {html.escape(first['textbook'])}</sub>
 </td>'''
 
 lines = [

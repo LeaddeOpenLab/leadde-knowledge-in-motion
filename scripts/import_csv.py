@@ -64,9 +64,16 @@ missing_courses = set(row["course_title_zh"] for row in rows) - COURSES.keys()
 if missing_subjects or missing_courses:
     raise ValueError(f"Missing translations: {missing_subjects=}, {missing_courses=}")
 topics = list(dict.fromkeys(row["knowledge_point"] for row in rows))
-translations = {}
-for start in range(0, len(topics), 20):
-    batch = topics[start:start + 20]
+previous_titles = {}
+if destination.exists():
+    previous_titles = {item["id"]: item["title"] for item in json.loads(destination.read_text(encoding="utf-8"))}
+translations = {
+    row["knowledge_point"]: previous_titles[row["knowledge_id"]]
+    for row in rows if row["knowledge_id"] in previous_titles
+}
+missing_topics = [topic for topic in topics if topic not in translations]
+for start in range(0, len(missing_topics), 20):
+    batch = missing_topics[start:start + 20]
     translations.update(zip(batch, translate_batch(batch)))
     time.sleep(.4)
 if any(not value or any("\u4e00" <= char <= "\u9fff" for char in value) for value in translations.values()):
