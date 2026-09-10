@@ -24,6 +24,12 @@ def card(subject, courses):
   <a href="#{slug(subject)}"><strong>{ICONS[subject]}<br>{html.escape(subject)}</strong><br><sub>{len(courses)} courses · {count} prompts</sub></a>
 </td>'''
 
+def course_card(course, prompts):
+    first = prompts[0]
+    return f'''<td width="33%" valign="top">
+  <a href="#course-{first['tags'][1].lower()}"><strong>▣<br>{html.escape(course)}</strong><br><sub>{len(prompts)} prompts · {html.escape(first['textbook'])}</sub></a>
+</td>'''
+
 lines = [
     "# Leadde Motion Prompt Library",
     "",
@@ -52,31 +58,41 @@ for subject, courses in library.items():
         "",
         f"**{len(courses)} courses · {total} prompts** &nbsp; [Back to cards](#browse-the-library)",
         "",
+        "<table>",
     ])
+    for start in range(0, len(courses), 3):
+        lines.append("<tr>")
+        groups = list(courses.items())[start:start + 3]
+        lines.extend(course_card(course, prompts) for course, prompts in groups)
+        lines.extend("<td></td>" for _ in range(3 - len(groups)))
+        lines.append("</tr>")
+    lines.extend(["</table>", ""])
     for course, prompts in courses.items():
         textbook = html.escape(prompts[0]["textbook"])
         lines.extend([
-            "<details>",
-            f"<summary><strong>{html.escape(course)}</strong> · {len(prompts)} prompts<br><sub>TEXTBOOK · {textbook}</sub></summary>",
+            f"<a id=\"course-{prompts[0]['tags'][1].lower()}\"></a>",
+            f"### {course}",
             "",
-            "<br>",
+            f"**TEXTBOOK · {textbook}** &nbsp; [Back to {subject} courses](#{slug(subject)})",
+            "",
+            "#### Knowledge points",
             "",
         ])
-        for prompt in prompts:
+        for index, prompt in enumerate(prompts, 1):
             lines.extend([
-                "<details>",
-                f"<summary><strong>{html.escape(prompt['title'])}</strong> &nbsp; <code>{html.escape(prompt['id'])}</code> · VIDEO COMING SOON</summary>",
+                f"{index}. <details>",
+                f"   <summary><strong>{html.escape(prompt['title'])}</strong> &nbsp; <code>{html.escape(prompt['id'])}</code> · VIDEO COMING SOON</summary>",
                 "",
-                "```text",
-                prompt["prompt"],
-                "```",
+                "   ```text",
+                "\n".join("   " + line if line else "" for line in prompt["prompt"].splitlines()),
+                "   ```",
                 "",
-                "Need a similar video? [Create it at leadde.ai](https://leadde.ai).",
+                "   Need a similar video? [Create it at leadde.ai](https://leadde.ai).",
                 "",
-                "</details>",
+                "   </details>",
                 "",
             ])
-        lines.extend(["</details>", ""])
+        lines.append("")
     lines.extend(["---", ""])
 
 lines.extend([
