@@ -19,13 +19,13 @@ def slug(value):
 def svg(content, width, height):
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none">{content}</svg>\n'''
 
-STYLE = 'stroke="#1167d8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"'
+STYLE = 'stroke="#24292f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"'
 ICONS = {
     "Computer Science": '<rect x="16" y="21" width="64" height="43" rx="4" ' + STYLE + '/><path d="M39 82h18M48 64v18" ' + STYLE + '/>',
-    "Artificial Intelligence": '<path d="M48 11 55 34 78 41 55 48 48 71 41 48 18 41 41 34Z" ' + STYLE + '/><circle cx="48" cy="41" r="4" fill="#1167d8"/>',
+    "Artificial Intelligence": '<path d="M48 11 55 34 78 41 55 48 48 71 41 48 18 41 41 34Z" ' + STYLE + '/><circle cx="48" cy="41" r="4" fill="#24292f"/>',
     "Mathematics": '<path d="M67 19H32l25 27-25 27h35" ' + STYLE + '/><path d="M19 28h18M19 58h18" ' + STYLE + '/>',
     "Mathematics & Statistics": '<path d="M17 68c13-39 49-39 62 0" ' + STYLE + '/><path d="M17 68h62M29 51v17M48 38v30M67 51v17" ' + STYLE + '/>',
-    "Physics": '<circle cx="48" cy="46" r="7" fill="#1167d8"/><ellipse cx="48" cy="46" rx="37" ry="16" ' + STYLE + '/><ellipse cx="48" cy="46" rx="37" ry="16" transform="rotate(60 48 46)" ' + STYLE + '/><ellipse cx="48" cy="46" rx="37" ry="16" transform="rotate(120 48 46)" ' + STYLE + '/>',
+    "Physics": '<circle cx="48" cy="46" r="7" fill="#24292f"/><ellipse cx="48" cy="46" rx="37" ry="16" ' + STYLE + '/><ellipse cx="48" cy="46" rx="37" ry="16" transform="rotate(60 48 46)" ' + STYLE + '/><ellipse cx="48" cy="46" rx="37" ry="16" transform="rotate(120 48 46)" ' + STYLE + '/>',
     "Chemistry": '<path d="M37 15h22M44 15v25L24 73a7 7 0 0 0 6 10h36a7 7 0 0 0 6-10L52 40V15" ' + STYLE + '/><path d="M31 64h34" ' + STYLE + '/>',
     "Life Sciences": '<path d="M20 73C21 36 43 17 77 17 76 51 57 73 20 73Z" ' + STYLE + '/><path d="M21 73c16-15 30-29 46-45" ' + STYLE + '/>',
     "Neuroscience": '<path d="M34 69c-18 1-23-24-7-32-3-18 22-24 29-10 15-9 32 10 18 24 7 16-12 31-26 20-4 7-12 7-14-2Z" ' + STYLE + '/><path d="M34 47h28M48 32v30" ' + STYLE + '/>',
