@@ -79,17 +79,18 @@ for subject, courses in library.items():
             "",
         ])
         for index, prompt in enumerate(prompts, 1):
+            indent = " " * (len(str(index)) + 2)
             lines.extend([
                 f"{index}. <details>",
-                f"   <summary><strong>{html.escape(prompt['title'])}</strong> &nbsp; <code>{html.escape(prompt['id'])}</code> · VIDEO COMING SOON</summary>",
+                f"{indent}<summary><strong>{html.escape(prompt['title'])}</strong> &nbsp; <code>{html.escape(prompt['id'])}</code> · VIDEO COMING SOON</summary>",
                 "",
-                "   ```text",
-                "\n".join("   " + line if line else "" for line in prompt["prompt"].splitlines()),
-                "   ```",
+                f"{indent}```text",
+                "\n".join(indent + line if line else "" for line in prompt["prompt"].splitlines()),
+                f"{indent}```",
                 "",
-                "   Need a similar video? [Create it at leadde.ai](https://leadde.ai).",
+                f"{indent}Need a similar video? [Create it at leadde.ai](https://leadde.ai).",
                 "",
-                "   </details>",
+                f"{indent}</details>",
                 "",
             ])
         lines.append("")

@@ -307,76 +307,76 @@
    </details>
 
 10. <details>
-   <summary><strong>Hash table</strong> &nbsp; <code>C01-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Hash table</strong> &nbsp; <code>C01-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “Hash table” using this visual metaphor: “a mail-sorting chute sending one key into its computed bucket”. Dynamically demonstrate the core formula or conclusion: \operatorname{index}=h(k)\bmod m.
+    Explain “Hash table” using this visual metaphor: “a mail-sorting chute sending one key into its computed bucket”. Dynamically demonstrate the core formula or conclusion: \operatorname{index}=h(k)\bmod m.
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#E4F6EF); main visual (#F97316); secondary visual (#06B6D4); highlight (#EAB308); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#E4F6EF); main visual (#F97316); secondary visual (#06B6D4); highlight (#EAB308); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 11. <details>
-   <summary><strong>Relational model</strong> &nbsp; <code>C01-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Relational model</strong> &nbsp; <code>C01-A011</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “relational model” using this visual metaphor: “a clean data table where one row becomes a tuple and one column becomes a key”. Dynamically demonstrate the core formula or conclusion: R(A_1,A_2,\ldots,A_n).
+    Explain “relational model” using this visual metaphor: “a clean data table where one row becomes a tuple and one column becomes a key”. Dynamically demonstrate the core formula or conclusion: R(A_1,A_2,\ldots,A_n).
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EAD5EC); main visual (#64FFDA); secondary visual (#FF6B6B); highlight (#FFD166); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EAD5EC); main visual (#64FFDA); secondary visual (#FF6B6B); highlight (#FFD166); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 12. <details>
-   <summary><strong>SQL JOIN</strong> &nbsp; <code>C01-A012</code> · VIDEO COMING SOON</summary>
+    <summary><strong>SQL JOIN</strong> &nbsp; <code>C01-A012</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “SQL JOIN” using this visual metaphor: “one matching key pulling two database rows into a single joined row”. Dynamically demonstrate the core formula or conclusion: A\bowtie_{A.id=B.id}B.
+    Explain “SQL JOIN” using this visual metaphor: “one matching key pulling two database rows into a single joined row”. Dynamically demonstrate the core formula or conclusion: A\bowtie_{A.id=B.id}B.
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF3DD); main visual (#F472B6); secondary visual (#22D3EE); highlight (#FBBF24); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF3DD); main visual (#F472B6); secondary visual (#22D3EE); highlight (#FBBF24); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 <a id="course-6.006"></a>
@@ -844,76 +844,76 @@
    </details>
 
 10. <details>
-   <summary><strong>Chain rule</strong> &nbsp; <code>C03-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Chain rule</strong> &nbsp; <code>C03-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “chain rule” using this visual metaphor: “a luminous model workbench showing one controlled transformation for chain rule”. Dynamically demonstrate the core formula or conclusion: The chain rule multiplies local derivatives along a computation path..
+    Explain “chain rule” using this visual metaphor: “a luminous model workbench showing one controlled transformation for chain rule”. Dynamically demonstrate the core formula or conclusion: The chain rule multiplies local derivatives along a computation path..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#D5ECE6); main visual (#A5EB4B); secondary visual (#418FE8); highlight (#5FFA64); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#D5ECE6); main visual (#A5EB4B); secondary visual (#418FE8); highlight (#5FFA64); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 11. <details>
-   <summary><strong>Markov decision process</strong> &nbsp; <code>C03-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Markov decision process</strong> &nbsp; <code>C03-A011</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “Markov decision process” using this visual metaphor: “a luminous model workbench showing one controlled transformation for Markov decision process”. Dynamically demonstrate the core formula or conclusion: An MDP is defined by $(S,A,P,R,\gamma)$..
+    Explain “Markov decision process” using this visual metaphor: “a luminous model workbench showing one controlled transformation for Markov decision process”. Dynamically demonstrate the core formula or conclusion: An MDP is defined by $(S,A,P,R,\gamma)$..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F3DDF2); main visual (#EB4BD4); secondary visual (#C0E841); highlight (#FA5F87); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F3DDF2); main visual (#EB4BD4); secondary visual (#C0E841); highlight (#FA5F87); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 12. <details>
-   <summary><strong>Value iteration</strong> &nbsp; <code>C03-A012</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Value iteration</strong> &nbsp; <code>C03-A012</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “value iteration” using this visual metaphor: “a luminous model workbench showing one controlled transformation for value iteration”. Dynamically demonstrate the core formula or conclusion: Value iteration applies $V_{k+1}(s)=\max_a[R+\gamma\sum P V_k]$..
+    Explain “value iteration” using this visual metaphor: “a luminous model workbench showing one controlled transformation for value iteration”. Dynamically demonstrate the core formula or conclusion: Value iteration applies $V_{k+1}(s)=\max_a[R+\gamma\sum P V_k]$..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#E9F1DA); main visual (#4BEBD3); secondary visual (#E041E8); highlight (#5FB4FA); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#E9F1DA); main visual (#4BEBD3); secondary visual (#E041E8); highlight (#5FB4FA); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 ---
@@ -1359,76 +1359,76 @@
    </details>
 
 10. <details>
-   <summary><strong>Eigenvector</strong> &nbsp; <code>C05-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Eigenvector</strong> &nbsp; <code>C05-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “eigenvector” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for eigenvector”. Dynamically demonstrate the core formula or conclusion: An eigenvector keeps its direction under a linear map..
+    Explain “eigenvector” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for eigenvector”. Dynamically demonstrate the core formula or conclusion: An eigenvector keeps its direction under a linear map..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#ECE2D5); main visual (#4B8BEB); secondary visual (#E84173); highlight (#7E5FFA); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#ECE2D5); main visual (#4B8BEB); secondary visual (#E84173); highlight (#7E5FFA); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 11. <details>
-   <summary><strong>Matrix diagonalization</strong> &nbsp; <code>C05-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Matrix diagonalization</strong> &nbsp; <code>C05-A011</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “matrix diagonalization” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for matrix diagonalization”. Dynamically demonstrate the core formula or conclusion: Diagonalization writes $A=PDP^{-1}$..
+    Explain “matrix diagonalization” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for matrix diagonalization”. Dynamically demonstrate the core formula or conclusion: Diagonalization writes $A=PDP^{-1}$..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DDF3F0); main visual (#BAEB4B); secondary visual (#41A4E8); highlight (#6DFA5F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DDF3F0); main visual (#BAEB4B); secondary visual (#41A4E8); highlight (#6DFA5F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 12. <details>
-   <summary><strong>Singular value decomposition</strong> &nbsp; <code>C05-A012</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Singular value decomposition</strong> &nbsp; <code>C05-A012</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “singular value decomposition” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for singular value decomposition”. Dynamically demonstrate the core formula or conclusion: SVD factors a matrix as $A=U\Sigma V^T$..
+    Explain “singular value decomposition” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for singular value decomposition”. Dynamically demonstrate the core formula or conclusion: SVD factors a matrix as $A=U\Sigma V^T$..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F1DAED); main visual (#EB4BE8); secondary visual (#D5E841); highlight (#FA5F9B); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F1DAED); main visual (#EB4BE8); secondary visual (#D5E841); highlight (#FA5F9B); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 ---
@@ -1672,52 +1672,52 @@
    </details>
 
 10. <details>
-   <summary><strong>Markov chain</strong> &nbsp; <code>C06-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Markov chain</strong> &nbsp; <code>C06-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “Markov chain” using this visual metaphor: “a field of particles revealing one probability pattern for Markov chain”. Dynamically demonstrate the core formula or conclusion: A Markov chain depends only on the current state..
+    Explain “Markov chain” using this visual metaphor: “a field of particles revealing one probability pattern for Markov chain”. Dynamically demonstrate the core formula or conclusion: A Markov chain depends only on the current state..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#D7D5EC); main visual (#EB5B4B); secondary visual (#41E862); highlight (#FACB5F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#D7D5EC); main visual (#EB5B4B); secondary visual (#41E862); highlight (#FACB5F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 11. <details>
-   <summary><strong>Markov chain steady state</strong> &nbsp; <code>C06-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Markov chain steady state</strong> &nbsp; <code>C06-A011</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “Markov chain steady state” using this visual metaphor: “a field of particles revealing one probability pattern for Markov chain steady state”. Dynamically demonstrate the core formula or conclusion: A stationary distribution satisfies $\pi=\pi P$..
+    Explain “Markov chain steady state” using this visual metaphor: “a field of particles revealing one probability pattern for Markov chain steady state”. Dynamically demonstrate the core formula or conclusion: A stationary distribution satisfies $\pi=\pi P$..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F3E6DD); main visual (#4B6AEB); secondary visual (#E84151); highlight (#9E5FFA); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F3E6DD); main visual (#4B6AEB); secondary visual (#E84151); highlight (#9E5FFA); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 ---
@@ -1963,100 +1963,100 @@
    </details>
 
 10. <details>
-   <summary><strong>Potential energy curve</strong> &nbsp; <code>C07-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Potential energy curve</strong> &nbsp; <code>C07-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “potential energy curve” using this visual metaphor: “a minimal virtual laboratory showing one visible physical change for potential energy curve”. Dynamically demonstrate the core formula or conclusion: Force follows a potential curve through $F=-dU/dx$..
+    Explain “potential energy curve” using this visual metaphor: “a minimal virtual laboratory showing one visible physical change for potential energy curve”. Dynamically demonstrate the core formula or conclusion: Force follows a potential curve through $F=-dU/dx$..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F6E4F1); main visual (#D94BEB); secondary visual (#E8E641); highlight (#FA5FAE); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F6E4F1); main visual (#D94BEB); secondary visual (#E8E641); highlight (#FA5FAE); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 11. <details>
-   <summary><strong>Rigid body rotation</strong> &nbsp; <code>C07-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Rigid body rotation</strong> &nbsp; <code>C07-A011</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “rigid body rotation” using this visual metaphor: “a minimal virtual laboratory showing one visible physical change for rigid body rotation”. Dynamically demonstrate the core formula or conclusion: Rotational motion follows $\tau=I\alpha$..
+    Explain “rigid body rotation” using this visual metaphor: “a minimal virtual laboratory showing one visible physical change for rigid body rotation”. Dynamically demonstrate the core formula or conclusion: Rotational motion follows $\tau=I\alpha$..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DEECD5); main visual (#4BEBAA); secondary visual (#B541E8); highlight (#5FDCFA); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DEECD5); main visual (#4BEBAA); secondary visual (#B541E8); highlight (#5FDCFA); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 12. <details>
-   <summary><strong>Angular momentum</strong> &nbsp; <code>C07-A012</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Angular momentum</strong> &nbsp; <code>C07-A012</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “Angular momentum” using this visual metaphor: “a minimal virtual laboratory showing one visible physical change for Angular momentum”. Dynamically demonstrate the core formula or conclusion: Angular momentum is $L=r\times p$..
+    Explain “Angular momentum” using this visual metaphor: “a minimal virtual laboratory showing one visible physical change for Angular momentum”. Dynamically demonstrate the core formula or conclusion: Angular momentum is $L=r\times p$..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DDE0F3); main visual (#EB7B4B); secondary visual (#41E884); highlight (#FAEB5F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DDE0F3); main visual (#EB7B4B); secondary visual (#41E884); highlight (#FAEB5F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 13. <details>
-   <summary><strong>No slip scrolling</strong> &nbsp; <code>C07-A013</code> · VIDEO COMING SOON</summary>
+    <summary><strong>No slip scrolling</strong> &nbsp; <code>C07-A013</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “No slip scrolling” using this visual metaphor: “a minimal virtual laboratory showing one visible physical change for No slip scrolling”. Dynamically demonstrate the core formula or conclusion: Pure rolling satisfies $v_{cm}=\omega R$..
+    Explain “No slip scrolling” using this visual metaphor: “a minimal virtual laboratory showing one visible physical change for No slip scrolling”. Dynamically demonstrate the core formula or conclusion: Pure rolling satisfies $v_{cm}=\omega R$..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F1DEDA); main visual (#4D4BEB); secondary visual (#E85441); highlight (#BE5FFA); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F1DEDA); main visual (#4D4BEB); secondary visual (#E85441); highlight (#BE5FFA); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 <a id="course-8.02"></a>
@@ -2283,76 +2283,76 @@
    </details>
 
 10. <details>
-   <summary><strong>Magnetic field trajectories of charged particles</strong> &nbsp; <code>C08-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Magnetic field trajectories of charged particles</strong> &nbsp; <code>C08-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “Magnetic field trajectories of charged particles” using this visual metaphor: “a minimal virtual laboratory showing one visible physical change for Magnetic field trajectories of charged particles”. Dynamically demonstrate the core formula or conclusion: A perpendicular magnetic field bends a charged particle into a circle..
+    Explain “Magnetic field trajectories of charged particles” using this visual metaphor: “a minimal virtual laboratory showing one visible physical change for Magnetic field trajectories of charged particles”. Dynamically demonstrate the core formula or conclusion: A perpendicular magnetic field bends a charged particle into a circle..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#ECD5EA); main visual (#EB4BDC); secondary visual (#C8E841); highlight (#FA5F8E); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#ECD5EA); main visual (#EB4BDC); secondary visual (#C8E841); highlight (#FA5F8E); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 11. <details>
-   <summary><strong>Maxwell&#x27;s equations</strong> &nbsp; <code>C08-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Maxwell&#x27;s equations</strong> &nbsp; <code>C08-A011</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “Maxwell's equations” using this visual metaphor: “a minimal virtual laboratory showing one visible physical change for Maxwell's equations”. Dynamically demonstrate the core formula or conclusion: Maxwell's equations connect charge, current, electric field, and magnetic field..
+    Explain “Maxwell's equations” using this visual metaphor: “a minimal virtual laboratory showing one visible physical change for Maxwell's equations”. Dynamically demonstrate the core formula or conclusion: Maxwell's equations connect charge, current, electric field, and magnetic field..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EAF3DD); main visual (#4BEBCB); secondary visual (#D841E8); highlight (#5FBCFA); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EAF3DD); main visual (#4BEBCB); secondary visual (#D841E8); highlight (#5FBCFA); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 12. <details>
-   <summary><strong>Electromagnetic wave propagation</strong> &nbsp; <code>C08-A012</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Electromagnetic wave propagation</strong> &nbsp; <code>C08-A012</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “electromagnetic wave propagation” using this visual metaphor: “a minimal virtual laboratory showing one visible physical change for electromagnetic wave propagation”. Dynamically demonstrate the core formula or conclusion: An electromagnetic wave propagates with $c=1/\sqrt{\mu_0\varepsilon_0}$..
+    Explain “electromagnetic wave propagation” using this visual metaphor: “a minimal virtual laboratory showing one visible physical change for electromagnetic wave propagation”. Dynamically demonstrate the core formula or conclusion: An electromagnetic wave propagates with $c=1/\sqrt{\mu_0\varepsilon_0}$..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DAE1F1); main visual (#EB9C4B); secondary visual (#41E8A7); highlight (#E9FA5F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DAE1F1); main visual (#EB9C4B); secondary visual (#41E8A7); highlight (#E9FA5F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 ---
@@ -2596,124 +2596,124 @@
    </details>
 
 10. <details>
-   <summary><strong>SN2 reaction</strong> &nbsp; <code>C09-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>SN2 reaction</strong> &nbsp; <code>C09-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “SN2 reaction” using this visual metaphor: “a rotating molecular stage showing one bond or electron event for SN2 reaction”. Dynamically demonstrate the core formula or conclusion: SN2 occurs in one backside-attack step..
+    Explain “SN2 reaction” using this visual metaphor: “a rotating molecular stage showing one bond or electron event for SN2 reaction”. Dynamically demonstrate the core formula or conclusion: SN2 occurs in one backside-attack step..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#D5ECE3); main visual (#8CEB4B); secondary visual (#4174E8); highlight (#5FFA7D); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#D5ECE3); main visual (#8CEB4B); secondary visual (#4174E8); highlight (#5FFA7D); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 11. <details>
-   <summary><strong>E1 response</strong> &nbsp; <code>C09-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>E1 response</strong> &nbsp; <code>C09-A011</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “E1 response” using this visual metaphor: “a rotating molecular stage showing one bond or electron event for E1 response”. Dynamically demonstrate the core formula or conclusion: E1 forms an alkene through a carbocation intermediate..
+    Explain “E1 response” using this visual metaphor: “a rotating molecular stage showing one bond or electron event for E1 response”. Dynamically demonstrate the core formula or conclusion: E1 forms an alkene through a carbocation intermediate..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0DDF3); main visual (#EB4BBB); secondary visual (#A5E841); highlight (#FA5F6E); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0DDF3); main visual (#EB4BBB); secondary visual (#A5E841); highlight (#FA5F6E); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 12. <details>
-   <summary><strong>E2 reaction</strong> &nbsp; <code>C09-A012</code> · VIDEO COMING SOON</summary>
+    <summary><strong>E2 reaction</strong> &nbsp; <code>C09-A012</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “E2 reaction” using this visual metaphor: “a rotating molecular stage showing one bond or electron event for E2 reaction”. Dynamically demonstrate the core formula or conclusion: E2 forms an alkene in one concerted elimination step..
+    Explain “E2 reaction” using this visual metaphor: “a rotating molecular stage showing one bond or electron event for E2 reaction”. Dynamically demonstrate the core formula or conclusion: E2 forms an alkene in one concerted elimination step..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF1DA); main visual (#4BE9EB); secondary visual (#E841D6); highlight (#5F9CFA); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF1DA); main visual (#4BE9EB); secondary visual (#E841D6); highlight (#5F9CFA); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 13. <details>
-   <summary><strong>Multi-step organic synthesis</strong> &nbsp; <code>C09-A013</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Multi-step organic synthesis</strong> &nbsp; <code>C09-A013</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “multi-step organic synthesis” using this visual metaphor: “a rotating molecular stage showing one bond or electron event for multi-step organic synthesis”. Dynamically demonstrate the core formula or conclusion: Multistep synthesis connects compatible reactions into one route..
+    Explain “multi-step organic synthesis” using this visual metaphor: “a rotating molecular stage showing one bond or electron event for multi-step organic synthesis”. Dynamically demonstrate the core formula or conclusion: Multistep synthesis connects compatible reactions into one route..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#E4EEF6); main visual (#EBBD4B); secondary visual (#41E8C9); highlight (#C9FA5F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#E4EEF6); main visual (#EBBD4B); secondary visual (#41E8C9); highlight (#C9FA5F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 14. <details>
-   <summary><strong>Retrosynthetic analysis</strong> &nbsp; <code>C09-A014</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Retrosynthetic analysis</strong> &nbsp; <code>C09-A014</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “Retrosynthetic analysis” using this visual metaphor: “a rotating molecular stage showing one bond or electron event for Retrosynthetic analysis”. Dynamically demonstrate the core formula or conclusion: Retrosynthesis disconnects a target into simpler precursors..
+    Explain “Retrosynthetic analysis” using this visual metaphor: “a rotating molecular stage showing one bond or electron event for Retrosynthetic analysis”. Dynamically demonstrate the core formula or conclusion: Retrosynthesis disconnects a target into simpler precursors..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#ECD5DA); main visual (#8F4BEB); secondary visual (#E89941); highlight (#FA5FF6); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#ECD5DA); main visual (#8F4BEB); secondary visual (#E89941); highlight (#FA5FF6); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 ---
@@ -2957,76 +2957,76 @@
    </details>
 
 10. <details>
-   <summary><strong>Translate</strong> &nbsp; <code>C10-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Translate</strong> &nbsp; <code>C10-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “Translate” using this visual metaphor: “a microscopic cellular stage showing one biological process for Translate”. Dynamically demonstrate the core formula or conclusion: Translation converts mRNA codons into an amino-acid chain..
+    Explain “Translate” using this visual metaphor: “a microscopic cellular stage showing one biological process for Translate”. Dynamically demonstrate the core formula or conclusion: Translation converts mRNA codons into an amino-acid chain..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EADAF1); main visual (#EB4B9A); secondary visual (#83E841); highlight (#FA705F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EADAF1); main visual (#EB4B9A); secondary visual (#83E841); highlight (#FA705F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 11. <details>
-   <summary><strong>Signal transduction</strong> &nbsp; <code>C10-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Signal transduction</strong> &nbsp; <code>C10-A011</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “signal transduction” using this visual metaphor: “a microscopic cellular stage showing one biological process for signal transduction”. Dynamically demonstrate the core formula or conclusion: Signal transduction converts receptor activation into an intracellular response..
+    Explain “signal transduction” using this visual metaphor: “a microscopic cellular stage showing one biological process for signal transduction”. Dynamically demonstrate the core formula or conclusion: Signal transduction converts receptor activation into an intracellular response..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F6F6E4); main visual (#4BC8EB); secondary visual (#E841B3); highlight (#5F7CFA); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F6F6E4); main visual (#4BC8EB); secondary visual (#E841B3); highlight (#5F7CFA); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 12. <details>
-   <summary><strong>Negative feedback regulation</strong> &nbsp; <code>C10-A012</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Negative feedback regulation</strong> &nbsp; <code>C10-A012</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “negative feedback regulation” using this visual metaphor: “a microscopic cellular stage showing one biological process for negative feedback regulation”. Dynamically demonstrate the core formula or conclusion: Negative feedback reduces the signal that originally triggered it..
+    Explain “negative feedback regulation” using this visual metaphor: “a microscopic cellular stage showing one biological process for negative feedback regulation”. Dynamically demonstrate the core formula or conclusion: Negative feedback reduces the signal that originally triggered it..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#D5E6EC); main visual (#EBDE4B); secondary visual (#41E4E8); highlight (#A9FA5F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#D5E6EC); main visual (#EBDE4B); secondary visual (#41E4E8); highlight (#A9FA5F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 ---
@@ -3270,28 +3270,28 @@
    </details>
 
 10. <details>
-   <summary><strong>Memory formation</strong> &nbsp; <code>C11-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Memory formation</strong> &nbsp; <code>C11-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “memory formation” using this visual metaphor: “a glowing neural circuit carrying one signal for memory formation”. Dynamically demonstrate the core formula or conclusion: Memory formation stabilizes selected patterns of neural activity..
+    Explain “memory formation” using this visual metaphor: “a glowing neural circuit carrying one signal for memory formation”. Dynamically demonstrate the core formula or conclusion: Memory formation stabilizes selected patterns of neural activity..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DAF1DE); main visual (#4BEB4C); secondary visual (#5341E8); highlight (#5FFABD); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DAF1DE); main visual (#4BEB4C); secondary visual (#5341E8); highlight (#5FFABD); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 ---
@@ -3535,100 +3535,100 @@
    </details>
 
 10. <details>
-   <summary><strong>Forget</strong> &nbsp; <code>C12-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Forget</strong> &nbsp; <code>C12-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “forget” using this visual metaphor: “a controlled one-participant experiment visualizing forget”. Dynamically demonstrate the core formula or conclusion: Forgetting is the loss or failed retrieval of stored information..
+    Explain “forget” using this visual metaphor: “a controlled one-participant experiment visualizing forget”. Dynamically demonstrate the core formula or conclusion: Forgetting is the loss or failed retrieval of stored information..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EAECD5); main visual (#4BDDEB); secondary visual (#E841C9); highlight (#5F8FFA); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EAECD5); main visual (#4BDDEB); secondary visual (#E841C9); highlight (#5F8FFA); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 11. <details>
-   <summary><strong>Follow the herd</strong> &nbsp; <code>C12-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Follow the herd</strong> &nbsp; <code>C12-A011</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “Follow the herd” using this visual metaphor: “a controlled one-participant experiment visualizing Follow the herd”. Dynamically demonstrate the core formula or conclusion: Conformity shifts behavior toward a group norm..
+    Explain “Follow the herd” using this visual metaphor: “a controlled one-participant experiment visualizing Follow the herd”. Dynamically demonstrate the core formula or conclusion: Conformity shifts behavior toward a group norm..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DDEAF3); main visual (#EBCA4B); secondary visual (#41E8D7); highlight (#BDFA5F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DDEAF3); main visual (#EBCA4B); secondary visual (#41E8D7); highlight (#BDFA5F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 12. <details>
-   <summary><strong>Obey</strong> &nbsp; <code>C12-A012</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Obey</strong> &nbsp; <code>C12-A012</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “obey” using this visual metaphor: “a controlled one-participant experiment visualizing obey”. Dynamically demonstrate the core formula or conclusion: Obedience follows a perceived authority's command..
+    Explain “obey” using this visual metaphor: “a controlled one-participant experiment visualizing obey”. Dynamically demonstrate the core formula or conclusion: Obedience follows a perceived authority's command..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F1DAE1); main visual (#9B4BEB); secondary visual (#E8A641); highlight (#FA5FEA); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F1DAE1); main visual (#9B4BEB); secondary visual (#E8A641); highlight (#FA5FEA); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 13. <details>
-   <summary><strong>Situational effects</strong> &nbsp; <code>C12-A013</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Situational effects</strong> &nbsp; <code>C12-A013</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “situational effects” using this visual metaphor: “a controlled one-participant experiment visualizing situational effects”. Dynamically demonstrate the core formula or conclusion: A situation can strongly shape behavior without changing personality..
+    Explain “situational effects” using this visual metaphor: “a controlled one-participant experiment visualizing situational effects”. Dynamically demonstrate the core formula or conclusion: A situation can strongly shape behavior without changing personality..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#E4F6E4); main visual (#4BEB6D); secondary visual (#7541E8); highlight (#5FFADD); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#E4F6E4); main visual (#4BEB6D); secondary visual (#7541E8); highlight (#5FFADD); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 ---
@@ -3876,52 +3876,52 @@
    </details>
 
 10. <details>
-   <summary><strong>Monopoly pricing</strong> &nbsp; <code>C13-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Monopoly pricing</strong> &nbsp; <code>C13-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “monopoly pricing” using this visual metaphor: “a single animated economic graph tracing one mechanism for monopoly pricing”. Dynamically demonstrate the core formula or conclusion: A monopolist chooses output where $MR=MC$..
+    Explain “monopoly pricing” using this visual metaphor: “a single animated economic graph tracing one mechanism for monopoly pricing”. Dynamically demonstrate the core formula or conclusion: A monopolist chooses output where $MR=MC$..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F3F1DD); main visual (#4BBCEB); secondary visual (#E841A6); highlight (#5F6FFA); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F3F1DD); main visual (#4BBCEB); secondary visual (#E841A6); highlight (#5F6FFA); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 11. <details>
-   <summary><strong>Market welfare</strong> &nbsp; <code>C13-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Market welfare</strong> &nbsp; <code>C13-A011</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “market welfare” using this visual metaphor: “a single animated economic graph tracing one mechanism for market welfare”. Dynamically demonstrate the core formula or conclusion: Total market welfare is consumer surplus plus producer surplus..
+    Explain “market welfare” using this visual metaphor: “a single animated economic graph tracing one mechanism for market welfare”. Dynamically demonstrate the core formula or conclusion: Total market welfare is consumer surplus plus producer surplus..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DAEDF1); main visual (#EAEB4B); secondary visual (#41D7E8); highlight (#9DFA5F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DAEDF1); main visual (#EAEB4B); secondary visual (#41D7E8); highlight (#9DFA5F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 <a id="course-14.02"></a>
@@ -4348,76 +4348,76 @@
    </details>
 
 10. <details>
-   <summary><strong>Asymmetric information</strong> &nbsp; <code>C15-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Asymmetric information</strong> &nbsp; <code>C15-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “asymmetric information” using this visual metaphor: “a single animated economic graph tracing one mechanism for asymmetric information”. Dynamically demonstrate the core formula or conclusion: Asymmetric information means players know different relevant facts..
+    Explain “asymmetric information” using this visual metaphor: “a single animated economic graph tracing one mechanism for asymmetric information”. Dynamically demonstrate the core formula or conclusion: Asymmetric information means players know different relevant facts..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#D5ECDF); main visual (#73EB4B); secondary visual (#415AE8); highlight (#5FFA95); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#D5ECDF); main visual (#73EB4B); secondary visual (#415AE8); highlight (#5FFA95); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 11. <details>
-   <summary><strong>Signaling</strong> &nbsp; <code>C15-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Signaling</strong> &nbsp; <code>C15-A011</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “signaling” using this visual metaphor: “a single animated economic graph tracing one mechanism for signaling”. Dynamically demonstrate the core formula or conclusion: A signal is an observable action that conveys private information..
+    Explain “signaling” using this visual metaphor: “a single animated economic graph tracing one mechanism for signaling”. Dynamically demonstrate the core formula or conclusion: A signal is an observable action that conveys private information..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDDDF3); main visual (#EB4BA1); secondary visual (#8BE841); highlight (#FA685F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDDDF3); main visual (#EB4BA1); secondary visual (#8BE841); highlight (#FA685F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 12. <details>
-   <summary><strong>Adverse selection</strong> &nbsp; <code>C15-A012</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Adverse selection</strong> &nbsp; <code>C15-A012</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “adverse selection” using this visual metaphor: “a single animated economic graph tracing one mechanism for adverse selection”. Dynamically demonstrate the core formula or conclusion: Adverse selection removes desirable types before an agreement is made..
+    Explain “adverse selection” using this visual metaphor: “a single animated economic graph tracing one mechanism for adverse selection”. Dynamically demonstrate the core formula or conclusion: Adverse selection removes desirable types before an agreement is made..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F1DA); main visual (#4BD0EB); secondary visual (#E841BC); highlight (#5F83FA); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F1DA); main visual (#4BD0EB); secondary visual (#E841BC); highlight (#5F83FA); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 ---
@@ -4661,76 +4661,76 @@
    </details>
 
 10. <details>
-   <summary><strong>Financial leverage</strong> &nbsp; <code>C16-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Financial leverage</strong> &nbsp; <code>C16-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “financial leverage” using this visual metaphor: “a focused financial flow diagram animating financial leverage”. Dynamically demonstrate the core formula or conclusion: Financial leverage magnifies the return on equity and the loss on equity..
+    Explain “financial leverage” using this visual metaphor: “a focused financial flow diagram animating financial leverage”. Dynamically demonstrate the core formula or conclusion: Financial leverage magnifies the return on equity and the loss on equity..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#ECD5D6); main visual (#734BEB); secondary visual (#E87B41); highlight (#E25FFA); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#ECD5D6); main visual (#734BEB); secondary visual (#E87B41); highlight (#E25FFA); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 11. <details>
-   <summary><strong>Market liquidity</strong> &nbsp; <code>C16-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Market liquidity</strong> &nbsp; <code>C16-A011</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “market liquidity” using this visual metaphor: “a focused financial flow diagram animating market liquidity”. Dynamically demonstrate the core formula or conclusion: Market liquidity is the ability to trade quickly with little price impact..
+    Explain “market liquidity” using this visual metaphor: “a focused financial flow diagram animating market liquidity”. Dynamically demonstrate the core formula or conclusion: Market liquidity is the ability to trade quickly with little price impact..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DDF3E2); main visual (#52EB4B); secondary visual (#4A41E8); highlight (#5FFAB5); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DDF3E2); main visual (#52EB4B); secondary visual (#4A41E8); highlight (#5FFAB5); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 12. <details>
-   <summary><strong>Financial crisis contagion</strong> &nbsp; <code>C16-A012</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Financial crisis contagion</strong> &nbsp; <code>C16-A012</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “financial crisis contagion” using this visual metaphor: “a focused financial flow diagram animating financial crisis contagion”. Dynamically demonstrate the core formula or conclusion: Financial contagion carries distress through connected balance sheets..
+    Explain “financial crisis contagion” using this visual metaphor: “a focused financial flow diagram animating financial crisis contagion”. Dynamically demonstrate the core formula or conclusion: Financial contagion carries distress through connected balance sheets..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#E6DAF1); main visual (#EB4B81); secondary visual (#68E841); highlight (#FA885F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#E6DAF1); main visual (#EB4B81); secondary visual (#68E841); highlight (#FA885F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 ---
@@ -4974,124 +4974,124 @@
    </details>
 
 10. <details>
-   <summary><strong>Political consent</strong> &nbsp; <code>C17-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Political consent</strong> &nbsp; <code>C17-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “political consent” using this visual metaphor: “one illuminated argument path presenting political consent”. Dynamically demonstrate the core formula or conclusion: Political consent makes legitimate authority possible..
+    Explain “political consent” using this visual metaphor: “one illuminated argument path presenting political consent”. Dynamically demonstrate the core formula or conclusion: Political consent makes legitimate authority possible..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#D5E2EC); main visual (#EBC24B); secondary visual (#41E8CE); highlight (#C4FA5F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#D5E2EC); main visual (#EBC24B); secondary visual (#41E8CE); highlight (#C4FA5F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 11. <details>
-   <summary><strong>Limited government</strong> &nbsp; <code>C17-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Limited government</strong> &nbsp; <code>C17-A011</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “limited government” using this visual metaphor: “one illuminated argument path presenting limited government”. Dynamically demonstrate the core formula or conclusion: Limited government is bound by law and delegated powers..
+    Explain “limited government” using this visual metaphor: “one illuminated argument path presenting limited government”. Dynamically demonstrate the core formula or conclusion: Limited government is bound by law and delegated powers..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F3DDE3); main visual (#944BEB); secondary visual (#E89E41); highlight (#FA5FF1); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F3DDE3); main visual (#944BEB); secondary visual (#E89E41); highlight (#FA5FF1); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 12. <details>
-   <summary><strong>Democratic participation</strong> &nbsp; <code>C17-A012</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Democratic participation</strong> &nbsp; <code>C17-A012</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “democratic participation” using this visual metaphor: “one illuminated argument path presenting democratic participation”. Dynamically demonstrate the core formula or conclusion: Democratic participation gives citizens a role in collective rule..
+    Explain “democratic participation” using this visual metaphor: “one illuminated argument path presenting democratic participation”. Dynamically demonstrate the core formula or conclusion: Democratic participation gives citizens a role in collective rule..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DAF1DB); main visual (#4BEB65); secondary visual (#6D41E8); highlight (#5FFAD5); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DAF1DB); main visual (#4BEB65); secondary visual (#6D41E8); highlight (#5FFAD5); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 13. <details>
-   <summary><strong>Political equality</strong> &nbsp; <code>C17-A013</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Political equality</strong> &nbsp; <code>C17-A013</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “political equality” using this visual metaphor: “one illuminated argument path presenting political equality”. Dynamically demonstrate the core formula or conclusion: Political equality gives citizens equal standing in public decisions..
+    Explain “political equality” using this visual metaphor: “one illuminated argument path presenting political equality”. Dynamically demonstrate the core formula or conclusion: Political equality gives citizens equal standing in public decisions..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EAE4F6); main visual (#EB4B60); secondary visual (#46E841); highlight (#FAA85F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EAE4F6); main visual (#EB4B60); secondary visual (#46E841); highlight (#FAA85F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 14. <details>
-   <summary><strong>Tyranny of the majority</strong> &nbsp; <code>C17-A014</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Tyranny of the majority</strong> &nbsp; <code>C17-A014</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “tyranny of the majority” using this visual metaphor: “one illuminated argument path presenting tyranny of the majority”. Dynamically demonstrate the core formula or conclusion: Majority tyranny occurs when majority power suppresses minority liberty..
+    Explain “tyranny of the majority” using this visual metaphor: “one illuminated argument path presenting tyranny of the majority”. Dynamically demonstrate the core formula or conclusion: Majority tyranny occurs when majority power suppresses minority liberty..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#ECE3D5); main visual (#4B8EEB); secondary visual (#E84176); highlight (#7B5FFA); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#ECE3D5); main visual (#4B8EEB); secondary visual (#E84176); highlight (#7B5FFA); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 ---
@@ -5335,28 +5335,28 @@
    </details>
 
 10. <details>
-   <summary><strong>The moral issue of suicide</strong> &nbsp; <code>C18-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>The moral issue of suicide</strong> &nbsp; <code>C18-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “The moral issue of suicide” using this visual metaphor: “one thought-experiment timeline presenting The moral issue of suicide”. Dynamically demonstrate the core formula or conclusion: The morality of suicide asks whether the act is ethically permissible..
+    Explain “The moral issue of suicide” using this visual metaphor: “one thought-experiment timeline presenting The moral issue of suicide”. Dynamically demonstrate the core formula or conclusion: The morality of suicide asks whether the act is ethically permissible..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F1DAE5); main visual (#B54BEB); secondary visual (#E8C041); highlight (#FA5FD1); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F1DAE5); main visual (#B54BEB); secondary visual (#E8C041); highlight (#FA5FD1); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 ---
@@ -5600,28 +5600,28 @@
    </details>
 
 10. <details>
-   <summary><strong>Literary expression after World War I</strong> &nbsp; <code>C19-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Literary expression after World War I</strong> &nbsp; <code>C19-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “Literary expression after World War I” using this visual metaphor: “one animated manuscript page revealing Literary expression after World War I”. Dynamically demonstrate the core formula or conclusion: Postwar literature turns rupture and disillusionment into narrative form..
+    Explain “Literary expression after World War I” using this visual metaphor: “one animated manuscript page revealing Literary expression after World War I”. Dynamically demonstrate the core formula or conclusion: Postwar literature turns rupture and disillusionment into narrative form..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DFD5EC); main visual (#EB4B74); secondary visual (#5BE841); highlight (#FA945F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DFD5EC); main visual (#EB4B74); secondary visual (#5BE841); highlight (#FA945F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 ---
@@ -5865,76 +5865,76 @@
    </details>
 
 10. <details>
-   <summary><strong>Dark matter</strong> &nbsp; <code>C20-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Dark matter</strong> &nbsp; <code>C20-A010</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “dark matter” using this visual metaphor: “a deep-space stage showing one observable cosmic effect for dark matter”. Dynamically demonstrate the core formula or conclusion: Dark matter is inferred from gravity beyond visible mass..
+    Explain “dark matter” using this visual metaphor: “a deep-space stage showing one observable cosmic effect for dark matter”. Dynamically demonstrate the core formula or conclusion: Dark matter is inferred from gravity beyond visible mass..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DAE9F1); main visual (#EBCF4B); secondary visual (#41E8DC); highlight (#B8FA5F); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#DAE9F1); main visual (#EBCF4B); secondary visual (#41E8DC); highlight (#B8FA5F); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 11. <details>
-   <summary><strong>Dark energy</strong> &nbsp; <code>C20-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Dark energy</strong> &nbsp; <code>C20-A011</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “dark energy” using this visual metaphor: “a deep-space stage showing one observable cosmic effect for dark energy”. Dynamically demonstrate the core formula or conclusion: Dark energy drives the accelerated expansion of the universe..
+    Explain “dark energy” using this visual metaphor: “a deep-space stage showing one observable cosmic effect for dark energy”. Dynamically demonstrate the core formula or conclusion: Dark energy drives the accelerated expansion of the universe..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F6E4EA); main visual (#A04BEB); secondary visual (#E8AB41); highlight (#FA5FE5); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F6E4EA); main visual (#A04BEB); secondary visual (#E8AB41); highlight (#FA5FE5); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 12. <details>
-   <summary><strong>Indirect observational evidence</strong> &nbsp; <code>C20-A012</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Indirect observational evidence</strong> &nbsp; <code>C20-A012</code> · VIDEO COMING SOON</summary>
 
-   ```text
-   Create a 15-second silent educational animation in Manim Community Edition.
+    ```text
+    Create a 15-second silent educational animation in Manim Community Edition.
 
-   Explain “indirect observational evidence” using this visual metaphor: “a deep-space stage showing one observable cosmic effect for indirect observational evidence”. Dynamically demonstrate the core formula or conclusion: Independent observations constrain an unseen cause through its visible effects..
+    Explain “indirect observational evidence” using this visual metaphor: “a deep-space stage showing one observable cosmic effect for indirect observational evidence”. Dynamically demonstrate the core formula or conclusion: Independent observations constrain an unseen cause through its visible effects..
 
-   Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
-   1. 0–3 seconds: establish the objects, input, or initial state.
-   2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
-   3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
+    Use one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:
+    1. 0–3 seconds: establish the objects, input, or initial state.
+    2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.
+    3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.
 
-   Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
+    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
-   All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#D6ECD5); main visual (#4BEB72); secondary visual (#7A41E8); highlight (#5FFAE1); and text (#172033). Maintain strong contrast and legibility.
+    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#D6ECD5); main visual (#4BEB72); secondary visual (#7A41E8); highlight (#5FFAE1); and text (#172033). Maintain strong contrast and legibility.
 
-   Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
-   ```
+    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
 
-   Need a similar video? [Create it at leadde.ai](https://leadde.ai).
+    Need a similar video? [Create it at leadde.ai](https://leadde.ai).
 
-   </details>
+    </details>
 
 
 ---
