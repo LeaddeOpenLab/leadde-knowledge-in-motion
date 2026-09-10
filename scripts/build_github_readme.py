@@ -91,7 +91,7 @@ for subject, courses in library.items():
                 "\n".join(indent + line if line else "" for line in prompt["prompt"].splitlines()),
                 f"{indent}```",
                 "",
-                f"{indent}Need a similar video? [Create it at leadde.ai](https://leadde.ai).",
+                f"{indent}Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).",
                 "",
                 f"{indent}</details>",
                 "",
