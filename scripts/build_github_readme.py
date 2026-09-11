@@ -17,6 +17,9 @@ course_count = sum(len(courses) for courses in library.values())
 def slug(value):
     return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
 
+def course_page(first):
+    return f"catalog/{slug(first['subject'])}/{slug(first['tags'][1])}.md"
+
 def card(subject, courses):
     count = sum(len(prompts) for prompts in courses.values())
     return f'''<td width="33%" valign="top">
@@ -28,18 +31,66 @@ def card(subject, courses):
 def course_card(course, prompts):
     first = prompts[0]
     course_code = first["tags"][1].lower()
+    page = course_page(first)
     return f'''<td width="33%" valign="top">
-  <img src="assets/course-covers/{course_code}.svg" width="100%" alt="{html.escape(course)} course cover"><br>
-  <a href="#course-{course_code}"><strong>{html.escape(course)}</strong></a><br>
+  <a href="{page}"><img src="assets/course-covers/{course_code}.svg" width="100%" alt="{html.escape(course)} course cover"></a><br>
+  <a href="{page}"><strong>{html.escape(course)}</strong></a><br>
   <sub>{len(prompts)} prompts · {html.escape(first['textbook'])}</sub>
 </td>'''
+
+def write_course_page(subject, course, prompts):
+    first = prompts[0]
+    page = root / course_page(first)
+    page.parent.mkdir(parents=True, exist_ok=True)
+    page_lines = [
+        f"# {course}",
+        "",
+        f"[← Back to {subject}](../../README.md#{slug(subject)})",
+        "",
+        f"**Textbook:** {first['textbook']}  ",
+        f"**Knowledge points:** {len(prompts)}",
+        "",
+        "> **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)",
+        "",
+        "---",
+        "",
+    ]
+    for prompt in prompts:
+        video_ready = prompt.get("status") == "ready" and prompt.get("player")
+        page_lines.extend([
+            f'<a id="{prompt["id"].lower()}"></a>',
+            f"## {prompt['title']}",
+            "",
+            f"`{prompt['id']}` · " + ("**▶ Play video below**" if video_ready else "Video coming soon"),
+            "",
+        ])
+        if video_ready:
+            # A GitHub attachment URL on its own line renders as GitHub's native video player.
+            page_lines.extend([prompt["player"], ""])
+        page_lines.extend([
+            "> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)",
+            "",
+            "### Prompt",
+            "",
+            "```text",
+            prompt["prompt"],
+            "```",
+            "",
+            f"[Back to course top](#{slug(course)})",
+            "",
+            "---",
+            "",
+        ])
+    page.write_text("\n".join(page_lines), encoding="utf-8")
 
 lines = [
     "# Leadde Motion Prompt Library",
     "",
     f"> A GitHub-native catalog of **{len(items)} English Manim prompts** across **{len(library)} disciplines** and **{course_count} courses**.",
     ">",
-    "> Browse the cards below without leaving this repository. Videos are being produced and will appear in the corresponding entries later.",
+    "> Browse prompts and play finished videos directly with GitHub's native video player.",
+    ">",
+    "> **Ready to create your own? [Turn a prompt into an animation with Leadde →](https://leadde.ai/animation)**",
     "",
     "## Browse the library",
     "",
@@ -72,40 +123,21 @@ for subject, courses in library.items():
         lines.append("</tr>")
     lines.extend(["</table>", ""])
     for course, prompts in courses.items():
+        write_course_page(subject, course, prompts)
         textbook = html.escape(prompts[0]["textbook"])
+        page = course_page(prompts[0])
         lines.extend([
-            f"<a id=\"course-{prompts[0]['tags'][1].lower()}\"></a>",
-            f"### {course}",
+            f"### [{course}]({page})",
             "",
-            f"**TEXTBOOK · {textbook}** &nbsp; [Back to {subject} courses](#{slug(subject)})",
+            f"**TEXTBOOK · {textbook}** &nbsp; [Open course page]({page})",
             "",
             "#### Knowledge points",
             "",
         ])
         for index, prompt in enumerate(prompts, 1):
-            indent = " " * (len(str(index)) + 2)
-            video_ready = prompt.get("status") == "ready" and prompt.get("video")
-            video_status = "VIDEO READY" if video_ready else "VIDEO COMING SOON"
-            lines.extend([
-                f"{index}. <details>",
-                f"{indent}<summary><strong>{html.escape(prompt['title'])}</strong> &nbsp; <code>{html.escape(prompt['id'])}</code> · {video_status}</summary>",
-                "",
-            ])
-            if video_ready:
-                lines.extend([
-                    f"{indent}[Watch MP4]({prompt['video']})",
-                    "",
-                ])
-            lines.extend([
-                f"{indent}```text",
-                "\n".join(indent + line if line else "" for line in prompt["prompt"].splitlines()),
-                f"{indent}```",
-                "",
-                f"{indent}Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).",
-                "",
-                f"{indent}</details>",
-                "",
-            ])
+            video_ready = prompt.get("status") == "ready" and prompt.get("player")
+            marker = "▶ PLAY VIDEO + VIEW PROMPT" if video_ready else "VIEW PROMPT"
+            lines.append(f"{index}. [**{html.escape(prompt['title'])}**]({page}#{prompt['id'].lower()}) · `{prompt['id']}` · {marker}")
         lines.append("")
     lines.extend(["---", ""])
 
@@ -118,7 +150,7 @@ lines.extend([
     "assets/videos/<subject-slug>/<course-slug>/<prompt-slug>.mp4",
     "```",
     "",
-    "Then set the matching entry in `data/prompts.json` to `status: ready` and populate its `video` path.",
+    "Then set the matching entry in `data/prompts.json` to `status: ready`, populate its repository `video` path, and add its GitHub attachment URL as `player`. A standalone GitHub attachment URL renders as the native inline player.",
     "",
     "To refresh the prompt catalog from the source spreadsheet, run:",
     "",

@@ -12,7 +12,8 @@
       "CS50x",
       "P0"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Pointer” using this visual metaphor: “a glowing pointer arrow moving from variable p to one memory cell x”. Dynamically demonstrate the core formula or conclusion: p = \\&x,\\quad *p = x.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Pointer” using this visual metaphor: “a glowing pointer arrow moving from variable p to one memory cell x”. Dynamically demonstrate the core formula or conclusion: p = \\&x,\\quad *p = x.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/2db91806-76f3-4c64-9642-df2801ffe913"
   },
   {
     "id": "C01-A002",
@@ -27,7 +28,8 @@
       "CS50x",
       "P0"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Memory address” using this visual metaphor: “an illuminated street address guiding a data byte to one numbered memory slot”. Dynamically demonstrate the core formula or conclusion: \\operatorname{addr}(x) \\rightarrow \\text{one memory location}.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Memory address” using this visual metaphor: “an illuminated street address guiding a data byte to one numbered memory slot”. Dynamically demonstrate the core formula or conclusion: \\operatorname{addr}(x) \\rightarrow \\text{one memory location}.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/9c3d52bb-9cff-4866-94c5-d17a0b0ea9f6"
   },
   {
     "id": "C01-A003",
@@ -42,7 +44,8 @@
       "CS50x",
       "P0"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Memory layout” using this visual metaphor: “a vertical memory tower whose labeled regions light up in place”. Dynamically demonstrate the core formula or conclusion: \\text{code}\\;|\\;\\text{data}\\;|\\;\\text{heap}\\;|\\;\\text{stack}.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Memory layout” using this visual metaphor: “a vertical memory tower whose labeled regions light up in place”. Dynamically demonstrate the core formula or conclusion: \\text{code}\\;|\\;\\text{data}\\;|\\;\\text{heap}\\;|\\;\\text{stack}.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/023fa2a3-88c0-48d7-ab56-8340f43dbfc5"
   },
   {
     "id": "C01-A004",
@@ -57,7 +60,8 @@
       "CS50x",
       "P1"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Time complexity” using this visual metaphor: “an operation counter growing as input tiles enter a machine”. Dynamically demonstrate the core formula or conclusion: T(n)=O(n\\log n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Time complexity” using this visual metaphor: “an operation counter growing as input tiles enter a machine”. Dynamically demonstrate the core formula or conclusion: T(n)=O(n\\log n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/9341aad7-5c67-480f-b728-9dac21950150"
   },
   {
     "id": "C01-A005",
@@ -72,7 +76,8 @@
       "CS50x",
       "P1"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Algorithm growth rate” using this visual metaphor: “a single expanding staircase whose height follows the input size”. Dynamically demonstrate the core formula or conclusion: f(n)\\le c\\,g(n)\\quad (n\\ge n_0).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Algorithm growth rate” using this visual metaphor: “a single expanding staircase whose height follows the input size”. Dynamically demonstrate the core formula or conclusion: f(n)\\le c\\,g(n)\\quad (n\\ge n_0).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/e79404b4-68da-4c29-a0ad-4be0d7df1fc6"
   },
   {
     "id": "C01-A006",
@@ -87,7 +92,8 @@
       "CS50x",
       "P1"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Sorting process” using this visual metaphor: “a conveyor belt inserting each numbered card into its correct position”. Dynamically demonstrate the core formula or conclusion: a_1\\le a_2\\le\\cdots\\le a_n.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Sorting process” using this visual metaphor: “a conveyor belt inserting each numbered card into its correct position”. Dynamically demonstrate the core formula or conclusion: a_1\\le a_2\\le\\cdots\\le a_n.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/991ec568-6ecb-48c6-852d-4d1d8f2b6270"
   },
   {
     "id": "C01-A007",
@@ -102,7 +108,8 @@
       "CS50x",
       "P1"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Binary search” using this visual metaphor: “a corridor whose active search interval folds in half at every step”. Dynamically demonstrate the core formula or conclusion: n\\rightarrow \\frac n2\\rightarrow\\frac n4,\\qquad T(n)=O(\\log n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Binary search” using this visual metaphor: “a corridor whose active search interval folds in half at every step”. Dynamically demonstrate the core formula or conclusion: n\\rightarrow \\frac n2\\rightarrow\\frac n4,\\qquad T(n)=O(\\log n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/badc6e02-7768-4f32-a576-46288df14488"
   },
   {
     "id": "C01-A008",
@@ -117,7 +124,8 @@
       "CS50x",
       "P0"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Linked list” using this visual metaphor: “a chain of train cars where each car carries data and one next arrow”. Dynamically demonstrate the core formula or conclusion: \\text{node}=(\\text{value},\\text{next}).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Linked list” using this visual metaphor: “a chain of train cars where each car carries data and one next arrow”. Dynamically demonstrate the core formula or conclusion: \\text{node}=(\\text{value},\\text{next}).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/3372ab6e-f2c4-40cc-a4e8-57e7cb491af5"
   },
   {
     "id": "C01-A009",
@@ -132,7 +140,8 @@
       "CS50x",
       "P0"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Tree structure” using this visual metaphor: “a branching mobile growing from one root into parent-child nodes”. Dynamically demonstrate the core formula or conclusion: |E|=|V|-1\\quad\\text{for a tree}.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Tree structure” using this visual metaphor: “a branching mobile growing from one root into parent-child nodes”. Dynamically demonstrate the core formula or conclusion: |E|=|V|-1\\quad\\text{for a tree}.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/3da2391c-eb03-420d-8e52-600395d188cf"
   },
   {
     "id": "C01-A010",
@@ -147,7 +156,8 @@
       "CS50x",
       "P0"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Hash table” using this visual metaphor: “a mail-sorting chute sending one key into its computed bucket”. Dynamically demonstrate the core formula or conclusion: \\operatorname{index}=h(k)\\bmod m.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Hash table” using this visual metaphor: “a mail-sorting chute sending one key into its computed bucket”. Dynamically demonstrate the core formula or conclusion: \\operatorname{index}=h(k)\\bmod m.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/32da691b-8603-4111-a179-767e73dc041f"
   },
   {
     "id": "C01-A011",
@@ -162,7 +172,8 @@
       "CS50x",
       "P1"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Relational model” using this visual metaphor: “a clean data table where one row becomes a tuple and one column becomes a key”. Dynamically demonstrate the core formula or conclusion: R(A_1,A_2,\\ldots,A_n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Relational model” using this visual metaphor: “a clean data table where one row becomes a tuple and one column becomes a key”. Dynamically demonstrate the core formula or conclusion: R(A_1,A_2,\\ldots,A_n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/a3ad3d65-5895-47df-8baf-caa98c894743"
   },
   {
     "id": "C01-A012",
@@ -177,7 +188,8 @@
       "CS50x",
       "P1"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “SQL JOIN” using this visual metaphor: “one matching key pulling two database rows into a single joined row”. Dynamically demonstrate the core formula or conclusion: A\\bowtie_{A.id=B.id}B.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “SQL JOIN” using this visual metaphor: “one matching key pulling two database rows into a single joined row”. Dynamically demonstrate the core formula or conclusion: A\\bowtie_{A.id=B.id}B.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/e0973131-7e8c-4245-8734-92fe966fb39b"
   },
   {
     "id": "C01-A013",
@@ -192,7 +204,8 @@
       "CS50x",
       "P0"
     ],
-    "prompt": "Create an animation: Compare stack frames being pushed and popped automatically during function calls with objects being dynamically allocated and released on the heap.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Stack vs. Heap) `#B81E7D`, supporting elements `#92DF16`."
+    "prompt": "Create an animation: Compare stack frames being pushed and popped automatically during function calls with objects being dynamically allocated and released on the heap.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Stack vs. Heap) `#B81E7D`, supporting elements `#92DF16`.",
+    "player": "https://github.com/user-attachments/assets/f8b66804-46b7-43f6-bfe5-b3dfb56e9c57"
   },
   {
     "id": "C01-A014",
@@ -207,7 +220,8 @@
       "CS50x",
       "P0"
     ],
-    "prompt": "Create an animation: Show how a program reads the address stored in a pointer, follows that address, and accesses or modifies the target memory cell.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Pointer Dereferencing) `#B81E7D`, supporting elements `#92DF16`."
+    "prompt": "Create an animation: Show how a program reads the address stored in a pointer, follows that address, and accesses or modifies the target memory cell.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Pointer Dereferencing) `#B81E7D`, supporting elements `#92DF16`.",
+    "player": "https://github.com/user-attachments/assets/4570b0e0-a53f-4280-ad34-640feda7b83b"
   },
   {
     "id": "C01-A015",
@@ -222,7 +236,8 @@
       "CS50x",
       "P0"
     ],
-    "prompt": "Create an animation: Show how adding or subtracting an integer moves a pointer across contiguous memory cells in steps determined by the data type size.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Pointer Arithmetic) `#B81E7D`, supporting elements `#92DF16`."
+    "prompt": "Create an animation: Show how adding or subtracting an integer moves a pointer across contiguous memory cells in steps determined by the data type size.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Pointer Arithmetic) `#B81E7D`, supporting elements `#92DF16`.",
+    "player": "https://github.com/user-attachments/assets/4c25be5f-85f1-42fd-9096-e0ccf635ae75"
   },
   {
     "id": "C01-A016",
@@ -237,7 +252,8 @@
       "CS50x",
       "P0"
     ],
-    "prompt": "Create an animation: Show how every recursive call pushes a new stack frame and how those frames pop one by one as the calls return.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Recursive Call Stack) `#B81E7D`, supporting elements `#92DF16`."
+    "prompt": "Create an animation: Show how every recursive call pushes a new stack frame and how those frames pop one by one as the calls return.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Recursive Call Stack) `#B81E7D`, supporting elements `#92DF16`.",
+    "player": "https://github.com/user-attachments/assets/d878b168-c6f7-48c9-8dae-db6670836d1d"
   },
   {
     "id": "C02-A001",
@@ -252,7 +268,8 @@
       "6.006",
       "P0"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Divide and conquer recursion” using this visual metaphor: “one problem block splitting recursively into smaller identical blocks”. Dynamically demonstrate the core formula or conclusion: T(n)=2T(n/2)+O(n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Divide and conquer recursion” using this visual metaphor: “one problem block splitting recursively into smaller identical blocks”. Dynamically demonstrate the core formula or conclusion: T(n)=2T(n/2)+O(n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/01390cee-269a-49ea-99c6-cd734faf76be"
   },
   {
     "id": "C02-A002",
@@ -267,7 +284,8 @@
       "6.006",
       "P0"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Recursive” using this visual metaphor: “nested clockwork boxes revealing the cost stored at each recursion level”. Dynamically demonstrate the core formula or conclusion: T(n)=aT(n/b)+f(n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Recursive” using this visual metaphor: “nested clockwork boxes revealing the cost stored at each recursion level”. Dynamically demonstrate the core formula or conclusion: T(n)=aT(n/b)+f(n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/8e660b30-e087-4b68-96f8-2d848b55ba41"
   },
   {
     "id": "C02-A003",
@@ -282,7 +300,8 @@
       "6.006",
       "P1"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Heap structure” using this visual metaphor: “a priority pyramid where every parent tile remains above its children”. Dynamically demonstrate the core formula or conclusion: A[\\operatorname{parent}(i)]\\ge A[i].\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Heap structure” using this visual metaphor: “a priority pyramid where every parent tile remains above its children”. Dynamically demonstrate the core formula or conclusion: A[\\operatorname{parent}(i)]\\ge A[i].\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/cb70e4e6-b4ae-480b-af4e-96f4daa32363"
   },
   {
     "id": "C02-A004",
@@ -297,7 +316,8 @@
       "6.006",
       "P1"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Heap sort” using this visual metaphor: “a crane repeatedly lifting the root maximum while the heap repairs itself”. Dynamically demonstrate the core formula or conclusion: T(n)=O(n\\log n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Heap sort” using this visual metaphor: “a crane repeatedly lifting the root maximum while the heap repairs itself”. Dynamically demonstrate the core formula or conclusion: T(n)=O(n\\log n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/3adaffb0-871e-4252-8523-bb4922f42ee4"
   },
   {
     "id": "C02-A005",
@@ -312,7 +332,8 @@
       "6.006",
       "P0"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Balanced binary search tree” using this visual metaphor: “a self-leveling tree mobile rotating once after an insertion”. Dynamically demonstrate the core formula or conclusion: h=O(\\log n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Balanced binary search tree” using this visual metaphor: “a self-leveling tree mobile rotating once after an insertion”. Dynamically demonstrate the core formula or conclusion: h=O(\\log n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/4480d205-f5bf-4952-a39a-98390da74f6a"
   },
   {
     "id": "C02-A006",
@@ -327,7 +348,8 @@
       "6.006",
       "P1"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Graph search” using this visual metaphor: “a wave of light visiting connected graph nodes and marking each one once”. Dynamically demonstrate the core formula or conclusion: T=O(|V|+|E|).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Graph search” using this visual metaphor: “a wave of light visiting connected graph nodes and marking each one once”. Dynamically demonstrate the core formula or conclusion: T=O(|V|+|E|).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/0cf0195b-d465-492a-80af-58afe358ca61"
   },
   {
     "id": "C02-A007",
@@ -342,7 +364,8 @@
       "6.006",
       "P1"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Shortest path” using this visual metaphor: “a route-map distance label shrinking when one edge is relaxed”. Dynamically demonstrate the core formula or conclusion: d[v]\\leftarrow\\min\\{d[v],d[u]+w(u,v)\\}.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Shortest path” using this visual metaphor: “a route-map distance label shrinking when one edge is relaxed”. Dynamically demonstrate the core formula or conclusion: d[v]\\leftarrow\\min\\{d[v],d[u]+w(u,v)\\}.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/7f3586d8-63fa-4a37-ad70-1df515280c8f"
   },
   {
     "id": "C02-A008",
@@ -357,7 +380,8 @@
       "6.006",
       "P0"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Dynamic programming status” using this visual metaphor: “a grid cell storing the answer to exactly one reusable subproblem”. Dynamically demonstrate the core formula or conclusion: dp[i]=\\text{answer for state }i.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Dynamic programming status” using this visual metaphor: “a grid cell storing the answer to exactly one reusable subproblem”. Dynamically demonstrate the core formula or conclusion: dp[i]=\\text{answer for state }i.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/9ba7c9df-d66a-4d4f-9a1e-521d3008f9de"
   },
   {
     "id": "C02-A009",
@@ -372,7 +396,8 @@
       "6.006",
       "P0"
     ],
-    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Dynamic programming transfer” using this visual metaphor: “one directed arrow transferring solved state values into the next state”. Dynamically demonstrate the core formula or conclusion: dp[i]=\\operatorname{opt}_{j}\\{dp[j]+c(j,i)\\}.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9."
+    "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Dynamic programming transfer” using this visual metaphor: “one directed arrow transferring solved state values into the next state”. Dynamically demonstrate the core formula or conclusion: dp[i]=\\operatorname{opt}_{j}\\{dp[j]+c(j,i)\\}.\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.",
+    "player": "https://github.com/user-attachments/assets/06c2d021-5dab-4e88-aabe-6761e3c7c5a2"
   },
   {
     "id": "C02-A010",
@@ -387,7 +412,8 @@
       "6.006",
       "P0"
     ],
-    "prompt": "Create an animation: Show how a pivot rearranges an array into regions containing smaller and larger elements.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7EC`, English text `#5F1C26`, primary visual (Quicksort Partitioning) `#50B81E`, supporting elements `#1657DF`."
+    "prompt": "Create an animation: Show how a pivot rearranges an array into regions containing smaller and larger elements.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7EC`, English text `#5F1C26`, primary visual (Quicksort Partitioning) `#50B81E`, supporting elements `#1657DF`.",
+    "player": "https://github.com/user-attachments/assets/0ade4849-1368-414a-b3f0-ed68def8de48"
   },
   {
     "id": "C02-A011",
@@ -402,7 +428,8 @@
       "6.006",
       "P0"
     ],
-    "prompt": "Create an animation: Show how two sorted subsequences are compared item by item and merged into one longer sorted sequence.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7EC`, English text `#5F1C26`, primary visual (Merge Step in Merge Sort) `#50B81E`, supporting elements `#1657DF`."
+    "prompt": "Create an animation: Show how two sorted subsequences are compared item by item and merged into one longer sorted sequence.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7EC`, English text `#5F1C26`, primary visual (Merge Step in Merge Sort) `#50B81E`, supporting elements `#1657DF`.",
+    "player": "https://github.com/user-attachments/assets/c255c60f-3ce9-4385-8d75-cd57ed758163"
   },
   {
     "id": "C02-A012",
@@ -417,7 +444,8 @@
       "6.006",
       "P0"
     ],
-    "prompt": "Create an animation: Show how nodes visited while finding a root are reconnected directly to the root, shortening later search paths.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7EC`, English text `#5F1C26`, primary visual (Union-Find Path Compression) `#50B81E`, supporting elements `#1657DF`."
+    "prompt": "Create an animation: Show how nodes visited while finding a root are reconnected directly to the root, shortening later search paths.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7EC`, English text `#5F1C26`, primary visual (Union-Find Path Compression) `#50B81E`, supporting elements `#1657DF`.",
+    "player": "https://github.com/user-attachments/assets/c59165f6-61c7-4c8d-823c-afccc7087e5a"
   },
   {
     "id": "C02-A013",
@@ -432,7 +460,8 @@
       "6.006",
       "P0"
     ],
-    "prompt": "Create an animation: Show how zero-indegree nodes are removed in sequence to form a linear order that satisfies every dependency.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7EC`, English text `#5F1C26`, primary visual (Topological Sorting) `#50B81E`, supporting elements `#1657DF`."
+    "prompt": "Create an animation: Show how zero-indegree nodes are removed in sequence to form a linear order that satisfies every dependency.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7EC`, English text `#5F1C26`, primary visual (Topological Sorting) `#50B81E`, supporting elements `#1657DF`.",
+    "player": "https://github.com/user-attachments/assets/3d5980f4-f0ac-4a7a-a524-51539e98d212"
   },
   {
     "id": "C21-A001",
@@ -447,7 +476,8 @@
       "CS-COA",
       "P0"
     ],
-    "prompt": "Create an animation: Show how a negative number is encoded by inverting its bits and adding one, allowing signed arithmetic to use the same adder.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Two's Complement) `#1E23B8`, supporting elements `#DF161D`."
+    "prompt": "Create an animation: Show how a negative number is encoded by inverting its bits and adding one, allowing signed arithmetic to use the same adder.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Two's Complement) `#1E23B8`, supporting elements `#DF161D`.",
+    "player": "https://github.com/user-attachments/assets/14bc685a-3d39-48c6-8a0f-c4712ff5eb44"
   },
   {
     "id": "C21-A002",
@@ -462,7 +492,8 @@
       "CS-COA",
       "P0"
     ],
-    "prompt": "Create an animation: Show how a real number is split into sign, exponent, and significand fields, then demonstrate rounding and precision loss.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Floating-Point Representation) `#1E23B8`, supporting elements `#DF161D`."
+    "prompt": "Create an animation: Show how a real number is split into sign, exponent, and significand fields, then demonstrate rounding and precision loss.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Floating-Point Representation) `#1E23B8`, supporting elements `#DF161D`.",
+    "player": "https://github.com/user-attachments/assets/e45316db-0934-47d0-9c16-9bc98ce56dd1"
   },
   {
     "id": "C21-A003",
@@ -477,7 +508,8 @@
       "CS-COA",
       "P0"
     ],
-    "prompt": "Create an animation: Show how input voltage levels pass through AND, OR, and NOT gates to produce different logical outputs.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Boolean Logic Gates) `#1E23B8`, supporting elements `#DF161D`."
+    "prompt": "Create an animation: Show how input voltage levels pass through AND, OR, and NOT gates to produce different logical outputs.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Boolean Logic Gates) `#1E23B8`, supporting elements `#DF161D`.",
+    "player": "https://github.com/user-attachments/assets/b93cd085-0e95-42f4-91e1-52fb58a0fe6b"
   },
   {
     "id": "C21-A004",
@@ -492,7 +524,8 @@
       "CS-COA",
       "P0"
     ],
-    "prompt": "Create an animation: Show how multiple logic gates connect so that the output depends only on the current inputs.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Combinational Logic) `#1E23B8`, supporting elements `#DF161D`."
+    "prompt": "Create an animation: Show how multiple logic gates connect so that the output depends only on the current inputs.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Combinational Logic) `#1E23B8`, supporting elements `#DF161D`.",
+    "player": "https://github.com/user-attachments/assets/13712a52-0869-4b94-be1a-9e0f1d8492fc"
   },
   {
     "id": "C21-A005",
@@ -507,7 +540,8 @@
       "CS-COA",
       "P0"
     ],
-    "prompt": "Create an animation: Show how a clock edge triggers state storage so that circuit outputs update at discrete moments.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Sequential Logic and Clocks) `#1E23B8`, supporting elements `#DF161D`."
+    "prompt": "Create an animation: Show how a clock edge triggers state storage so that circuit outputs update at discrete moments.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Sequential Logic and Clocks) `#1E23B8`, supporting elements `#DF161D`.",
+    "player": "https://github.com/user-attachments/assets/5c37dacd-2c86-4412-84eb-7495d60133e8"
   },
   {
     "id": "C21-A006",
@@ -522,7 +556,8 @@
       "CS-COA",
       "P0"
     ],
-    "prompt": "Create an animation: Show how the CPU fetches an instruction from memory, decodes its opcode, and drives components to execute it.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (CPU Fetch-Decode-Execute Cycle) `#1E23B8`, supporting elements `#DF161D`."
+    "prompt": "Create an animation: Show how the CPU fetches an instruction from memory, decodes its opcode, and drives components to execute it.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (CPU Fetch-Decode-Execute Cycle) `#1E23B8`, supporting elements `#DF161D`.",
+    "player": "https://github.com/user-attachments/assets/64330fd8-a626-48c1-9ebc-a2e799e1ceb0"
   },
   {
     "id": "C21-A007",
@@ -537,7 +572,8 @@
       "CS-COA",
       "P0"
     ],
-    "prompt": "Create an animation: Show how data, control, and structural conflicts arise during overlapped instruction execution and cause stalls or forwarding.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Pipeline Hazards) `#1E23B8`, supporting elements `#DF161D`."
+    "prompt": "Create an animation: Show how data, control, and structural conflicts arise during overlapped instruction execution and cause stalls or forwarding.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Pipeline Hazards) `#1E23B8`, supporting elements `#DF161D`.",
+    "player": "https://github.com/user-attachments/assets/292cf8e5-e5c8-4ebb-97ea-9eaaed0b43d7"
   },
   {
     "id": "C21-A008",
@@ -552,7 +588,8 @@
       "CS-COA",
       "P0"
     ],
-    "prompt": "Create an animation: Show how sequential and repeated memory accesses hit the cache and reduce the delay of main-memory access.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Cache Locality) `#1E23B8`, supporting elements `#DF161D`."
+    "prompt": "Create an animation: Show how sequential and repeated memory accesses hit the cache and reduce the delay of main-memory access.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Cache Locality) `#1E23B8`, supporting elements `#DF161D`.",
+    "player": "https://github.com/user-attachments/assets/b8f550f5-67e4-4d6b-a0b6-25d6c34f20a1"
   },
   {
     "id": "C22-A001",
@@ -567,7 +604,8 @@
       "CS-OS",
       "P0"
     ],
-    "prompt": "Create an animation: Show how a process owns isolated resources while multiple threads share those resources and execute tasks concurrently.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Processes and Threads) `#B8461E`, supporting elements `#16DF4A`."
+    "prompt": "Create an animation: Show how a process owns isolated resources while multiple threads share those resources and execute tasks concurrently.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Processes and Threads) `#B8461E`, supporting elements `#16DF4A`.",
+    "player": "https://github.com/user-attachments/assets/1f9dd2fd-e76d-4e35-84f4-79865223b1b1"
   },
   {
     "id": "C22-A002",
@@ -582,7 +620,8 @@
       "CS-OS",
       "P0"
     ],
-    "prompt": "Create an animation: Show a process moving among ready, running, and blocked states in response to scheduling and events.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Process State Transitions) `#B8461E`, supporting elements `#16DF4A`."
+    "prompt": "Create an animation: Show a process moving among ready, running, and blocked states in response to scheduling and events.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Process State Transitions) `#B8461E`, supporting elements `#16DF4A`.",
+    "player": "https://github.com/user-attachments/assets/264fd7a9-0a6c-4e71-a19e-477882bdbcd2"
   },
   {
     "id": "C22-A003",
@@ -597,7 +636,8 @@
       "CS-OS",
       "P0"
     ],
-    "prompt": "Create an animation: Show how the operating system saves the current task's register state and restores another task so it can resume.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Context Switching) `#B8461E`, supporting elements `#16DF4A`."
+    "prompt": "Create an animation: Show how the operating system saves the current task's register state and restores another task so it can resume.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Context Switching) `#B8461E`, supporting elements `#16DF4A`.",
+    "player": "https://github.com/user-attachments/assets/2d6bde28-65fd-4eb4-a387-ee75257c422f"
   },
   {
     "id": "C22-A004",
@@ -612,7 +652,8 @@
       "CS-OS",
       "P0"
     ],
-    "prompt": "Create an animation: Show how a scheduler selects tasks from the ready queue, assigns time slices, and changes their waiting and completion times.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (CPU Scheduling) `#B8461E`, supporting elements `#16DF4A`."
+    "prompt": "Create an animation: Show how a scheduler selects tasks from the ready queue, assigns time slices, and changes their waiting and completion times.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (CPU Scheduling) `#B8461E`, supporting elements `#16DF4A`.",
+    "player": "https://github.com/user-attachments/assets/0eb91f96-0403-441b-bc67-4a4873ac9361"
   },
   {
     "id": "C22-A005",
@@ -627,7 +668,8 @@
       "CS-OS",
       "P0"
     ],
-    "prompt": "Create an animation: Show how a virtual address space is divided into pages and mapped to scattered physical page frames.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Virtual Memory Paging) `#B8461E`, supporting elements `#16DF4A`."
+    "prompt": "Create an animation: Show how a virtual address space is divided into pages and mapped to scattered physical page frames.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Virtual Memory Paging) `#B8461E`, supporting elements `#16DF4A`.",
+    "player": "https://github.com/user-attachments/assets/50e2b0f4-8444-4d48-ad70-ca3f887f2490"
   },
   {
     "id": "C22-A006",
@@ -642,7 +684,8 @@
       "CS-OS",
       "P0"
     ],
-    "prompt": "Create an animation: Show how a virtual address is split into a page number and offset, then translated through a page table into a physical address.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Page-Table Address Translation) `#B8461E`, supporting elements `#16DF4A`."
+    "prompt": "Create an animation: Show how a virtual address is split into a page number and offset, then translated through a page table into a physical address.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Page-Table Address Translation) `#B8461E`, supporting elements `#16DF4A`.",
+    "player": "https://github.com/user-attachments/assets/2836e4cd-1524-4eab-992d-995dccc59233"
   },
   {
     "id": "C22-A007",
@@ -657,7 +700,8 @@
       "CS-OS",
       "P0"
     ],
-    "prompt": "Create an animation: Show how the system handles a page fault in full memory by evicting one page and loading the required page.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Page Replacement) `#B8461E`, supporting elements `#16DF4A`."
+    "prompt": "Create an animation: Show how the system handles a page fault in full memory by evicting one page and loading the required page.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Page Replacement) `#B8461E`, supporting elements `#16DF4A`.",
+    "player": "https://github.com/user-attachments/assets/9cd58388-1af5-475c-aa8f-dfe96e1bd8c1"
   },
   {
     "id": "C22-A008",
@@ -672,7 +716,8 @@
       "CS-OS",
       "P0"
     ],
-    "prompt": "Create an animation: Show multiple processes becoming deadlocked through mutual exclusion, hold and wait, no preemption, and circular wait.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Four Conditions for Deadlock) `#B8461E`, supporting elements `#16DF4A`."
+    "prompt": "Create an animation: Show multiple processes becoming deadlocked through mutual exclusion, hold and wait, no preemption, and circular wait.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Four Conditions for Deadlock) `#B8461E`, supporting elements `#16DF4A`.",
+    "player": "https://github.com/user-attachments/assets/60525295-8c6c-4c9e-9e5a-97ccf92fbf9f"
   },
   {
     "id": "C23-A001",
@@ -687,7 +732,8 @@
       "CS-NET",
       "P0"
     ],
-    "prompt": "Create an animation: Show a message moving down a protocol stack for layered processing and being reconstructed in reverse order at the receiver.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (OSI and TCP/IP Layers) `#1EB873`, supporting elements `#8516DF`."
+    "prompt": "Create an animation: Show a message moving down a protocol stack for layered processing and being reconstructed in reverse order at the receiver.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (OSI and TCP/IP Layers) `#1EB873`, supporting elements `#8516DF`.",
+    "player": "https://github.com/user-attachments/assets/816d46e6-9b61-45d9-a8a3-11ba97476ae5"
   },
   {
     "id": "C23-A002",
@@ -702,7 +748,8 @@
       "CS-NET",
       "P0"
     ],
-    "prompt": "Create an animation: Show application data gaining a header at each lower layer and being decapsulated layer by layer at the receiver.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (Packet Encapsulation) `#1EB873`, supporting elements `#8516DF`."
+    "prompt": "Create an animation: Show application data gaining a header at each lower layer and being decapsulated layer by layer at the receiver.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (Packet Encapsulation) `#1EB873`, supporting elements `#8516DF`.",
+    "player": "https://github.com/user-attachments/assets/210f5daf-7f49-4053-a2f1-985ec36cfe4e"
   },
   {
     "id": "C23-A003",
@@ -717,7 +764,8 @@
       "CS-NET",
       "P0"
     ],
-    "prompt": "Create an animation: Show an IP address being combined with a mask to identify the network prefix and determine the host range.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (Subnet Masks and CIDR) `#1EB873`, supporting elements `#8516DF`."
+    "prompt": "Create an animation: Show an IP address being combined with a mask to identify the network prefix and determine the host range.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (Subnet Masks and CIDR) `#1EB873`, supporting elements `#8516DF`.",
+    "player": "https://github.com/user-attachments/assets/7ddf2dda-a64b-4c7f-a8b2-ee5278de4d24"
   },
   {
     "id": "C23-A004",
@@ -732,7 +780,8 @@
       "CS-NET",
       "P0"
     ],
-    "prompt": "Create an animation: Show a router comparing several network prefixes and forwarding a packet through the most specific match.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (Longest-Prefix Routing Match) `#1EB873`, supporting elements `#8516DF`."
+    "prompt": "Create an animation: Show a router comparing several network prefixes and forwarding a packet through the most specific match.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (Longest-Prefix Routing Match) `#1EB873`, supporting elements `#8516DF`.",
+    "player": "https://github.com/user-attachments/assets/6ce54ef6-06bf-490b-9e9a-c5b897be3b7d"
   },
   {
     "id": "C23-A005",
@@ -747,7 +796,8 @@
       "CS-NET",
       "P0"
     ],
-    "prompt": "Create an animation: Show a client and server exchanging SYN and ACK messages to establish a reliable connection step by step.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (TCP Three-Way Handshake) `#1EB873`, supporting elements `#8516DF`."
+    "prompt": "Create an animation: Show a client and server exchanging SYN and ACK messages to establish a reliable connection step by step.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (TCP Three-Way Handshake) `#1EB873`, supporting elements `#8516DF`.",
+    "player": "https://github.com/user-attachments/assets/fe124c91-2731-495a-bd2e-f9f4065b15a8"
   },
   {
     "id": "C23-A006",
@@ -762,7 +812,8 @@
       "CS-NET",
       "P0"
     ],
-    "prompt": "Create an animation: Show how congestion signals make the sender expand or shrink its congestion window and adjust its transmission rate.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (TCP Congestion Window) `#1EB873`, supporting elements `#8516DF`."
+    "prompt": "Create an animation: Show how congestion signals make the sender expand or shrink its congestion window and adjust its transmission rate.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (TCP Congestion Window) `#1EB873`, supporting elements `#8516DF`.",
+    "player": "https://github.com/user-attachments/assets/192b4995-ca08-45c7-9272-850133b6ff10"
   },
   {
     "id": "C23-A007",
@@ -777,7 +828,8 @@
       "CS-NET",
       "P0"
     ],
-    "prompt": "Create an animation: Show a domain-name query passing through caches, a recursive resolver, and authoritative servers to obtain an IP address.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (DNS Resolution) `#1EB873`, supporting elements `#8516DF`."
+    "prompt": "Create an animation: Show a domain-name query passing through caches, a recursive resolver, and authoritative servers to obtain an IP address.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (DNS Resolution) `#1EB873`, supporting elements `#8516DF`.",
+    "player": "https://github.com/user-attachments/assets/ce212212-7b86-41ca-8b81-8e83c9f82a2f"
   },
   {
     "id": "C23-A008",
@@ -792,7 +844,8 @@
       "CS-NET",
       "P0"
     ],
-    "prompt": "Create an animation: Show a browser sending an HTTP request and the server returning a status, headers, and content after processing it.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (HTTP Request and Response) `#1EB873`, supporting elements `#8516DF`."
+    "prompt": "Create an animation: Show a browser sending an HTTP request and the server returning a status, headers, and content after processing it.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (HTTP Request and Response) `#1EB873`, supporting elements `#8516DF`.",
+    "player": "https://github.com/user-attachments/assets/18730f30-5e2e-4eb4-980f-71187d72aebb"
   },
   {
     "id": "C24-A001",
@@ -807,7 +860,8 @@
       "CS-DB",
       "P0"
     ],
-    "prompt": "Create an animation: Show how real-world entities, attributes, and relationships are converted into an implementable database structure.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Entity-Relationship Model) `#A01EB8`, supporting elements `#DFBF16`."
+    "prompt": "Create an animation: Show how real-world entities, attributes, and relationships are converted into an implementable database structure.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Entity-Relationship Model) `#A01EB8`, supporting elements `#DFBF16`.",
+    "player": "https://github.com/user-attachments/assets/2e13e5b7-be7d-4223-9929-ba54635b00d1"
   },
   {
     "id": "C24-A002",
@@ -822,7 +876,8 @@
       "CS-DB",
       "P0"
     ],
-    "prompt": "Create an animation: Show how a primary key uniquely identifies a record and how a foreign key references it to maintain a relationship between tables.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Primary and Foreign Keys) `#A01EB8`, supporting elements `#DFBF16`."
+    "prompt": "Create an animation: Show how a primary key uniquely identifies a record and how a foreign key references it to maintain a relationship between tables.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Primary and Foreign Keys) `#A01EB8`, supporting elements `#DFBF16`.",
+    "player": "https://github.com/user-attachments/assets/2ccd3fcb-6465-4455-b9fb-3d99cbe056e1"
   },
   {
     "id": "C24-A003",
@@ -837,7 +892,8 @@
       "CS-DB",
       "P0"
     ],
-    "prompt": "Create an animation: Show how the values of one attribute set uniquely determine another set and reveal the source of data redundancy.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Functional Dependencies) `#A01EB8`, supporting elements `#DFBF16`."
+    "prompt": "Create an animation: Show how the values of one attribute set uniquely determine another set and reveal the source of data redundancy.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Functional Dependencies) `#A01EB8`, supporting elements `#DFBF16`.",
+    "player": "https://github.com/user-attachments/assets/942e2e55-117c-4e17-8004-5acf73222782"
   },
   {
     "id": "C24-A004",
@@ -852,7 +908,8 @@
       "CS-DB",
       "P0"
     ],
-    "prompt": "Create an animation: Show a redundant table being decomposed according to functional dependencies while preserving information and joins.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Database Normalization) `#A01EB8`, supporting elements `#DFBF16`."
+    "prompt": "Create an animation: Show a redundant table being decomposed according to functional dependencies while preserving information and joins.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Database Normalization) `#A01EB8`, supporting elements `#DFBF16`.",
+    "player": "https://github.com/user-attachments/assets/ea7c0b16-0c4c-4132-9afc-7f27f030e664"
   },
   {
     "id": "C24-A005",
@@ -867,7 +924,8 @@
       "CS-DB",
       "P0"
     ],
-    "prompt": "Create an animation: Show a search key descending from the root through index levels to a leaf and quickly locating consecutive records.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (B+ Tree Index) `#A01EB8`, supporting elements `#DFBF16`."
+    "prompt": "Create an animation: Show a search key descending from the root through index levels to a leaf and quickly locating consecutive records.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (B+ Tree Index) `#A01EB8`, supporting elements `#DFBF16`.",
+    "player": "https://github.com/user-attachments/assets/65f8deed-7028-40e2-a1cc-c48a188f6659"
   },
   {
     "id": "C24-A006",
@@ -882,7 +940,8 @@
       "CS-DB",
       "P0"
     ],
-    "prompt": "Create an animation: Show a funds transfer completing safely under atomicity, consistency, isolation, and durability constraints.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (ACID Transactions) `#A01EB8`, supporting elements `#DFBF16`."
+    "prompt": "Create an animation: Show a funds transfer completing safely under atomicity, consistency, isolation, and durability constraints.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (ACID Transactions) `#A01EB8`, supporting elements `#DFBF16`.",
+    "player": "https://github.com/user-attachments/assets/c4444723-9f28-4e5a-a4ad-5b38827183a8"
   },
   {
     "id": "C24-A007",
@@ -897,7 +956,8 @@
       "CS-DB",
       "P0"
     ],
-    "prompt": "Create an animation: Show locks coordinating read and write order when multiple transactions compete for the same data, preventing conflicts.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Concurrency Control and Locks) `#A01EB8`, supporting elements `#DFBF16`."
+    "prompt": "Create an animation: Show locks coordinating read and write order when multiple transactions compete for the same data, preventing conflicts.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Concurrency Control and Locks) `#A01EB8`, supporting elements `#DFBF16`.",
+    "player": "https://github.com/user-attachments/assets/732434e8-ca3f-4035-af16-fbfc30112660"
   },
   {
     "id": "C24-A008",
@@ -912,7 +972,8 @@
       "CS-DB",
       "P0"
     ],
-    "prompt": "Create an animation: Show a database retaining multiple record versions so readers receive consistent snapshots while writers continue updating.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Multiversion Concurrency Control) `#A01EB8`, supporting elements `#DFBF16`."
+    "prompt": "Create an animation: Show a database retaining multiple record versions so readers receive consistent snapshots while writers continue updating.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Multiversion Concurrency Control) `#A01EB8`, supporting elements `#DFBF16`.",
+    "player": "https://github.com/user-attachments/assets/ffadaa77-acb4-4822-9e63-ea4a5a2bc2d5"
   },
   {
     "id": "C25-A001",
@@ -927,7 +988,8 @@
       "CS-COMP",
       "P0"
     ],
-    "prompt": "Create an animation: Show a source-code character stream being scanned, grouped, and converted into a typed sequence of tokens.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Lexical Analysis and Tokens) `#A4B81E`, supporting elements `#16C4DF`."
+    "prompt": "Create an animation: Show a source-code character stream being scanned, grouped, and converted into a typed sequence of tokens.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Lexical Analysis and Tokens) `#A4B81E`, supporting elements `#16C4DF`.",
+    "player": "https://github.com/user-attachments/assets/8655ed06-30a8-4813-ab23-23d5f2d45d6c"
   },
   {
     "id": "C25-A002",
@@ -942,7 +1004,8 @@
       "CS-COMP",
       "P0"
     ],
-    "prompt": "Create an animation: Show a regular expression being constructed as a state machine that moves state character by character to recognize a string.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Regular Expression to Finite Automaton) `#A4B81E`, supporting elements `#16C4DF`."
+    "prompt": "Create an animation: Show a regular expression being constructed as a state machine that moves state character by character to recognize a string.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Regular Expression to Finite Automaton) `#A4B81E`, supporting elements `#16C4DF`.",
+    "player": "https://github.com/user-attachments/assets/1108f306-f353-434e-9b2d-0a76e1f97807"
   },
   {
     "id": "C25-A003",
@@ -957,7 +1020,8 @@
       "CS-COMP",
       "P0"
     ],
-    "prompt": "Create an animation: Show production rules expanding from the start symbol step by step to generate a valid sentence with nested structure.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Context-Free Grammar) `#A4B81E`, supporting elements `#16C4DF`."
+    "prompt": "Create an animation: Show production rules expanding from the start symbol step by step to generate a valid sentence with nested structure.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Context-Free Grammar) `#A4B81E`, supporting elements `#16C4DF`.",
+    "player": "https://github.com/user-attachments/assets/9cef4449-e04f-432f-aa33-16041cbcb933"
   },
   {
     "id": "C25-A004",
@@ -972,7 +1036,8 @@
       "CS-COMP",
       "P0"
     ],
-    "prompt": "Create an animation: Show tokens combining under grammar rules into a tree that makes operator precedence explicit.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Abstract Syntax Tree) `#A4B81E`, supporting elements `#16C4DF`."
+    "prompt": "Create an animation: Show tokens combining under grammar rules into a tree that makes operator precedence explicit.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Abstract Syntax Tree) `#A4B81E`, supporting elements `#16C4DF`.",
+    "player": "https://github.com/user-attachments/assets/a5b50964-4cc5-429e-97c9-7c22354d1d26"
   },
   {
     "id": "C25-A005",
@@ -987,7 +1052,8 @@
       "CS-COMP",
       "P0"
     ],
-    "prompt": "Create an animation: Show parsing functions recursively consuming tokens according to grammar rules, building syntax structure or reporting an error.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Recursive-Descent Parsing) `#A4B81E`, supporting elements `#16C4DF`."
+    "prompt": "Create an animation: Show parsing functions recursively consuming tokens according to grammar rules, building syntax structure or reporting an error.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Recursive-Descent Parsing) `#A4B81E`, supporting elements `#16C4DF`.",
+    "player": "https://github.com/user-attachments/assets/0128ffa8-b43c-448c-ad75-f7f079a04c9b"
   },
   {
     "id": "C25-A006",
@@ -1002,7 +1068,8 @@
       "CS-COMP",
       "P0"
     ],
-    "prompt": "Create an animation: Show high-level source code being converted into three-address intermediate instructions that are easier to analyze and optimize.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Intermediate Representation) `#A4B81E`, supporting elements `#16C4DF`."
+    "prompt": "Create an animation: Show high-level source code being converted into three-address intermediate instructions that are easier to analyze and optimize.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Intermediate Representation) `#A4B81E`, supporting elements `#16C4DF`.",
+    "player": "https://github.com/user-attachments/assets/d8aa1643-8720-405f-b832-d0ccca7dcfd1"
   },
   {
     "id": "C25-A007",
@@ -1017,7 +1084,8 @@
       "CS-COMP",
       "P0"
     ],
-    "prompt": "Create an animation: Show variable-definition and usage facts propagating through a control-flow graph until the analysis reaches a fixed point.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Data-Flow Analysis) `#A4B81E`, supporting elements `#16C4DF`."
+    "prompt": "Create an animation: Show variable-definition and usage facts propagating through a control-flow graph until the analysis reaches a fixed point.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Data-Flow Analysis) `#A4B81E`, supporting elements `#16C4DF`.",
+    "player": "https://github.com/user-attachments/assets/601e8c55-25aa-4882-bf7f-aaadc783f905"
   },
   {
     "id": "C25-A008",
@@ -1032,7 +1100,8 @@
       "CS-COMP",
       "P0"
     ],
-    "prompt": "Create an animation: Show live variables receiving registers according to interference relationships and spilling to memory when registers run out.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Register Allocation) `#A4B81E`, supporting elements `#16C4DF`."
+    "prompt": "Create an animation: Show live variables receiving registers according to interference relationships and spilling to memory when registers run out.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Register Allocation) `#A4B81E`, supporting elements `#16C4DF`.",
+    "player": "https://github.com/user-attachments/assets/8a83ca06-2c5d-4646-9ea1-126e11416b5a"
   },
   {
     "id": "C03-A001",

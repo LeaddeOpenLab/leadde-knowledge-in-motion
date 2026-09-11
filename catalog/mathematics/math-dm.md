@@ -1,0 +1,170 @@
+# Discrete Mathematics
+
+[← Back to Mathematics](../../README.md#mathematics)
+
+**Textbook:** Mathematics for Computer Science (Lehman et al.)  
+**Knowledge points:** 8
+
+> **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
+
+---
+
+<a id="c33-a001"></a>
+## Propositional Logic Truth Tables
+
+`C33-A001` · Video coming soon
+
+> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
+
+### Prompt
+
+```text
+Create an animation: Show each row of a compound proposition's truth value being calculated from its atomic propositions.
+Requirement: All explanatory text must be in English, and the video must have no audio.
+Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Propositional Logic Truth Tables) `#1EB853`, supporting elements `#5B16DF`.
+```
+
+[Back to course top](#discrete-mathematics)
+
+---
+
+<a id="c33-a002"></a>
+## Mathematical Induction
+
+`C33-A002` · Video coming soon
+
+> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
+
+### Prompt
+
+```text
+Create an animation: Show a proof establishing a base case and then using an arbitrary step to imply the next, covering all natural numbers.
+Requirement: All explanatory text must be in English, and the video must have no audio.
+Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Mathematical Induction) `#1EB853`, supporting elements `#5B16DF`.
+```
+
+[Back to course top](#discrete-mathematics)
+
+---
+
+<a id="c33-a003"></a>
+## Set Operations
+
+`C33-A003` · Video coming soon
+
+> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
+
+### Prompt
+
+```text
+Create an animation: Show elements moving among regions after union, intersection, difference, and complement operations.
+Requirement: All explanatory text must be in English, and the video must have no audio.
+Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Set Operations) `#1EB853`, supporting elements `#5B16DF`.
+```
+
+[Back to course top](#discrete-mathematics)
+
+---
+
+<a id="c33-a004"></a>
+## Relations and Equivalence Classes
+
+`C33-A004` · Video coming soon
+
+> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
+
+### Prompt
+
+```text
+Create an animation: Show an equivalence relation partitioning a set into non-overlapping classes of mutually equivalent elements.
+Requirement: All explanatory text must be in English, and the video must have no audio.
+Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Relations and Equivalence Classes) `#1EB853`, supporting elements `#5B16DF`.
+```
+
+[Back to course top](#discrete-mathematics)
+
+---
+
+<a id="c33-a005"></a>
+## Permutations and Combinations
+
+`C33-A005` · Video coming soon
+
+> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
+
+### Prompt
+
+```text
+Create an animation: Compare counting processes in which object order matters with those in which it does not.
+Requirement: All explanatory text must be in English, and the video must have no audio.
+Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Permutations and Combinations) `#1EB853`, supporting elements `#5B16DF`.
+```
+
+[Back to course top](#discrete-mathematics)
+
+---
+
+<a id="c33-a006"></a>
+## Pigeonhole Principle
+
+`C33-A006` · Video coming soon
+
+> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
+
+### Prompt
+
+```text
+Create an animation: Show that when there are more objects than containers, at least one container must receive multiple objects.
+Requirement: All explanatory text must be in English, and the video must have no audio.
+Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Pigeonhole Principle) `#1EB853`, supporting elements `#5B16DF`.
+```
+
+[Back to course top](#discrete-mathematics)
+
+---
+
+<a id="c33-a007"></a>
+## Recurrence Relations
+
+`C33-A007` · Video coming soon
+
+> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
+
+### Prompt
+
+```text
+Create an animation: Show each sequence term being generated from earlier terms and unfolding step by step from the initial values.
+Requirement: All explanatory text must be in English, and the video must have no audio.
+Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Recurrence Relations) `#1EB853`, supporting elements `#5B16DF`.
+```
+
+[Back to course top](#discrete-mathematics)
+
+---
+
+<a id="c33-a008"></a>
+## Graph Connectivity
+
+`C33-A008` · Video coming soon
+
+> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
+
+### Prompt
+
+```text
+Create an animation: Show how reachable paths and connected components change as vertices and edges are added or removed.
+Requirement: All explanatory text must be in English, and the video must have no audio.
+Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Graph Connectivity) `#1EB853`, supporting elements `#5B16DF`.
+```
+
+[Back to course top](#discrete-mathematics)
+
+---
