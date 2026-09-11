@@ -155,7 +155,9 @@
 #### Knowledge points
 
 1. <details>
-   <summary><strong>Pointer</strong> &nbsp; <code>C01-A001</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Pointer</strong> &nbsp; <code>C01-A001</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/pointer.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -181,7 +183,9 @@
    </details>
 
 2. <details>
-   <summary><strong>Memory address</strong> &nbsp; <code>C01-A002</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Memory address</strong> &nbsp; <code>C01-A002</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/memory-address.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -207,7 +211,9 @@
    </details>
 
 3. <details>
-   <summary><strong>Memory layout</strong> &nbsp; <code>C01-A003</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Memory layout</strong> &nbsp; <code>C01-A003</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/memory-layout.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -233,7 +239,9 @@
    </details>
 
 4. <details>
-   <summary><strong>Time complexity</strong> &nbsp; <code>C01-A004</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Time complexity</strong> &nbsp; <code>C01-A004</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/time-complexity.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -259,7 +267,9 @@
    </details>
 
 5. <details>
-   <summary><strong>Algorithm growth rate</strong> &nbsp; <code>C01-A005</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Algorithm growth rate</strong> &nbsp; <code>C01-A005</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/algorithm-growth-rate.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -285,7 +295,9 @@
    </details>
 
 6. <details>
-   <summary><strong>Sorting process</strong> &nbsp; <code>C01-A006</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Sorting process</strong> &nbsp; <code>C01-A006</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/sorting-process.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -311,7 +323,9 @@
    </details>
 
 7. <details>
-   <summary><strong>Binary search</strong> &nbsp; <code>C01-A007</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Binary search</strong> &nbsp; <code>C01-A007</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/binary-search.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -337,7 +351,9 @@
    </details>
 
 8. <details>
-   <summary><strong>Linked list</strong> &nbsp; <code>C01-A008</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Linked list</strong> &nbsp; <code>C01-A008</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/linked-list.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -363,7 +379,9 @@
    </details>
 
 9. <details>
-   <summary><strong>Tree structure</strong> &nbsp; <code>C01-A009</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Tree structure</strong> &nbsp; <code>C01-A009</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/tree-structure.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -389,7 +407,9 @@
    </details>
 
 10. <details>
-    <summary><strong>Hash table</strong> &nbsp; <code>C01-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Hash table</strong> &nbsp; <code>C01-A010</code> · VIDEO READY</summary>
+
+    [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/hash-table.mp4)
 
     ```text
     Create a 15-second silent educational animation in Manim Community Edition.
@@ -415,7 +435,9 @@
     </details>
 
 11. <details>
-    <summary><strong>Relational model</strong> &nbsp; <code>C01-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Relational model</strong> &nbsp; <code>C01-A011</code> · VIDEO READY</summary>
+
+    [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/relational-model.mp4)
 
     ```text
     Create a 15-second silent educational animation in Manim Community Edition.
@@ -441,7 +463,9 @@
     </details>
 
 12. <details>
-    <summary><strong>SQL JOIN</strong> &nbsp; <code>C01-A012</code> · VIDEO COMING SOON</summary>
+    <summary><strong>SQL JOIN</strong> &nbsp; <code>C01-A012</code> · VIDEO READY</summary>
+
+    [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/sql-join.mp4)
 
     ```text
     Create a 15-second silent educational animation in Manim Community Edition.
@@ -467,7 +491,9 @@
     </details>
 
 13. <details>
-    <summary><strong>Stack vs. Heap</strong> &nbsp; <code>C01-A013</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Stack vs. Heap</strong> &nbsp; <code>C01-A013</code> · VIDEO READY</summary>
+
+    [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/stack-vs-heap.mp4)
 
     ```text
     Create an animation: Compare stack frames being pushed and popped automatically during function calls with objects being dynamically allocated and released on the heap.
@@ -481,7 +507,9 @@
     </details>
 
 14. <details>
-    <summary><strong>Pointer Dereferencing</strong> &nbsp; <code>C01-A014</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Pointer Dereferencing</strong> &nbsp; <code>C01-A014</code> · VIDEO READY</summary>
+
+    [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/pointer-dereferencing.mp4)
 
     ```text
     Create an animation: Show how a program reads the address stored in a pointer, follows that address, and accesses or modifies the target memory cell.
@@ -495,7 +523,9 @@
     </details>
 
 15. <details>
-    <summary><strong>Pointer Arithmetic</strong> &nbsp; <code>C01-A015</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Pointer Arithmetic</strong> &nbsp; <code>C01-A015</code> · VIDEO READY</summary>
+
+    [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/pointer-arithmetic.mp4)
 
     ```text
     Create an animation: Show how adding or subtracting an integer moves a pointer across contiguous memory cells in steps determined by the data type size.
@@ -509,7 +539,9 @@
     </details>
 
 16. <details>
-    <summary><strong>Recursive Call Stack</strong> &nbsp; <code>C01-A016</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Recursive Call Stack</strong> &nbsp; <code>C01-A016</code> · VIDEO READY</summary>
+
+    [Watch MP4](assets/videos/computer-science/introduction-to-computer-science/recursive-call-stack.mp4)
 
     ```text
     Create an animation: Show how every recursive call pushes a new stack frame and how those frames pop one by one as the calls return.
@@ -531,7 +563,9 @@
 #### Knowledge points
 
 1. <details>
-   <summary><strong>Divide and conquer recursion</strong> &nbsp; <code>C02-A001</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Divide and conquer recursion</strong> &nbsp; <code>C02-A001</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-algorithms/divide-and-conquer-recursion.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -557,7 +591,9 @@
    </details>
 
 2. <details>
-   <summary><strong>Recursive</strong> &nbsp; <code>C02-A002</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Recursive</strong> &nbsp; <code>C02-A002</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-algorithms/recursive.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -583,7 +619,9 @@
    </details>
 
 3. <details>
-   <summary><strong>Heap structure</strong> &nbsp; <code>C02-A003</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Heap structure</strong> &nbsp; <code>C02-A003</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-algorithms/heap-structure.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -609,7 +647,9 @@
    </details>
 
 4. <details>
-   <summary><strong>Heap sort</strong> &nbsp; <code>C02-A004</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Heap sort</strong> &nbsp; <code>C02-A004</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-algorithms/heap-sort.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -635,7 +675,9 @@
    </details>
 
 5. <details>
-   <summary><strong>Balanced binary search tree</strong> &nbsp; <code>C02-A005</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Balanced binary search tree</strong> &nbsp; <code>C02-A005</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-algorithms/balanced-binary-search-tree.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -661,7 +703,9 @@
    </details>
 
 6. <details>
-   <summary><strong>Graph search</strong> &nbsp; <code>C02-A006</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Graph search</strong> &nbsp; <code>C02-A006</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-algorithms/graph-search.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -687,7 +731,9 @@
    </details>
 
 7. <details>
-   <summary><strong>Shortest path</strong> &nbsp; <code>C02-A007</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Shortest path</strong> &nbsp; <code>C02-A007</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-algorithms/shortest-path.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -713,7 +759,9 @@
    </details>
 
 8. <details>
-   <summary><strong>Dynamic programming status</strong> &nbsp; <code>C02-A008</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Dynamic programming status</strong> &nbsp; <code>C02-A008</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-algorithms/dynamic-programming-status.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -739,7 +787,9 @@
    </details>
 
 9. <details>
-   <summary><strong>Dynamic programming transfer</strong> &nbsp; <code>C02-A009</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Dynamic programming transfer</strong> &nbsp; <code>C02-A009</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/introduction-to-algorithms/dynamic-programming-transfer.mp4)
 
    ```text
    Create a 15-second silent educational animation in Manim Community Edition.
@@ -765,7 +815,9 @@
    </details>
 
 10. <details>
-    <summary><strong>Quicksort Partitioning</strong> &nbsp; <code>C02-A010</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Quicksort Partitioning</strong> &nbsp; <code>C02-A010</code> · VIDEO READY</summary>
+
+    [Watch MP4](assets/videos/computer-science/introduction-to-algorithms/quicksort-partitioning.mp4)
 
     ```text
     Create an animation: Show how a pivot rearranges an array into regions containing smaller and larger elements.
@@ -779,7 +831,9 @@
     </details>
 
 11. <details>
-    <summary><strong>Merge Step in Merge Sort</strong> &nbsp; <code>C02-A011</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Merge Step in Merge Sort</strong> &nbsp; <code>C02-A011</code> · VIDEO READY</summary>
+
+    [Watch MP4](assets/videos/computer-science/introduction-to-algorithms/merge-step-in-merge-sort.mp4)
 
     ```text
     Create an animation: Show how two sorted subsequences are compared item by item and merged into one longer sorted sequence.
@@ -793,7 +847,9 @@
     </details>
 
 12. <details>
-    <summary><strong>Union-Find Path Compression</strong> &nbsp; <code>C02-A012</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Union-Find Path Compression</strong> &nbsp; <code>C02-A012</code> · VIDEO READY</summary>
+
+    [Watch MP4](assets/videos/computer-science/introduction-to-algorithms/union-find-path-compression.mp4)
 
     ```text
     Create an animation: Show how nodes visited while finding a root are reconnected directly to the root, shortening later search paths.
@@ -807,7 +863,9 @@
     </details>
 
 13. <details>
-    <summary><strong>Topological Sorting</strong> &nbsp; <code>C02-A013</code> · VIDEO COMING SOON</summary>
+    <summary><strong>Topological Sorting</strong> &nbsp; <code>C02-A013</code> · VIDEO READY</summary>
+
+    [Watch MP4](assets/videos/computer-science/introduction-to-algorithms/topological-sorting.mp4)
 
     ```text
     Create an animation: Show how zero-indegree nodes are removed in sequence to form a linear order that satisfies every dependency.
@@ -829,7 +887,9 @@
 #### Knowledge points
 
 1. <details>
-   <summary><strong>Two&#x27;s Complement</strong> &nbsp; <code>C21-A001</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Two&#x27;s Complement</strong> &nbsp; <code>C21-A001</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-organization-and-architecture/two-s-complement.mp4)
 
    ```text
    Create an animation: Show how a negative number is encoded by inverting its bits and adding one, allowing signed arithmetic to use the same adder.
@@ -843,7 +903,9 @@
    </details>
 
 2. <details>
-   <summary><strong>Floating-Point Representation</strong> &nbsp; <code>C21-A002</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Floating-Point Representation</strong> &nbsp; <code>C21-A002</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-organization-and-architecture/floating-point-representation.mp4)
 
    ```text
    Create an animation: Show how a real number is split into sign, exponent, and significand fields, then demonstrate rounding and precision loss.
@@ -857,7 +919,9 @@
    </details>
 
 3. <details>
-   <summary><strong>Boolean Logic Gates</strong> &nbsp; <code>C21-A003</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Boolean Logic Gates</strong> &nbsp; <code>C21-A003</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-organization-and-architecture/boolean-logic-gates.mp4)
 
    ```text
    Create an animation: Show how input voltage levels pass through AND, OR, and NOT gates to produce different logical outputs.
@@ -871,7 +935,9 @@
    </details>
 
 4. <details>
-   <summary><strong>Combinational Logic</strong> &nbsp; <code>C21-A004</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Combinational Logic</strong> &nbsp; <code>C21-A004</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-organization-and-architecture/combinational-logic.mp4)
 
    ```text
    Create an animation: Show how multiple logic gates connect so that the output depends only on the current inputs.
@@ -885,7 +951,9 @@
    </details>
 
 5. <details>
-   <summary><strong>Sequential Logic and Clocks</strong> &nbsp; <code>C21-A005</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Sequential Logic and Clocks</strong> &nbsp; <code>C21-A005</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-organization-and-architecture/sequential-logic-and-clocks.mp4)
 
    ```text
    Create an animation: Show how a clock edge triggers state storage so that circuit outputs update at discrete moments.
@@ -899,7 +967,9 @@
    </details>
 
 6. <details>
-   <summary><strong>CPU Fetch-Decode-Execute Cycle</strong> &nbsp; <code>C21-A006</code> · VIDEO COMING SOON</summary>
+   <summary><strong>CPU Fetch-Decode-Execute Cycle</strong> &nbsp; <code>C21-A006</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-organization-and-architecture/cpu-fetch-decode-execute-cycle.mp4)
 
    ```text
    Create an animation: Show how the CPU fetches an instruction from memory, decodes its opcode, and drives components to execute it.
@@ -913,7 +983,9 @@
    </details>
 
 7. <details>
-   <summary><strong>Pipeline Hazards</strong> &nbsp; <code>C21-A007</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Pipeline Hazards</strong> &nbsp; <code>C21-A007</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-organization-and-architecture/pipeline-hazards.mp4)
 
    ```text
    Create an animation: Show how data, control, and structural conflicts arise during overlapped instruction execution and cause stalls or forwarding.
@@ -927,7 +999,9 @@
    </details>
 
 8. <details>
-   <summary><strong>Cache Locality</strong> &nbsp; <code>C21-A008</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Cache Locality</strong> &nbsp; <code>C21-A008</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-organization-and-architecture/cache-locality.mp4)
 
    ```text
    Create an animation: Show how sequential and repeated memory accesses hit the cache and reduce the delay of main-memory access.
@@ -949,7 +1023,9 @@
 #### Knowledge points
 
 1. <details>
-   <summary><strong>Processes and Threads</strong> &nbsp; <code>C22-A001</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Processes and Threads</strong> &nbsp; <code>C22-A001</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/operating-systems/processes-and-threads.mp4)
 
    ```text
    Create an animation: Show how a process owns isolated resources while multiple threads share those resources and execute tasks concurrently.
@@ -963,7 +1039,9 @@
    </details>
 
 2. <details>
-   <summary><strong>Process State Transitions</strong> &nbsp; <code>C22-A002</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Process State Transitions</strong> &nbsp; <code>C22-A002</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/operating-systems/process-state-transitions.mp4)
 
    ```text
    Create an animation: Show a process moving among ready, running, and blocked states in response to scheduling and events.
@@ -977,7 +1055,9 @@
    </details>
 
 3. <details>
-   <summary><strong>Context Switching</strong> &nbsp; <code>C22-A003</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Context Switching</strong> &nbsp; <code>C22-A003</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/operating-systems/context-switching.mp4)
 
    ```text
    Create an animation: Show how the operating system saves the current task's register state and restores another task so it can resume.
@@ -991,7 +1071,9 @@
    </details>
 
 4. <details>
-   <summary><strong>CPU Scheduling</strong> &nbsp; <code>C22-A004</code> · VIDEO COMING SOON</summary>
+   <summary><strong>CPU Scheduling</strong> &nbsp; <code>C22-A004</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/operating-systems/cpu-scheduling.mp4)
 
    ```text
    Create an animation: Show how a scheduler selects tasks from the ready queue, assigns time slices, and changes their waiting and completion times.
@@ -1005,7 +1087,9 @@
    </details>
 
 5. <details>
-   <summary><strong>Virtual Memory Paging</strong> &nbsp; <code>C22-A005</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Virtual Memory Paging</strong> &nbsp; <code>C22-A005</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/operating-systems/virtual-memory-paging.mp4)
 
    ```text
    Create an animation: Show how a virtual address space is divided into pages and mapped to scattered physical page frames.
@@ -1019,7 +1103,9 @@
    </details>
 
 6. <details>
-   <summary><strong>Page-Table Address Translation</strong> &nbsp; <code>C22-A006</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Page-Table Address Translation</strong> &nbsp; <code>C22-A006</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/operating-systems/page-table-address-translation.mp4)
 
    ```text
    Create an animation: Show how a virtual address is split into a page number and offset, then translated through a page table into a physical address.
@@ -1033,7 +1119,9 @@
    </details>
 
 7. <details>
-   <summary><strong>Page Replacement</strong> &nbsp; <code>C22-A007</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Page Replacement</strong> &nbsp; <code>C22-A007</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/operating-systems/page-replacement.mp4)
 
    ```text
    Create an animation: Show how the system handles a page fault in full memory by evicting one page and loading the required page.
@@ -1047,7 +1135,9 @@
    </details>
 
 8. <details>
-   <summary><strong>Four Conditions for Deadlock</strong> &nbsp; <code>C22-A008</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Four Conditions for Deadlock</strong> &nbsp; <code>C22-A008</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/operating-systems/four-conditions-for-deadlock.mp4)
 
    ```text
    Create an animation: Show multiple processes becoming deadlocked through mutual exclusion, hold and wait, no preemption, and circular wait.
@@ -1069,7 +1159,9 @@
 #### Knowledge points
 
 1. <details>
-   <summary><strong>OSI and TCP/IP Layers</strong> &nbsp; <code>C23-A001</code> · VIDEO COMING SOON</summary>
+   <summary><strong>OSI and TCP/IP Layers</strong> &nbsp; <code>C23-A001</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-networks/osi-and-tcp-ip-layers.mp4)
 
    ```text
    Create an animation: Show a message moving down a protocol stack for layered processing and being reconstructed in reverse order at the receiver.
@@ -1083,7 +1175,9 @@
    </details>
 
 2. <details>
-   <summary><strong>Packet Encapsulation</strong> &nbsp; <code>C23-A002</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Packet Encapsulation</strong> &nbsp; <code>C23-A002</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-networks/packet-encapsulation.mp4)
 
    ```text
    Create an animation: Show application data gaining a header at each lower layer and being decapsulated layer by layer at the receiver.
@@ -1097,7 +1191,9 @@
    </details>
 
 3. <details>
-   <summary><strong>Subnet Masks and CIDR</strong> &nbsp; <code>C23-A003</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Subnet Masks and CIDR</strong> &nbsp; <code>C23-A003</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-networks/subnet-masks-and-cidr.mp4)
 
    ```text
    Create an animation: Show an IP address being combined with a mask to identify the network prefix and determine the host range.
@@ -1111,7 +1207,9 @@
    </details>
 
 4. <details>
-   <summary><strong>Longest-Prefix Routing Match</strong> &nbsp; <code>C23-A004</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Longest-Prefix Routing Match</strong> &nbsp; <code>C23-A004</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-networks/longest-prefix-routing-match.mp4)
 
    ```text
    Create an animation: Show a router comparing several network prefixes and forwarding a packet through the most specific match.
@@ -1125,7 +1223,9 @@
    </details>
 
 5. <details>
-   <summary><strong>TCP Three-Way Handshake</strong> &nbsp; <code>C23-A005</code> · VIDEO COMING SOON</summary>
+   <summary><strong>TCP Three-Way Handshake</strong> &nbsp; <code>C23-A005</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-networks/tcp-three-way-handshake.mp4)
 
    ```text
    Create an animation: Show a client and server exchanging SYN and ACK messages to establish a reliable connection step by step.
@@ -1139,7 +1239,9 @@
    </details>
 
 6. <details>
-   <summary><strong>TCP Congestion Window</strong> &nbsp; <code>C23-A006</code> · VIDEO COMING SOON</summary>
+   <summary><strong>TCP Congestion Window</strong> &nbsp; <code>C23-A006</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-networks/tcp-congestion-window.mp4)
 
    ```text
    Create an animation: Show how congestion signals make the sender expand or shrink its congestion window and adjust its transmission rate.
@@ -1153,7 +1255,9 @@
    </details>
 
 7. <details>
-   <summary><strong>DNS Resolution</strong> &nbsp; <code>C23-A007</code> · VIDEO COMING SOON</summary>
+   <summary><strong>DNS Resolution</strong> &nbsp; <code>C23-A007</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-networks/dns-resolution.mp4)
 
    ```text
    Create an animation: Show a domain-name query passing through caches, a recursive resolver, and authoritative servers to obtain an IP address.
@@ -1167,7 +1271,9 @@
    </details>
 
 8. <details>
-   <summary><strong>HTTP Request and Response</strong> &nbsp; <code>C23-A008</code> · VIDEO COMING SOON</summary>
+   <summary><strong>HTTP Request and Response</strong> &nbsp; <code>C23-A008</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/computer-networks/http-request-and-response.mp4)
 
    ```text
    Create an animation: Show a browser sending an HTTP request and the server returning a status, headers, and content after processing it.
@@ -1189,7 +1295,9 @@
 #### Knowledge points
 
 1. <details>
-   <summary><strong>Entity-Relationship Model</strong> &nbsp; <code>C24-A001</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Entity-Relationship Model</strong> &nbsp; <code>C24-A001</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/database-systems/entity-relationship-model.mp4)
 
    ```text
    Create an animation: Show how real-world entities, attributes, and relationships are converted into an implementable database structure.
@@ -1203,7 +1311,9 @@
    </details>
 
 2. <details>
-   <summary><strong>Primary and Foreign Keys</strong> &nbsp; <code>C24-A002</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Primary and Foreign Keys</strong> &nbsp; <code>C24-A002</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/database-systems/primary-and-foreign-keys.mp4)
 
    ```text
    Create an animation: Show how a primary key uniquely identifies a record and how a foreign key references it to maintain a relationship between tables.
@@ -1217,7 +1327,9 @@
    </details>
 
 3. <details>
-   <summary><strong>Functional Dependencies</strong> &nbsp; <code>C24-A003</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Functional Dependencies</strong> &nbsp; <code>C24-A003</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/database-systems/functional-dependencies.mp4)
 
    ```text
    Create an animation: Show how the values of one attribute set uniquely determine another set and reveal the source of data redundancy.
@@ -1231,7 +1343,9 @@
    </details>
 
 4. <details>
-   <summary><strong>Database Normalization</strong> &nbsp; <code>C24-A004</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Database Normalization</strong> &nbsp; <code>C24-A004</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/database-systems/database-normalization.mp4)
 
    ```text
    Create an animation: Show a redundant table being decomposed according to functional dependencies while preserving information and joins.
@@ -1245,7 +1359,9 @@
    </details>
 
 5. <details>
-   <summary><strong>B+ Tree Index</strong> &nbsp; <code>C24-A005</code> · VIDEO COMING SOON</summary>
+   <summary><strong>B+ Tree Index</strong> &nbsp; <code>C24-A005</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/database-systems/b-tree-index.mp4)
 
    ```text
    Create an animation: Show a search key descending from the root through index levels to a leaf and quickly locating consecutive records.
@@ -1259,7 +1375,9 @@
    </details>
 
 6. <details>
-   <summary><strong>ACID Transactions</strong> &nbsp; <code>C24-A006</code> · VIDEO COMING SOON</summary>
+   <summary><strong>ACID Transactions</strong> &nbsp; <code>C24-A006</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/database-systems/acid-transactions.mp4)
 
    ```text
    Create an animation: Show a funds transfer completing safely under atomicity, consistency, isolation, and durability constraints.
@@ -1273,7 +1391,9 @@
    </details>
 
 7. <details>
-   <summary><strong>Concurrency Control and Locks</strong> &nbsp; <code>C24-A007</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Concurrency Control and Locks</strong> &nbsp; <code>C24-A007</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/database-systems/concurrency-control-and-locks.mp4)
 
    ```text
    Create an animation: Show locks coordinating read and write order when multiple transactions compete for the same data, preventing conflicts.
@@ -1287,7 +1407,9 @@
    </details>
 
 8. <details>
-   <summary><strong>Multiversion Concurrency Control</strong> &nbsp; <code>C24-A008</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Multiversion Concurrency Control</strong> &nbsp; <code>C24-A008</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/database-systems/multiversion-concurrency-control.mp4)
 
    ```text
    Create an animation: Show a database retaining multiple record versions so readers receive consistent snapshots while writers continue updating.
@@ -1309,7 +1431,9 @@
 #### Knowledge points
 
 1. <details>
-   <summary><strong>Lexical Analysis and Tokens</strong> &nbsp; <code>C25-A001</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Lexical Analysis and Tokens</strong> &nbsp; <code>C25-A001</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/compiler-design/lexical-analysis-and-tokens.mp4)
 
    ```text
    Create an animation: Show a source-code character stream being scanned, grouped, and converted into a typed sequence of tokens.
@@ -1323,7 +1447,9 @@
    </details>
 
 2. <details>
-   <summary><strong>Regular Expression to Finite Automaton</strong> &nbsp; <code>C25-A002</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Regular Expression to Finite Automaton</strong> &nbsp; <code>C25-A002</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/compiler-design/regular-expression-to-finite-automaton.mp4)
 
    ```text
    Create an animation: Show a regular expression being constructed as a state machine that moves state character by character to recognize a string.
@@ -1337,7 +1463,9 @@
    </details>
 
 3. <details>
-   <summary><strong>Context-Free Grammar</strong> &nbsp; <code>C25-A003</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Context-Free Grammar</strong> &nbsp; <code>C25-A003</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/compiler-design/context-free-grammar.mp4)
 
    ```text
    Create an animation: Show production rules expanding from the start symbol step by step to generate a valid sentence with nested structure.
@@ -1351,7 +1479,9 @@
    </details>
 
 4. <details>
-   <summary><strong>Abstract Syntax Tree</strong> &nbsp; <code>C25-A004</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Abstract Syntax Tree</strong> &nbsp; <code>C25-A004</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/compiler-design/abstract-syntax-tree.mp4)
 
    ```text
    Create an animation: Show tokens combining under grammar rules into a tree that makes operator precedence explicit.
@@ -1365,7 +1495,9 @@
    </details>
 
 5. <details>
-   <summary><strong>Recursive-Descent Parsing</strong> &nbsp; <code>C25-A005</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Recursive-Descent Parsing</strong> &nbsp; <code>C25-A005</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/compiler-design/recursive-descent-parsing.mp4)
 
    ```text
    Create an animation: Show parsing functions recursively consuming tokens according to grammar rules, building syntax structure or reporting an error.
@@ -1379,7 +1511,9 @@
    </details>
 
 6. <details>
-   <summary><strong>Intermediate Representation</strong> &nbsp; <code>C25-A006</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Intermediate Representation</strong> &nbsp; <code>C25-A006</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/compiler-design/intermediate-representation.mp4)
 
    ```text
    Create an animation: Show high-level source code being converted into three-address intermediate instructions that are easier to analyze and optimize.
@@ -1393,7 +1527,9 @@
    </details>
 
 7. <details>
-   <summary><strong>Data-Flow Analysis</strong> &nbsp; <code>C25-A007</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Data-Flow Analysis</strong> &nbsp; <code>C25-A007</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/compiler-design/data-flow-analysis.mp4)
 
    ```text
    Create an animation: Show variable-definition and usage facts propagating through a control-flow graph until the analysis reaches a fixed point.
@@ -1407,7 +1543,9 @@
    </details>
 
 8. <details>
-   <summary><strong>Register Allocation</strong> &nbsp; <code>C25-A008</code> · VIDEO COMING SOON</summary>
+   <summary><strong>Register Allocation</strong> &nbsp; <code>C25-A008</code> · VIDEO READY</summary>
+
+   [Watch MP4](assets/videos/computer-science/compiler-design/register-allocation.mp4)
 
    ```text
    Create an animation: Show live variables receiving registers according to interference relationships and spilling to memory when registers run out.

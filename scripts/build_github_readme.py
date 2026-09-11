@@ -84,10 +84,19 @@ for subject, courses in library.items():
         ])
         for index, prompt in enumerate(prompts, 1):
             indent = " " * (len(str(index)) + 2)
+            video_ready = prompt.get("status") == "ready" and prompt.get("video")
+            video_status = "VIDEO READY" if video_ready else "VIDEO COMING SOON"
             lines.extend([
                 f"{index}. <details>",
-                f"{indent}<summary><strong>{html.escape(prompt['title'])}</strong> &nbsp; <code>{html.escape(prompt['id'])}</code> · VIDEO COMING SOON</summary>",
+                f"{indent}<summary><strong>{html.escape(prompt['title'])}</strong> &nbsp; <code>{html.escape(prompt['id'])}</code> · {video_status}</summary>",
                 "",
+            ])
+            if video_ready:
+                lines.extend([
+                    f"{indent}[Watch MP4]({prompt['video']})",
+                    "",
+                ])
+            lines.extend([
                 f"{indent}```text",
                 "\n".join(indent + line if line else "" for line in prompt["prompt"].splitlines()),
                 f"{indent}```",
