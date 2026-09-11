@@ -12,6 +12,7 @@ items = json.loads((root / "data/prompts.json").read_text(encoding="utf-8"))
 library = OrderedDict()
 for item in items:
     library.setdefault(item["subject"], OrderedDict()).setdefault(item["course"], []).append(item)
+course_count = sum(len(courses) for courses in library.values())
 
 def slug(value):
     return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
@@ -36,7 +37,7 @@ def course_card(course, prompts):
 lines = [
     "# Leadde Motion Prompt Library",
     "",
-    "> A GitHub-native catalog of **227 English Manim prompts** across **15 disciplines** and **20 courses**.",
+    f"> A GitHub-native catalog of **{len(items)} English Manim prompts** across **{len(library)} disciplines** and **{course_count} courses**.",
     ">",
     "> Browse the cards below without leaving this repository. Videos are being produced and will appear in the corresponding entries later.",
     "",
@@ -116,6 +117,8 @@ lines.extend([
     "python3 scripts/import_csv.py <prompt-master.csv> data/prompts.json",
     "python3 scripts/build_github_readme.py",
     "```",
+    "",
+    "The importer preserves existing English entries, translates the title and explanatory fields of newly added Chinese rows into English, and aborts before writing if any Chinese remains in a prompt.",
 ])
 
 (root / "README.md").write_text("\n".join(lines), encoding="utf-8")

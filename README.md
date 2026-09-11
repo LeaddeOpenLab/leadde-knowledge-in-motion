@@ -1,6 +1,6 @@
 # Leadde Motion Prompt Library
 
-> A GitHub-native catalog of **227 English Manim prompts** across **15 disciplines** and **20 courses**.
+> A GitHub-native catalog of **371 English Manim prompts** across **15 disciplines** and **35 courses**.
 >
 > Browse the cards below without leaving this repository. Videos are being produced and will appear in the corresponding entries later.
 
@@ -11,17 +11,17 @@
 <td width="33%" valign="top">
   <img src="assets/subject-icons/computer-science.svg" width="54" alt="Computer Science icon"><br>
   <a href="#computer-science"><strong>Computer Science</strong></a><br>
-  <sub>2 courses · 21 prompts</sub>
+  <sub>7 courses · 69 prompts</sub>
 </td>
 <td width="33%" valign="top">
   <img src="assets/subject-icons/artificial-intelligence.svg" width="54" alt="Artificial Intelligence icon"><br>
   <a href="#artificial-intelligence"><strong>Artificial Intelligence</strong></a><br>
-  <sub>1 courses · 12 prompts</sub>
+  <sub>6 courses · 60 prompts</sub>
 </td>
 <td width="33%" valign="top">
   <img src="assets/subject-icons/mathematics.svg" width="54" alt="Mathematics icon"><br>
   <a href="#mathematics"><strong>Mathematics</strong></a><br>
-  <sub>2 courses · 20 prompts</sub>
+  <sub>7 courses · 68 prompts</sub>
 </td>
 </tr>
 <tr>
@@ -99,20 +99,50 @@
 <a id="computer-science"></a>
 ## Computer Science
 
-**2 courses · 21 prompts** &nbsp; [Back to cards](#browse-the-library)
+**7 courses · 69 prompts** &nbsp; [Back to cards](#browse-the-library)
 
 <table>
 <tr>
 <td width="33%" valign="top">
   <img src="assets/course-covers/cs50x.svg" width="100%" alt="Introduction to Computer Science course cover"><br>
   <a href="#course-cs50x"><strong>Introduction to Computer Science</strong></a><br>
-  <sub>12 prompts · Course notes (no required textbook)</sub>
+  <sub>16 prompts · Course notes (no required textbook)</sub>
 </td>
 <td width="33%" valign="top">
   <img src="assets/course-covers/6.006.svg" width="100%" alt="Introduction to Algorithms course cover"><br>
   <a href="#course-6.006"><strong>Introduction to Algorithms</strong></a><br>
-  <sub>9 prompts · Introduction to Algorithms, 3e (Cormen et al.)</sub>
+  <sub>13 prompts · Introduction to Algorithms, 3e (Cormen et al.)</sub>
 </td>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/cs-coa.svg" width="100%" alt="Computer Organization and Architecture course cover"><br>
+  <a href="#course-cs-coa"><strong>Computer Organization and Architecture</strong></a><br>
+  <sub>8 prompts · Computer Organization and Design (Patterson and Hennessy)</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/cs-os.svg" width="100%" alt="Operating Systems course cover"><br>
+  <a href="#course-cs-os"><strong>Operating Systems</strong></a><br>
+  <sub>8 prompts · Operating System Concepts (Silberschatz et al.)</sub>
+</td>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/cs-net.svg" width="100%" alt="Computer Networks course cover"><br>
+  <a href="#course-cs-net"><strong>Computer Networks</strong></a><br>
+  <sub>8 prompts · Computer Networking: A Top-Down Approach (Kurose and Ross)</sub>
+</td>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/cs-db.svg" width="100%" alt="Database Systems course cover"><br>
+  <a href="#course-cs-db"><strong>Database Systems</strong></a><br>
+  <sub>8 prompts · Database System Concepts (Silberschatz et al.)</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/cs-comp.svg" width="100%" alt="Compiler Design course cover"><br>
+  <a href="#course-cs-comp"><strong>Compiler Design</strong></a><br>
+  <sub>8 prompts · Compilers: Principles, Techniques, and Tools (Aho et al.)</sub>
+</td>
+<td></td>
 <td></td>
 </tr>
 </table>
@@ -141,6 +171,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -164,6 +196,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -189,6 +223,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -212,6 +248,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -237,6 +275,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -260,6 +300,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -285,6 +327,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -308,6 +352,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -333,6 +379,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -356,6 +404,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -381,6 +431,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -405,7 +457,65 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+13. <details>
+    <summary><strong>Stack vs. Heap</strong> &nbsp; <code>C01-A013</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Compare stack frames being pushed and popped automatically during function calls with objects being dynamically allocated and released on the heap.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Stack vs. Heap) `#B81E7D`, supporting elements `#92DF16`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+14. <details>
+    <summary><strong>Pointer Dereferencing</strong> &nbsp; <code>C01-A014</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show how a program reads the address stored in a pointer, follows that address, and accesses or modifies the target memory cell.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Pointer Dereferencing) `#B81E7D`, supporting elements `#92DF16`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+15. <details>
+    <summary><strong>Pointer Arithmetic</strong> &nbsp; <code>C01-A015</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show how adding or subtracting an integer moves a pointer across contiguous memory cells in steps determined by the data type size.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Pointer Arithmetic) `#B81E7D`, supporting elements `#92DF16`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+16. <details>
+    <summary><strong>Recursive Call Stack</strong> &nbsp; <code>C01-A016</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show how every recursive call pushes a new stack frame and how those frames pop one by one as the calls return.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Recursive Call Stack) `#B81E7D`, supporting elements `#92DF16`.
     ```
 
     Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
@@ -437,6 +547,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -460,6 +572,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -485,6 +599,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -508,6 +624,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -533,6 +651,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -556,6 +676,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -581,6 +703,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -604,6 +728,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -629,7 +755,665 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+10. <details>
+    <summary><strong>Quicksort Partitioning</strong> &nbsp; <code>C02-A010</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show how a pivot rearranges an array into regions containing smaller and larger elements.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F9E7EC`, English text `#5F1C26`, primary visual (Quicksort Partitioning) `#50B81E`, supporting elements `#1657DF`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+11. <details>
+    <summary><strong>Merge Step in Merge Sort</strong> &nbsp; <code>C02-A011</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show how two sorted subsequences are compared item by item and merged into one longer sorted sequence.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F9E7EC`, English text `#5F1C26`, primary visual (Merge Step in Merge Sort) `#50B81E`, supporting elements `#1657DF`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+12. <details>
+    <summary><strong>Union-Find Path Compression</strong> &nbsp; <code>C02-A012</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show how nodes visited while finding a root are reconnected directly to the root, shortening later search paths.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F9E7EC`, English text `#5F1C26`, primary visual (Union-Find Path Compression) `#50B81E`, supporting elements `#1657DF`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+13. <details>
+    <summary><strong>Topological Sorting</strong> &nbsp; <code>C02-A013</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show how zero-indegree nodes are removed in sequence to form a linear order that satisfies every dependency.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F9E7EC`, English text `#5F1C26`, primary visual (Topological Sorting) `#50B81E`, supporting elements `#1657DF`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+
+<a id="course-cs-coa"></a>
+### Computer Organization and Architecture
+
+**TEXTBOOK · Computer Organization and Design (Patterson and Hennessy)** &nbsp; [Back to Computer Science courses](#computer-science)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>Two&#x27;s Complement</strong> &nbsp; <code>C21-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how a negative number is encoded by inverting its bits and adding one, allowing signed arithmetic to use the same adder.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Two's Complement) `#1E23B8`, supporting elements `#DF161D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>Floating-Point Representation</strong> &nbsp; <code>C21-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how a real number is split into sign, exponent, and significand fields, then demonstrate rounding and precision loss.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Floating-Point Representation) `#1E23B8`, supporting elements `#DF161D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Boolean Logic Gates</strong> &nbsp; <code>C21-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how input voltage levels pass through AND, OR, and NOT gates to produce different logical outputs.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Boolean Logic Gates) `#1E23B8`, supporting elements `#DF161D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>Combinational Logic</strong> &nbsp; <code>C21-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how multiple logic gates connect so that the output depends only on the current inputs.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Combinational Logic) `#1E23B8`, supporting elements `#DF161D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>Sequential Logic and Clocks</strong> &nbsp; <code>C21-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how a clock edge triggers state storage so that circuit outputs update at discrete moments.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Sequential Logic and Clocks) `#1E23B8`, supporting elements `#DF161D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>CPU Fetch-Decode-Execute Cycle</strong> &nbsp; <code>C21-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how the CPU fetches an instruction from memory, decodes its opcode, and drives components to execute it.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (CPU Fetch-Decode-Execute Cycle) `#1E23B8`, supporting elements `#DF161D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>Pipeline Hazards</strong> &nbsp; <code>C21-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how data, control, and structural conflicts arise during overlapped instruction execution and cause stalls or forwarding.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Pipeline Hazards) `#1E23B8`, supporting elements `#DF161D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>Cache Locality</strong> &nbsp; <code>C21-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how sequential and repeated memory accesses hit the cache and reduce the delay of main-memory access.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Cache Locality) `#1E23B8`, supporting elements `#DF161D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+
+<a id="course-cs-os"></a>
+### Operating Systems
+
+**TEXTBOOK · Operating System Concepts (Silberschatz et al.)** &nbsp; [Back to Computer Science courses](#computer-science)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>Processes and Threads</strong> &nbsp; <code>C22-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how a process owns isolated resources while multiple threads share those resources and execute tasks concurrently.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Processes and Threads) `#B8461E`, supporting elements `#16DF4A`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>Process State Transitions</strong> &nbsp; <code>C22-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a process moving among ready, running, and blocked states in response to scheduling and events.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Process State Transitions) `#B8461E`, supporting elements `#16DF4A`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Context Switching</strong> &nbsp; <code>C22-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how the operating system saves the current task's register state and restores another task so it can resume.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Context Switching) `#B8461E`, supporting elements `#16DF4A`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>CPU Scheduling</strong> &nbsp; <code>C22-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how a scheduler selects tasks from the ready queue, assigns time slices, and changes their waiting and completion times.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#ECE7F9`, English text `#381C5F`, primary visual (CPU Scheduling) `#B8461E`, supporting elements `#16DF4A`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>Virtual Memory Paging</strong> &nbsp; <code>C22-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how a virtual address space is divided into pages and mapped to scattered physical page frames.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Virtual Memory Paging) `#B8461E`, supporting elements `#16DF4A`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>Page-Table Address Translation</strong> &nbsp; <code>C22-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how a virtual address is split into a page number and offset, then translated through a page table into a physical address.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Page-Table Address Translation) `#B8461E`, supporting elements `#16DF4A`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>Page Replacement</strong> &nbsp; <code>C22-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how the system handles a page fault in full memory by evicting one page and loading the required page.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Page Replacement) `#B8461E`, supporting elements `#16DF4A`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>Four Conditions for Deadlock</strong> &nbsp; <code>C22-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show multiple processes becoming deadlocked through mutual exclusion, hold and wait, no preemption, and circular wait.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#ECE7F9`, English text `#381C5F`, primary visual (Four Conditions for Deadlock) `#B8461E`, supporting elements `#16DF4A`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+
+<a id="course-cs-net"></a>
+### Computer Networks
+
+**TEXTBOOK · Computer Networking: A Top-Down Approach (Kurose and Ross)** &nbsp; [Back to Computer Science courses](#computer-science)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>OSI and TCP/IP Layers</strong> &nbsp; <code>C23-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a message moving down a protocol stack for layered processing and being reconstructed in reverse order at the receiver.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (OSI and TCP/IP Layers) `#1EB873`, supporting elements `#8516DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>Packet Encapsulation</strong> &nbsp; <code>C23-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show application data gaining a header at each lower layer and being decapsulated layer by layer at the receiver.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (Packet Encapsulation) `#1EB873`, supporting elements `#8516DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Subnet Masks and CIDR</strong> &nbsp; <code>C23-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show an IP address being combined with a mask to identify the network prefix and determine the host range.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (Subnet Masks and CIDR) `#1EB873`, supporting elements `#8516DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>Longest-Prefix Routing Match</strong> &nbsp; <code>C23-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a router comparing several network prefixes and forwarding a packet through the most specific match.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (Longest-Prefix Routing Match) `#1EB873`, supporting elements `#8516DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>TCP Three-Way Handshake</strong> &nbsp; <code>C23-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a client and server exchanging SYN and ACK messages to establish a reliable connection step by step.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (TCP Three-Way Handshake) `#1EB873`, supporting elements `#8516DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>TCP Congestion Window</strong> &nbsp; <code>C23-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how congestion signals make the sender expand or shrink its congestion window and adjust its transmission rate.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (TCP Congestion Window) `#1EB873`, supporting elements `#8516DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>DNS Resolution</strong> &nbsp; <code>C23-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a domain-name query passing through caches, a recursive resolver, and authoritative servers to obtain an IP address.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (DNS Resolution) `#1EB873`, supporting elements `#8516DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>HTTP Request and Response</strong> &nbsp; <code>C23-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a browser sending an HTTP request and the server returning a status, headers, and content after processing it.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (HTTP Request and Response) `#1EB873`, supporting elements `#8516DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+
+<a id="course-cs-db"></a>
+### Database Systems
+
+**TEXTBOOK · Database System Concepts (Silberschatz et al.)** &nbsp; [Back to Computer Science courses](#computer-science)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>Entity-Relationship Model</strong> &nbsp; <code>C24-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how real-world entities, attributes, and relationships are converted into an implementable database structure.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Entity-Relationship Model) `#A01EB8`, supporting elements `#DFBF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>Primary and Foreign Keys</strong> &nbsp; <code>C24-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how a primary key uniquely identifies a record and how a foreign key references it to maintain a relationship between tables.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Primary and Foreign Keys) `#A01EB8`, supporting elements `#DFBF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Functional Dependencies</strong> &nbsp; <code>C24-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how the values of one attribute set uniquely determine another set and reveal the source of data redundancy.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Functional Dependencies) `#A01EB8`, supporting elements `#DFBF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>Database Normalization</strong> &nbsp; <code>C24-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a redundant table being decomposed according to functional dependencies while preserving information and joins.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Database Normalization) `#A01EB8`, supporting elements `#DFBF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>B+ Tree Index</strong> &nbsp; <code>C24-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a search key descending from the root through index levels to a leaf and quickly locating consecutive records.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (B+ Tree Index) `#A01EB8`, supporting elements `#DFBF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>ACID Transactions</strong> &nbsp; <code>C24-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a funds transfer completing safely under atomicity, consistency, isolation, and durability constraints.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (ACID Transactions) `#A01EB8`, supporting elements `#DFBF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>Concurrency Control and Locks</strong> &nbsp; <code>C24-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show locks coordinating read and write order when multiple transactions compete for the same data, preventing conflicts.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Concurrency Control and Locks) `#A01EB8`, supporting elements `#DFBF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>Multiversion Concurrency Control</strong> &nbsp; <code>C24-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a database retaining multiple record versions so readers receive consistent snapshots while writers continue updating.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Multiversion Concurrency Control) `#A01EB8`, supporting elements `#DFBF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+
+<a id="course-cs-comp"></a>
+### Compiler Design
+
+**TEXTBOOK · Compilers: Principles, Techniques, and Tools (Aho et al.)** &nbsp; [Back to Computer Science courses](#computer-science)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>Lexical Analysis and Tokens</strong> &nbsp; <code>C25-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a source-code character stream being scanned, grouped, and converted into a typed sequence of tokens.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Lexical Analysis and Tokens) `#A4B81E`, supporting elements `#16C4DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>Regular Expression to Finite Automaton</strong> &nbsp; <code>C25-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a regular expression being constructed as a state machine that moves state character by character to recognize a string.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Regular Expression to Finite Automaton) `#A4B81E`, supporting elements `#16C4DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Context-Free Grammar</strong> &nbsp; <code>C25-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show production rules expanding from the start symbol step by step to generate a valid sentence with nested structure.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Context-Free Grammar) `#A4B81E`, supporting elements `#16C4DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>Abstract Syntax Tree</strong> &nbsp; <code>C25-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show tokens combining under grammar rules into a tree that makes operator precedence explicit.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Abstract Syntax Tree) `#A4B81E`, supporting elements `#16C4DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>Recursive-Descent Parsing</strong> &nbsp; <code>C25-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show parsing functions recursively consuming tokens according to grammar rules, building syntax structure or reporting an error.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Recursive-Descent Parsing) `#A4B81E`, supporting elements `#16C4DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>Intermediate Representation</strong> &nbsp; <code>C25-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show high-level source code being converted into three-address intermediate instructions that are easier to analyze and optimize.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Intermediate Representation) `#A4B81E`, supporting elements `#16C4DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>Data-Flow Analysis</strong> &nbsp; <code>C25-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show variable-definition and usage facts propagating through a control-flow graph until the analysis reaches a fixed point.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Data-Flow Analysis) `#A4B81E`, supporting elements `#16C4DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>Register Allocation</strong> &nbsp; <code>C25-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show live variables receiving registers according to interference relationships and spilling to memory when registers run out.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Register Allocation) `#A4B81E`, supporting elements `#16C4DF`.
    ```
 
    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
@@ -642,17 +1426,42 @@
 <a id="artificial-intelligence"></a>
 ## Artificial Intelligence
 
-**1 courses · 12 prompts** &nbsp; [Back to cards](#browse-the-library)
+**6 courses · 60 prompts** &nbsp; [Back to cards](#browse-the-library)
 
 <table>
 <tr>
 <td width="33%" valign="top">
   <img src="assets/course-covers/6.036.svg" width="100%" alt="Introduction to Machine Learning course cover"><br>
   <a href="#course-6.036"><strong>Introduction to Machine Learning</strong></a><br>
-  <sub>12 prompts · Course notes; The Elements of Statistical Learning (reference)</sub>
+  <sub>20 prompts · Course notes; The Elements of Statistical Learning (reference)</sub>
 </td>
-<td></td>
-<td></td>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/ai-dl.svg" width="100%" alt="Deep Learning course cover"><br>
+  <a href="#course-ai-dl"><strong>Deep Learning</strong></a><br>
+  <sub>8 prompts · Deep Learning (Goodfellow et al.)</sub>
+</td>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/ai-nlp.svg" width="100%" alt="Natural Language Processing course cover"><br>
+  <a href="#course-ai-nlp"><strong>Natural Language Processing</strong></a><br>
+  <sub>8 prompts · Speech and Language Processing (Jurafsky and Martin)</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/ai-cv.svg" width="100%" alt="Computer Vision course cover"><br>
+  <a href="#course-ai-cv"><strong>Computer Vision</strong></a><br>
+  <sub>8 prompts · Computer Vision: Algorithms and Applications (Szeliski)</sub>
+</td>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/ai-rl.svg" width="100%" alt="Reinforcement Learning course cover"><br>
+  <a href="#course-ai-rl"><strong>Reinforcement Learning</strong></a><br>
+  <sub>8 prompts · Reinforcement Learning: An Introduction (Sutton and Barto)</sub>
+</td>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/ai-gen.svg" width="100%" alt="Generative Artificial Intelligence course cover"><br>
+  <a href="#course-ai-gen"><strong>Generative Artificial Intelligence</strong></a><br>
+  <sub>8 prompts · Course notes (no required textbook)</sub>
+</td>
 </tr>
 </table>
 
@@ -680,6 +1489,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -703,6 +1514,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -728,6 +1541,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -751,6 +1566,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -776,6 +1593,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -799,6 +1618,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -824,6 +1645,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -847,6 +1670,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -872,6 +1697,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -895,6 +1722,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -920,6 +1749,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -944,6 +1775,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -951,26 +1784,768 @@
 
     </details>
 
+13. <details>
+    <summary><strong>Linear Regression</strong> &nbsp; <code>C03-A013</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show line parameters adjusting to reduce the residuals between predictions and observed data points.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F0F9E7`, English text `#375F1C`, primary visual (Linear Regression) `#1E77B8`, supporting elements `#DF1689`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+14. <details>
+    <summary><strong>Logistic Regression</strong> &nbsp; <code>C03-A014</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show a linear score passing through a sigmoid to become a probability, then crossing a threshold for binary classification.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F0F9E7`, English text `#375F1C`, primary visual (Logistic Regression) `#1E77B8`, supporting elements `#DF1689`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+15. <details>
+    <summary><strong>Softmax Classification</strong> &nbsp; <code>C03-A015</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show multiple class scores being normalized into a probability distribution and the highest-probability class being selected.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F0F9E7`, English text `#375F1C`, primary visual (Softmax Classification) `#1E77B8`, supporting elements `#DF1689`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+16. <details>
+    <summary><strong>K-Nearest Neighbors</strong> &nbsp; <code>C03-A016</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show a new sample locating its K nearest neighbors and taking their vote to determine its class.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F0F9E7`, English text `#375F1C`, primary visual (K-Nearest Neighbors) `#1E77B8`, supporting elements `#DF1689`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+17. <details>
+    <summary><strong>Maximum-Margin Support Vector Machine</strong> &nbsp; <code>C03-A017</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show a separating hyperplane moving under support-vector constraints until the margin between two classes is maximized.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F0F9E7`, English text `#375F1C`, primary visual (Maximum-Margin Support Vector Machine) `#1E77B8`, supporting elements `#DF1689`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+18. <details>
+    <summary><strong>Decision-Tree Information Gain</strong> &nbsp; <code>C03-A018</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show the algorithm comparing purity gains from candidate features and selecting the best split at each level.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F0F9E7`, English text `#375F1C`, primary visual (Decision-Tree Information Gain) `#1E77B8`, supporting elements `#DF1689`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+19. <details>
+    <summary><strong>K-Means Clustering</strong> &nbsp; <code>C03-A019</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show samples alternating between cluster assignment and centroid updates until the cluster structure stabilizes.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F0F9E7`, English text `#375F1C`, primary visual (K-Means Clustering) `#1E77B8`, supporting elements `#DF1689`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+20. <details>
+    <summary><strong>Principal Component Analysis</strong> &nbsp; <code>C03-A020</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show data rotating onto orthogonal directions of maximum variance and then projecting into a lower-dimensional space.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F0F9E7`, English text `#375F1C`, primary visual (Principal Component Analysis) `#1E77B8`, supporting elements `#DF1689`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+
+<a id="course-ai-dl"></a>
+### Deep Learning
+
+**TEXTBOOK · Deep Learning (Goodfellow et al.)** &nbsp; [Back to Artificial Intelligence courses](#artificial-intelligence)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>Artificial Neuron</strong> &nbsp; <code>C26-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show multiple inputs being weighted, summed, and passed through an activation function to produce a neuron's output.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Artificial Neuron) `#B81E4A`, supporting elements `#4FDF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>Activation Functions</strong> &nbsp; <code>C26-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Compare how different activation functions turn the same inputs into nonlinear responses and gradients.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Activation Functions) `#B81E4A`, supporting elements `#4FDF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Parameter Initialization</strong> &nbsp; <code>C26-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how different initial weight scales affect signal and gradient propagation through a deep network.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Parameter Initialization) `#B81E4A`, supporting elements `#4FDF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>Batch Normalization</strong> &nbsp; <code>C26-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a batch of activations being standardized, then scaled and shifted to stabilize network training.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Batch Normalization) `#B81E4A`, supporting elements `#4FDF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>Dropout</strong> &nbsp; <code>C26-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show neurons being randomly masked during training and repeated subnetworks reducing co-adaptation.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Dropout) `#B81E4A`, supporting elements `#4FDF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>Convolutional Neural Network</strong> &nbsp; <code>C26-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show kernels sliding over an image to extract local features that combine layer by layer into higher-level representations.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Convolutional Neural Network) `#B81E4A`, supporting elements `#4FDF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>Vanishing Gradients in Recurrent Neural Networks</strong> &nbsp; <code>C26-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show gradients shrinking rapidly as they multiply backward through time, making early information difficult to learn.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Vanishing Gradients in Recurrent Neural Networks) `#B81E4A`, supporting elements `#4FDF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>Attention Mechanism</strong> &nbsp; <code>C26-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a query scoring its relevance to keys and using those scores to form a weighted sum of values from different positions.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Attention Mechanism) `#B81E4A`, supporting elements `#4FDF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+
+<a id="course-ai-nlp"></a>
+### Natural Language Processing
+
+**TEXTBOOK · Speech and Language Processing (Jurafsky and Martin)** &nbsp; [Back to Artificial Intelligence courses](#artificial-intelligence)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>Text Tokenization</strong> &nbsp; <code>C27-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show continuous text being split by vocabulary rules and converted into a processable token sequence.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (Text Tokenization) `#1EB81F`, supporting elements `#1816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>N-Gram Language Model</strong> &nbsp; <code>C27-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show the model using counts from a fixed number of preceding words to estimate the conditional probability of the next word.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (N-Gram Language Model) `#1EB81F`, supporting elements `#1816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Word Embeddings</strong> &nbsp; <code>C27-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show discrete words mapping into a continuous vector space where semantically similar words move closer together.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (Word Embeddings) `#1EB81F`, supporting elements `#1816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>Positional Encoding</strong> &nbsp; <code>C27-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show position information being injected into word vectors so the model can distinguish the order of identical words in a sequence.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (Positional Encoding) `#1EB81F`, supporting elements `#1816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>Self-Attention</strong> &nbsp; <code>C27-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show every word attending to other words and aggregating contextual information into a new representation.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (Self-Attention) `#1EB81F`, supporting elements `#1816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>Encoder-Decoder Architecture</strong> &nbsp; <code>C27-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show an encoder compressing input information and a decoder using it to generate an output sequence step by step.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (Encoder-Decoder Architecture) `#1EB81F`, supporting elements `#1816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>Beam Search</strong> &nbsp; <code>C27-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show decoding retaining several high-probability candidates at once and expanding them step by step to choose the best sequence.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (Beam Search) `#1EB81F`, supporting elements `#1816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>Retrieval-Augmented Generation</strong> &nbsp; <code>C27-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a system retrieving relevant material for a query and feeding that evidence into a generative model to form an answer.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (Retrieval-Augmented Generation) `#1EB81F`, supporting elements `#1816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+
+<a id="course-ai-cv"></a>
+### Computer Vision
+
+**TEXTBOOK · Computer Vision: Algorithms and Applications (Szeliski)** &nbsp; [Back to Artificial Intelligence courses](#artificial-intelligence)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>Image Convolution</strong> &nbsp; <code>C28-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a kernel sliding over a pixel grid, computing local weighted sums, and building a feature map.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9ED`, English text `#1C5F3B`, primary visual (Image Convolution) `#4C1EB8`, supporting elements `#DF5316`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>Edge Detection</strong> &nbsp; <code>C28-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show intensity changes passing through derivative kernels to reveal object boundaries and edge directions.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9ED`, English text `#1C5F3B`, primary visual (Edge Detection) `#4C1EB8`, supporting elements `#DF5316`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Padding and Stride</strong> &nbsp; <code>C28-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how changing border padding and convolution stride alters feature-map size and sampling positions.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9ED`, English text `#1C5F3B`, primary visual (Padding and Stride) `#4C1EB8`, supporting elements `#DF5316`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>Pooling</strong> &nbsp; <code>C28-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show local windows taking a maximum or average to compress a feature map while retaining salient information.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9ED`, English text `#1C5F3B`, primary visual (Pooling) `#4C1EB8`, supporting elements `#DF5316`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>Receptive Field</strong> &nbsp; <code>C28-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show the region of the original image visible to one deep neuron expanding as network depth increases.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9ED`, English text `#1C5F3B`, primary visual (Receptive Field) `#4C1EB8`, supporting elements `#DF5316`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>Intersection over Union and Non-Maximum Suppression</strong> &nbsp; <code>C28-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show candidate boxes calculating overlap and suppressing duplicate detections that overlap too much with a higher-scoring box.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9ED`, English text `#1C5F3B`, primary visual (Intersection over Union and Non-Maximum Suppression) `#4C1EB8`, supporting elements `#DF5316`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>Semantic Segmentation</strong> &nbsp; <code>C28-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a model predicting a class for every image pixel and assembling the predictions into region masks.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9ED`, English text `#1C5F3B`, primary visual (Semantic Segmentation) `#4C1EB8`, supporting elements `#DF5316`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>Image Data Augmentation</strong> &nbsp; <code>C28-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show one source image producing varied training samples through rotation, cropping, flipping, and color changes.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9ED`, English text `#1C5F3B`, primary visual (Image Data Augmentation) `#4C1EB8`, supporting elements `#DF5316`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+
+<a id="course-ai-rl"></a>
+### Reinforcement Learning
+
+**TEXTBOOK · Reinforcement Learning: An Introduction (Sutton and Barto)** &nbsp; [Back to Artificial Intelligence courses](#artificial-intelligence)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>States, Actions, and Rewards</strong> &nbsp; <code>C29-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show the interaction loop in which an agent observes a state, chooses an action, receives a reward, and enters a new state.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (States, Actions, and Rewards) `#B8791E`, supporting elements `#16DF8D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>Discounted Return</strong> &nbsp; <code>C29-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show future rewards being progressively discounted by temporal distance and summed into the current return.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (Discounted Return) `#B8791E`, supporting elements `#16DF8D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Bellman Optimality Equation</strong> &nbsp; <code>C29-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a state's optimal value being determined recursively by its immediate reward and successor-state values.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (Bellman Optimality Equation) `#B8791E`, supporting elements `#16DF8D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>Q-Learning Update</strong> &nbsp; <code>C29-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show one interaction experience updating a state-action value through the temporal-difference error.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (Q-Learning Update) `#B8791E`, supporting elements `#16DF8D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>Epsilon-Greedy Exploration</strong> &nbsp; <code>C29-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show an agent choosing the current best action with high probability while exploring a random action with small probability.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (Epsilon-Greedy Exploration) `#B8791E`, supporting elements `#16DF8D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>Policy Gradient</strong> &nbsp; <code>C29-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show action returns driving policy-parameter updates so that high-return actions become increasingly likely.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (Policy Gradient) `#B8791E`, supporting elements `#16DF8D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>Actor-Critic Method</strong> &nbsp; <code>C29-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show an actor producing actions while a critic estimates value, with the error signal improving both parts together.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (Actor-Critic Method) `#B8791E`, supporting elements `#16DF8D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>Experience Replay</strong> &nbsp; <code>C29-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show interactions entering a replay buffer and random samples breaking temporal correlation during training.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (Experience Replay) `#B8791E`, supporting elements `#16DF8D`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+
+<a id="course-ai-gen"></a>
+### Generative Artificial Intelligence
+
+**TEXTBOOK · Course notes (no required textbook)** &nbsp; [Back to Artificial Intelligence courses](#artificial-intelligence)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>Autoencoder</strong> &nbsp; <code>C30-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show an encoder compressing an input into a latent representation and a decoder reconstructing the original data from it.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F7E7`, English text `#5B5F1C`, primary visual (Autoencoder) `#1EB8A6`, supporting elements `#C816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>Variational Autoencoder Reparameterization</strong> &nbsp; <code>C30-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a random latent variable decomposed into a mean, scale, and independent noise so gradients can propagate backward.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F7E7`, English text `#5B5F1C`, primary visual (Variational Autoencoder Reparameterization) `#1EB8A6`, supporting elements `#C816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Latent-Space Interpolation</strong> &nbsp; <code>C30-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show generated samples morphing smoothly as a point moves continuously between two latent vectors.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F7E7`, English text `#5B5F1C`, primary visual (Latent-Space Interpolation) `#1EB8A6`, supporting elements `#C816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>Generative Adversarial Training</strong> &nbsp; <code>C30-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a generator creating samples and a discriminator judging real versus fake as both improve through alternating competition.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F7E7`, English text `#5B5F1C`, primary visual (Generative Adversarial Training) `#1EB8A6`, supporting elements `#C816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>Mode Collapse</strong> &nbsp; <code>C30-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a generator converging to only a few similar outputs and losing the diversity of the real data distribution.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F7E7`, English text `#5B5F1C`, primary visual (Mode Collapse) `#1EB8A6`, supporting elements `#C816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>Diffusion Forward Noising</strong> &nbsp; <code>C30-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a clean sample receiving noise over many time steps until it approaches pure noise.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F7E7`, English text `#5B5F1C`, primary visual (Diffusion Forward Noising) `#1EB8A6`, supporting elements `#C816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>Diffusion Reverse Denoising</strong> &nbsp; <code>C30-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a model starting from random noise and repeatedly predicting and removing noise until a clear sample emerges.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F7E7`, English text `#5B5F1C`, primary visual (Diffusion Reverse Denoising) `#1EB8A6`, supporting elements `#C816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>Classifier-Free Guidance</strong> &nbsp; <code>C30-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show conditional and unconditional noise predictions being combined to control how strongly the generated result follows the prompt.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9F7E7`, English text `#5B5F1C`, primary visual (Classifier-Free Guidance) `#1EB8A6`, supporting elements `#C816DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
 
 ---
 
 <a id="mathematics"></a>
 ## Mathematics
 
-**2 courses · 20 prompts** &nbsp; [Back to cards](#browse-the-library)
+**7 courses · 68 prompts** &nbsp; [Back to cards](#browse-the-library)
 
 <table>
 <tr>
 <td width="33%" valign="top">
   <img src="assets/course-covers/18.01.svg" width="100%" alt="Single-Variable Calculus course cover"><br>
   <a href="#course-18.01"><strong>Single-Variable Calculus</strong></a><br>
-  <sub>8 prompts · Calculus with Analytic Geometry, 2e (Simmons)</sub>
+  <sub>12 prompts · Calculus with Analytic Geometry, 2e (Simmons)</sub>
 </td>
 <td width="33%" valign="top">
   <img src="assets/course-covers/18.06.svg" width="100%" alt="Linear Algebra course cover"><br>
   <a href="#course-18.06"><strong>Linear Algebra</strong></a><br>
-  <sub>12 prompts · Introduction to Linear Algebra, 4e/5e (Strang)</sub>
+  <sub>16 prompts · Introduction to Linear Algebra, 4e/5e (Strang)</sub>
 </td>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/math-mvc.svg" width="100%" alt="Multivariable Calculus course cover"><br>
+  <a href="#course-math-mvc"><strong>Multivariable Calculus</strong></a><br>
+  <sub>8 prompts · Calculus: Early Transcendentals (Stewart)</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/math-ode.svg" width="100%" alt="Ordinary Differential Equations course cover"><br>
+  <a href="#course-math-ode"><strong>Ordinary Differential Equations</strong></a><br>
+  <sub>8 prompts · Elementary Differential Equations (Boyce and DiPrima)</sub>
+</td>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/math-dm.svg" width="100%" alt="Discrete Mathematics course cover"><br>
+  <a href="#course-math-dm"><strong>Discrete Mathematics</strong></a><br>
+  <sub>8 prompts · Mathematics for Computer Science (Lehman et al.)</sub>
+</td>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/math-aa.svg" width="100%" alt="Abstract Algebra course cover"><br>
+  <a href="#course-math-aa"><strong>Abstract Algebra</strong></a><br>
+  <sub>8 prompts · Abstract Algebra (Dummit and Foote)</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+  <img src="assets/course-covers/math-opt.svg" width="100%" alt="Optimization Theory course cover"><br>
+  <a href="#course-math-opt"><strong>Optimization Theory</strong></a><br>
+  <sub>8 prompts · Convex Optimization (Boyd and Vandenberghe)</sub>
+</td>
+<td></td>
 <td></td>
 </tr>
 </table>
@@ -999,6 +2574,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1022,6 +2599,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -1047,6 +2626,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1070,6 +2651,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -1095,6 +2678,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1118,6 +2703,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -1143,6 +2730,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1167,12 +2756,70 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
 
    </details>
+
+9. <details>
+   <summary><strong>Epsilon-Delta Definition of a Limit</strong> &nbsp; <code>C04-A009</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how, for any chosen output-error band, an input neighborhood can be selected that keeps function values inside that band.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F5F9`, English text `#1C485F`, primary visual (Epsilon-Delta Definition of a Limit) `#B81E9D`, supporting elements `#BBDF16`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+10. <details>
+    <summary><strong>Left- and Right-Hand Limits</strong> &nbsp; <code>C04-A010</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show function values approaching from the left and right of a target point, then determine whether the two limits agree.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#E7F5F9`, English text `#1C485F`, primary visual (Left- and Right-Hand Limits) `#B81E9D`, supporting elements `#BBDF16`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+11. <details>
+    <summary><strong>Chain Rule</strong> &nbsp; <code>C04-A011</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show inner and outer functions changing in sequence so their local rates multiply into the derivative of the composition.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#E7F5F9`, English text `#1C485F`, primary visual (Chain Rule) `#B81E9D`, supporting elements `#BBDF16`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+12. <details>
+    <summary><strong>Implicit Differentiation</strong> &nbsp; <code>C04-A012</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show a point moving along an implicit curve while the equation constrains the rates of change of its horizontal and vertical coordinates.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#E7F5F9`, English text `#1C485F`, primary visual (Implicit Differentiation) `#B81E9D`, supporting elements `#BBDF16`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
 
 
 <a id="course-18.06"></a>
@@ -1199,6 +2846,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1222,6 +2871,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -1247,6 +2898,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1270,6 +2923,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -1295,6 +2950,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1318,6 +2975,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -1343,6 +3002,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1366,6 +3027,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -1391,6 +3054,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1414,6 +3079,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -1439,6 +3106,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -1463,12 +3132,670 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
     Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
 
     </details>
+
+13. <details>
+    <summary><strong>Gaussian Elimination</strong> &nbsp; <code>C05-A013</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show elementary row operations eliminating variable coefficients step by step until the augmented matrix reaches row-echelon form.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F9E7F0`, English text `#5F1C34`, primary visual (Gaussian Elimination) `#70B81E`, supporting elements `#1681DF`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+14. <details>
+    <summary><strong>Rank-Nullity Theorem</strong> &nbsp; <code>C05-A014</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show the input space separating into independent directions preserved by a transformation and null directions compressed to zero.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F9E7F0`, English text `#5F1C34`, primary visual (Rank-Nullity Theorem) `#70B81E`, supporting elements `#1681DF`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+15. <details>
+    <summary><strong>Gram-Schmidt Orthogonalization</strong> &nbsp; <code>C05-A015</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show independent vectors becoming an orthogonal basis by subtracting their projections onto previously established directions.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F9E7F0`, English text `#5F1C34`, primary visual (Gram-Schmidt Orthogonalization) `#70B81E`, supporting elements `#1681DF`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+16. <details>
+    <summary><strong>QR Decomposition</strong> &nbsp; <code>C05-A016</code> · VIDEO COMING SOON</summary>
+
+    ```text
+    Create an animation: Show a matrix's column vectors being orthogonalized into an orthonormal basis matrix and an upper-triangular coefficient matrix.
+    Requirement: All explanatory text must be in English, and the video must have no audio.
+    Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+    Colors: Background `#F9E7F0`, English text `#5F1C34`, primary visual (QR Decomposition) `#70B81E`, supporting elements `#1681DF`.
+    ```
+
+    Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+    </details>
+
+
+<a id="course-math-mvc"></a>
+### Multivariable Calculus
+
+**TEXTBOOK · Calculus: Early Transcendentals (Stewart)** &nbsp; [Back to Mathematics courses](#mathematics)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>Partial Derivatives</strong> &nbsp; <code>C31-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show the instantaneous slope of a surface slice along one coordinate direction while all other variables remain fixed.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Partial Derivatives) `#1E43B8`, supporting elements `#DF1646`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>Gradient</strong> &nbsp; <code>C31-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show the gradient assembled from directional rates and pointing along the surface's direction of steepest ascent.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Gradient) `#1E43B8`, supporting elements `#DF1646`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Directional Derivative</strong> &nbsp; <code>C31-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how projecting the gradient onto a chosen direction gives the function's rate of change along that direction.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Directional Derivative) `#1E43B8`, supporting elements `#DF1646`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>Jacobian Matrix</strong> &nbsp; <code>C31-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a multi-input, multi-output mapping being approximated locally by the linear transformation encoded by its Jacobian.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Jacobian Matrix) `#1E43B8`, supporting elements `#DF1646`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>Hessian Matrix</strong> &nbsp; <code>C31-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show second partial derivatives describing local surface curvature and distinguishing minima, maxima, and saddle points.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Hessian Matrix) `#1E43B8`, supporting elements `#DF1646`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>Lagrange Multipliers</strong> &nbsp; <code>C31-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show objective contours becoming tangent to a constraint curve, where parallel gradients identify a constrained extremum.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Lagrange Multipliers) `#1E43B8`, supporting elements `#DF1646`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>Double Integral</strong> &nbsp; <code>C31-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a planar region divided into a grid as sums of narrow column volumes converge to the total volume under a surface.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Double Integral) `#1E43B8`, supporting elements `#DF1646`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>Divergence and Curl</strong> &nbsp; <code>C31-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Compare the outward flow strength and local rotational tendency of a vector field near a point.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Divergence and Curl) `#1E43B8`, supporting elements `#DF1646`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+
+<a id="course-math-ode"></a>
+### Ordinary Differential Equations
+
+**TEXTBOOK · Elementary Differential Equations (Boyce and DiPrima)** &nbsp; [Back to Mathematics courses](#mathematics)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>Separable Differential Equations</strong> &nbsp; <code>C32-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show variable terms moving to opposite sides and being integrated separately to produce a solution curve evolving over time.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (Separable Differential Equations) `#B8261E`, supporting elements `#16DF20`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>First-Order Linear Differential Equations</strong> &nbsp; <code>C32-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show an integrating factor turning the left side into a product derivative and leading to the general solution.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (First-Order Linear Differential Equations) `#B8261E`, supporting elements `#16DF20`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Phase Line</strong> &nbsp; <code>C32-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a one-dimensional state moving in the direction set by the derivative's sign and approaching or leaving equilibrium points.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (Phase Line) `#B8261E`, supporting elements `#16DF20`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>Stability of Equilibria</strong> &nbsp; <code>C32-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show nearby initial states returning to, moving away from, or remaining near an equilibrium after small perturbations.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (Stability of Equilibria) `#B8261E`, supporting elements `#16DF20`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>Second-Order Homogeneous Equations</strong> &nbsp; <code>C32-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how different characteristic-root types produce exponential growth, decay, or oscillation in the solution.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (Second-Order Homogeneous Equations) `#B8261E`, supporting elements `#16DF20`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>Forced Oscillation and Resonance</strong> &nbsp; <code>C32-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show the response amplitude growing as an external driving frequency approaches the system's natural frequency.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (Forced Oscillation and Resonance) `#B8261E`, supporting elements `#16DF20`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>Phase Portrait of an ODE System</strong> &nbsp; <code>C32-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show trajectories from different initial conditions following a vector field and organizing into a phase portrait.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (Phase Portrait of an ODE System) `#B8261E`, supporting elements `#16DF20`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>Euler&#x27;s Method</strong> &nbsp; <code>C32-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a numerical path advancing from an initial point in local-slope steps to approximate a differential-equation solution curve.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (Euler's Method) `#B8261E`, supporting elements `#16DF20`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+
+<a id="course-math-dm"></a>
+### Discrete Mathematics
+
+**TEXTBOOK · Mathematics for Computer Science (Lehman et al.)** &nbsp; [Back to Mathematics courses](#mathematics)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>Propositional Logic Truth Tables</strong> &nbsp; <code>C33-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show each row of a compound proposition's truth value being calculated from its atomic propositions.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Propositional Logic Truth Tables) `#1EB853`, supporting elements `#5B16DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>Mathematical Induction</strong> &nbsp; <code>C33-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a proof establishing a base case and then using an arbitrary step to imply the next, covering all natural numbers.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Mathematical Induction) `#1EB853`, supporting elements `#5B16DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Set Operations</strong> &nbsp; <code>C33-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show elements moving among regions after union, intersection, difference, and complement operations.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Set Operations) `#1EB853`, supporting elements `#5B16DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>Relations and Equivalence Classes</strong> &nbsp; <code>C33-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show an equivalence relation partitioning a set into non-overlapping classes of mutually equivalent elements.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Relations and Equivalence Classes) `#1EB853`, supporting elements `#5B16DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>Permutations and Combinations</strong> &nbsp; <code>C33-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Compare counting processes in which object order matters with those in which it does not.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Permutations and Combinations) `#1EB853`, supporting elements `#5B16DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>Pigeonhole Principle</strong> &nbsp; <code>C33-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show that when there are more objects than containers, at least one container must receive multiple objects.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Pigeonhole Principle) `#1EB853`, supporting elements `#5B16DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>Recurrence Relations</strong> &nbsp; <code>C33-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show each sequence term being generated from earlier terms and unfolding step by step from the initial values.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Recurrence Relations) `#1EB853`, supporting elements `#5B16DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>Graph Connectivity</strong> &nbsp; <code>C33-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how reachable paths and connected components change as vertices and edges are added or removed.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Graph Connectivity) `#1EB853`, supporting elements `#5B16DF`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+
+<a id="course-math-aa"></a>
+### Abstract Algebra
+
+**TEXTBOOK · Abstract Algebra (Dummit and Foote)** &nbsp; [Back to Mathematics courses](#mathematics)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>Group Axioms</strong> &nbsp; <code>C34-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a set of transformations forming a group under closure, associativity, identity, and inverse constraints.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Group Axioms) `#801EB8`, supporting elements `#DF9616`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>Subgroups</strong> &nbsp; <code>C34-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a subset remaining closed under the same operation and inheriting the structure of its parent group.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Subgroups) `#801EB8`, supporting elements `#DF9616`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Cyclic Groups</strong> &nbsp; <code>C34-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show one generator repeatedly applying the group operation to produce every element of the group.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Cyclic Groups) `#801EB8`, supporting elements `#DF9616`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>Permutation Groups</strong> &nbsp; <code>C34-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show object positions being rearranged by permutations and multiple permutations combining through composition.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Permutation Groups) `#801EB8`, supporting elements `#DF9616`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>Cosets and Lagrange&#x27;s Theorem</strong> &nbsp; <code>C34-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show translations of a subgroup partitioning a finite group into equal-size cosets and implying the divisibility of group orders.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Cosets and Lagrange's Theorem) `#801EB8`, supporting elements `#DF9616`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>Group Homomorphisms</strong> &nbsp; <code>C34-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a mapping preserving group operations while forming a kernel and an image.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Group Homomorphisms) `#801EB8`, supporting elements `#DF9616`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>Rings and Ideals</strong> &nbsp; <code>C34-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show addition and multiplication acting in a ring and why an ideal absorbs products with elements of the ring.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Rings and Ideals) `#801EB8`, supporting elements `#DF9616`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>Finite Fields</strong> &nbsp; <code>C34-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a finite set remaining closed under modular addition, subtraction, multiplication, and division while satisfying field properties.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Finite Fields) `#801EB8`, supporting elements `#DF9616`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+
+<a id="course-math-opt"></a>
+### Optimization Theory
+
+**TEXTBOOK · Convex Optimization (Boyd and Vandenberghe)** &nbsp; [Back to Mathematics courses](#mathematics)
+
+#### Knowledge points
+
+1. <details>
+   <summary><strong>Convex Sets and Convex Functions</strong> &nbsp; <code>C35-A001</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show every line segment between two points staying inside a convex set and every function chord staying above the graph.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Convex Sets and Convex Functions) `#B8AD1E`, supporting elements `#16DFD0`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+2. <details>
+   <summary><strong>First-Order Optimality Conditions</strong> &nbsp; <code>C35-A002</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show the gradient vanishing at an unconstrained extremum or ceasing to form a descent direction within the feasible region.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (First-Order Optimality Conditions) `#B8AD1E`, supporting elements `#16DFD0`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+3. <details>
+   <summary><strong>Second-Order Optimality Conditions</strong> &nbsp; <code>C35-A003</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show how local curvature encoded by the Hessian distinguishes a minimum, maximum, and saddle point.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Second-Order Optimality Conditions) `#B8AD1E`, supporting elements `#16DFD0`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+4. <details>
+   <summary><strong>Gradient Descent Convergence</strong> &nbsp; <code>C35-A004</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show iterates with different step sizes approaching an optimum, oscillating, or diverging along the negative gradient.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Gradient Descent Convergence) `#B8AD1E`, supporting elements `#16DFD0`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+5. <details>
+   <summary><strong>Newton&#x27;s Method</strong> &nbsp; <code>C35-A005</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show the algorithm using gradient and curvature to build a local quadratic approximation and jump rapidly toward an extremum.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Newton's Method) `#B8AD1E`, supporting elements `#16DFD0`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+6. <details>
+   <summary><strong>Lagrangian Duality</strong> &nbsp; <code>C35-A006</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a constrained optimization problem becoming a search for lower bounds and compare the primal and dual values.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Lagrangian Duality) `#B8AD1E`, supporting elements `#16DFD0`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+7. <details>
+   <summary><strong>KKT Conditions</strong> &nbsp; <code>C35-A007</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show feasibility, stationarity, and complementary slackness jointly constraining the active boundary at an optimum.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (KKT Conditions) `#B8AD1E`, supporting elements `#16DFD0`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
+
+8. <details>
+   <summary><strong>Projected Gradient Method</strong> &nbsp; <code>C35-A008</code> · VIDEO COMING SOON</summary>
+
+   ```text
+   Create an animation: Show a gradient step leaving the feasible region, projecting back to the nearest feasible point, and continuing the iteration.
+   Requirement: All explanatory text must be in English, and the video must have no audio.
+   Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+   Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Projected Gradient Method) `#B8AD1E`, supporting elements `#16DFD0`.
+   ```
+
+   Want to make more videos like this? [Create yours at Leadde](https://leadde.ai/animation).
+
+   </details>
 
 
 ---
@@ -1514,6 +3841,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1537,6 +3866,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -1562,6 +3893,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1585,6 +3918,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -1610,6 +3945,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1633,6 +3970,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -1658,6 +3997,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1681,6 +4022,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -1706,6 +4049,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1730,6 +4075,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -1753,6 +4100,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -1809,6 +4158,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1832,6 +4183,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -1857,6 +4210,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1880,6 +4235,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -1905,6 +4262,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1928,6 +4287,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -1953,6 +4314,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -1976,6 +4339,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -2001,6 +4366,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2024,6 +4391,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -2049,6 +4418,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -2073,6 +4444,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -2096,6 +4469,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -2129,6 +4504,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2152,6 +4529,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -2177,6 +4556,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2200,6 +4581,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -2225,6 +4608,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2248,6 +4633,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -2273,6 +4660,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2296,6 +4685,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -2321,6 +4712,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2344,6 +4737,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -2369,6 +4764,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -2392,6 +4789,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -2444,6 +4843,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2467,6 +4868,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -2492,6 +4895,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2515,6 +4920,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -2540,6 +4947,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2563,6 +4972,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -2588,6 +4999,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2611,6 +5024,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -2636,6 +5051,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2659,6 +5076,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -2684,6 +5103,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -2707,6 +5128,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -2732,6 +5155,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -2755,6 +5180,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -2807,6 +5234,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2830,6 +5259,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -2855,6 +5286,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2878,6 +5311,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -2903,6 +5338,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2926,6 +5363,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -2951,6 +5390,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -2974,6 +5415,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -2999,6 +5442,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3022,6 +5467,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -3047,6 +5494,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -3070,6 +5519,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -3122,6 +5573,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3145,6 +5598,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -3170,6 +5625,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3193,6 +5650,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -3218,6 +5677,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3241,6 +5702,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -3266,6 +5729,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3289,6 +5754,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -3314,6 +5781,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3337,6 +5806,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -3389,6 +5860,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3412,6 +5885,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -3437,6 +5912,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3460,6 +5937,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -3485,6 +5964,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3508,6 +5989,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -3533,6 +6016,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3556,6 +6041,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -3581,6 +6068,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3604,6 +6093,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -3629,6 +6120,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -3653,6 +6146,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -3676,6 +6171,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -3736,6 +6233,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3759,6 +6258,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -3784,6 +6285,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3807,6 +6310,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -3832,6 +6337,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3855,6 +6362,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -3880,6 +6389,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3903,6 +6414,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -3928,6 +6441,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -3952,6 +6467,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -3975,6 +6492,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -4008,6 +6527,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4031,6 +6552,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4056,6 +6579,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4079,6 +6604,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4104,6 +6631,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4127,6 +6656,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4152,6 +6683,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4175,6 +6708,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4208,6 +6743,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4231,6 +6768,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4256,6 +6795,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4279,6 +6820,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4304,6 +6847,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4327,6 +6872,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4352,6 +6899,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4375,6 +6924,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4400,6 +6951,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4423,6 +6976,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -4448,6 +7003,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -4471,6 +7028,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -4523,6 +7082,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4546,6 +7107,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4571,6 +7134,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4594,6 +7159,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4619,6 +7186,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4642,6 +7211,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4667,6 +7238,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4690,6 +7263,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4715,6 +7290,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4738,6 +7315,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -4763,6 +7342,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -4786,6 +7367,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -4838,6 +7421,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4861,6 +7446,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4886,6 +7473,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4909,6 +7498,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4934,6 +7525,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -4957,6 +7550,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -4982,6 +7577,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5005,6 +7602,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -5030,6 +7629,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5053,6 +7654,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -5078,6 +7681,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -5101,6 +7706,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -5126,6 +7733,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -5149,6 +7758,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -5201,6 +7812,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5224,6 +7837,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -5249,6 +7864,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5272,6 +7889,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -5297,6 +7916,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5320,6 +7941,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -5345,6 +7968,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5368,6 +7993,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -5393,6 +8020,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5416,6 +8045,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -5468,6 +8099,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5491,6 +8124,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -5516,6 +8151,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5539,6 +8176,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -5564,6 +8203,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5587,6 +8228,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -5612,6 +8255,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5635,6 +8280,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -5660,6 +8307,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5683,6 +8332,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -5735,6 +8386,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5758,6 +8411,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -5783,6 +8438,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5806,6 +8463,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -5831,6 +8490,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5854,6 +8515,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -5879,6 +8542,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5902,6 +8567,8 @@
    Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
+
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
@@ -5927,6 +8594,8 @@
 
    All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
+   Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
    Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
    ```
 
@@ -5950,6 +8619,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -5975,6 +8646,8 @@
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
 
@@ -5998,6 +8671,8 @@
     Keep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.
 
     All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
+
+    Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
     Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
     ```
@@ -6025,3 +8700,5 @@ To refresh the prompt catalog from the source spreadsheet, run:
 python3 scripts/import_csv.py <prompt-master.csv> data/prompts.json
 python3 scripts/build_github_readme.py
 ```
+
+The importer preserves existing English entries, translates the title and explanatory fields of newly added Chinese rows into English, and aborts before writing if any Chinese remains in a prompt.

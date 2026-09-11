@@ -79,6 +79,8 @@ for index, (course, first) in enumerate(library.items()):
 <path d="M92 152h54M106 138v28M1026 454h54M1040 440v28" stroke="{pale}" stroke-width="7" stroke-linecap="round" opacity=".7"/>
 {text}'''
     code = first["tags"][1].lower()
-    (COVER_DIR / f"{code}.svg").write_text(svg(art, 1200, 630), encoding="utf-8")
+    cover = COVER_DIR / f"{code}.svg"
+    if not cover.exists():
+        cover.write_text(svg(art, 1200, 630), encoding="utf-8")
 
 print(f"Created {len(ICONS)} subject icons and {len(library)} course covers.")
