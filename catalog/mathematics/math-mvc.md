@@ -16,7 +16,8 @@
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show the instantaneous slope of a surface slice along one coordinate direction while all other variables remain fixed.
@@ -36,6 +37,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#multivariable-calculus)
 
 ---
@@ -47,7 +50,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show the gradient assembled from directional rates and pointing along the surface's direction of steepest ascent.
@@ -67,6 +71,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#multivariable-calculus)
 
 ---
@@ -78,7 +84,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how projecting the gradient onto a chosen direction gives the function's rate of change along that direction.
@@ -98,6 +105,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#multivariable-calculus)
 
 ---
@@ -109,7 +118,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a multi-input, multi-output mapping being approximated locally by the linear transformation encoded by its Jacobian.
@@ -129,6 +139,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#multivariable-calculus)
 
 ---
@@ -140,7 +152,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show second partial derivatives describing local surface curvature and distinguishing minima, maxima, and saddle points.
@@ -160,6 +173,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#multivariable-calculus)
 
 ---
@@ -171,7 +186,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show objective contours becoming tangent to a constraint curve, where parallel gradients identify a constrained extremum.
@@ -191,6 +207,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#multivariable-calculus)
 
 ---
@@ -202,7 +220,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a planar region divided into a grid as sums of narrow column volumes converge to the total volume under a surface.
@@ -222,6 +241,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#multivariable-calculus)
 
 ---
@@ -233,7 +254,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Compare the outward flow strength and local rotational tendency of a vector field near a point.
@@ -252,6 +274,8 @@ Global rendering requirements:
 - Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
+
+</details>
 
 [Back to course top](#multivariable-calculus)
 

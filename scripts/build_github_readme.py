@@ -8,6 +8,7 @@ from pathlib import Path
 
 root = Path(__file__).resolve().parents[1]
 items = json.loads((root / "data/prompts.json").read_text(encoding="utf-8"))
+repository_url = "https://github.com/LeaddeOpenLab/leadde-motion-prompt-library"
 
 library = OrderedDict()
 for item in items:
@@ -19,6 +20,12 @@ def slug(value):
 
 def course_page(first):
     return f"catalog/{slug(first['subject'])}/{slug(first['tags'][1])}.md"
+
+def release_tag(first):
+    return f"course-videos-{slug(first['subject'])}-{slug(first['tags'][1])}"
+
+def bundle_name(first):
+    return f"{slug(first['tags'][1])}-videos.zip"
 
 def card(subject, courses):
     count = sum(len(prompts) for prompts in courses.values())
@@ -52,9 +59,15 @@ def write_course_page(subject, course, prompts):
         "",
         "> **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)",
         "",
-        "---",
-        "",
     ]
+    ready_prompts = [prompt for prompt in prompts if prompt.get("status") == "ready" and prompt.get("video")]
+    if ready_prompts:
+        bundle_url = f"{repository_url}/releases/download/{release_tag(first)}/{bundle_name(first)}"
+        page_lines.extend([
+            f"**Course download:** [Download all {len(ready_prompts)} videos as ZIP]({bundle_url})",
+            "",
+        ])
+    page_lines.extend(["---", ""])
     for prompt in prompts:
         video_ready = prompt.get("status") == "ready" and prompt.get("player")
         page_lines.extend([
@@ -66,15 +79,24 @@ def write_course_page(subject, course, prompts):
         ])
         if video_ready:
             # A GitHub attachment URL on its own line renders as GitHub's native video player.
-            page_lines.extend([prompt["player"], ""])
+            download_url = f"{repository_url}/raw/refs/heads/main/{prompt['video']}"
+            page_lines.extend([
+                prompt["player"],
+                "",
+                f"[Download {Path(prompt['video']).name}]({download_url})",
+                "",
+            ])
         page_lines.extend([
             "> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)",
             "",
-            "### Prompt",
+            "<details>",
+            '<summary><strong>View prompt</strong></summary>',
             "",
             "```text",
             prompt["prompt"],
             "```",
+            "",
+            "</details>",
             "",
             f"[Back to course top](#{slug(course)})",
             "",
@@ -151,6 +173,12 @@ lines.extend([
     "```",
     "",
     "Then set the matching entry in `data/prompts.json` to `status: ready`, populate its repository `video` path, and add its GitHub attachment URL as `player`. A standalone GitHub attachment URL renders as the native inline player.",
+    "",
+    "Course ZIP assets use fixed Release tags and filenames. Rebuild and replace them after adding videos with:",
+    "",
+    "```bash",
+    "GITHUB_TOKEN=... python3 scripts/publish_course_video_releases.py",
+    "```",
     "",
     "To refresh the prompt catalog from the source spreadsheet, run:",
     "",

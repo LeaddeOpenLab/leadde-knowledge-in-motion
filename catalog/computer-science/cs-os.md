@@ -7,6 +7,8 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
+**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/releases/download/course-videos-computer-science-cs-os/cs-os-videos.zip)
+
 ---
 
 <a id="c22-a001"></a>
@@ -16,9 +18,12 @@
 
 https://github.com/user-attachments/assets/5147b0d9-c87c-43f2-9bf3-2a18ffcef842
 
+[Download processes-and-threads.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/operating-systems/processes-and-threads.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how a process owns isolated resources while multiple threads share those resources and execute tasks concurrently.
@@ -38,6 +43,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#operating-systems)
 
 ---
@@ -49,9 +56,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/2663e547-96db-40a4-ae5e-ac7b590d8e98
 
+[Download process-state-transitions.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/operating-systems/process-state-transitions.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a process moving among ready, running, and blocked states in response to scheduling and events.
@@ -71,6 +81,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#operating-systems)
 
 ---
@@ -82,9 +94,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/99a72773-58c3-445b-a6c2-6f1c837e9c94
 
+[Download context-switching.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/operating-systems/context-switching.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how the operating system saves the current task's register state and restores another task so it can resume.
@@ -104,6 +119,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#operating-systems)
 
 ---
@@ -115,9 +132,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/e8379c6d-b424-45e1-8930-05a20a718f21
 
+[Download cpu-scheduling.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/operating-systems/cpu-scheduling.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how a scheduler selects tasks from the ready queue, assigns time slices, and changes their waiting and completion times.
@@ -137,6 +157,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#operating-systems)
 
 ---
@@ -148,9 +170,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/217de3d3-2af2-428f-8735-d582ca7292a6
 
+[Download virtual-memory-paging.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/operating-systems/virtual-memory-paging.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how a virtual address space is divided into pages and mapped to scattered physical page frames.
@@ -170,6 +195,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#operating-systems)
 
 ---
@@ -181,9 +208,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/aecf47c9-1cf8-42d1-8a8f-7f56cea390ad
 
+[Download page-table-address-translation.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/operating-systems/page-table-address-translation.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how a virtual address is split into a page number and offset, then translated through a page table into a physical address.
@@ -203,6 +233,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#operating-systems)
 
 ---
@@ -214,9 +246,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/74ad220c-88d5-4723-933b-40cf26d0d05b
 
+[Download page-replacement.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/operating-systems/page-replacement.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how the system handles a page fault in full memory by evicting one page and loading the required page.
@@ -236,6 +271,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#operating-systems)
 
 ---
@@ -247,9 +284,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/ef031ab6-68f4-41f0-a5b2-5f835666dda0
 
+[Download four-conditions-for-deadlock.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/operating-systems/four-conditions-for-deadlock.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show multiple processes becoming deadlocked through mutual exclusion, hold and wait, no preemption, and circular wait.
@@ -268,6 +308,8 @@ Global rendering requirements:
 - Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
+
+</details>
 
 [Back to course top](#operating-systems)
 

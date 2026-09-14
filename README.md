@@ -1114,6 +1114,12 @@ assets/videos/<subject-slug>/<course-slug>/<prompt-slug>.mp4
 
 Then set the matching entry in `data/prompts.json` to `status: ready`, populate its repository `video` path, and add its GitHub attachment URL as `player`. A standalone GitHub attachment URL renders as the native inline player.
 
+Course ZIP assets use fixed Release tags and filenames. Rebuild and replace them after adding videos with:
+
+```bash
+GITHUB_TOKEN=... python3 scripts/publish_course_video_releases.py
+```
+
 To refresh the prompt catalog from the source spreadsheet, run:
 
 ```bash

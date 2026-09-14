@@ -7,6 +7,8 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
+**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/releases/download/course-videos-computer-science-cs-comp/cs-comp-videos.zip)
+
 ---
 
 <a id="c25-a001"></a>
@@ -16,9 +18,12 @@
 
 https://github.com/user-attachments/assets/bbca391f-1be0-41d8-a48c-386e67bb353b
 
+[Download lexical-analysis-and-tokens.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/compiler-design/lexical-analysis-and-tokens.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a source-code character stream being scanned, grouped, and converted into a typed sequence of tokens.
@@ -38,6 +43,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#compiler-design)
 
 ---
@@ -49,9 +56,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/66ff7c13-514b-4c63-9ea5-a2c8f4c30e52
 
+[Download regular-expression-to-finite-automaton.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/compiler-design/regular-expression-to-finite-automaton.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a regular expression being constructed as a state machine that moves state character by character to recognize a string.
@@ -71,6 +81,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#compiler-design)
 
 ---
@@ -82,9 +94,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/d3a89741-a5a3-4774-881a-fa6c1d94d9f6
 
+[Download context-free-grammar.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/compiler-design/context-free-grammar.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show production rules expanding from the start symbol step by step to generate a valid sentence with nested structure.
@@ -104,6 +119,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#compiler-design)
 
 ---
@@ -115,9 +132,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/92b6aa35-95d2-4fbc-b79b-b1a499567e9a
 
+[Download abstract-syntax-tree.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/compiler-design/abstract-syntax-tree.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show tokens combining under grammar rules into a tree that makes operator precedence explicit.
@@ -137,6 +157,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#compiler-design)
 
 ---
@@ -148,9 +170,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/add57747-bd10-4d91-addd-6bfc59522fe7
 
+[Download recursive-descent-parsing.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/compiler-design/recursive-descent-parsing.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show parsing functions recursively consuming tokens according to grammar rules, building syntax structure or reporting an error.
@@ -170,6 +195,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#compiler-design)
 
 ---
@@ -181,9 +208,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/d6de691d-7449-4f4f-927c-bb62cb7a35ce
 
+[Download intermediate-representation.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/compiler-design/intermediate-representation.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show high-level source code being converted into three-address intermediate instructions that are easier to analyze and optimize.
@@ -203,6 +233,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#compiler-design)
 
 ---
@@ -214,9 +246,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/a9de63a8-0fe5-4c65-8041-e5fbbbd885bf
 
+[Download data-flow-analysis.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/compiler-design/data-flow-analysis.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show variable-definition and usage facts propagating through a control-flow graph until the analysis reaches a fixed point.
@@ -236,6 +271,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#compiler-design)
 
 ---
@@ -247,9 +284,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/a85c7162-8243-4545-b6fc-f735614bc97c
 
+[Download register-allocation.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/compiler-design/register-allocation.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show live variables receiving registers according to interference relationships and spilling to memory when registers run out.
@@ -268,6 +308,8 @@ Global rendering requirements:
 - Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
+
+</details>
 
 [Back to course top](#compiler-design)
 

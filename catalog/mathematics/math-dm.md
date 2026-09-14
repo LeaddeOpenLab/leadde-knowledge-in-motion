@@ -16,7 +16,8 @@
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show each row of a compound proposition's truth value being calculated from its atomic propositions.
@@ -36,6 +37,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#discrete-mathematics)
 
 ---
@@ -47,7 +50,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a proof establishing a base case and then using an arbitrary step to imply the next, covering all natural numbers.
@@ -67,6 +71,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#discrete-mathematics)
 
 ---
@@ -78,7 +84,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show elements moving among regions after union, intersection, difference, and complement operations.
@@ -98,6 +105,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#discrete-mathematics)
 
 ---
@@ -109,7 +118,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show an equivalence relation partitioning a set into non-overlapping classes of mutually equivalent elements.
@@ -129,6 +139,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#discrete-mathematics)
 
 ---
@@ -140,7 +152,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Compare counting processes in which object order matters with those in which it does not.
@@ -160,6 +173,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#discrete-mathematics)
 
 ---
@@ -171,7 +186,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show that when there are more objects than containers, at least one container must receive multiple objects.
@@ -191,6 +207,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#discrete-mathematics)
 
 ---
@@ -202,7 +220,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show each sequence term being generated from earlier terms and unfolding step by step from the initial values.
@@ -222,6 +241,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#discrete-mathematics)
 
 ---
@@ -233,7 +254,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how reachable paths and connected components change as vertices and edges are added or removed.
@@ -252,6 +274,8 @@ Global rendering requirements:
 - Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
+
+</details>
 
 [Back to course top](#discrete-mathematics)
 

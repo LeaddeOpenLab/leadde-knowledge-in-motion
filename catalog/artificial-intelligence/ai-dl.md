@@ -7,6 +7,8 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
+**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/releases/download/course-videos-artificial-intelligence-ai-dl/ai-dl-videos.zip)
+
 ---
 
 <a id="c26-a001"></a>
@@ -16,9 +18,12 @@
 
 https://github.com/user-attachments/assets/660fb578-4b88-43b0-8cd9-dd8dfbefb8ac
 
+[Download artificial-neuron.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/artificial-neuron.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show multiple inputs being weighted, summed, and passed through an activation function to produce a neuron's output.
@@ -38,6 +43,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#deep-learning)
 
 ---
@@ -49,9 +56,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/cc6cd634-5857-4ecb-a390-d48dafc1903f
 
+[Download activation-functions.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/activation-functions.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Compare how different activation functions turn the same inputs into nonlinear responses and gradients.
@@ -71,6 +81,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#deep-learning)
 
 ---
@@ -82,9 +94,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/3dd623e9-0301-4141-99a1-3245a74f8f3b
 
+[Download parameter-initialization.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/parameter-initialization.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how different initial weight scales affect signal and gradient propagation through a deep network.
@@ -104,6 +119,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#deep-learning)
 
 ---
@@ -115,9 +132,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/01ad0b37-8916-4a07-a1e6-bbc3c9b23cb7
 
+[Download batch-normalization.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/batch-normalization.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a batch of activations being standardized, then scaled and shifted to stabilize network training.
@@ -137,6 +157,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#deep-learning)
 
 ---
@@ -148,9 +170,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/1216cf53-09e1-4eeb-b212-0595e479f6b1
 
+[Download dropout.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/dropout.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show neurons being randomly masked during training and repeated subnetworks reducing co-adaptation.
@@ -170,6 +195,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#deep-learning)
 
 ---
@@ -181,9 +208,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/17e2dcf5-691a-404b-8e4e-b7d9e0cd05fa
 
+[Download convolutional-neural-network.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/convolutional-neural-network.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show kernels sliding over an image to extract local features that combine layer by layer into higher-level representations.
@@ -203,6 +233,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#deep-learning)
 
 ---
@@ -214,9 +246,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/3e2a4b2e-7955-4816-b4a8-d2d4c3a34d52
 
+[Download vanishing-gradients-in-recurrent-neural-networks.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/vanishing-gradients-in-recurrent-neural-networks.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show gradients shrinking rapidly as they multiply backward through time, making early information difficult to learn.
@@ -236,6 +271,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#deep-learning)
 
 ---
@@ -247,9 +284,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/9365d14c-e05f-4e9b-9b5a-e25880bfe980
 
+[Download attention-mechanism.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/attention-mechanism.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a query scoring its relevance to keys and using those scores to form a weighted sum of values from different positions.
@@ -268,6 +308,8 @@ Global rendering requirements:
 - Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
+
+</details>
 
 [Back to course top](#deep-learning)
 

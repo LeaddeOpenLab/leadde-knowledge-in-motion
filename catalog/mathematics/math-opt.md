@@ -16,7 +16,8 @@
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show every line segment between two points staying inside a convex set and every function chord staying above the graph.
@@ -36,6 +37,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#optimization-theory)
 
 ---
@@ -47,7 +50,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show the gradient vanishing at an unconstrained extremum or ceasing to form a descent direction within the feasible region.
@@ -67,6 +71,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#optimization-theory)
 
 ---
@@ -78,7 +84,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how local curvature encoded by the Hessian distinguishes a minimum, maximum, and saddle point.
@@ -98,6 +105,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#optimization-theory)
 
 ---
@@ -109,7 +118,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show iterates with different step sizes approaching an optimum, oscillating, or diverging along the negative gradient.
@@ -129,6 +139,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#optimization-theory)
 
 ---
@@ -140,7 +152,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show the algorithm using gradient and curvature to build a local quadratic approximation and jump rapidly toward an extremum.
@@ -160,6 +173,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#optimization-theory)
 
 ---
@@ -171,7 +186,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a constrained optimization problem becoming a search for lower bounds and compare the primal and dual values.
@@ -191,6 +207,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#optimization-theory)
 
 ---
@@ -202,7 +220,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show feasibility, stationarity, and complementary slackness jointly constraining the active boundary at an optimum.
@@ -222,6 +241,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#optimization-theory)
 
 ---
@@ -233,7 +254,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a gradient step leaving the feasible region, projecting back to the nearest feasible point, and continuing the iteration.
@@ -252,6 +274,8 @@ Global rendering requirements:
 - Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
+
+</details>
 
 [Back to course top](#optimization-theory)
 

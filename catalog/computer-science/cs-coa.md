@@ -7,6 +7,8 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
+**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/releases/download/course-videos-computer-science-cs-coa/cs-coa-videos.zip)
+
 ---
 
 <a id="c21-a001"></a>
@@ -16,9 +18,12 @@
 
 https://github.com/user-attachments/assets/eb56409e-d60a-4de2-91b0-dd1472cac0ee
 
+[Download two-s-complement.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/two-s-complement.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how a negative number is encoded by inverting its bits and adding one, allowing signed arithmetic to use the same adder.
@@ -38,6 +43,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#computer-organization-and-architecture)
 
 ---
@@ -49,9 +56,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/9475c337-86b9-4e6b-851b-4895afcccf05
 
+[Download floating-point-representation.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/floating-point-representation.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how a real number is split into sign, exponent, and significand fields, then demonstrate rounding and precision loss.
@@ -71,6 +81,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#computer-organization-and-architecture)
 
 ---
@@ -82,9 +94,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/224145d1-9d43-46f5-a1dc-0b526889b609
 
+[Download boolean-logic-gates.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/boolean-logic-gates.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how input voltage levels pass through AND, OR, and NOT gates to produce different logical outputs.
@@ -104,6 +119,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#computer-organization-and-architecture)
 
 ---
@@ -115,9 +132,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/ab1c3e42-5f0e-41eb-a854-e4daab0e3e34
 
+[Download combinational-logic.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/combinational-logic.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how multiple logic gates connect so that the output depends only on the current inputs.
@@ -137,6 +157,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#computer-organization-and-architecture)
 
 ---
@@ -148,9 +170,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/bd9d003b-391d-436c-8dfe-294e295e6fcc
 
+[Download sequential-logic-and-clocks.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/sequential-logic-and-clocks.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how a clock edge triggers state storage so that circuit outputs update at discrete moments.
@@ -170,6 +195,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#computer-organization-and-architecture)
 
 ---
@@ -181,9 +208,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/47e1367e-a0e7-4d00-bc9c-cfd1c3601ae0
 
+[Download cpu-fetch-decode-execute-cycle.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/cpu-fetch-decode-execute-cycle.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how the CPU fetches an instruction from memory, decodes its opcode, and drives components to execute it.
@@ -203,6 +233,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#computer-organization-and-architecture)
 
 ---
@@ -214,9 +246,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/3c784d44-673f-43b1-9c83-819913a735a3
 
+[Download pipeline-hazards.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/pipeline-hazards.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how data, control, and structural conflicts arise during overlapped instruction execution and cause stalls or forwarding.
@@ -236,6 +271,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#computer-organization-and-architecture)
 
 ---
@@ -247,9 +284,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/7f75be12-f342-440c-8459-273b3c55342e
 
+[Download cache-locality.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/cache-locality.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how sequential and repeated memory accesses hit the cache and reduce the delay of main-memory access.
@@ -268,6 +308,8 @@ Global rendering requirements:
 - Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
+
+</details>
 
 [Back to course top](#computer-organization-and-architecture)
 

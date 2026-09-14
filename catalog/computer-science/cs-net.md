@@ -7,6 +7,8 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
+**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/releases/download/course-videos-computer-science-cs-net/cs-net-videos.zip)
+
 ---
 
 <a id="c23-a001"></a>
@@ -16,9 +18,12 @@
 
 https://github.com/user-attachments/assets/4350f2c0-fe84-4122-af0d-0521e980db16
 
+[Download osi-and-tcp-ip-layers.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-networks/osi-and-tcp-ip-layers.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a message moving down a protocol stack for layered processing and being reconstructed in reverse order at the receiver.
@@ -38,6 +43,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#computer-networks)
 
 ---
@@ -49,9 +56,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/a9f047ec-d617-4c3e-a389-1441e0b14197
 
+[Download packet-encapsulation.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-networks/packet-encapsulation.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show application data gaining a header at each lower layer and being decapsulated layer by layer at the receiver.
@@ -71,6 +81,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#computer-networks)
 
 ---
@@ -82,9 +94,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/329d4be6-1b7b-42ca-9112-6a131660b369
 
+[Download subnet-masks-and-cidr.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-networks/subnet-masks-and-cidr.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show an IP address being combined with a mask to identify the network prefix and determine the host range.
@@ -104,6 +119,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#computer-networks)
 
 ---
@@ -115,9 +132,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/2881a892-0360-4cd6-9051-1eedeb261dd5
 
+[Download longest-prefix-routing-match.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-networks/longest-prefix-routing-match.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a router comparing several network prefixes and forwarding a packet through the most specific match.
@@ -137,6 +157,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#computer-networks)
 
 ---
@@ -148,9 +170,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/5d72fac1-7a0f-47b0-84e1-d4b07af1ac35
 
+[Download tcp-three-way-handshake.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-networks/tcp-three-way-handshake.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a client and server exchanging SYN and ACK messages to establish a reliable connection step by step.
@@ -170,6 +195,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#computer-networks)
 
 ---
@@ -181,9 +208,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/74673e1a-1a69-4494-8e04-44a455510688
 
+[Download tcp-congestion-window.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-networks/tcp-congestion-window.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how congestion signals make the sender expand or shrink its congestion window and adjust its transmission rate.
@@ -203,6 +233,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#computer-networks)
 
 ---
@@ -214,9 +246,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/7d6845b0-627b-4c0f-b016-588dda6bb7fa
 
+[Download dns-resolution.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-networks/dns-resolution.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a domain-name query passing through caches, a recursive resolver, and authoritative servers to obtain an IP address.
@@ -236,6 +271,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#computer-networks)
 
 ---
@@ -247,9 +284,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/d1030ceb-009a-4b01-a987-c268b3a8e48e
 
+[Download http-request-and-response.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-networks/http-request-and-response.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a browser sending an HTTP request and the server returning a status, headers, and content after processing it.
@@ -268,6 +308,8 @@ Global rendering requirements:
 - Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
+
+</details>
 
 [Back to course top](#computer-networks)
 

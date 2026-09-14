@@ -7,6 +7,8 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
+**Course download:** [Download all 16 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/releases/download/course-videos-computer-science-cs50x/cs50x-videos.zip)
+
 ---
 
 <a id="c01-a001"></a>
@@ -16,9 +18,12 @@
 
 https://github.com/user-attachments/assets/5d83efd1-a93e-4c8e-9b0d-59bdbacbad3d
 
+[Download pointer.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/pointer.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -50,6 +55,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -61,9 +68,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/bf504e53-5947-48f0-9c92-4075e8bb1e1b
 
+[Download memory-address.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/memory-address.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -95,6 +105,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -106,9 +118,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/142f1c47-add6-4151-bedc-6563c6194734
 
+[Download memory-layout.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/memory-layout.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -140,6 +155,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -151,9 +168,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/8645f636-26cd-44be-934c-4461b1171f5b
 
+[Download time-complexity.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/time-complexity.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -185,6 +205,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -196,9 +218,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/e171ff6f-5ac8-40c2-93dc-2cd505f2fa73
 
+[Download algorithm-growth-rate.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/algorithm-growth-rate.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -230,6 +255,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -241,9 +268,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/67eb3374-f198-4cda-9c72-34ae33fa36b5
 
+[Download sorting-process.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/sorting-process.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -275,6 +305,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -286,9 +318,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/2399ba49-d336-46b8-9b2b-4a1bf8b89aa9
 
+[Download binary-search.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/binary-search.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -320,6 +355,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -331,9 +368,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/0610742d-874d-4ad8-ac01-c1fc65763c51
 
+[Download linked-list.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/linked-list.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -365,6 +405,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -376,9 +418,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/85601696-dc1b-40d0-9b02-540900fa493b
 
+[Download tree-structure.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/tree-structure.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -410,6 +455,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -421,9 +468,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/f76bb668-6289-47ab-9a5e-60f65a130f81
 
+[Download hash-table.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/hash-table.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -455,6 +505,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -466,9 +518,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/5958194d-e984-4005-84a5-fd2aa8cd710e
 
+[Download relational-model.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/relational-model.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -500,6 +555,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -511,9 +568,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/7429d9a6-5b3d-4e72-88e2-58f1436ef1e2
 
+[Download sql-join.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/sql-join.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -545,6 +605,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -556,9 +618,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/750a83cf-b5a8-4740-8ec6-6f3ed9fb0acf
 
+[Download stack-vs-heap.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/stack-vs-heap.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Compare stack frames being pushed and popped automatically during function calls with objects being dynamically allocated and released on the heap.
@@ -578,6 +643,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -589,9 +656,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/939f789e-1dd1-4060-90ab-e7ddb26a9e4d
 
+[Download pointer-dereferencing.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/pointer-dereferencing.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how a program reads the address stored in a pointer, follows that address, and accesses or modifies the target memory cell.
@@ -611,6 +681,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -622,9 +694,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/728836c2-2b4f-4158-a65f-20b0f5a90ac2
 
+[Download pointer-arithmetic.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/pointer-arithmetic.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how adding or subtracting an integer moves a pointer across contiguous memory cells in steps determined by the data type size.
@@ -644,6 +719,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-computer-science)
 
 ---
@@ -655,9 +732,12 @@ Global rendering requirements:
 
 https://github.com/user-attachments/assets/f778b6e3-38ab-4e7b-b96f-c3bb582c6412
 
+[Download recursive-call-stack.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/recursive-call-stack.mp4)
+
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how every recursive call pushes a new stack frame and how those frames pop one by one as the calls return.
@@ -676,6 +756,8 @@ Global rendering requirements:
 - Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
+
+</details>
 
 [Back to course top](#introduction-to-computer-science)
 

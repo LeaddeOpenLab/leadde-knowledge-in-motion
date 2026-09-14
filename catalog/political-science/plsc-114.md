@@ -16,7 +16,8 @@
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -48,6 +49,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-political-philosophy)
 
 ---
@@ -59,7 +62,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -91,6 +95,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-political-philosophy)
 
 ---
@@ -102,7 +108,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -134,6 +141,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-political-philosophy)
 
 ---
@@ -145,7 +154,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -177,6 +187,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-political-philosophy)
 
 ---
@@ -188,7 +200,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -220,6 +233,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-political-philosophy)
 
 ---
@@ -231,7 +246,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -263,6 +279,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-political-philosophy)
 
 ---
@@ -274,7 +292,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -306,6 +325,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-political-philosophy)
 
 ---
@@ -317,7 +338,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -349,6 +371,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-political-philosophy)
 
 ---
@@ -360,7 +384,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -392,6 +417,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-political-philosophy)
 
 ---
@@ -403,7 +430,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -435,6 +463,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-political-philosophy)
 
 ---
@@ -446,7 +476,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -478,6 +509,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-political-philosophy)
 
 ---
@@ -489,7 +522,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -521,6 +555,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-political-philosophy)
 
 ---
@@ -532,7 +568,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -564,6 +601,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#introduction-to-political-philosophy)
 
 ---
@@ -575,7 +614,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create a 15-second silent educational animation in Manim Community Edition.
@@ -606,6 +646,8 @@ Global rendering requirements:
 - Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
+
+</details>
 
 [Back to course top](#introduction-to-political-philosophy)
 

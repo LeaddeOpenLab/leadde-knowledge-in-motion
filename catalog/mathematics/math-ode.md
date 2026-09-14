@@ -16,7 +16,8 @@
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show variable terms moving to opposite sides and being integrated separately to produce a solution curve evolving over time.
@@ -36,6 +37,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#ordinary-differential-equations)
 
 ---
@@ -47,7 +50,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show an integrating factor turning the left side into a product derivative and leading to the general solution.
@@ -67,6 +71,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#ordinary-differential-equations)
 
 ---
@@ -78,7 +84,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a one-dimensional state moving in the direction set by the derivative's sign and approaching or leaving equilibrium points.
@@ -98,6 +105,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#ordinary-differential-equations)
 
 ---
@@ -109,7 +118,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show nearby initial states returning to, moving away from, or remaining near an equilibrium after small perturbations.
@@ -129,6 +139,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#ordinary-differential-equations)
 
 ---
@@ -140,7 +152,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show how different characteristic-root types produce exponential growth, decay, or oscillation in the solution.
@@ -160,6 +173,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#ordinary-differential-equations)
 
 ---
@@ -171,7 +186,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show the response amplitude growing as an external driving frequency approaches the system's natural frequency.
@@ -191,6 +207,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#ordinary-differential-equations)
 
 ---
@@ -202,7 +220,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show trajectories from different initial conditions following a vector field and organizing into a phase portrait.
@@ -222,6 +241,8 @@ Global rendering requirements:
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
+</details>
+
 [Back to course top](#ordinary-differential-equations)
 
 ---
@@ -233,7 +254,8 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-### Prompt
+<details>
+<summary><strong>View prompt</strong></summary>
 
 ```text
 Create an animation: Show a numerical path advancing from an initial point in local-slope steps to approximate a differential-equation solution curve.
@@ -252,6 +274,8 @@ Global rendering requirements:
 - Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
 - Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
+
+</details>
 
 [Back to course top](#ordinary-differential-equations)
 
