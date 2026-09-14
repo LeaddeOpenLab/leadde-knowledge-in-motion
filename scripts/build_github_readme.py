@@ -56,7 +56,7 @@ def write_course_page(subject, course, prompts):
         "",
     ]
     for prompt in prompts:
-        video_ready = prompt.get("status") == "ready" and (prompt.get("player") or prompt.get("video"))
+        video_ready = prompt.get("status") == "ready" and prompt.get("player")
         page_lines.extend([
             f'<a id="{prompt["id"].lower()}"></a>',
             f"## {prompt['title']}",
@@ -65,11 +65,8 @@ def write_course_page(subject, course, prompts):
             "",
         ])
         if video_ready:
-            if prompt.get("player"):
-                # A GitHub attachment URL on its own line renders as GitHub's native video player.
-                page_lines.extend([prompt["player"], ""])
-            else:
-                page_lines.extend([f"[▶ Open video](../../{prompt['video']})", ""])
+            # A GitHub attachment URL on its own line renders as GitHub's native video player.
+            page_lines.extend([prompt["player"], ""])
         page_lines.extend([
             "> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)",
             "",
@@ -138,7 +135,7 @@ for subject, courses in library.items():
             "",
         ])
         for index, prompt in enumerate(prompts, 1):
-            video_ready = prompt.get("status") == "ready" and (prompt.get("player") or prompt.get("video"))
+            video_ready = prompt.get("status") == "ready" and prompt.get("player")
             marker = "▶ PLAY VIDEO + VIEW PROMPT" if video_ready else "VIEW PROMPT"
             lines.append(f"{index}. [**{html.escape(prompt['title'])}**]({page}#{prompt['id'].lower()}) · `{prompt['id']}` · {marker}")
         lines.append("")
