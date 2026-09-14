@@ -112,6 +112,8 @@ lines = [
     ">",
     "> Browse prompts and play finished videos directly with GitHub's native video player.",
     ">",
+    "> **Download videos: [Browse course ZIP bundles →](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/releases/tag/course-video-downloads)**",
+    ">",
     "> **Ready to create your own? [Turn a prompt into an animation with Leadde →](https://leadde.ai/animation)**",
     "",
     "## Browse the library",
