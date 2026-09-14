@@ -424,7 +424,7 @@ Global rendering requirements:
 
 `C01-A011` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/011ff2f2-addd-4bd0-9463-23279a83d227
+https://github.com/user-attachments/assets/5958194d-e984-4005-84a5-fd2aa8cd710e
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

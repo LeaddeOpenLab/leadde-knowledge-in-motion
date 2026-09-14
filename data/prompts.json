@@ -173,7 +173,7 @@
       "P1"
     ],
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Relational model” using this visual metaphor: “a clean data table where one row becomes a tuple and one column becomes a key”. Dynamically demonstrate the core formula or conclusion: R(A_1,A_2,\\ldots,A_n).\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.\n\nStrictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.",
-    "player": "https://github.com/user-attachments/assets/011ff2f2-addd-4bd0-9463-23279a83d227"
+    "player": "https://github.com/user-attachments/assets/5958194d-e984-4005-84a5-fd2aa8cd710e"
   },
   {
     "id": "C01-A012",
@@ -733,7 +733,7 @@
       "P0"
     ],
     "prompt": "Create an animation: Show a message moving down a protocol stack for layered processing and being reconstructed in reverse order at the receiver.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (OSI and TCP/IP Layers) `#1EB873`, supporting elements `#8516DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.",
-    "player": "https://github.com/user-attachments/assets/45407888-f3f3-4a71-8478-878afeb8ab29"
+    "player": "https://github.com/user-attachments/assets/4350f2c0-fe84-4122-af0d-0521e980db16"
   },
   {
     "id": "C23-A002",
@@ -749,7 +749,7 @@
       "P0"
     ],
     "prompt": "Create an animation: Show application data gaining a header at each lower layer and being decapsulated layer by layer at the receiver.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (Packet Encapsulation) `#1EB873`, supporting elements `#8516DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.",
-    "player": "https://github.com/user-attachments/assets/d3423467-ec29-4d8a-b444-25a93063e91b"
+    "player": "https://github.com/user-attachments/assets/a9f047ec-d617-4c3e-a389-1441e0b14197"
   },
   {
     "id": "C23-A003",
@@ -797,7 +797,7 @@
       "P0"
     ],
     "prompt": "Create an animation: Show a client and server exchanging SYN and ACK messages to establish a reliable connection step by step.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (TCP Three-Way Handshake) `#1EB873`, supporting elements `#8516DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.",
-    "player": "https://github.com/user-attachments/assets/c428b1ce-9826-4358-889f-da6a9ea12a47"
+    "player": "https://github.com/user-attachments/assets/5d72fac1-7a0f-47b0-84e1-d4b07af1ac35"
   },
   {
     "id": "C23-A006",
@@ -845,7 +845,7 @@
       "P0"
     ],
     "prompt": "Create an animation: Show a browser sending an HTTP request and the server returning a status, headers, and content after processing it.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.\nColors: Background `#F9F1E7`, English text `#5F4C1C`, primary visual (HTTP Request and Response) `#1EB873`, supporting elements `#8516DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.",
-    "player": "https://github.com/user-attachments/assets/b49ef1d2-caef-4deb-9995-bebec40ba926"
+    "player": "https://github.com/user-attachments/assets/d1030ceb-009a-4b01-a987-c268b3a8e48e"
   },
   {
     "id": "C24-A001",

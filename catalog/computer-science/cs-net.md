@@ -14,7 +14,7 @@
 
 `C23-A001` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/45407888-f3f3-4a71-8478-878afeb8ab29
+https://github.com/user-attachments/assets/4350f2c0-fe84-4122-af0d-0521e980db16
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -43,7 +43,7 @@ Global rendering requirements:
 
 `C23-A002` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/d3423467-ec29-4d8a-b444-25a93063e91b
+https://github.com/user-attachments/assets/a9f047ec-d617-4c3e-a389-1441e0b14197
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -130,7 +130,7 @@ Global rendering requirements:
 
 `C23-A005` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/c428b1ce-9826-4358-889f-da6a9ea12a47
+https://github.com/user-attachments/assets/5d72fac1-7a0f-47b0-84e1-d4b07af1ac35
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -217,7 +217,7 @@ Global rendering requirements:
 
 `C23-A008` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/b49ef1d2-caef-4deb-9995-bebec40ba926
+https://github.com/user-attachments/assets/d1030ceb-009a-4b01-a987-c268b3a8e48e
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
