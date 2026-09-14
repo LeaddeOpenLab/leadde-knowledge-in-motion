@@ -317,26 +317,26 @@
 
 #### Knowledge points
 
-1. [**Decision boundary**](catalog/artificial-intelligence/6-036.md#c03-a001) · `C03-A001` · VIEW PROMPT
-2. [**Feature space**](catalog/artificial-intelligence/6-036.md#c03-a002) · `C03-A002` · VIEW PROMPT
-3. [**Gradient descent**](catalog/artificial-intelligence/6-036.md#c03-a003) · `C03-A003` · VIEW PROMPT
-4. [**Loss of terrain**](catalog/artificial-intelligence/6-036.md#c03-a004) · `C03-A004` · VIEW PROMPT
-5. [**Overfitting**](catalog/artificial-intelligence/6-036.md#c03-a005) · `C03-A005` · VIEW PROMPT
-6. [**Underfitting**](catalog/artificial-intelligence/6-036.md#c03-a006) · `C03-A006` · VIEW PROMPT
-7. [**Model bias**](catalog/artificial-intelligence/6-036.md#c03-a007) · `C03-A007` · VIEW PROMPT
-8. [**Model variance**](catalog/artificial-intelligence/6-036.md#c03-a008) · `C03-A008` · VIEW PROMPT
-9. [**Backpropagation**](catalog/artificial-intelligence/6-036.md#c03-a009) · `C03-A009` · VIEW PROMPT
-10. [**Chain rule**](catalog/artificial-intelligence/6-036.md#c03-a010) · `C03-A010` · VIEW PROMPT
-11. [**Markov decision process**](catalog/artificial-intelligence/6-036.md#c03-a011) · `C03-A011` · VIEW PROMPT
-12. [**Value iteration**](catalog/artificial-intelligence/6-036.md#c03-a012) · `C03-A012` · VIEW PROMPT
-13. [**Linear Regression**](catalog/artificial-intelligence/6-036.md#c03-a013) · `C03-A013` · VIEW PROMPT
-14. [**Logistic Regression**](catalog/artificial-intelligence/6-036.md#c03-a014) · `C03-A014` · VIEW PROMPT
-15. [**Softmax Classification**](catalog/artificial-intelligence/6-036.md#c03-a015) · `C03-A015` · VIEW PROMPT
-16. [**K-Nearest Neighbors**](catalog/artificial-intelligence/6-036.md#c03-a016) · `C03-A016` · VIEW PROMPT
-17. [**Maximum-Margin Support Vector Machine**](catalog/artificial-intelligence/6-036.md#c03-a017) · `C03-A017` · VIEW PROMPT
-18. [**Decision-Tree Information Gain**](catalog/artificial-intelligence/6-036.md#c03-a018) · `C03-A018` · VIEW PROMPT
-19. [**K-Means Clustering**](catalog/artificial-intelligence/6-036.md#c03-a019) · `C03-A019` · VIEW PROMPT
-20. [**Principal Component Analysis**](catalog/artificial-intelligence/6-036.md#c03-a020) · `C03-A020` · VIEW PROMPT
+1. [**Decision boundary**](catalog/artificial-intelligence/6-036.md#c03-a001) · `C03-A001` · ▶ PLAY VIDEO + VIEW PROMPT
+2. [**Feature space**](catalog/artificial-intelligence/6-036.md#c03-a002) · `C03-A002` · ▶ PLAY VIDEO + VIEW PROMPT
+3. [**Gradient descent**](catalog/artificial-intelligence/6-036.md#c03-a003) · `C03-A003` · ▶ PLAY VIDEO + VIEW PROMPT
+4. [**Loss of terrain**](catalog/artificial-intelligence/6-036.md#c03-a004) · `C03-A004` · ▶ PLAY VIDEO + VIEW PROMPT
+5. [**Overfitting**](catalog/artificial-intelligence/6-036.md#c03-a005) · `C03-A005` · ▶ PLAY VIDEO + VIEW PROMPT
+6. [**Underfitting**](catalog/artificial-intelligence/6-036.md#c03-a006) · `C03-A006` · ▶ PLAY VIDEO + VIEW PROMPT
+7. [**Model bias**](catalog/artificial-intelligence/6-036.md#c03-a007) · `C03-A007` · ▶ PLAY VIDEO + VIEW PROMPT
+8. [**Model variance**](catalog/artificial-intelligence/6-036.md#c03-a008) · `C03-A008` · ▶ PLAY VIDEO + VIEW PROMPT
+9. [**Backpropagation**](catalog/artificial-intelligence/6-036.md#c03-a009) · `C03-A009` · ▶ PLAY VIDEO + VIEW PROMPT
+10. [**Chain rule**](catalog/artificial-intelligence/6-036.md#c03-a010) · `C03-A010` · ▶ PLAY VIDEO + VIEW PROMPT
+11. [**Markov decision process**](catalog/artificial-intelligence/6-036.md#c03-a011) · `C03-A011` · ▶ PLAY VIDEO + VIEW PROMPT
+12. [**Value iteration**](catalog/artificial-intelligence/6-036.md#c03-a012) · `C03-A012` · ▶ PLAY VIDEO + VIEW PROMPT
+13. [**Linear Regression**](catalog/artificial-intelligence/6-036.md#c03-a013) · `C03-A013` · ▶ PLAY VIDEO + VIEW PROMPT
+14. [**Logistic Regression**](catalog/artificial-intelligence/6-036.md#c03-a014) · `C03-A014` · ▶ PLAY VIDEO + VIEW PROMPT
+15. [**Softmax Classification**](catalog/artificial-intelligence/6-036.md#c03-a015) · `C03-A015` · ▶ PLAY VIDEO + VIEW PROMPT
+16. [**K-Nearest Neighbors**](catalog/artificial-intelligence/6-036.md#c03-a016) · `C03-A016` · ▶ PLAY VIDEO + VIEW PROMPT
+17. [**Maximum-Margin Support Vector Machine**](catalog/artificial-intelligence/6-036.md#c03-a017) · `C03-A017` · ▶ PLAY VIDEO + VIEW PROMPT
+18. [**Decision-Tree Information Gain**](catalog/artificial-intelligence/6-036.md#c03-a018) · `C03-A018` · ▶ PLAY VIDEO + VIEW PROMPT
+19. [**K-Means Clustering**](catalog/artificial-intelligence/6-036.md#c03-a019) · `C03-A019` · ▶ PLAY VIDEO + VIEW PROMPT
+20. [**Principal Component Analysis**](catalog/artificial-intelligence/6-036.md#c03-a020) · `C03-A020` · ▶ PLAY VIDEO + VIEW PROMPT
 
 ### [Deep Learning](catalog/artificial-intelligence/ai-dl.md)
 
@@ -344,14 +344,14 @@
 
 #### Knowledge points
 
-1. [**Artificial Neuron**](catalog/artificial-intelligence/ai-dl.md#c26-a001) · `C26-A001` · VIEW PROMPT
-2. [**Activation Functions**](catalog/artificial-intelligence/ai-dl.md#c26-a002) · `C26-A002` · VIEW PROMPT
-3. [**Parameter Initialization**](catalog/artificial-intelligence/ai-dl.md#c26-a003) · `C26-A003` · VIEW PROMPT
-4. [**Batch Normalization**](catalog/artificial-intelligence/ai-dl.md#c26-a004) · `C26-A004` · VIEW PROMPT
-5. [**Dropout**](catalog/artificial-intelligence/ai-dl.md#c26-a005) · `C26-A005` · VIEW PROMPT
-6. [**Convolutional Neural Network**](catalog/artificial-intelligence/ai-dl.md#c26-a006) · `C26-A006` · VIEW PROMPT
-7. [**Vanishing Gradients in Recurrent Neural Networks**](catalog/artificial-intelligence/ai-dl.md#c26-a007) · `C26-A007` · VIEW PROMPT
-8. [**Attention Mechanism**](catalog/artificial-intelligence/ai-dl.md#c26-a008) · `C26-A008` · VIEW PROMPT
+1. [**Artificial Neuron**](catalog/artificial-intelligence/ai-dl.md#c26-a001) · `C26-A001` · ▶ PLAY VIDEO + VIEW PROMPT
+2. [**Activation Functions**](catalog/artificial-intelligence/ai-dl.md#c26-a002) · `C26-A002` · ▶ PLAY VIDEO + VIEW PROMPT
+3. [**Parameter Initialization**](catalog/artificial-intelligence/ai-dl.md#c26-a003) · `C26-A003` · ▶ PLAY VIDEO + VIEW PROMPT
+4. [**Batch Normalization**](catalog/artificial-intelligence/ai-dl.md#c26-a004) · `C26-A004` · ▶ PLAY VIDEO + VIEW PROMPT
+5. [**Dropout**](catalog/artificial-intelligence/ai-dl.md#c26-a005) · `C26-A005` · ▶ PLAY VIDEO + VIEW PROMPT
+6. [**Convolutional Neural Network**](catalog/artificial-intelligence/ai-dl.md#c26-a006) · `C26-A006` · ▶ PLAY VIDEO + VIEW PROMPT
+7. [**Vanishing Gradients in Recurrent Neural Networks**](catalog/artificial-intelligence/ai-dl.md#c26-a007) · `C26-A007` · ▶ PLAY VIDEO + VIEW PROMPT
+8. [**Attention Mechanism**](catalog/artificial-intelligence/ai-dl.md#c26-a008) · `C26-A008` · ▶ PLAY VIDEO + VIEW PROMPT
 
 ### [Natural Language Processing](catalog/artificial-intelligence/ai-nlp.md)
 
@@ -359,14 +359,14 @@
 
 #### Knowledge points
 
-1. [**Text Tokenization**](catalog/artificial-intelligence/ai-nlp.md#c27-a001) · `C27-A001` · VIEW PROMPT
-2. [**N-Gram Language Model**](catalog/artificial-intelligence/ai-nlp.md#c27-a002) · `C27-A002` · VIEW PROMPT
-3. [**Word Embeddings**](catalog/artificial-intelligence/ai-nlp.md#c27-a003) · `C27-A003` · VIEW PROMPT
-4. [**Positional Encoding**](catalog/artificial-intelligence/ai-nlp.md#c27-a004) · `C27-A004` · VIEW PROMPT
-5. [**Self-Attention**](catalog/artificial-intelligence/ai-nlp.md#c27-a005) · `C27-A005` · VIEW PROMPT
-6. [**Encoder-Decoder Architecture**](catalog/artificial-intelligence/ai-nlp.md#c27-a006) · `C27-A006` · VIEW PROMPT
-7. [**Beam Search**](catalog/artificial-intelligence/ai-nlp.md#c27-a007) · `C27-A007` · VIEW PROMPT
-8. [**Retrieval-Augmented Generation**](catalog/artificial-intelligence/ai-nlp.md#c27-a008) · `C27-A008` · VIEW PROMPT
+1. [**Text Tokenization**](catalog/artificial-intelligence/ai-nlp.md#c27-a001) · `C27-A001` · ▶ PLAY VIDEO + VIEW PROMPT
+2. [**N-Gram Language Model**](catalog/artificial-intelligence/ai-nlp.md#c27-a002) · `C27-A002` · ▶ PLAY VIDEO + VIEW PROMPT
+3. [**Word Embeddings**](catalog/artificial-intelligence/ai-nlp.md#c27-a003) · `C27-A003` · ▶ PLAY VIDEO + VIEW PROMPT
+4. [**Positional Encoding**](catalog/artificial-intelligence/ai-nlp.md#c27-a004) · `C27-A004` · ▶ PLAY VIDEO + VIEW PROMPT
+5. [**Self-Attention**](catalog/artificial-intelligence/ai-nlp.md#c27-a005) · `C27-A005` · ▶ PLAY VIDEO + VIEW PROMPT
+6. [**Encoder-Decoder Architecture**](catalog/artificial-intelligence/ai-nlp.md#c27-a006) · `C27-A006` · ▶ PLAY VIDEO + VIEW PROMPT
+7. [**Beam Search**](catalog/artificial-intelligence/ai-nlp.md#c27-a007) · `C27-A007` · ▶ PLAY VIDEO + VIEW PROMPT
+8. [**Retrieval-Augmented Generation**](catalog/artificial-intelligence/ai-nlp.md#c27-a008) · `C27-A008` · ▶ PLAY VIDEO + VIEW PROMPT
 
 ### [Computer Vision](catalog/artificial-intelligence/ai-cv.md)
 
@@ -374,14 +374,14 @@
 
 #### Knowledge points
 
-1. [**Image Convolution**](catalog/artificial-intelligence/ai-cv.md#c28-a001) · `C28-A001` · VIEW PROMPT
-2. [**Edge Detection**](catalog/artificial-intelligence/ai-cv.md#c28-a002) · `C28-A002` · VIEW PROMPT
-3. [**Padding and Stride**](catalog/artificial-intelligence/ai-cv.md#c28-a003) · `C28-A003` · VIEW PROMPT
-4. [**Pooling**](catalog/artificial-intelligence/ai-cv.md#c28-a004) · `C28-A004` · VIEW PROMPT
-5. [**Receptive Field**](catalog/artificial-intelligence/ai-cv.md#c28-a005) · `C28-A005` · VIEW PROMPT
-6. [**Intersection over Union and Non-Maximum Suppression**](catalog/artificial-intelligence/ai-cv.md#c28-a006) · `C28-A006` · VIEW PROMPT
-7. [**Semantic Segmentation**](catalog/artificial-intelligence/ai-cv.md#c28-a007) · `C28-A007` · VIEW PROMPT
-8. [**Image Data Augmentation**](catalog/artificial-intelligence/ai-cv.md#c28-a008) · `C28-A008` · VIEW PROMPT
+1. [**Image Convolution**](catalog/artificial-intelligence/ai-cv.md#c28-a001) · `C28-A001` · ▶ PLAY VIDEO + VIEW PROMPT
+2. [**Edge Detection**](catalog/artificial-intelligence/ai-cv.md#c28-a002) · `C28-A002` · ▶ PLAY VIDEO + VIEW PROMPT
+3. [**Padding and Stride**](catalog/artificial-intelligence/ai-cv.md#c28-a003) · `C28-A003` · ▶ PLAY VIDEO + VIEW PROMPT
+4. [**Pooling**](catalog/artificial-intelligence/ai-cv.md#c28-a004) · `C28-A004` · ▶ PLAY VIDEO + VIEW PROMPT
+5. [**Receptive Field**](catalog/artificial-intelligence/ai-cv.md#c28-a005) · `C28-A005` · ▶ PLAY VIDEO + VIEW PROMPT
+6. [**Intersection over Union and Non-Maximum Suppression**](catalog/artificial-intelligence/ai-cv.md#c28-a006) · `C28-A006` · ▶ PLAY VIDEO + VIEW PROMPT
+7. [**Semantic Segmentation**](catalog/artificial-intelligence/ai-cv.md#c28-a007) · `C28-A007` · ▶ PLAY VIDEO + VIEW PROMPT
+8. [**Image Data Augmentation**](catalog/artificial-intelligence/ai-cv.md#c28-a008) · `C28-A008` · ▶ PLAY VIDEO + VIEW PROMPT
 
 ### [Reinforcement Learning](catalog/artificial-intelligence/ai-rl.md)
 
@@ -389,14 +389,14 @@
 
 #### Knowledge points
 
-1. [**States, Actions, and Rewards**](catalog/artificial-intelligence/ai-rl.md#c29-a001) · `C29-A001` · VIEW PROMPT
-2. [**Discounted Return**](catalog/artificial-intelligence/ai-rl.md#c29-a002) · `C29-A002` · VIEW PROMPT
-3. [**Bellman Optimality Equation**](catalog/artificial-intelligence/ai-rl.md#c29-a003) · `C29-A003` · VIEW PROMPT
-4. [**Q-Learning Update**](catalog/artificial-intelligence/ai-rl.md#c29-a004) · `C29-A004` · VIEW PROMPT
-5. [**Epsilon-Greedy Exploration**](catalog/artificial-intelligence/ai-rl.md#c29-a005) · `C29-A005` · VIEW PROMPT
-6. [**Policy Gradient**](catalog/artificial-intelligence/ai-rl.md#c29-a006) · `C29-A006` · VIEW PROMPT
-7. [**Actor-Critic Method**](catalog/artificial-intelligence/ai-rl.md#c29-a007) · `C29-A007` · VIEW PROMPT
-8. [**Experience Replay**](catalog/artificial-intelligence/ai-rl.md#c29-a008) · `C29-A008` · VIEW PROMPT
+1. [**States, Actions, and Rewards**](catalog/artificial-intelligence/ai-rl.md#c29-a001) · `C29-A001` · ▶ PLAY VIDEO + VIEW PROMPT
+2. [**Discounted Return**](catalog/artificial-intelligence/ai-rl.md#c29-a002) · `C29-A002` · ▶ PLAY VIDEO + VIEW PROMPT
+3. [**Bellman Optimality Equation**](catalog/artificial-intelligence/ai-rl.md#c29-a003) · `C29-A003` · ▶ PLAY VIDEO + VIEW PROMPT
+4. [**Q-Learning Update**](catalog/artificial-intelligence/ai-rl.md#c29-a004) · `C29-A004` · ▶ PLAY VIDEO + VIEW PROMPT
+5. [**Epsilon-Greedy Exploration**](catalog/artificial-intelligence/ai-rl.md#c29-a005) · `C29-A005` · ▶ PLAY VIDEO + VIEW PROMPT
+6. [**Policy Gradient**](catalog/artificial-intelligence/ai-rl.md#c29-a006) · `C29-A006` · ▶ PLAY VIDEO + VIEW PROMPT
+7. [**Actor-Critic Method**](catalog/artificial-intelligence/ai-rl.md#c29-a007) · `C29-A007` · ▶ PLAY VIDEO + VIEW PROMPT
+8. [**Experience Replay**](catalog/artificial-intelligence/ai-rl.md#c29-a008) · `C29-A008` · ▶ PLAY VIDEO + VIEW PROMPT
 
 ### [Generative Artificial Intelligence](catalog/artificial-intelligence/ai-gen.md)
 
@@ -404,14 +404,14 @@
 
 #### Knowledge points
 
-1. [**Autoencoder**](catalog/artificial-intelligence/ai-gen.md#c30-a001) · `C30-A001` · VIEW PROMPT
-2. [**Variational Autoencoder Reparameterization**](catalog/artificial-intelligence/ai-gen.md#c30-a002) · `C30-A002` · VIEW PROMPT
-3. [**Latent-Space Interpolation**](catalog/artificial-intelligence/ai-gen.md#c30-a003) · `C30-A003` · VIEW PROMPT
-4. [**Generative Adversarial Training**](catalog/artificial-intelligence/ai-gen.md#c30-a004) · `C30-A004` · VIEW PROMPT
-5. [**Mode Collapse**](catalog/artificial-intelligence/ai-gen.md#c30-a005) · `C30-A005` · VIEW PROMPT
-6. [**Diffusion Forward Noising**](catalog/artificial-intelligence/ai-gen.md#c30-a006) · `C30-A006` · VIEW PROMPT
-7. [**Diffusion Reverse Denoising**](catalog/artificial-intelligence/ai-gen.md#c30-a007) · `C30-A007` · VIEW PROMPT
-8. [**Classifier-Free Guidance**](catalog/artificial-intelligence/ai-gen.md#c30-a008) · `C30-A008` · VIEW PROMPT
+1. [**Autoencoder**](catalog/artificial-intelligence/ai-gen.md#c30-a001) · `C30-A001` · ▶ PLAY VIDEO + VIEW PROMPT
+2. [**Variational Autoencoder Reparameterization**](catalog/artificial-intelligence/ai-gen.md#c30-a002) · `C30-A002` · ▶ PLAY VIDEO + VIEW PROMPT
+3. [**Latent-Space Interpolation**](catalog/artificial-intelligence/ai-gen.md#c30-a003) · `C30-A003` · ▶ PLAY VIDEO + VIEW PROMPT
+4. [**Generative Adversarial Training**](catalog/artificial-intelligence/ai-gen.md#c30-a004) · `C30-A004` · ▶ PLAY VIDEO + VIEW PROMPT
+5. [**Mode Collapse**](catalog/artificial-intelligence/ai-gen.md#c30-a005) · `C30-A005` · ▶ PLAY VIDEO + VIEW PROMPT
+6. [**Diffusion Forward Noising**](catalog/artificial-intelligence/ai-gen.md#c30-a006) · `C30-A006` · ▶ PLAY VIDEO + VIEW PROMPT
+7. [**Diffusion Reverse Denoising**](catalog/artificial-intelligence/ai-gen.md#c30-a007) · `C30-A007` · ▶ PLAY VIDEO + VIEW PROMPT
+8. [**Classifier-Free Guidance**](catalog/artificial-intelligence/ai-gen.md#c30-a008) · `C30-A008` · ▶ PLAY VIDEO + VIEW PROMPT
 
 ---
 

@@ -23,7 +23,11 @@ https://github.com/user-attachments/assets/bbca391f-1be0-41d8-a48c-386e67bb353b
 ```text
 Create an animation: Show a source-code character stream being scanned, grouped, and converted into a typed sequence of tokens.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Lexical Analysis and Tokens) `#A4B81E`, supporting elements `#16C4DF`.
 
 Global rendering requirements:
@@ -52,7 +56,11 @@ https://github.com/user-attachments/assets/66ff7c13-514b-4c63-9ea5-a2c8f4c30e52
 ```text
 Create an animation: Show a regular expression being constructed as a state machine that moves state character by character to recognize a string.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Regular Expression to Finite Automaton) `#A4B81E`, supporting elements `#16C4DF`.
 
 Global rendering requirements:
@@ -81,7 +89,11 @@ https://github.com/user-attachments/assets/d3a89741-a5a3-4774-881a-fa6c1d94d9f6
 ```text
 Create an animation: Show production rules expanding from the start symbol step by step to generate a valid sentence with nested structure.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Context-Free Grammar) `#A4B81E`, supporting elements `#16C4DF`.
 
 Global rendering requirements:
@@ -110,7 +122,11 @@ https://github.com/user-attachments/assets/92b6aa35-95d2-4fbc-b79b-b1a499567e9a
 ```text
 Create an animation: Show tokens combining under grammar rules into a tree that makes operator precedence explicit.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Abstract Syntax Tree) `#A4B81E`, supporting elements `#16C4DF`.
 
 Global rendering requirements:
@@ -139,7 +155,11 @@ https://github.com/user-attachments/assets/add57747-bd10-4d91-addd-6bfc59522fe7
 ```text
 Create an animation: Show parsing functions recursively consuming tokens according to grammar rules, building syntax structure or reporting an error.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Recursive-Descent Parsing) `#A4B81E`, supporting elements `#16C4DF`.
 
 Global rendering requirements:
@@ -168,7 +188,11 @@ https://github.com/user-attachments/assets/d6de691d-7449-4f4f-927c-bb62cb7a35ce
 ```text
 Create an animation: Show high-level source code being converted into three-address intermediate instructions that are easier to analyze and optimize.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Intermediate Representation) `#A4B81E`, supporting elements `#16C4DF`.
 
 Global rendering requirements:
@@ -197,7 +221,11 @@ https://github.com/user-attachments/assets/a9de63a8-0fe5-4c65-8041-e5fbbbd885bf
 ```text
 Create an animation: Show variable-definition and usage facts propagating through a control-flow graph until the analysis reaches a fixed point.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Data-Flow Analysis) `#A4B81E`, supporting elements `#16C4DF`.
 
 Global rendering requirements:
@@ -226,7 +254,11 @@ https://github.com/user-attachments/assets/a85c7162-8243-4545-b6fc-f735614bc97c
 ```text
 Create an animation: Show live variables receiving registers according to interference relationships and spilling to memory when registers run out.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7F6`, English text `#5F1C4B`, primary visual (Register Allocation) `#A4B81E`, supporting elements `#16C4DF`.
 
 Global rendering requirements:

@@ -67,7 +67,11 @@ Keep introducing meaningful animation information until {resolution_end:g} secon
 
 All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background ({row["background"]}); main visual ({row["primary"]}); secondary visual ({row["secondary"]}); highlight ({row["highlight"]}); and text ({row["text"]}). Maintain strong contrast and legibility.
 
-Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.'''
 

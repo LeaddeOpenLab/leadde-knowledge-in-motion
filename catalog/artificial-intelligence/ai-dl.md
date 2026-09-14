@@ -12,7 +12,9 @@
 <a id="c26-a001"></a>
 ## Artificial Neuron
 
-`C26-A001` · Video coming soon
+`C26-A001` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/deep-learning/artificial-neuron.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -21,7 +23,11 @@
 ```text
 Create an animation: Show multiple inputs being weighted, summed, and passed through an activation function to produce a neuron's output.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Artificial Neuron) `#B81E4A`, supporting elements `#4FDF16`.
 
 Global rendering requirements:
@@ -39,7 +45,9 @@ Global rendering requirements:
 <a id="c26-a002"></a>
 ## Activation Functions
 
-`C26-A002` · Video coming soon
+`C26-A002` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/deep-learning/activation-functions.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -48,7 +56,11 @@ Global rendering requirements:
 ```text
 Create an animation: Compare how different activation functions turn the same inputs into nonlinear responses and gradients.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Activation Functions) `#B81E4A`, supporting elements `#4FDF16`.
 
 Global rendering requirements:
@@ -66,7 +78,9 @@ Global rendering requirements:
 <a id="c26-a003"></a>
 ## Parameter Initialization
 
-`C26-A003` · Video coming soon
+`C26-A003` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/deep-learning/parameter-initialization.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -75,7 +89,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show how different initial weight scales affect signal and gradient propagation through a deep network.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Parameter Initialization) `#B81E4A`, supporting elements `#4FDF16`.
 
 Global rendering requirements:
@@ -93,7 +111,9 @@ Global rendering requirements:
 <a id="c26-a004"></a>
 ## Batch Normalization
 
-`C26-A004` · Video coming soon
+`C26-A004` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/deep-learning/batch-normalization.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -102,7 +122,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show a batch of activations being standardized, then scaled and shifted to stabilize network training.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Batch Normalization) `#B81E4A`, supporting elements `#4FDF16`.
 
 Global rendering requirements:
@@ -120,7 +144,9 @@ Global rendering requirements:
 <a id="c26-a005"></a>
 ## Dropout
 
-`C26-A005` · Video coming soon
+`C26-A005` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/deep-learning/dropout.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -129,7 +155,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show neurons being randomly masked during training and repeated subnetworks reducing co-adaptation.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Dropout) `#B81E4A`, supporting elements `#4FDF16`.
 
 Global rendering requirements:
@@ -147,7 +177,9 @@ Global rendering requirements:
 <a id="c26-a006"></a>
 ## Convolutional Neural Network
 
-`C26-A006` · Video coming soon
+`C26-A006` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/deep-learning/convolutional-neural-network.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -156,7 +188,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show kernels sliding over an image to extract local features that combine layer by layer into higher-level representations.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Convolutional Neural Network) `#B81E4A`, supporting elements `#4FDF16`.
 
 Global rendering requirements:
@@ -174,7 +210,9 @@ Global rendering requirements:
 <a id="c26-a007"></a>
 ## Vanishing Gradients in Recurrent Neural Networks
 
-`C26-A007` · Video coming soon
+`C26-A007` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/deep-learning/vanishing-gradients-in-recurrent-neural-networks.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -183,7 +221,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show gradients shrinking rapidly as they multiply backward through time, making early information difficult to learn.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Vanishing Gradients in Recurrent Neural Networks) `#B81E4A`, supporting elements `#4FDF16`.
 
 Global rendering requirements:
@@ -201,7 +243,9 @@ Global rendering requirements:
 <a id="c26-a008"></a>
 ## Attention Mechanism
 
-`C26-A008` · Video coming soon
+`C26-A008` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/deep-learning/attention-mechanism.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -210,7 +254,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show a query scoring its relevance to keys and using those scores to form a weighted sum of values from different positions.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7EBF9`, English text `#1C235F`, primary visual (Attention Mechanism) `#B81E4A`, supporting elements `#4FDF16`.
 
 Global rendering requirements:

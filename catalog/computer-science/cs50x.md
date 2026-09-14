@@ -34,7 +34,11 @@ Keep introducing meaningful animation information until 12.45 seconds. Hold the 
 
 All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
 
-Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
 
@@ -75,7 +79,11 @@ Keep introducing meaningful animation information until 12.45 seconds. Hold the 
 
 All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
-Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
 
@@ -116,7 +124,11 @@ Keep introducing meaningful animation information until 12.45 seconds. Hold the 
 
 All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
 
-Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
 
@@ -157,7 +169,11 @@ Keep introducing meaningful animation information until 12.45 seconds. Hold the 
 
 All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
-Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
 
@@ -198,7 +214,11 @@ Keep introducing meaningful animation information until 12.45 seconds. Hold the 
 
 All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.
 
-Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
 
@@ -239,7 +259,11 @@ Keep introducing meaningful animation information until 12.45 seconds. Hold the 
 
 All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.
 
-Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
 
@@ -280,7 +304,11 @@ Keep introducing meaningful animation information until 12.45 seconds. Hold the 
 
 All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.
 
-Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
 
@@ -321,7 +349,11 @@ Keep introducing meaningful animation information until 12.45 seconds. Hold the 
 
 All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
-Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
 
@@ -362,7 +394,11 @@ Keep introducing meaningful animation information until 12.45 seconds. Hold the 
 
 All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.
 
-Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
 
@@ -403,7 +439,11 @@ Keep introducing meaningful animation information until 12.45 seconds. Hold the 
 
 All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.
 
-Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
 
@@ -444,7 +484,11 @@ Keep introducing meaningful animation information until 12.45 seconds. Hold the 
 
 All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.
 
-Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
 
@@ -485,7 +529,11 @@ Keep introducing meaningful animation information until 12.45 seconds. Hold the 
 
 All on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.
 
-Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
 
@@ -515,7 +563,11 @@ https://github.com/user-attachments/assets/750a83cf-b5a8-4740-8ec6-6f3ed9fb0acf
 ```text
 Create an animation: Compare stack frames being pushed and popped automatically during function calls with objects being dynamically allocated and released on the heap.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Stack vs. Heap) `#B81E7D`, supporting elements `#92DF16`.
 
 Global rendering requirements:
@@ -544,7 +596,11 @@ https://github.com/user-attachments/assets/939f789e-1dd1-4060-90ab-e7ddb26a9e4d
 ```text
 Create an animation: Show how a program reads the address stored in a pointer, follows that address, and accesses or modifies the target memory cell.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Pointer Dereferencing) `#B81E7D`, supporting elements `#92DF16`.
 
 Global rendering requirements:
@@ -573,7 +629,11 @@ https://github.com/user-attachments/assets/728836c2-2b4f-4158-a65f-20b0f5a90ac2
 ```text
 Create an animation: Show how adding or subtracting an integer moves a pointer across contiguous memory cells in steps determined by the data type size.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Pointer Arithmetic) `#B81E7D`, supporting elements `#92DF16`.
 
 Global rendering requirements:
@@ -602,7 +662,11 @@ https://github.com/user-attachments/assets/f778b6e3-38ab-4e7b-b96f-c3bb582c6412
 ```text
 Create an animation: Show how every recursive call pushes a new stack frame and how those frames pop one by one as the calls return.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Recursive Call Stack) `#B81E7D`, supporting elements `#92DF16`.
 
 Global rendering requirements:

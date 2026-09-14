@@ -21,7 +21,11 @@
 ```text
 Create an animation: Show each row of a compound proposition's truth value being calculated from its atomic propositions.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Propositional Logic Truth Tables) `#1EB853`, supporting elements `#5B16DF`.
 
 Global rendering requirements:
@@ -48,7 +52,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show a proof establishing a base case and then using an arbitrary step to imply the next, covering all natural numbers.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Mathematical Induction) `#1EB853`, supporting elements `#5B16DF`.
 
 Global rendering requirements:
@@ -75,7 +83,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show elements moving among regions after union, intersection, difference, and complement operations.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Set Operations) `#1EB853`, supporting elements `#5B16DF`.
 
 Global rendering requirements:
@@ -102,7 +114,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show an equivalence relation partitioning a set into non-overlapping classes of mutually equivalent elements.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Relations and Equivalence Classes) `#1EB853`, supporting elements `#5B16DF`.
 
 Global rendering requirements:
@@ -129,7 +145,11 @@ Global rendering requirements:
 ```text
 Create an animation: Compare counting processes in which object order matters with those in which it does not.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Permutations and Combinations) `#1EB853`, supporting elements `#5B16DF`.
 
 Global rendering requirements:
@@ -156,7 +176,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show that when there are more objects than containers, at least one container must receive multiple objects.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Pigeonhole Principle) `#1EB853`, supporting elements `#5B16DF`.
 
 Global rendering requirements:
@@ -183,7 +207,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show each sequence term being generated from earlier terms and unfolding step by step from the initial values.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Recurrence Relations) `#1EB853`, supporting elements `#5B16DF`.
 
 Global rendering requirements:
@@ -210,7 +238,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show how reachable paths and connected components change as vertices and edges are added or removed.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Graph Connectivity) `#1EB853`, supporting elements `#5B16DF`.
 
 Global rendering requirements:

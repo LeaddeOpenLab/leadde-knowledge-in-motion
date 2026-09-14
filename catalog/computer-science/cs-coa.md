@@ -23,7 +23,11 @@ https://github.com/user-attachments/assets/eb56409e-d60a-4de2-91b0-dd1472cac0ee
 ```text
 Create an animation: Show how a negative number is encoded by inverting its bits and adding one, allowing signed arithmetic to use the same adder.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Two's Complement) `#1E23B8`, supporting elements `#DF161D`.
 
 Global rendering requirements:
@@ -52,7 +56,11 @@ https://github.com/user-attachments/assets/9475c337-86b9-4e6b-851b-4895afcccf05
 ```text
 Create an animation: Show how a real number is split into sign, exponent, and significand fields, then demonstrate rounding and precision loss.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Floating-Point Representation) `#1E23B8`, supporting elements `#DF161D`.
 
 Global rendering requirements:
@@ -81,7 +89,11 @@ https://github.com/user-attachments/assets/224145d1-9d43-46f5-a1dc-0b526889b609
 ```text
 Create an animation: Show how input voltage levels pass through AND, OR, and NOT gates to produce different logical outputs.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Boolean Logic Gates) `#1E23B8`, supporting elements `#DF161D`.
 
 Global rendering requirements:
@@ -110,7 +122,11 @@ https://github.com/user-attachments/assets/ab1c3e42-5f0e-41eb-a854-e4daab0e3e34
 ```text
 Create an animation: Show how multiple logic gates connect so that the output depends only on the current inputs.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Combinational Logic) `#1E23B8`, supporting elements `#DF161D`.
 
 Global rendering requirements:
@@ -139,7 +155,11 @@ https://github.com/user-attachments/assets/bd9d003b-391d-436c-8dfe-294e295e6fcc
 ```text
 Create an animation: Show how a clock edge triggers state storage so that circuit outputs update at discrete moments.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Sequential Logic and Clocks) `#1E23B8`, supporting elements `#DF161D`.
 
 Global rendering requirements:
@@ -168,7 +188,11 @@ https://github.com/user-attachments/assets/47e1367e-a0e7-4d00-bc9c-cfd1c3601ae0
 ```text
 Create an animation: Show how the CPU fetches an instruction from memory, decodes its opcode, and drives components to execute it.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (CPU Fetch-Decode-Execute Cycle) `#1E23B8`, supporting elements `#DF161D`.
 
 Global rendering requirements:
@@ -197,7 +221,11 @@ https://github.com/user-attachments/assets/3c784d44-673f-43b1-9c83-819913a735a3
 ```text
 Create an animation: Show how data, control, and structural conflicts arise during overlapped instruction execution and cause stalls or forwarding.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Pipeline Hazards) `#1E23B8`, supporting elements `#DF161D`.
 
 Global rendering requirements:
@@ -226,7 +254,11 @@ https://github.com/user-attachments/assets/7f75be12-f342-440c-8459-273b3c55342e
 ```text
 Create an animation: Show how sequential and repeated memory accesses hit the cache and reduce the delay of main-memory access.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9E7`, English text `#1C5F25`, primary visual (Cache Locality) `#1E23B8`, supporting elements `#DF161D`.
 
 Global rendering requirements:

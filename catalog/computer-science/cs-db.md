@@ -23,7 +23,11 @@ https://github.com/user-attachments/assets/fab3614d-c948-4003-b797-3e674e12a98a
 ```text
 Create an animation: Show how real-world entities, attributes, and relationships are converted into an implementable database structure.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Entity-Relationship Model) `#A01EB8`, supporting elements `#DFBF16`.
 
 Global rendering requirements:
@@ -52,7 +56,11 @@ https://github.com/user-attachments/assets/8b21bd2b-4fed-4344-81a0-f54cf6e4cfd0
 ```text
 Create an animation: Show how a primary key uniquely identifies a record and how a foreign key references it to maintain a relationship between tables.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Primary and Foreign Keys) `#A01EB8`, supporting elements `#DFBF16`.
 
 Global rendering requirements:
@@ -81,7 +89,11 @@ https://github.com/user-attachments/assets/51207398-55b7-4ae2-a62f-72d2decd3156
 ```text
 Create an animation: Show how the values of one attribute set uniquely determine another set and reveal the source of data redundancy.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Functional Dependencies) `#A01EB8`, supporting elements `#DFBF16`.
 
 Global rendering requirements:
@@ -110,7 +122,11 @@ https://github.com/user-attachments/assets/3ec05591-1234-47b1-a5e5-5eb99613a7bb
 ```text
 Create an animation: Show a redundant table being decomposed according to functional dependencies while preserving information and joins.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Database Normalization) `#A01EB8`, supporting elements `#DFBF16`.
 
 Global rendering requirements:
@@ -139,7 +155,11 @@ https://github.com/user-attachments/assets/7efad585-ac98-4bee-abf7-498d5420488f
 ```text
 Create an animation: Show a search key descending from the root through index levels to a leaf and quickly locating consecutive records.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (B+ Tree Index) `#A01EB8`, supporting elements `#DFBF16`.
 
 Global rendering requirements:
@@ -168,7 +188,11 @@ https://github.com/user-attachments/assets/c90245ee-c2ec-4056-ba06-25c3590d6a5f
 ```text
 Create an animation: Show a funds transfer completing safely under atomicity, consistency, isolation, and durability constraints.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (ACID Transactions) `#A01EB8`, supporting elements `#DFBF16`.
 
 Global rendering requirements:
@@ -197,7 +221,11 @@ https://github.com/user-attachments/assets/e03e3381-e4b0-436e-bb62-7ebc3e275581
 ```text
 Create an animation: Show locks coordinating read and write order when multiple transactions compete for the same data, preventing conflicts.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Concurrency Control and Locks) `#A01EB8`, supporting elements `#DFBF16`.
 
 Global rendering requirements:
@@ -226,7 +254,11 @@ https://github.com/user-attachments/assets/ef0223ed-f760-487b-8e8b-6873e5972527
 ```text
 Create an animation: Show a database retaining multiple record versions so readers receive consistent snapshots while writers continue updating.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Multiversion Concurrency Control) `#A01EB8`, supporting elements `#DFBF16`.
 
 Global rendering requirements:

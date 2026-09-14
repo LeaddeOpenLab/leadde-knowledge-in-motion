@@ -12,7 +12,9 @@
 <a id="c27-a001"></a>
 ## Text Tokenization
 
-`C27-A001` · Video coming soon
+`C27-A001` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/natural-language-processing/text-tokenization.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -21,7 +23,11 @@
 ```text
 Create an animation: Show continuous text being split by vocabulary rules and converted into a processable token sequence.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (Text Tokenization) `#1EB81F`, supporting elements `#1816DF`.
 
 Global rendering requirements:
@@ -39,7 +45,9 @@ Global rendering requirements:
 <a id="c27-a002"></a>
 ## N-Gram Language Model
 
-`C27-A002` · Video coming soon
+`C27-A002` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/natural-language-processing/n-gram-language-model.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -48,7 +56,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show the model using counts from a fixed number of preceding words to estimate the conditional probability of the next word.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (N-Gram Language Model) `#1EB81F`, supporting elements `#1816DF`.
 
 Global rendering requirements:
@@ -66,7 +78,9 @@ Global rendering requirements:
 <a id="c27-a003"></a>
 ## Word Embeddings
 
-`C27-A003` · Video coming soon
+`C27-A003` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/natural-language-processing/word-embeddings.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -75,7 +89,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show discrete words mapping into a continuous vector space where semantically similar words move closer together.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (Word Embeddings) `#1EB81F`, supporting elements `#1816DF`.
 
 Global rendering requirements:
@@ -93,7 +111,9 @@ Global rendering requirements:
 <a id="c27-a004"></a>
 ## Positional Encoding
 
-`C27-A004` · Video coming soon
+`C27-A004` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/natural-language-processing/positional-encoding.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -102,7 +122,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show position information being injected into word vectors so the model can distinguish the order of identical words in a sequence.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (Positional Encoding) `#1EB81F`, supporting elements `#1816DF`.
 
 Global rendering requirements:
@@ -120,7 +144,9 @@ Global rendering requirements:
 <a id="c27-a005"></a>
 ## Self-Attention
 
-`C27-A005` · Video coming soon
+`C27-A005` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/natural-language-processing/self-attention.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -129,7 +155,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show every word attending to other words and aggregating contextual information into a new representation.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (Self-Attention) `#1EB81F`, supporting elements `#1816DF`.
 
 Global rendering requirements:
@@ -147,7 +177,9 @@ Global rendering requirements:
 <a id="c27-a006"></a>
 ## Encoder-Decoder Architecture
 
-`C27-A006` · Video coming soon
+`C27-A006` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/natural-language-processing/encoder-decoder-architecture.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -156,7 +188,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show an encoder compressing input information and a decoder using it to generate an output sequence step by step.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (Encoder-Decoder Architecture) `#1EB81F`, supporting elements `#1816DF`.
 
 Global rendering requirements:
@@ -174,7 +210,9 @@ Global rendering requirements:
 <a id="c27-a007"></a>
 ## Beam Search
 
-`C27-A007` · Video coming soon
+`C27-A007` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/natural-language-processing/beam-search.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -183,7 +221,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show decoding retaining several high-probability candidates at once and expanding them step by step to choose the best sequence.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (Beam Search) `#1EB81F`, supporting elements `#1816DF`.
 
 Global rendering requirements:
@@ -201,7 +243,9 @@ Global rendering requirements:
 <a id="c27-a008"></a>
 ## Retrieval-Augmented Generation
 
-`C27-A008` · Video coming soon
+`C27-A008` · **▶ Play video below**
+
+[▶ Open video](../../assets/videos/artificial-intelligence/natural-language-processing/retrieval-augmented-generation.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -210,7 +254,11 @@ Global rendering requirements:
 ```text
 Create an animation: Show a system retrieving relevant material for a query and feeding that evidence into a generative model to form an answer.
 Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
+Requirement: Strict typography requirements:
+- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
+- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
+- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
+- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
 Colors: Background `#F9E7E7`, English text `#5F271C`, primary visual (Retrieval-Augmented Generation) `#1EB81F`, supporting elements `#1816DF`.
 
 Global rendering requirements:
