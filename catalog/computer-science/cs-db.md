@@ -14,7 +14,7 @@
 
 `C24-A001` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/2e13e5b7-be7d-4223-9929-ba54635b00d1
+https://github.com/user-attachments/assets/fab3614d-c948-4003-b797-3e674e12a98a
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -25,6 +25,13 @@ Create an animation: Show how real-world entities, attributes, and relationships
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Entity-Relationship Model) `#A01EB8`, supporting elements `#DFBF16`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#database-systems)
@@ -36,7 +43,7 @@ Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Entity-Rel
 
 `C24-A002` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/2ccd3fcb-6465-4455-b9fb-3d99cbe056e1
+https://github.com/user-attachments/assets/8b21bd2b-4fed-4344-81a0-f54cf6e4cfd0
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -47,6 +54,13 @@ Create an animation: Show how a primary key uniquely identifies a record and how
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Primary and Foreign Keys) `#A01EB8`, supporting elements `#DFBF16`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#database-systems)
@@ -58,7 +72,7 @@ Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Primary an
 
 `C24-A003` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/942e2e55-117c-4e17-8004-5acf73222782
+https://github.com/user-attachments/assets/51207398-55b7-4ae2-a62f-72d2decd3156
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -69,6 +83,13 @@ Create an animation: Show how the values of one attribute set uniquely determine
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Functional Dependencies) `#A01EB8`, supporting elements `#DFBF16`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#database-systems)
@@ -80,7 +101,7 @@ Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Functional
 
 `C24-A004` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/ea7c0b16-0c4c-4132-9afc-7f27f030e664
+https://github.com/user-attachments/assets/3ec05591-1234-47b1-a5e5-5eb99613a7bb
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -91,6 +112,13 @@ Create an animation: Show a redundant table being decomposed according to functi
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Database Normalization) `#A01EB8`, supporting elements `#DFBF16`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#database-systems)
@@ -102,7 +130,7 @@ Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Database N
 
 `C24-A005` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/65f8deed-7028-40e2-a1cc-c48a188f6659
+https://github.com/user-attachments/assets/7efad585-ac98-4bee-abf7-498d5420488f
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -113,6 +141,13 @@ Create an animation: Show a search key descending from the root through index le
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (B+ Tree Index) `#A01EB8`, supporting elements `#DFBF16`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#database-systems)
@@ -124,7 +159,7 @@ Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (B+ Tree In
 
 `C24-A006` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/c4444723-9f28-4e5a-a4ad-5b38827183a8
+https://github.com/user-attachments/assets/c90245ee-c2ec-4056-ba06-25c3590d6a5f
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -135,6 +170,13 @@ Create an animation: Show a funds transfer completing safely under atomicity, co
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (ACID Transactions) `#A01EB8`, supporting elements `#DFBF16`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#database-systems)
@@ -146,7 +188,7 @@ Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (ACID Trans
 
 `C24-A007` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/732434e8-ca3f-4035-af16-fbfc30112660
+https://github.com/user-attachments/assets/e03e3381-e4b0-436e-bb62-7ebc3e275581
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -157,6 +199,13 @@ Create an animation: Show locks coordinating read and write order when multiple 
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Concurrency Control and Locks) `#A01EB8`, supporting elements `#DFBF16`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#database-systems)
@@ -168,7 +217,7 @@ Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Concurrenc
 
 `C24-A008` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/ffadaa77-acb4-4822-9e63-ea4a5a2bc2d5
+https://github.com/user-attachments/assets/ef0223ed-f760-487b-8e8b-6873e5972527
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -179,6 +228,13 @@ Create an animation: Show a database retaining multiple record versions so reade
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#E7F9F7`, English text `#1C5E5F`, primary visual (Multiversion Concurrency Control) `#A01EB8`, supporting elements `#DFBF16`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#database-systems)

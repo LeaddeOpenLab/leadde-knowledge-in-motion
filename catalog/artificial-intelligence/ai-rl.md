@@ -23,6 +23,13 @@ Create an animation: Show the interaction loop in which an agent observes a stat
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (States, Actions, and Rewards) `#B8791E`, supporting elements `#16DF8D`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#reinforcement-learning)
@@ -43,6 +50,13 @@ Create an animation: Show future rewards being progressively discounted by tempo
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (Discounted Return) `#B8791E`, supporting elements `#16DF8D`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#reinforcement-learning)
@@ -63,6 +77,13 @@ Create an animation: Show a state's optimal value being determined recursively b
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (Bellman Optimality Equation) `#B8791E`, supporting elements `#16DF8D`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#reinforcement-learning)
@@ -83,6 +104,13 @@ Create an animation: Show one interaction experience updating a state-action val
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (Q-Learning Update) `#B8791E`, supporting elements `#16DF8D`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#reinforcement-learning)
@@ -103,6 +131,13 @@ Create an animation: Show an agent choosing the current best action with high pr
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (Epsilon-Greedy Exploration) `#B8791E`, supporting elements `#16DF8D`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#reinforcement-learning)
@@ -123,6 +158,13 @@ Create an animation: Show action returns driving policy-parameter updates so tha
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (Policy Gradient) `#B8791E`, supporting elements `#16DF8D`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#reinforcement-learning)
@@ -143,6 +185,13 @@ Create an animation: Show an actor producing actions while a critic estimates va
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (Actor-Critic Method) `#B8791E`, supporting elements `#16DF8D`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#reinforcement-learning)
@@ -163,6 +212,13 @@ Create an animation: Show interactions entering a replay buffer and random sampl
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F2E7F9`, English text `#4F1C5F`, primary visual (Experience Replay) `#B8791E`, supporting elements `#16DF8D`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#reinforcement-learning)

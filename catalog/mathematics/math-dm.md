@@ -23,6 +23,13 @@ Create an animation: Show each row of a compound proposition's truth value being
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Propositional Logic Truth Tables) `#1EB853`, supporting elements `#5B16DF`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#discrete-mathematics)
@@ -43,6 +50,13 @@ Create an animation: Show a proof establishing a base case and then using an arb
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Mathematical Induction) `#1EB853`, supporting elements `#5B16DF`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#discrete-mathematics)
@@ -63,6 +77,13 @@ Create an animation: Show elements moving among regions after union, intersectio
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Set Operations) `#1EB853`, supporting elements `#5B16DF`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#discrete-mathematics)
@@ -83,6 +104,13 @@ Create an animation: Show an equivalence relation partitioning a set into non-ov
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Relations and Equivalence Classes) `#1EB853`, supporting elements `#5B16DF`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#discrete-mathematics)
@@ -103,6 +131,13 @@ Create an animation: Compare counting processes in which object order matters wi
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Permutations and Combinations) `#1EB853`, supporting elements `#5B16DF`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#discrete-mathematics)
@@ -123,6 +158,13 @@ Create an animation: Show that when there are more objects than containers, at l
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Pigeonhole Principle) `#1EB853`, supporting elements `#5B16DF`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#discrete-mathematics)
@@ -143,6 +185,13 @@ Create an animation: Show each sequence term being generated from earlier terms 
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Recurrence Relations) `#1EB853`, supporting elements `#5B16DF`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#discrete-mathematics)
@@ -163,6 +212,13 @@ Create an animation: Show how reachable paths and connected components change as
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Graph Connectivity) `#1EB853`, supporting elements `#5B16DF`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#discrete-mathematics)

@@ -14,7 +14,7 @@
 
 `C01-A001` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/2db91806-76f3-4c64-9642-df2801ffe913
+https://github.com/user-attachments/assets/5d83efd1-a93e-4c8e-9b0d-59bdbacbad3d
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -37,6 +37,13 @@ All on-screen titles, labels, and supporting annotations must be short English p
 Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -48,7 +55,7 @@ Use ThreeDScene for a genuinely spatial main visual: at least one core object mu
 
 `C01-A002` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/9c3d52bb-9cff-4866-94c5-d17a0b0ea9f6
+https://github.com/user-attachments/assets/bf504e53-5947-48f0-9c92-4075e8bb1e1b
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -71,6 +78,13 @@ All on-screen titles, labels, and supporting annotations must be short English p
 Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -82,7 +96,7 @@ Use ThreeDScene for a genuinely spatial main visual: at least one core object mu
 
 `C01-A003` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/023fa2a3-88c0-48d7-ab56-8340f43dbfc5
+https://github.com/user-attachments/assets/142f1c47-add6-4151-bedc-6563c6194734
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -105,6 +119,13 @@ All on-screen titles, labels, and supporting annotations must be short English p
 Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -116,7 +137,7 @@ Use ThreeDScene for a genuinely spatial main visual: at least one core object mu
 
 `C01-A004` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/9341aad7-5c67-480f-b728-9dac21950150
+https://github.com/user-attachments/assets/8645f636-26cd-44be-934c-4461b1171f5b
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -139,6 +160,13 @@ All on-screen titles, labels, and supporting annotations must be short English p
 Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -150,7 +178,7 @@ Use ThreeDScene for a genuinely spatial main visual: at least one core object mu
 
 `C01-A005` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/e79404b4-68da-4c29-a0ad-4be0d7df1fc6
+https://github.com/user-attachments/assets/e171ff6f-5ac8-40c2-93dc-2cd505f2fa73
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -173,6 +201,13 @@ All on-screen titles, labels, and supporting annotations must be short English p
 Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -184,7 +219,7 @@ Use ThreeDScene for a genuinely spatial main visual: at least one core object mu
 
 `C01-A006` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/991ec568-6ecb-48c6-852d-4d1d8f2b6270
+https://github.com/user-attachments/assets/67eb3374-f198-4cda-9c72-34ae33fa36b5
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -207,6 +242,13 @@ All on-screen titles, labels, and supporting annotations must be short English p
 Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -218,7 +260,7 @@ Use ThreeDScene for a genuinely spatial main visual: at least one core object mu
 
 `C01-A007` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/badc6e02-7768-4f32-a576-46288df14488
+https://github.com/user-attachments/assets/2399ba49-d336-46b8-9b2b-4a1bf8b89aa9
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -241,6 +283,13 @@ All on-screen titles, labels, and supporting annotations must be short English p
 Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -252,7 +301,7 @@ Use ThreeDScene for a genuinely spatial main visual: at least one core object mu
 
 `C01-A008` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/3372ab6e-f2c4-40cc-a4e8-57e7cb491af5
+https://github.com/user-attachments/assets/0610742d-874d-4ad8-ac01-c1fc65763c51
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -275,6 +324,13 @@ All on-screen titles, labels, and supporting annotations must be short English p
 Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -286,7 +342,7 @@ Use ThreeDScene for a genuinely spatial main visual: at least one core object mu
 
 `C01-A009` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/3da2391c-eb03-420d-8e52-600395d188cf
+https://github.com/user-attachments/assets/85601696-dc1b-40d0-9b02-540900fa493b
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -309,6 +365,13 @@ All on-screen titles, labels, and supporting annotations must be short English p
 Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -320,7 +383,7 @@ Use ThreeDScene for a genuinely spatial main visual: at least one core object mu
 
 `C01-A010` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/32da691b-8603-4111-a179-767e73dc041f
+https://github.com/user-attachments/assets/f76bb668-6289-47ab-9a5e-60f65a130f81
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -343,6 +406,13 @@ All on-screen titles, labels, and supporting annotations must be short English p
 Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -354,7 +424,7 @@ Use ThreeDScene for a genuinely spatial main visual: at least one core object mu
 
 `C01-A011` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/a3ad3d65-5895-47df-8baf-caa98c894743
+https://github.com/user-attachments/assets/011ff2f2-addd-4bd0-9463-23279a83d227
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -377,6 +447,13 @@ All on-screen titles, labels, and supporting annotations must be short English p
 Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -388,7 +465,7 @@ Use ThreeDScene for a genuinely spatial main visual: at least one core object mu
 
 `C01-A012` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/e0973131-7e8c-4245-8734-92fe966fb39b
+https://github.com/user-attachments/assets/7429d9a6-5b3d-4e72-88e2-58f1436ef1e2
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -411,6 +488,13 @@ All on-screen titles, labels, and supporting annotations must be short English p
 Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 
 Use ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -422,7 +506,7 @@ Use ThreeDScene for a genuinely spatial main visual: at least one core object mu
 
 `C01-A013` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/f8b66804-46b7-43f6-bfe5-b3dfb56e9c57
+https://github.com/user-attachments/assets/750a83cf-b5a8-4740-8ec6-6f3ed9fb0acf
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -433,6 +517,13 @@ Create an animation: Compare stack frames being pushed and popped automatically 
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Stack vs. Heap) `#B81E7D`, supporting elements `#92DF16`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -444,7 +535,7 @@ Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Stack vs. 
 
 `C01-A014` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/4570b0e0-a53f-4280-ad34-640feda7b83b
+https://github.com/user-attachments/assets/939f789e-1dd1-4060-90ab-e7ddb26a9e4d
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -455,6 +546,13 @@ Create an animation: Show how a program reads the address stored in a pointer, f
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Pointer Dereferencing) `#B81E7D`, supporting elements `#92DF16`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -466,7 +564,7 @@ Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Pointer De
 
 `C01-A015` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/4c25be5f-85f1-42fd-9096-e0ccf635ae75
+https://github.com/user-attachments/assets/728836c2-2b4f-4158-a65f-20b0f5a90ac2
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -477,6 +575,13 @@ Create an animation: Show how adding or subtracting an integer moves a pointer a
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Pointer Arithmetic) `#B81E7D`, supporting elements `#92DF16`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
@@ -488,7 +593,7 @@ Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Pointer Ar
 
 `C01-A016` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/d878b168-c6f7-48c9-8dae-db6670836d1d
+https://github.com/user-attachments/assets/f778b6e3-38ab-4e7b-b96f-c3bb582c6412
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -499,6 +604,13 @@ Create an animation: Show how every recursive call pushes a new stack frame and 
 Requirement: All explanatory text must be in English, and the video must have no audio.
 Requirement: Strictly control character spacing so that it is uniform and the layout is neat; avoid uneven spacing.
 Colors: Background `#E7F1F9`, English text `#1C3A5F`, primary visual (Recursive Call Stack) `#B81E7D`, supporting elements `#92DF16`.
+
+Global rendering requirements:
+- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
+- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
+- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
+- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
+- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
 ```
 
 [Back to course top](#introduction-to-computer-science)
