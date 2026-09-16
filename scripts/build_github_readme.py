@@ -89,15 +89,6 @@ def write_course_page(subject, course, prompts):
         page_lines.extend([
             "> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)",
             "",
-            "<details>",
-            '<summary><strong>View prompt</strong></summary>',
-            "",
-            "```text",
-            prompt["prompt"],
-            "```",
-            "",
-            "</details>",
-            "",
             f"[Back to course top](#{slug(course)})",
             "",
             "---",
@@ -110,7 +101,7 @@ lines = [
     "",
     f"> A GitHub-native catalog of **{len(items)} English Manim prompts** across **{len(library)} disciplines** and **{course_count} courses**.",
     ">",
-    "> Browse prompts and play finished videos directly with GitHub's native video player.",
+    "> Browse knowledge points and play finished videos directly with GitHub's native video player.",
     ">",
     "> **Download videos: [Browse course ZIP bundles →](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/releases/tag/course-video-downloads)**",
     ">",
@@ -160,7 +151,7 @@ for subject, courses in library.items():
         ])
         for index, prompt in enumerate(prompts, 1):
             video_ready = prompt.get("status") == "ready" and prompt.get("player")
-            marker = "▶ PLAY VIDEO + VIEW PROMPT" if video_ready else "VIEW PROMPT"
+            marker = "▶ PLAY VIDEO" if video_ready else "VIDEO COMING SOON"
             lines.append(f"{index}. [**{html.escape(prompt['title'])}**]({page}#{prompt['id'].lower()}) · `{prompt['id']}` · {marker}")
         lines.append("")
     lines.extend(["---", ""])

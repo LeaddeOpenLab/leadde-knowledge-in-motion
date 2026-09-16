@@ -16,29 +16,6 @@
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-<details>
-<summary><strong>View prompt</strong></summary>
-
-```text
-Create an animation: Show every line segment between two points staying inside a convex set and every function chord staying above the graph.
-Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strict typography requirements:
-- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
-- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
-- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
-- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
-Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Convex Sets and Convex Functions) `#B8AD1E`, supporting elements `#16DFD0`.
-
-Global rendering requirements:
-- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
-- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
-- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
-- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
-- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
-```
-
-</details>
-
 [Back to course top](#optimization-theory)
 
 ---
@@ -49,29 +26,6 @@ Global rendering requirements:
 `C35-A002` · Video coming soon
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
-
-<details>
-<summary><strong>View prompt</strong></summary>
-
-```text
-Create an animation: Show the gradient vanishing at an unconstrained extremum or ceasing to form a descent direction within the feasible region.
-Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strict typography requirements:
-- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
-- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
-- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
-- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
-Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (First-Order Optimality Conditions) `#B8AD1E`, supporting elements `#16DFD0`.
-
-Global rendering requirements:
-- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
-- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
-- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
-- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
-- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
-```
-
-</details>
 
 [Back to course top](#optimization-theory)
 
@@ -84,29 +38,6 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-<details>
-<summary><strong>View prompt</strong></summary>
-
-```text
-Create an animation: Show how local curvature encoded by the Hessian distinguishes a minimum, maximum, and saddle point.
-Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strict typography requirements:
-- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
-- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
-- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
-- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
-Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Second-Order Optimality Conditions) `#B8AD1E`, supporting elements `#16DFD0`.
-
-Global rendering requirements:
-- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
-- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
-- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
-- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
-- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
-```
-
-</details>
-
 [Back to course top](#optimization-theory)
 
 ---
@@ -117,29 +48,6 @@ Global rendering requirements:
 `C35-A004` · Video coming soon
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
-
-<details>
-<summary><strong>View prompt</strong></summary>
-
-```text
-Create an animation: Show iterates with different step sizes approaching an optimum, oscillating, or diverging along the negative gradient.
-Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strict typography requirements:
-- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
-- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
-- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
-- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
-Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Gradient Descent Convergence) `#B8AD1E`, supporting elements `#16DFD0`.
-
-Global rendering requirements:
-- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
-- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
-- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
-- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
-- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
-```
-
-</details>
 
 [Back to course top](#optimization-theory)
 
@@ -152,29 +60,6 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-<details>
-<summary><strong>View prompt</strong></summary>
-
-```text
-Create an animation: Show the algorithm using gradient and curvature to build a local quadratic approximation and jump rapidly toward an extremum.
-Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strict typography requirements:
-- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
-- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
-- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
-- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
-Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Newton's Method) `#B8AD1E`, supporting elements `#16DFD0`.
-
-Global rendering requirements:
-- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
-- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
-- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
-- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
-- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
-```
-
-</details>
-
 [Back to course top](#optimization-theory)
 
 ---
@@ -185,29 +70,6 @@ Global rendering requirements:
 `C35-A006` · Video coming soon
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
-
-<details>
-<summary><strong>View prompt</strong></summary>
-
-```text
-Create an animation: Show a constrained optimization problem becoming a search for lower bounds and compare the primal and dual values.
-Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strict typography requirements:
-- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
-- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
-- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
-- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
-Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Lagrangian Duality) `#B8AD1E`, supporting elements `#16DFD0`.
-
-Global rendering requirements:
-- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
-- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
-- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
-- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
-- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
-```
-
-</details>
 
 [Back to course top](#optimization-theory)
 
@@ -220,29 +82,6 @@ Global rendering requirements:
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
-<details>
-<summary><strong>View prompt</strong></summary>
-
-```text
-Create an animation: Show feasibility, stationarity, and complementary slackness jointly constraining the active boundary at an optimum.
-Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strict typography requirements:
-- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
-- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
-- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
-- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
-Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (KKT Conditions) `#B8AD1E`, supporting elements `#16DFD0`.
-
-Global rendering requirements:
-- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
-- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
-- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
-- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
-- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
-```
-
-</details>
-
 [Back to course top](#optimization-theory)
 
 ---
@@ -253,29 +92,6 @@ Global rendering requirements:
 `C35-A008` · Video coming soon
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
-
-<details>
-<summary><strong>View prompt</strong></summary>
-
-```text
-Create an animation: Show a gradient step leaving the feasible region, projecting back to the nearest feasible point, and continuing the iteration.
-Requirement: All explanatory text must be in English, and the video must have no audio.
-Requirement: Strict typography requirements:
-- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.
-- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.
-- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.
-- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.
-Colors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Projected Gradient Method) `#B8AD1E`, supporting elements `#16DFD0`.
-
-Global rendering requirements:
-- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.
-- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \text{...}; never leave a word bare in algebra mode.
-- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.
-- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.
-- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background.
-```
-
-</details>
 
 [Back to course top](#optimization-theory)
 
