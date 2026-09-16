@@ -61,7 +61,8 @@ def write_course_page(subject, course, prompts):
         "",
     ]
     ready_prompts = [prompt for prompt in prompts if prompt.get("status") == "ready" and prompt.get("video")]
-    if ready_prompts:
+    # Mathematics is delivered through inline players only; it has no course ZIP release.
+    if first["subject"] != "Mathematics" and ready_prompts and all(prompt.get("player") for prompt in ready_prompts):
         bundle_url = f"{repository_url}/releases/download/{release_tag(first)}/{bundle_name(first)}"
         page_lines.extend([
             f"**Course download:** [Download all {len(ready_prompts)} videos as ZIP]({bundle_url})",
@@ -69,23 +70,20 @@ def write_course_page(subject, course, prompts):
         ])
     page_lines.extend(["---", ""])
     for prompt in prompts:
-        video_ready = prompt.get("status") == "ready" and prompt.get("player")
+        video_ready = prompt.get("status") == "ready" and prompt.get("video")
         page_lines.extend([
             f'<a id="{prompt["id"].lower()}"></a>',
             f"## {prompt['title']}",
             "",
-            f"`{prompt['id']}` · " + ("**▶ Play video below**" if video_ready else "Video coming soon"),
+            f"`{prompt['id']}` · " + ("**▶ Play video below**" if prompt.get("player") else "Video ready" if video_ready else "Video coming soon"),
             "",
         ])
         if video_ready:
-            # A GitHub attachment URL on its own line renders as GitHub's native video player.
             download_url = f"{repository_url}/raw/refs/heads/main/{prompt['video']}"
-            page_lines.extend([
-                prompt["player"],
-                "",
-                f"[Download {Path(prompt['video']).name}]({download_url})",
-                "",
-            ])
+            if prompt.get("player"):
+                # A GitHub attachment URL on its own line renders as GitHub's native video player.
+                page_lines.extend([prompt["player"], ""])
+            page_lines.extend([f"[Download {Path(prompt['video']).name}]({download_url})", ""])
         page_lines.extend([
             "> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)",
             "",
@@ -150,8 +148,8 @@ for subject, courses in library.items():
             "",
         ])
         for index, prompt in enumerate(prompts, 1):
-            video_ready = prompt.get("status") == "ready" and prompt.get("player")
-            marker = "▶ PLAY VIDEO" if video_ready else "VIDEO COMING SOON"
+            video_ready = prompt.get("status") == "ready" and prompt.get("video")
+            marker = "▶ PLAY VIDEO" if prompt.get("player") else "▶ OPEN VIDEO" if video_ready else "VIDEO COMING SOON"
             lines.append(f"{index}. [**{html.escape(prompt['title'])}**]({page}#{prompt['id'].lower()}) · `{prompt['id']}` · {marker}")
         lines.append("")
     lines.extend(["---", ""])

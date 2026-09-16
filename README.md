@@ -474,18 +474,18 @@
 
 #### Knowledge points
 
-1. [**Limit**](catalog/mathematics/18-01.md#c04-a001) · `C04-A001` · VIDEO COMING SOON
-2. [**Continuity**](catalog/mathematics/18-01.md#c04-a002) · `C04-A002` · VIDEO COMING SOON
-3. [**Derivatives as local rates of change**](catalog/mathematics/18-01.md#c04-a003) · `C04-A003` · VIDEO COMING SOON
-4. [**Fundamental Theorem of Calculus**](catalog/mathematics/18-01.md#c04-a004) · `C04-A004` · VIDEO COMING SOON
-5. [**Volume of rotation**](catalog/mathematics/18-01.md#c04-a005) · `C04-A005` · VIDEO COMING SOON
-6. [**Integral slice**](catalog/mathematics/18-01.md#c04-a006) · `C04-A006` · VIDEO COMING SOON
-7. [**Infinite series**](catalog/mathematics/18-01.md#c04-a007) · `C04-A007` · VIDEO COMING SOON
-8. [**Taylor Expand**](catalog/mathematics/18-01.md#c04-a008) · `C04-A008` · VIDEO COMING SOON
-9. [**Epsilon-Delta Definition of a Limit**](catalog/mathematics/18-01.md#c04-a009) · `C04-A009` · VIDEO COMING SOON
-10. [**Left- and Right-Hand Limits**](catalog/mathematics/18-01.md#c04-a010) · `C04-A010` · VIDEO COMING SOON
-11. [**Chain Rule**](catalog/mathematics/18-01.md#c04-a011) · `C04-A011` · VIDEO COMING SOON
-12. [**Implicit Differentiation**](catalog/mathematics/18-01.md#c04-a012) · `C04-A012` · VIDEO COMING SOON
+1. [**Limit**](catalog/mathematics/18-01.md#c04-a001) · `C04-A001` · ▶ PLAY VIDEO
+2. [**Continuity**](catalog/mathematics/18-01.md#c04-a002) · `C04-A002` · ▶ PLAY VIDEO
+3. [**Derivatives as local rates of change**](catalog/mathematics/18-01.md#c04-a003) · `C04-A003` · ▶ PLAY VIDEO
+4. [**Fundamental Theorem of Calculus**](catalog/mathematics/18-01.md#c04-a004) · `C04-A004` · ▶ PLAY VIDEO
+5. [**Volume of rotation**](catalog/mathematics/18-01.md#c04-a005) · `C04-A005` · ▶ PLAY VIDEO
+6. [**Integral slice**](catalog/mathematics/18-01.md#c04-a006) · `C04-A006` · ▶ PLAY VIDEO
+7. [**Infinite series**](catalog/mathematics/18-01.md#c04-a007) · `C04-A007` · ▶ PLAY VIDEO
+8. [**Taylor Expand**](catalog/mathematics/18-01.md#c04-a008) · `C04-A008` · ▶ PLAY VIDEO
+9. [**Epsilon-Delta Definition of a Limit**](catalog/mathematics/18-01.md#c04-a009) · `C04-A009` · ▶ PLAY VIDEO
+10. [**Left- and Right-Hand Limits**](catalog/mathematics/18-01.md#c04-a010) · `C04-A010` · ▶ PLAY VIDEO
+11. [**Chain Rule**](catalog/mathematics/18-01.md#c04-a011) · `C04-A011` · ▶ PLAY VIDEO
+12. [**Implicit Differentiation**](catalog/mathematics/18-01.md#c04-a012) · `C04-A012` · ▶ PLAY VIDEO
 
 ### [Linear Algebra](catalog/mathematics/18-06.md)
 
@@ -493,22 +493,22 @@
 
 #### Knowledge points
 
-1. [**Column space**](catalog/mathematics/18-06.md#c05-a001) · `C05-A001` · VIDEO COMING SOON
-2. [**Line space**](catalog/mathematics/18-06.md#c05-a002) · `C05-A002` · VIDEO COMING SOON
-3. [**Zero space**](catalog/mathematics/18-06.md#c05-a003) · `C05-A003` · VIDEO COMING SOON
-4. [**Left zero space**](catalog/mathematics/18-06.md#c05-a004) · `C05-A004` · VIDEO COMING SOON
-5. [**Orthographic projection**](catalog/mathematics/18-06.md#c05-a005) · `C05-A005` · VIDEO COMING SOON
-6. [**Least squares**](catalog/mathematics/18-06.md#c05-a006) · `C05-A006` · VIDEO COMING SOON
-7. [**Determinant**](catalog/mathematics/18-06.md#c05-a007) · `C05-A007` · VIDEO COMING SOON
-8. [**Volume scaling for linear transformations**](catalog/mathematics/18-06.md#c05-a008) · `C05-A008` · VIDEO COMING SOON
-9. [**Eigenvalue**](catalog/mathematics/18-06.md#c05-a009) · `C05-A009` · VIDEO COMING SOON
-10. [**Eigenvector**](catalog/mathematics/18-06.md#c05-a010) · `C05-A010` · VIDEO COMING SOON
-11. [**Matrix diagonalization**](catalog/mathematics/18-06.md#c05-a011) · `C05-A011` · VIDEO COMING SOON
-12. [**Singular value decomposition**](catalog/mathematics/18-06.md#c05-a012) · `C05-A012` · VIDEO COMING SOON
-13. [**Gaussian Elimination**](catalog/mathematics/18-06.md#c05-a013) · `C05-A013` · VIDEO COMING SOON
-14. [**Rank-Nullity Theorem**](catalog/mathematics/18-06.md#c05-a014) · `C05-A014` · VIDEO COMING SOON
-15. [**Gram-Schmidt Orthogonalization**](catalog/mathematics/18-06.md#c05-a015) · `C05-A015` · VIDEO COMING SOON
-16. [**QR Decomposition**](catalog/mathematics/18-06.md#c05-a016) · `C05-A016` · VIDEO COMING SOON
+1. [**Column space**](catalog/mathematics/18-06.md#c05-a001) · `C05-A001` · ▶ PLAY VIDEO
+2. [**Line space**](catalog/mathematics/18-06.md#c05-a002) · `C05-A002` · ▶ PLAY VIDEO
+3. [**Zero space**](catalog/mathematics/18-06.md#c05-a003) · `C05-A003` · ▶ PLAY VIDEO
+4. [**Left zero space**](catalog/mathematics/18-06.md#c05-a004) · `C05-A004` · ▶ PLAY VIDEO
+5. [**Orthographic projection**](catalog/mathematics/18-06.md#c05-a005) · `C05-A005` · ▶ PLAY VIDEO
+6. [**Least squares**](catalog/mathematics/18-06.md#c05-a006) · `C05-A006` · ▶ PLAY VIDEO
+7. [**Determinant**](catalog/mathematics/18-06.md#c05-a007) · `C05-A007` · ▶ PLAY VIDEO
+8. [**Volume scaling for linear transformations**](catalog/mathematics/18-06.md#c05-a008) · `C05-A008` · ▶ PLAY VIDEO
+9. [**Eigenvalue**](catalog/mathematics/18-06.md#c05-a009) · `C05-A009` · ▶ PLAY VIDEO
+10. [**Eigenvector**](catalog/mathematics/18-06.md#c05-a010) · `C05-A010` · ▶ PLAY VIDEO
+11. [**Matrix diagonalization**](catalog/mathematics/18-06.md#c05-a011) · `C05-A011` · ▶ PLAY VIDEO
+12. [**Singular value decomposition**](catalog/mathematics/18-06.md#c05-a012) · `C05-A012` · ▶ PLAY VIDEO
+13. [**Gaussian Elimination**](catalog/mathematics/18-06.md#c05-a013) · `C05-A013` · ▶ PLAY VIDEO
+14. [**Rank-Nullity Theorem**](catalog/mathematics/18-06.md#c05-a014) · `C05-A014` · ▶ PLAY VIDEO
+15. [**Gram-Schmidt Orthogonalization**](catalog/mathematics/18-06.md#c05-a015) · `C05-A015` · ▶ PLAY VIDEO
+16. [**QR Decomposition**](catalog/mathematics/18-06.md#c05-a016) · `C05-A016` · ▶ PLAY VIDEO
 
 ### [Multivariable Calculus](catalog/mathematics/math-mvc.md)
 
@@ -516,14 +516,14 @@
 
 #### Knowledge points
 
-1. [**Partial Derivatives**](catalog/mathematics/math-mvc.md#c31-a001) · `C31-A001` · VIDEO COMING SOON
-2. [**Gradient**](catalog/mathematics/math-mvc.md#c31-a002) · `C31-A002` · VIDEO COMING SOON
-3. [**Directional Derivative**](catalog/mathematics/math-mvc.md#c31-a003) · `C31-A003` · VIDEO COMING SOON
-4. [**Jacobian Matrix**](catalog/mathematics/math-mvc.md#c31-a004) · `C31-A004` · VIDEO COMING SOON
-5. [**Hessian Matrix**](catalog/mathematics/math-mvc.md#c31-a005) · `C31-A005` · VIDEO COMING SOON
-6. [**Lagrange Multipliers**](catalog/mathematics/math-mvc.md#c31-a006) · `C31-A006` · VIDEO COMING SOON
-7. [**Double Integral**](catalog/mathematics/math-mvc.md#c31-a007) · `C31-A007` · VIDEO COMING SOON
-8. [**Divergence and Curl**](catalog/mathematics/math-mvc.md#c31-a008) · `C31-A008` · VIDEO COMING SOON
+1. [**Partial Derivatives**](catalog/mathematics/math-mvc.md#c31-a001) · `C31-A001` · ▶ PLAY VIDEO
+2. [**Gradient**](catalog/mathematics/math-mvc.md#c31-a002) · `C31-A002` · ▶ PLAY VIDEO
+3. [**Directional Derivative**](catalog/mathematics/math-mvc.md#c31-a003) · `C31-A003` · ▶ PLAY VIDEO
+4. [**Jacobian Matrix**](catalog/mathematics/math-mvc.md#c31-a004) · `C31-A004` · ▶ PLAY VIDEO
+5. [**Hessian Matrix**](catalog/mathematics/math-mvc.md#c31-a005) · `C31-A005` · ▶ PLAY VIDEO
+6. [**Lagrange Multipliers**](catalog/mathematics/math-mvc.md#c31-a006) · `C31-A006` · ▶ PLAY VIDEO
+7. [**Double Integral**](catalog/mathematics/math-mvc.md#c31-a007) · `C31-A007` · ▶ PLAY VIDEO
+8. [**Divergence and Curl**](catalog/mathematics/math-mvc.md#c31-a008) · `C31-A008` · ▶ PLAY VIDEO
 
 ### [Ordinary Differential Equations](catalog/mathematics/math-ode.md)
 
@@ -531,14 +531,14 @@
 
 #### Knowledge points
 
-1. [**Separable Differential Equations**](catalog/mathematics/math-ode.md#c32-a001) · `C32-A001` · VIDEO COMING SOON
-2. [**First-Order Linear Differential Equations**](catalog/mathematics/math-ode.md#c32-a002) · `C32-A002` · VIDEO COMING SOON
-3. [**Phase Line**](catalog/mathematics/math-ode.md#c32-a003) · `C32-A003` · VIDEO COMING SOON
-4. [**Stability of Equilibria**](catalog/mathematics/math-ode.md#c32-a004) · `C32-A004` · VIDEO COMING SOON
-5. [**Second-Order Homogeneous Equations**](catalog/mathematics/math-ode.md#c32-a005) · `C32-A005` · VIDEO COMING SOON
-6. [**Forced Oscillation and Resonance**](catalog/mathematics/math-ode.md#c32-a006) · `C32-A006` · VIDEO COMING SOON
-7. [**Phase Portrait of an ODE System**](catalog/mathematics/math-ode.md#c32-a007) · `C32-A007` · VIDEO COMING SOON
-8. [**Euler&#x27;s Method**](catalog/mathematics/math-ode.md#c32-a008) · `C32-A008` · VIDEO COMING SOON
+1. [**Separable Differential Equations**](catalog/mathematics/math-ode.md#c32-a001) · `C32-A001` · ▶ PLAY VIDEO
+2. [**First-Order Linear Differential Equations**](catalog/mathematics/math-ode.md#c32-a002) · `C32-A002` · ▶ PLAY VIDEO
+3. [**Phase Line**](catalog/mathematics/math-ode.md#c32-a003) · `C32-A003` · ▶ PLAY VIDEO
+4. [**Stability of Equilibria**](catalog/mathematics/math-ode.md#c32-a004) · `C32-A004` · ▶ PLAY VIDEO
+5. [**Second-Order Homogeneous Equations**](catalog/mathematics/math-ode.md#c32-a005) · `C32-A005` · ▶ PLAY VIDEO
+6. [**Forced Oscillation and Resonance**](catalog/mathematics/math-ode.md#c32-a006) · `C32-A006` · ▶ PLAY VIDEO
+7. [**Phase Portrait of an ODE System**](catalog/mathematics/math-ode.md#c32-a007) · `C32-A007` · ▶ PLAY VIDEO
+8. [**Euler&#x27;s Method**](catalog/mathematics/math-ode.md#c32-a008) · `C32-A008` · ▶ PLAY VIDEO
 
 ### [Discrete Mathematics](catalog/mathematics/math-dm.md)
 
@@ -546,14 +546,14 @@
 
 #### Knowledge points
 
-1. [**Propositional Logic Truth Tables**](catalog/mathematics/math-dm.md#c33-a001) · `C33-A001` · VIDEO COMING SOON
-2. [**Mathematical Induction**](catalog/mathematics/math-dm.md#c33-a002) · `C33-A002` · VIDEO COMING SOON
-3. [**Set Operations**](catalog/mathematics/math-dm.md#c33-a003) · `C33-A003` · VIDEO COMING SOON
-4. [**Relations and Equivalence Classes**](catalog/mathematics/math-dm.md#c33-a004) · `C33-A004` · VIDEO COMING SOON
-5. [**Permutations and Combinations**](catalog/mathematics/math-dm.md#c33-a005) · `C33-A005` · VIDEO COMING SOON
-6. [**Pigeonhole Principle**](catalog/mathematics/math-dm.md#c33-a006) · `C33-A006` · VIDEO COMING SOON
-7. [**Recurrence Relations**](catalog/mathematics/math-dm.md#c33-a007) · `C33-A007` · VIDEO COMING SOON
-8. [**Graph Connectivity**](catalog/mathematics/math-dm.md#c33-a008) · `C33-A008` · VIDEO COMING SOON
+1. [**Propositional Logic Truth Tables**](catalog/mathematics/math-dm.md#c33-a001) · `C33-A001` · ▶ PLAY VIDEO
+2. [**Mathematical Induction**](catalog/mathematics/math-dm.md#c33-a002) · `C33-A002` · ▶ PLAY VIDEO
+3. [**Set Operations**](catalog/mathematics/math-dm.md#c33-a003) · `C33-A003` · ▶ PLAY VIDEO
+4. [**Relations and Equivalence Classes**](catalog/mathematics/math-dm.md#c33-a004) · `C33-A004` · ▶ PLAY VIDEO
+5. [**Permutations and Combinations**](catalog/mathematics/math-dm.md#c33-a005) · `C33-A005` · ▶ PLAY VIDEO
+6. [**Pigeonhole Principle**](catalog/mathematics/math-dm.md#c33-a006) · `C33-A006` · ▶ PLAY VIDEO
+7. [**Recurrence Relations**](catalog/mathematics/math-dm.md#c33-a007) · `C33-A007` · ▶ PLAY VIDEO
+8. [**Graph Connectivity**](catalog/mathematics/math-dm.md#c33-a008) · `C33-A008` · ▶ PLAY VIDEO
 
 ### [Abstract Algebra](catalog/mathematics/math-aa.md)
 
@@ -561,14 +561,14 @@
 
 #### Knowledge points
 
-1. [**Group Axioms**](catalog/mathematics/math-aa.md#c34-a001) · `C34-A001` · VIDEO COMING SOON
-2. [**Subgroups**](catalog/mathematics/math-aa.md#c34-a002) · `C34-A002` · VIDEO COMING SOON
-3. [**Cyclic Groups**](catalog/mathematics/math-aa.md#c34-a003) · `C34-A003` · VIDEO COMING SOON
-4. [**Permutation Groups**](catalog/mathematics/math-aa.md#c34-a004) · `C34-A004` · VIDEO COMING SOON
-5. [**Cosets and Lagrange&#x27;s Theorem**](catalog/mathematics/math-aa.md#c34-a005) · `C34-A005` · VIDEO COMING SOON
-6. [**Group Homomorphisms**](catalog/mathematics/math-aa.md#c34-a006) · `C34-A006` · VIDEO COMING SOON
-7. [**Rings and Ideals**](catalog/mathematics/math-aa.md#c34-a007) · `C34-A007` · VIDEO COMING SOON
-8. [**Finite Fields**](catalog/mathematics/math-aa.md#c34-a008) · `C34-A008` · VIDEO COMING SOON
+1. [**Group Axioms**](catalog/mathematics/math-aa.md#c34-a001) · `C34-A001` · ▶ PLAY VIDEO
+2. [**Subgroups**](catalog/mathematics/math-aa.md#c34-a002) · `C34-A002` · ▶ PLAY VIDEO
+3. [**Cyclic Groups**](catalog/mathematics/math-aa.md#c34-a003) · `C34-A003` · ▶ PLAY VIDEO
+4. [**Permutation Groups**](catalog/mathematics/math-aa.md#c34-a004) · `C34-A004` · ▶ PLAY VIDEO
+5. [**Cosets and Lagrange&#x27;s Theorem**](catalog/mathematics/math-aa.md#c34-a005) · `C34-A005` · ▶ PLAY VIDEO
+6. [**Group Homomorphisms**](catalog/mathematics/math-aa.md#c34-a006) · `C34-A006` · ▶ PLAY VIDEO
+7. [**Rings and Ideals**](catalog/mathematics/math-aa.md#c34-a007) · `C34-A007` · ▶ PLAY VIDEO
+8. [**Finite Fields**](catalog/mathematics/math-aa.md#c34-a008) · `C34-A008` · ▶ PLAY VIDEO
 
 ### [Optimization Theory](catalog/mathematics/math-opt.md)
 
@@ -576,14 +576,14 @@
 
 #### Knowledge points
 
-1. [**Convex Sets and Convex Functions**](catalog/mathematics/math-opt.md#c35-a001) · `C35-A001` · VIDEO COMING SOON
-2. [**First-Order Optimality Conditions**](catalog/mathematics/math-opt.md#c35-a002) · `C35-A002` · VIDEO COMING SOON
-3. [**Second-Order Optimality Conditions**](catalog/mathematics/math-opt.md#c35-a003) · `C35-A003` · VIDEO COMING SOON
-4. [**Gradient Descent Convergence**](catalog/mathematics/math-opt.md#c35-a004) · `C35-A004` · VIDEO COMING SOON
-5. [**Newton&#x27;s Method**](catalog/mathematics/math-opt.md#c35-a005) · `C35-A005` · VIDEO COMING SOON
-6. [**Lagrangian Duality**](catalog/mathematics/math-opt.md#c35-a006) · `C35-A006` · VIDEO COMING SOON
-7. [**KKT Conditions**](catalog/mathematics/math-opt.md#c35-a007) · `C35-A007` · VIDEO COMING SOON
-8. [**Projected Gradient Method**](catalog/mathematics/math-opt.md#c35-a008) · `C35-A008` · VIDEO COMING SOON
+1. [**Convex Sets and Convex Functions**](catalog/mathematics/math-opt.md#c35-a001) · `C35-A001` · ▶ PLAY VIDEO
+2. [**First-Order Optimality Conditions**](catalog/mathematics/math-opt.md#c35-a002) · `C35-A002` · ▶ PLAY VIDEO
+3. [**Second-Order Optimality Conditions**](catalog/mathematics/math-opt.md#c35-a003) · `C35-A003` · ▶ PLAY VIDEO
+4. [**Gradient Descent Convergence**](catalog/mathematics/math-opt.md#c35-a004) · `C35-A004` · ▶ PLAY VIDEO
+5. [**Newton&#x27;s Method**](catalog/mathematics/math-opt.md#c35-a005) · `C35-A005` · ▶ PLAY VIDEO
+6. [**Lagrangian Duality**](catalog/mathematics/math-opt.md#c35-a006) · `C35-A006` · ▶ PLAY VIDEO
+7. [**KKT Conditions**](catalog/mathematics/math-opt.md#c35-a007) · `C35-A007` · ▶ PLAY VIDEO
+8. [**Projected Gradient Method**](catalog/mathematics/math-opt.md#c35-a008) · `C35-A008` · ▶ PLAY VIDEO
 
 ---
 

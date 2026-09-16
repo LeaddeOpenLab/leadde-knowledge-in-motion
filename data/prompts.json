@@ -2069,13 +2069,14 @@
     "course": "Single-Variable Calculus",
     "textbook": "Calculus with Analytic Geometry, 2e (Simmons)",
     "title": "Limit",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/single-variable-calculus/limit.mp4",
     "tags": [
       "C04-A001",
       "18.01",
       "P1"
     ],
+    "player": "https://github.com/user-attachments/assets/67bf3a51-e613-40dd-8842-6f9b1e05b841",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Limit” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Limit”. Dynamically demonstrate the core formula or conclusion: A limit describes the value approached as $x$ approaches a point..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2084,13 +2085,14 @@
     "course": "Single-Variable Calculus",
     "textbook": "Calculus with Analytic Geometry, 2e (Simmons)",
     "title": "Continuity",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/single-variable-calculus/continuity.mp4",
     "tags": [
       "C04-A002",
       "18.01",
       "P1"
     ],
+    "player": "https://github.com/user-attachments/assets/40bcdd4d-1516-4f1c-a395-ab3f3b319e31",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Continuity” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Continuity”. Dynamically demonstrate the core formula or conclusion: Continuity at $a$ requires $\\lim_{x\\to a}f(x)=f(a)$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2099,13 +2101,14 @@
     "course": "Single-Variable Calculus",
     "textbook": "Calculus with Analytic Geometry, 2e (Simmons)",
     "title": "Derivatives as local rates of change",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/single-variable-calculus/derivatives-as-local-rates-of-change.mp4",
     "tags": [
       "C04-A003",
       "18.01",
       "P1"
     ],
+    "player": "https://github.com/user-attachments/assets/d23ce10e-4127-4eb6-ad5f-4a3c21dd2478",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Derivatives as local rates of change” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Derivatives as local rates of change”. Dynamically demonstrate the core formula or conclusion: The derivative is the instantaneous rate $f'(x)=\\lim_{h\\to0}\\frac{f(x+h)-f(x)}h$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2114,13 +2117,14 @@
     "course": "Single-Variable Calculus",
     "textbook": "Calculus with Analytic Geometry, 2e (Simmons)",
     "title": "Fundamental Theorem of Calculus",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/single-variable-calculus/fundamental-theorem-of-calculus.mp4",
     "tags": [
       "C04-A004",
       "18.01",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/461ead2b-3938-4e65-ad23-cebc596aa77e",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Fundamental Theorem of Calculus” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Fundamental Theorem of Calculus”. Dynamically demonstrate the core formula or conclusion: The Fundamental Theorem gives $\\frac{d}{dx}\\int_a^x f(t)dt=f(x)$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2129,13 +2133,14 @@
     "course": "Single-Variable Calculus",
     "textbook": "Calculus with Analytic Geometry, 2e (Simmons)",
     "title": "Volume of rotation",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/single-variable-calculus/volume-of-rotation.mp4",
     "tags": [
       "C04-A005",
       "18.01",
       "P1"
     ],
+    "player": "https://github.com/user-attachments/assets/5cd2f87a-7517-4c26-a6b0-e3c0cb085026",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Volume of rotation” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Volume of rotation”. Dynamically demonstrate the core formula or conclusion: A solid of revolution has volume $V=\\pi\\int_a^b[R(x)]^2dx$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2144,13 +2149,14 @@
     "course": "Single-Variable Calculus",
     "textbook": "Calculus with Analytic Geometry, 2e (Simmons)",
     "title": "Integral slice",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/single-variable-calculus/integral-slice.mp4",
     "tags": [
       "C04-A006",
       "18.01",
       "P1"
     ],
+    "player": "https://github.com/user-attachments/assets/8f435b9e-786c-4f33-b00c-f7d337071f6c",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Integral slice” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Integral slice”. Dynamically demonstrate the core formula or conclusion: An integral slice contributes $dV=A(x)dx$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2159,13 +2165,14 @@
     "course": "Single-Variable Calculus",
     "textbook": "Calculus with Analytic Geometry, 2e (Simmons)",
     "title": "Infinite series",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/single-variable-calculus/infinite-series.mp4",
     "tags": [
       "C04-A007",
       "18.01",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/2782dce3-8e4b-4184-93db-3c4a4a58472d",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Infinite series” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Infinite series”. Dynamically demonstrate the core formula or conclusion: An infinite series converges when its partial sums approach one finite value..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2174,13 +2181,14 @@
     "course": "Single-Variable Calculus",
     "textbook": "Calculus with Analytic Geometry, 2e (Simmons)",
     "title": "Taylor Expand",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/single-variable-calculus/taylor-expand.mp4",
     "tags": [
       "C04-A008",
       "18.01",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/27d943f1-a453-455c-95e4-167e9298da2c",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Taylor Expand” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Taylor Expand”. Dynamically demonstrate the core formula or conclusion: A Taylor expansion is $f(x)=\\sum_{n=0}^{\\infty}\\frac{f^{(n)}(a)}{n!}(x-a)^n$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2189,13 +2197,14 @@
     "course": "Single-Variable Calculus",
     "textbook": "Calculus: Early Transcendentals (Stewart)",
     "title": "Epsilon-Delta Definition of a Limit",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/single-variable-calculus/epsilon-delta-definition-of-a-limit.mp4",
     "tags": [
       "C04-A009",
       "18.01",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/6a1f3923-2cfd-4f87-98a7-1adda7306b22",
     "prompt": "Create an animation: Show how, for any chosen output-error band, an input neighborhood can be selected that keeps function values inside that band.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E7F5F9`, English text `#1C485F`, primary visual (Epsilon-Delta Definition of a Limit) `#B81E9D`, supporting elements `#BBDF16`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2204,13 +2213,14 @@
     "course": "Single-Variable Calculus",
     "textbook": "Calculus: Early Transcendentals (Stewart)",
     "title": "Left- and Right-Hand Limits",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/single-variable-calculus/left-and-right-hand-limits.mp4",
     "tags": [
       "C04-A010",
       "18.01",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/aebbce79-8cf2-4c9a-a7f9-ba00b8baf9d7",
     "prompt": "Create an animation: Show function values approaching from the left and right of a target point, then determine whether the two limits agree.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E7F5F9`, English text `#1C485F`, primary visual (Left- and Right-Hand Limits) `#B81E9D`, supporting elements `#BBDF16`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2219,13 +2229,14 @@
     "course": "Single-Variable Calculus",
     "textbook": "Calculus: Early Transcendentals (Stewart)",
     "title": "Chain Rule",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/single-variable-calculus/chain-rule.mp4",
     "tags": [
       "C04-A011",
       "18.01",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/f5cb1ad2-6079-40c0-a69f-4ef09132be84",
     "prompt": "Create an animation: Show inner and outer functions changing in sequence so their local rates multiply into the derivative of the composition.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E7F5F9`, English text `#1C485F`, primary visual (Chain Rule) `#B81E9D`, supporting elements `#BBDF16`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2234,13 +2245,14 @@
     "course": "Single-Variable Calculus",
     "textbook": "Calculus: Early Transcendentals (Stewart)",
     "title": "Implicit Differentiation",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/single-variable-calculus/implicit-differentiation.mp4",
     "tags": [
       "C04-A012",
       "18.01",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/c56c0545-1925-4371-bde8-b8355236682a",
     "prompt": "Create an animation: Show a point moving along an implicit curve while the equation constrains the rates of change of its horizontal and vertical coordinates.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E7F5F9`, English text `#1C485F`, primary visual (Implicit Differentiation) `#B81E9D`, supporting elements `#BBDF16`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2249,13 +2261,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra, 4e/5e (Strang)",
     "title": "Column space",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/column-space.mp4",
     "tags": [
       "C05-A001",
       "18.06",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/25be53de-14c6-4f13-a2eb-1744a16cd83c",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Column space” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Column space”. Dynamically demonstrate the core formula or conclusion: The column space contains every vector reachable as $Ax$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2264,13 +2277,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra, 4e/5e (Strang)",
     "title": "Line space",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/line-space.mp4",
     "tags": [
       "C05-A002",
       "18.06",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/4dcee04c-fd78-436d-b00d-cd985492387e",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Line space” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Line space”. Dynamically demonstrate the core formula or conclusion: The row space is spanned by the matrix rows..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2279,13 +2293,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra, 4e/5e (Strang)",
     "title": "Zero space",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/zero-space.mp4",
     "tags": [
       "C05-A003",
       "18.06",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/d10fa7b4-478d-4be0-a5ec-3860a7ba534a",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Zero space” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Zero space”. Dynamically demonstrate the core formula or conclusion: The null space contains every $x$ satisfying $Ax=0$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2294,13 +2309,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra, 4e/5e (Strang)",
     "title": "Left zero space",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/left-zero-space.mp4",
     "tags": [
       "C05-A004",
       "18.06",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/fc93399a-dbd7-43bd-99a7-434cb6fb9363",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Left zero space” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Left zero space”. Dynamically demonstrate the core formula or conclusion: The left null space contains every $y$ satisfying $A^Ty=0$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2309,13 +2325,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra, 4e/5e (Strang)",
     "title": "Orthographic projection",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/orthographic-projection.mp4",
     "tags": [
       "C05-A005",
       "18.06",
       "P1"
     ],
+    "player": "https://github.com/user-attachments/assets/8e9c5367-ad75-4200-9906-2a6131e16227",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Orthographic projection” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Orthographic projection”. Dynamically demonstrate the core formula or conclusion: Orthogonal projection gives $p=\\frac{a^Tb}{a^Ta}a$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F0F3FB); main visual (#253D75); secondary visual (#9B2447); highlight (#6A5600); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2324,13 +2341,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra, 4e/5e (Strang)",
     "title": "Least squares",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/least-squares.mp4",
     "tags": [
       "C05-A006",
       "18.06",
       "P1"
     ],
+    "player": "https://github.com/user-attachments/assets/40d34813-a23b-4537-aaff-10464e5f9d39",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Least squares” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Least squares”. Dynamically demonstrate the core formula or conclusion: Least squares chooses $\\hat x$ that minimizes $\\|Ax-b\\|^2$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F9F1F5); main visual (#15516C); secondary visual (#8F253B); highlight (#6E5300); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2339,13 +2357,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra, 4e/5e (Strang)",
     "title": "Determinant",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/determinant.mp4",
     "tags": [
       "C05-A007",
       "18.06",
       "P1"
     ],
+    "player": "https://github.com/user-attachments/assets/17df2a3f-db34-46ef-8694-821647a3b782",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Determinant” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Determinant”. Dynamically demonstrate the core formula or conclusion: The determinant measures signed scale and orientation..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF4F1); main visual (#1E4F4C); secondary visual (#8E2B4E); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2354,13 +2373,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra, 4e/5e (Strang)",
     "title": "Volume scaling for linear transformations",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/volume-scaling-for-linear-transformations.mp4",
     "tags": [
       "C05-A008",
       "18.06",
       "P1"
     ],
+    "player": "https://github.com/user-attachments/assets/519e7fdd-d8a0-46e0-914d-ce46d657fcab",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Volume scaling for linear transformations” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Volume scaling for linear transformations”. Dynamically demonstrate the core formula or conclusion: A linear map scales volume by $|\\det A|$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F7F3EA); main visual (#0B4F6C); secondary visual (#8B1E3F); highlight (#795500); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2369,13 +2389,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra, 4e/5e (Strang)",
     "title": "Eigenvalue",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/eigenvalue.mp4",
     "tags": [
       "C05-A009",
       "18.06",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/e83ac18c-1b3d-4307-9268-efd9878278f2",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Eigenvalue” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Eigenvalue”. Dynamically demonstrate the core formula or conclusion: An eigenvalue satisfies $Av=\\lambda v$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EDF4FA); main visual (#154C79); secondary visual (#8A2D2D); highlight (#6B5700); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2384,13 +2405,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra, 4e/5e (Strang)",
     "title": "Eigenvector",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/eigenvector.mp4",
     "tags": [
       "C05-A010",
       "18.06",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/910d9f40-7494-4b0f-9c42-fd4e1eb93bb3",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Eigenvector” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Eigenvector”. Dynamically demonstrate the core formula or conclusion: An eigenvector keeps its direction under a linear map..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#F4EEF8); main visual (#214E75); secondary visual (#8A2356); highlight (#725400); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2399,13 +2421,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra, 4e/5e (Strang)",
     "title": "Matrix diagonalization",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/matrix-diagonalization.mp4",
     "tags": [
       "C05-A011",
       "18.06",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/20adb3f5-f5f8-4d43-9dd2-6a8a02d8c1bf",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Matrix diagonalization” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Matrix diagonalization”. Dynamically demonstrate the core formula or conclusion: Diagonalization writes $A=PDP^{-1}$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#EEF7EE); main visual (#145A56); secondary visual (#8F2B2B); highlight (#735000); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2414,13 +2437,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra, 4e/5e (Strang)",
     "title": "Singular value decomposition",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/singular-value-decomposition.mp4",
     "tags": [
       "C05-A012",
       "18.06",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/53e505ab-c1e7-44b5-9864-3a53bcbbfc5a",
     "prompt": "Create a 15-second silent educational animation in Manim Community Edition.\n\nExplain “Singular value decomposition” using this visual metaphor: “a clean coordinate stage turning the idea into one moving geometric object for Singular value decomposition”. Dynamically demonstrate the core formula or conclusion: SVD factors a matrix as $A=U\\Sigma V^T$..\n\nUse one continuous scene and one clear narrative line. Explain only this concept; do not add comparisons, extensions, or side cases. Structure the motion in three connected beats:\n1. 0–3 seconds: establish the objects, input, or initial state.\n2. 3–10.95 seconds: show at least two causally connected state changes that reveal the mechanism and progressively connect key variables or conclusions to the visual.\n3. 10.95–12.45 seconds: resolve the result, invariant, or central insight.\n\nKeep introducing meaningful animation information until 12.45 seconds. Hold the final still frame for no more than 2.55 seconds.\n\nAll on-screen titles, labels, and supporting annotations must be short English phrases in Arial. Use a bright, non-black background (#FFF3E8); main visual (#1D4D73); secondary visual (#9A2E24); highlight (#6C5200); and text (#172033). Maintain strong contrast and legibility.\n\nStrict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\n\nUse ThreeDScene for a genuinely spatial main visual: at least one core object must show volume, depth, or occlusion, and include one smooth camera move that reveals spatial structure. The 3D motion must clarify the concept rather than merely tilt a flat diagram. Render in 16:9.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2429,13 +2453,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra (Strang)",
     "title": "Gaussian Elimination",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/gaussian-elimination.mp4",
     "tags": [
       "C05-A013",
       "18.06",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/201d5a0b-5db0-4bf9-af2f-23f2d1e7eb05",
     "prompt": "Create an animation: Show elementary row operations eliminating variable coefficients step by step until the augmented matrix reaches row-echelon form.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F9E7F0`, English text `#5F1C34`, primary visual (Gaussian Elimination) `#70B81E`, supporting elements `#1681DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2444,13 +2469,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra (Strang)",
     "title": "Rank-Nullity Theorem",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/rank-nullity-theorem.mp4",
     "tags": [
       "C05-A014",
       "18.06",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/8cfd6c08-ad4d-42c6-b184-bff1c84ce939",
     "prompt": "Create an animation: Show the input space separating into independent directions preserved by a transformation and null directions compressed to zero.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F9E7F0`, English text `#5F1C34`, primary visual (Rank-Nullity Theorem) `#70B81E`, supporting elements `#1681DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2459,13 +2485,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra (Strang)",
     "title": "Gram-Schmidt Orthogonalization",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/gram-schmidt-orthogonalization.mp4",
     "tags": [
       "C05-A015",
       "18.06",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/e8efaf06-d88f-415e-9dff-ae2c72e2e69c",
     "prompt": "Create an animation: Show independent vectors becoming an orthogonal basis by subtracting their projections onto previously established directions.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F9E7F0`, English text `#5F1C34`, primary visual (Gram-Schmidt Orthogonalization) `#70B81E`, supporting elements `#1681DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2474,13 +2501,14 @@
     "course": "Linear Algebra",
     "textbook": "Introduction to Linear Algebra (Strang)",
     "title": "QR Decomposition",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/linear-algebra/qr-decomposition.mp4",
     "tags": [
       "C05-A016",
       "18.06",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/7c6a2af2-a2b3-4266-8f85-e758951f25db",
     "prompt": "Create an animation: Show a matrix's column vectors being orthogonalized into an orthonormal basis matrix and an upper-triangular coefficient matrix.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F9E7F0`, English text `#5F1C34`, primary visual (QR Decomposition) `#70B81E`, supporting elements `#1681DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2489,13 +2517,14 @@
     "course": "Multivariable Calculus",
     "textbook": "Calculus: Early Transcendentals (Stewart)",
     "title": "Partial Derivatives",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/multivariable-calculus/partial-derivatives.mp4",
     "tags": [
       "C31-A001",
       "MATH-MVC",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/9da78ab5-d5d5-41fd-be8f-beab96fad560",
     "prompt": "Create an animation: Show the instantaneous slope of a surface slice along one coordinate direction while all other variables remain fixed.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Partial Derivatives) `#1E43B8`, supporting elements `#DF1646`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2504,13 +2533,14 @@
     "course": "Multivariable Calculus",
     "textbook": "Calculus: Early Transcendentals (Stewart)",
     "title": "Gradient",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/multivariable-calculus/gradient.mp4",
     "tags": [
       "C31-A002",
       "MATH-MVC",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/138a69c3-453e-4b59-8a90-29d10f51f980",
     "prompt": "Create an animation: Show the gradient assembled from directional rates and pointing along the surface's direction of steepest ascent.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Gradient) `#1E43B8`, supporting elements `#DF1646`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2519,13 +2549,14 @@
     "course": "Multivariable Calculus",
     "textbook": "Calculus: Early Transcendentals (Stewart)",
     "title": "Directional Derivative",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/multivariable-calculus/directional-derivative.mp4",
     "tags": [
       "C31-A003",
       "MATH-MVC",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/dea029b1-cf7c-4ed3-a908-166d2d35447d",
     "prompt": "Create an animation: Show how projecting the gradient onto a chosen direction gives the function's rate of change along that direction.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Directional Derivative) `#1E43B8`, supporting elements `#DF1646`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2534,13 +2565,14 @@
     "course": "Multivariable Calculus",
     "textbook": "Calculus: Early Transcendentals (Stewart)",
     "title": "Jacobian Matrix",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/multivariable-calculus/jacobian-matrix.mp4",
     "tags": [
       "C31-A004",
       "MATH-MVC",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/5a7b23df-3e57-4a36-bbaf-cbc1b3945af0",
     "prompt": "Create an animation: Show a multi-input, multi-output mapping being approximated locally by the linear transformation encoded by its Jacobian.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Jacobian Matrix) `#1E43B8`, supporting elements `#DF1646`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2549,13 +2581,14 @@
     "course": "Multivariable Calculus",
     "textbook": "Calculus: Early Transcendentals (Stewart)",
     "title": "Hessian Matrix",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/multivariable-calculus/hessian-matrix.mp4",
     "tags": [
       "C31-A005",
       "MATH-MVC",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/b62cbf86-3603-4c78-8c27-23417a2092da",
     "prompt": "Create an animation: Show second partial derivatives describing local surface curvature and distinguishing minima, maxima, and saddle points.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Hessian Matrix) `#1E43B8`, supporting elements `#DF1646`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2564,13 +2597,14 @@
     "course": "Multivariable Calculus",
     "textbook": "Calculus: Early Transcendentals (Stewart)",
     "title": "Lagrange Multipliers",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/multivariable-calculus/lagrange-multipliers.mp4",
     "tags": [
       "C31-A006",
       "MATH-MVC",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/ffe2897e-300a-40b6-80e7-211790c487d4",
     "prompt": "Create an animation: Show objective contours becoming tangent to a constraint curve, where parallel gradients identify a constrained extremum.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Lagrange Multipliers) `#1E43B8`, supporting elements `#DF1646`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2579,13 +2613,14 @@
     "course": "Multivariable Calculus",
     "textbook": "Calculus: Early Transcendentals (Stewart)",
     "title": "Double Integral",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/multivariable-calculus/double-integral.mp4",
     "tags": [
       "C31-A007",
       "MATH-MVC",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/665c2938-c01b-468b-875f-bcea70944136",
     "prompt": "Create an animation: Show a planar region divided into a grid as sums of narrow column volumes converge to the total volume under a surface.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Double Integral) `#1E43B8`, supporting elements `#DF1646`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2594,13 +2629,14 @@
     "course": "Multivariable Calculus",
     "textbook": "Calculus: Early Transcendentals (Stewart)",
     "title": "Divergence and Curl",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/multivariable-calculus/divergence-and-curl.mp4",
     "tags": [
       "C31-A008",
       "MATH-MVC",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/e7ed0f35-8a3b-48de-99c8-4b768928e00e",
     "prompt": "Create an animation: Compare the outward flow strength and local rotational tendency of a vector field near a point.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#EAF9E7`, English text `#205F1C`, primary visual (Divergence and Curl) `#1E43B8`, supporting elements `#DF1646`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2609,13 +2645,14 @@
     "course": "Ordinary Differential Equations",
     "textbook": "Elementary Differential Equations (Boyce and DiPrima)",
     "title": "Separable Differential Equations",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/ordinary-differential-equations/separable-differential-equations.mp4",
     "tags": [
       "C32-A001",
       "MATH-ODE",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/0dc25539-4a85-474f-9d02-153d59eb0372",
     "prompt": "Create an animation: Show variable terms moving to opposite sides and being integrated separately to produce a solution curve evolving over time.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (Separable Differential Equations) `#B8261E`, supporting elements `#16DF20`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2624,13 +2661,14 @@
     "course": "Ordinary Differential Equations",
     "textbook": "Elementary Differential Equations (Boyce and DiPrima)",
     "title": "First-Order Linear Differential Equations",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/ordinary-differential-equations/first-order-linear-differential-equations.mp4",
     "tags": [
       "C32-A002",
       "MATH-ODE",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/71b0446f-e2bd-4c44-b04e-e90ea562b89f",
     "prompt": "Create an animation: Show an integrating factor turning the left side into a product derivative and leading to the general solution.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (First-Order Linear Differential Equations) `#B8261E`, supporting elements `#16DF20`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2639,13 +2677,14 @@
     "course": "Ordinary Differential Equations",
     "textbook": "Elementary Differential Equations (Boyce and DiPrima)",
     "title": "Phase Line",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/ordinary-differential-equations/phase-line.mp4",
     "tags": [
       "C32-A003",
       "MATH-ODE",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/07e7fd66-308a-40a6-964a-ffdd06cfd928",
     "prompt": "Create an animation: Show a one-dimensional state moving in the direction set by the derivative's sign and approaching or leaving equilibrium points.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (Phase Line) `#B8261E`, supporting elements `#16DF20`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2654,13 +2693,14 @@
     "course": "Ordinary Differential Equations",
     "textbook": "Elementary Differential Equations (Boyce and DiPrima)",
     "title": "Stability of Equilibria",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/ordinary-differential-equations/stability-of-equilibria.mp4",
     "tags": [
       "C32-A004",
       "MATH-ODE",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/d0a87a03-3ce3-44cc-968f-8196b7fc4e03",
     "prompt": "Create an animation: Show nearby initial states returning to, moving away from, or remaining near an equilibrium after small perturbations.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (Stability of Equilibria) `#B8261E`, supporting elements `#16DF20`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2669,13 +2709,14 @@
     "course": "Ordinary Differential Equations",
     "textbook": "Elementary Differential Equations (Boyce and DiPrima)",
     "title": "Second-Order Homogeneous Equations",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/ordinary-differential-equations/second-order-homogeneous-equations.mp4",
     "tags": [
       "C32-A005",
       "MATH-ODE",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/7230ef6d-168d-4786-ba00-fdbad197ec9d",
     "prompt": "Create an animation: Show how different characteristic-root types produce exponential growth, decay, or oscillation in the solution.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (Second-Order Homogeneous Equations) `#B8261E`, supporting elements `#16DF20`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2684,13 +2725,14 @@
     "course": "Ordinary Differential Equations",
     "textbook": "Elementary Differential Equations (Boyce and DiPrima)",
     "title": "Forced Oscillation and Resonance",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/ordinary-differential-equations/forced-oscillation-and-resonance.mp4",
     "tags": [
       "C32-A006",
       "MATH-ODE",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/2fe0a2cb-6d1b-42c0-adf1-151b1268794e",
     "prompt": "Create an animation: Show the response amplitude growing as an external driving frequency approaches the system's natural frequency.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (Forced Oscillation and Resonance) `#B8261E`, supporting elements `#16DF20`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2699,13 +2741,14 @@
     "course": "Ordinary Differential Equations",
     "textbook": "Elementary Differential Equations (Boyce and DiPrima)",
     "title": "Phase Portrait of an ODE System",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/ordinary-differential-equations/phase-portrait-of-an-ode-system.mp4",
     "tags": [
       "C32-A007",
       "MATH-ODE",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/eede0422-cbd0-472b-bd8a-fc42e47ff1d3",
     "prompt": "Create an animation: Show trajectories from different initial conditions following a vector field and organizing into a phase portrait.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (Phase Portrait of an ODE System) `#B8261E`, supporting elements `#16DF20`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2714,13 +2757,14 @@
     "course": "Ordinary Differential Equations",
     "textbook": "Elementary Differential Equations (Boyce and DiPrima)",
     "title": "Euler's Method",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/ordinary-differential-equations/euler-s-method.mp4",
     "tags": [
       "C32-A008",
       "MATH-ODE",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/8c9704ee-38ae-43e6-99f4-eb663eed3060",
     "prompt": "Create an animation: Show a numerical path advancing from an initial point in local-slope steps to approximate a differential-equation solution curve.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E8E7F9`, English text `#2A1C5F`, primary visual (Euler's Method) `#B8261E`, supporting elements `#16DF20`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2729,13 +2773,14 @@
     "course": "Discrete Mathematics",
     "textbook": "Mathematics for Computer Science (Lehman et al.)",
     "title": "Propositional Logic Truth Tables",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/discrete-mathematics/propositional-logic-truth-tables.mp4",
     "tags": [
       "C33-A001",
       "MATH-DM",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/389439a1-c3c0-43b5-9ebb-42b77b8e7eeb",
     "prompt": "Create an animation: Show each row of a compound proposition's truth value being calculated from its atomic propositions.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Propositional Logic Truth Tables) `#1EB853`, supporting elements `#5B16DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2744,13 +2789,14 @@
     "course": "Discrete Mathematics",
     "textbook": "Mathematics for Computer Science (Lehman et al.)",
     "title": "Mathematical Induction",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/discrete-mathematics/mathematical-induction.mp4",
     "tags": [
       "C33-A002",
       "MATH-DM",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/fa9ddd61-e6f0-4355-9231-aba96cf45f1c",
     "prompt": "Create an animation: Show a proof establishing a base case and then using an arbitrary step to imply the next, covering all natural numbers.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Mathematical Induction) `#1EB853`, supporting elements `#5B16DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2759,13 +2805,14 @@
     "course": "Discrete Mathematics",
     "textbook": "Mathematics for Computer Science (Lehman et al.)",
     "title": "Set Operations",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/discrete-mathematics/set-operations.mp4",
     "tags": [
       "C33-A003",
       "MATH-DM",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/e046660d-f196-4293-9924-0b1e68b3f0db",
     "prompt": "Create an animation: Show elements moving among regions after union, intersection, difference, and complement operations.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Set Operations) `#1EB853`, supporting elements `#5B16DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2774,13 +2821,14 @@
     "course": "Discrete Mathematics",
     "textbook": "Mathematics for Computer Science (Lehman et al.)",
     "title": "Relations and Equivalence Classes",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/discrete-mathematics/relations-and-equivalence-classes.mp4",
     "tags": [
       "C33-A004",
       "MATH-DM",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/cfd824cd-efc8-463a-a8c4-17d3a949ba07",
     "prompt": "Create an animation: Show an equivalence relation partitioning a set into non-overlapping classes of mutually equivalent elements.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Relations and Equivalence Classes) `#1EB853`, supporting elements `#5B16DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2789,13 +2837,14 @@
     "course": "Discrete Mathematics",
     "textbook": "Mathematics for Computer Science (Lehman et al.)",
     "title": "Permutations and Combinations",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/discrete-mathematics/permutations-and-combinations.mp4",
     "tags": [
       "C33-A005",
       "MATH-DM",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/aebd45d4-7c5e-47d3-a33f-91a5c0d38185",
     "prompt": "Create an animation: Compare counting processes in which object order matters with those in which it does not.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Permutations and Combinations) `#1EB853`, supporting elements `#5B16DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2804,13 +2853,14 @@
     "course": "Discrete Mathematics",
     "textbook": "Mathematics for Computer Science (Lehman et al.)",
     "title": "Pigeonhole Principle",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/discrete-mathematics/pigeonhole-principle.mp4",
     "tags": [
       "C33-A006",
       "MATH-DM",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/b672a3c1-f946-4115-a0f7-8fb16cc9a7e7",
     "prompt": "Create an animation: Show that when there are more objects than containers, at least one container must receive multiple objects.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Pigeonhole Principle) `#1EB853`, supporting elements `#5B16DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2819,13 +2869,14 @@
     "course": "Discrete Mathematics",
     "textbook": "Mathematics for Computer Science (Lehman et al.)",
     "title": "Recurrence Relations",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/discrete-mathematics/recurrence-relations.mp4",
     "tags": [
       "C33-A007",
       "MATH-DM",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/37c5458e-20ff-4a87-941a-c270359058a7",
     "prompt": "Create an animation: Show each sequence term being generated from earlier terms and unfolding step by step from the initial values.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Recurrence Relations) `#1EB853`, supporting elements `#5B16DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2834,13 +2885,14 @@
     "course": "Discrete Mathematics",
     "textbook": "Mathematics for Computer Science (Lehman et al.)",
     "title": "Graph Connectivity",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/discrete-mathematics/graph-connectivity.mp4",
     "tags": [
       "C33-A008",
       "MATH-DM",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/b1afd6ce-b3d3-48d9-b2fd-229da46187eb",
     "prompt": "Create an animation: Show how reachable paths and connected components change as vertices and edges are added or removed.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F9EDE7`, English text `#5F3E1C`, primary visual (Graph Connectivity) `#1EB853`, supporting elements `#5B16DF`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2849,13 +2901,14 @@
     "course": "Abstract Algebra",
     "textbook": "Abstract Algebra (Dummit and Foote)",
     "title": "Group Axioms",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/abstract-algebra/group-axioms.mp4",
     "tags": [
       "C34-A001",
       "MATH-AA",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/fcb58179-00a8-4abf-9275-852ebab18c51",
     "prompt": "Create an animation: Show a set of transformations forming a group under closure, associativity, identity, and inverse constraints.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Group Axioms) `#801EB8`, supporting elements `#DF9616`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2864,13 +2917,14 @@
     "course": "Abstract Algebra",
     "textbook": "Abstract Algebra (Dummit and Foote)",
     "title": "Subgroups",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/abstract-algebra/subgroups.mp4",
     "tags": [
       "C34-A002",
       "MATH-AA",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/57531828-27cc-4a55-9656-a335b602cf02",
     "prompt": "Create an animation: Show a subset remaining closed under the same operation and inheriting the structure of its parent group.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Subgroups) `#801EB8`, supporting elements `#DF9616`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2879,13 +2933,14 @@
     "course": "Abstract Algebra",
     "textbook": "Abstract Algebra (Dummit and Foote)",
     "title": "Cyclic Groups",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/abstract-algebra/cyclic-groups.mp4",
     "tags": [
       "C34-A003",
       "MATH-AA",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/c41a8196-4f19-4747-902a-2e0ded7dee54",
     "prompt": "Create an animation: Show one generator repeatedly applying the group operation to produce every element of the group.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Cyclic Groups) `#801EB8`, supporting elements `#DF9616`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2894,13 +2949,14 @@
     "course": "Abstract Algebra",
     "textbook": "Abstract Algebra (Dummit and Foote)",
     "title": "Permutation Groups",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/abstract-algebra/permutation-groups.mp4",
     "tags": [
       "C34-A004",
       "MATH-AA",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/ef61e008-5022-4f6d-a3b7-64d581a2ea48",
     "prompt": "Create an animation: Show object positions being rearranged by permutations and multiple permutations combining through composition.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Permutation Groups) `#801EB8`, supporting elements `#DF9616`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2909,13 +2965,14 @@
     "course": "Abstract Algebra",
     "textbook": "Abstract Algebra (Dummit and Foote)",
     "title": "Cosets and Lagrange's Theorem",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/abstract-algebra/cosets-and-lagrange-s-theorem.mp4",
     "tags": [
       "C34-A005",
       "MATH-AA",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/2863e6c5-fd8c-4316-bf38-9461e30ce3f6",
     "prompt": "Create an animation: Show translations of a subgroup partitioning a finite group into equal-size cosets and implying the divisibility of group orders.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Cosets and Lagrange's Theorem) `#801EB8`, supporting elements `#DF9616`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2924,13 +2981,14 @@
     "course": "Abstract Algebra",
     "textbook": "Abstract Algebra (Dummit and Foote)",
     "title": "Group Homomorphisms",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/abstract-algebra/group-homomorphisms.mp4",
     "tags": [
       "C34-A006",
       "MATH-AA",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/e487f7fc-ed9a-4540-858f-01f0e931f8dc",
     "prompt": "Create an animation: Show a mapping preserving group operations while forming a kernel and an image.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Group Homomorphisms) `#801EB8`, supporting elements `#DF9616`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2939,13 +2997,14 @@
     "course": "Abstract Algebra",
     "textbook": "Abstract Algebra (Dummit and Foote)",
     "title": "Rings and Ideals",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/abstract-algebra/rings-and-ideals.mp4",
     "tags": [
       "C34-A007",
       "MATH-AA",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/1660f83d-27fb-4832-a46e-dfd647ab0478",
     "prompt": "Create an animation: Show addition and multiplication acting in a ring and why an ideal absorbs products with elements of the ring.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Rings and Ideals) `#801EB8`, supporting elements `#DF9616`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2954,13 +3013,14 @@
     "course": "Abstract Algebra",
     "textbook": "Abstract Algebra (Dummit and Foote)",
     "title": "Finite Fields",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/abstract-algebra/finite-fields.mp4",
     "tags": [
       "C34-A008",
       "MATH-AA",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/af675b6c-8c04-4b4f-b1cc-207c9ede192c",
     "prompt": "Create an animation: Show a finite set remaining closed under modular addition, subtraction, multiplication, and division while satisfying field properties.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#E7F9F3`, English text `#1C5F52`, primary visual (Finite Fields) `#801EB8`, supporting elements `#DF9616`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2969,13 +3029,14 @@
     "course": "Optimization Theory",
     "textbook": "Convex Optimization (Boyd and Vandenberghe)",
     "title": "Convex Sets and Convex Functions",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/optimization-theory/convex-sets-and-convex-functions.mp4",
     "tags": [
       "C35-A001",
       "MATH-OPT",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/e2e8de55-fd53-4be3-95c0-c5641799cd56",
     "prompt": "Create an animation: Show every line segment between two points staying inside a convex set and every function chord staying above the graph.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Convex Sets and Convex Functions) `#B8AD1E`, supporting elements `#16DFD0`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2984,13 +3045,14 @@
     "course": "Optimization Theory",
     "textbook": "Convex Optimization (Boyd and Vandenberghe)",
     "title": "First-Order Optimality Conditions",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/optimization-theory/first-order-optimality-conditions.mp4",
     "tags": [
       "C35-A002",
       "MATH-OPT",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/6512b5f2-d3a8-4fa6-bf70-3f2eae2d7492",
     "prompt": "Create an animation: Show the gradient vanishing at an unconstrained extremum or ceasing to form a descent direction within the feasible region.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (First-Order Optimality Conditions) `#B8AD1E`, supporting elements `#16DFD0`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -2999,13 +3061,14 @@
     "course": "Optimization Theory",
     "textbook": "Convex Optimization (Boyd and Vandenberghe)",
     "title": "Second-Order Optimality Conditions",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/optimization-theory/second-order-optimality-conditions.mp4",
     "tags": [
       "C35-A003",
       "MATH-OPT",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/fb33e330-65e7-4c5c-a7ee-5fc94c1b649b",
     "prompt": "Create an animation: Show how local curvature encoded by the Hessian distinguishes a minimum, maximum, and saddle point.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Second-Order Optimality Conditions) `#B8AD1E`, supporting elements `#16DFD0`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -3014,13 +3077,14 @@
     "course": "Optimization Theory",
     "textbook": "Convex Optimization (Boyd and Vandenberghe)",
     "title": "Gradient Descent Convergence",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/optimization-theory/gradient-descent-convergence.mp4",
     "tags": [
       "C35-A004",
       "MATH-OPT",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/11bfe2c6-c0ad-4835-8431-b1d42a6f4684",
     "prompt": "Create an animation: Show iterates with different step sizes approaching an optimum, oscillating, or diverging along the negative gradient.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Gradient Descent Convergence) `#B8AD1E`, supporting elements `#16DFD0`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -3029,13 +3093,14 @@
     "course": "Optimization Theory",
     "textbook": "Convex Optimization (Boyd and Vandenberghe)",
     "title": "Newton's Method",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/optimization-theory/newton-s-method.mp4",
     "tags": [
       "C35-A005",
       "MATH-OPT",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/ded78c1b-f5a3-447d-9363-5d52ead463cc",
     "prompt": "Create an animation: Show the algorithm using gradient and curvature to build a local quadratic approximation and jump rapidly toward an extremum.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Newton's Method) `#B8AD1E`, supporting elements `#16DFD0`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -3044,13 +3109,14 @@
     "course": "Optimization Theory",
     "textbook": "Convex Optimization (Boyd and Vandenberghe)",
     "title": "Lagrangian Duality",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/optimization-theory/lagrangian-duality.mp4",
     "tags": [
       "C35-A006",
       "MATH-OPT",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/587d3939-f01a-4b5e-b6d5-57cd26f46611",
     "prompt": "Create an animation: Show a constrained optimization problem becoming a search for lower bounds and compare the primal and dual values.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Lagrangian Duality) `#B8AD1E`, supporting elements `#16DFD0`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -3059,13 +3125,14 @@
     "course": "Optimization Theory",
     "textbook": "Convex Optimization (Boyd and Vandenberghe)",
     "title": "KKT Conditions",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/optimization-theory/kkt-conditions.mp4",
     "tags": [
       "C35-A007",
       "MATH-OPT",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/1c5c7053-28da-440a-b8ee-1b0f48d4078d",
     "prompt": "Create an animation: Show feasibility, stationarity, and complementary slackness jointly constraining the active boundary at an optimum.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (KKT Conditions) `#B8AD1E`, supporting elements `#16DFD0`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
@@ -3074,13 +3141,14 @@
     "course": "Optimization Theory",
     "textbook": "Convex Optimization (Boyd and Vandenberghe)",
     "title": "Projected Gradient Method",
-    "status": "coming_soon",
-    "video": "",
+    "status": "ready",
+    "video": "assets/videos/mathematics/optimization-theory/projected-gradient-method.mp4",
     "tags": [
       "C35-A008",
       "MATH-OPT",
       "P0"
     ],
+    "player": "https://github.com/user-attachments/assets/36dc0913-1fbd-46eb-a42a-424aa57b04e2",
     "prompt": "Create an animation: Show a gradient step leaving the feasible region, projecting back to the nearest feasible point, and continuing the iteration.\nRequirement: All explanatory text must be in English, and the video must have no audio.\nRequirement: Strict typography requirements:\n- Render every complete title, label, phrase, or sentence as one native Text(...) object so every character shares one baseline.\n- Never rebuild a line from separately positioned word or letter objects, and never align words by their individual bounding boxes.\n- Create Arial text at a base font_size of 64, then uniformly scale the complete Text object to its final visual size; do not render explanatory text directly at a tiny font size.\n- Preserve ordinary spaces inside the same Text object, set disable_ligatures=True, and do not add manual tracking, special-width spaces, or per-character offsets.\nColors: Background `#F8E7F9`, English text `#5F1C59`, primary visual (Projected Gradient Method) `#B8AD1E`, supporting elements `#16DFD0`.\n\nGlobal rendering requirements:\n- Never place plain English words, sentences, titles, or explanatory prose in MathTex, Tex, or inline LaTeX math mode. Use the native Text(...) component for all explanatory text and titles.\n- If an English word is unavoidable inside a mathematical expression, explicitly wrap every word with \\text{...}; never leave a word bare in algebra mode.\n- Animate text at whole-word or whole-line granularity. Never split text into individually spaced letters or animate isolated letter spans.\n- Do not use text-align: justify or the SVG textLength or lengthAdjust attributes.\n- Use the final conclusion display as the video's opening poster frame; do not begin on an empty background."
   },
   {
