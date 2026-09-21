@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Column Space: Mapping Inputs to Outputs",
+    "knowledgePoint": "Column space",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: show that matrix columns generate every reachable output, test membership, and connect dimension to rank.",
+    "video": "assets/videos/mathematics/linear-algebra/column-space.mp4"
+  },
+  {
+    "title": "Line Space: Detecting Input Directions",
+    "knowledgePoint": "Line space",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: clarify row space, visualize dependent row directions, and connect Row(A) to Col(A transpose).",
+    "video": "assets/videos/mathematics/linear-algebra/line-space.mp4"
+  },
+  {
+    "title": "Zero Space: Finding Inputs That Disappear",
+    "knowledgePoint": "Zero space",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: solve a homogeneous system, expose its free direction, and verify that a nonzero input maps to zero.",
+    "video": "assets/videos/mathematics/linear-algebra/zero-space.mp4"
+  },
+  {
+    "title": "Left Zero Space: Detecting Output Blind Spots",
+    "knowledgePoint": "Left zero space",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: transpose a matrix, solve for an output-side witness, prove column orthogonality, and count left-null dimensions.",
+    "video": "assets/videos/mathematics/linear-algebra/left-zero-space.mp4"
+  },
+  {
+    "title": "Orthographic Projection: Finding the Nearest Shadow",
+    "knowledgePoint": "Orthographic projection",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: find the closest shadow on a line and prove optimality through a perpendicular residual.",
+    "video": "assets/videos/mathematics/linear-algebra/orthographic-projection.mp4"
+  },
+  {
+    "title": "Least Squares: Finding the Best Approximation",
+    "knowledgePoint": "Least squares",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: turn an inconsistent data system into a projection, visualize residuals, and derive the normal equations.",
+    "video": "assets/videos/mathematics/linear-algebra/least-squares.mp4"
+  },
+  {
+    "title": "Determinant: Measuring Signed Area",
+    "knowledgePoint": "Determinant",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: interpret determinant as signed area, then contrast dimension collapse with orientation reversal.",
+    "video": "assets/videos/mathematics/linear-algebra/determinant.mp4"
+  },
+  {
+    "title": "Volume Scaling for Linear Transformations: How det(A) Scales",
+    "knowledgePoint": "Volume scaling for linear transformations",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: compare stretch, shear, composition, and collapse to show why absolute determinant is the universal volume factor.",
+    "video": "assets/videos/mathematics/linear-algebra/volume-scaling-for-linear-transformations.mp4"
+  },
+  {
+    "title": "Eigenvalue: Finding Invariant Scales",
+    "knowledgePoint": "Eigenvalue",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: identify invariant directions, derive the characteristic equation, and approximate the dominant scale by power iteration.",
+    "video": "assets/videos/mathematics/linear-algebra/eigenvalue.mp4"
+  },
+  {
+    "title": "Eigenvector: Finding Invariant Directions",
+    "knowledgePoint": "Eigenvector",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: contrast an ordinary rotating vector with an invariant direction, then define the eigenspace as a null space.",
+    "video": "assets/videos/mathematics/linear-algebra/eigenvector.mp4"
+  },
+  {
+    "title": "Matrix Diagonalization: Simplifying Matrix Powers",
+    "knowledgePoint": "Matrix diagonalization",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: build an eigenbasis, factor A as P D P inverse, verify reconstruction, and use diagonal powers.",
+    "video": "assets/videos/mathematics/linear-algebra/matrix-diagonalization.mp4"
+  },
+  {
+    "title": "Singular Value Decomposition: Rotating and Stretching Space",
+    "knowledgePoint": "Singular value decomposition",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: map a unit circle to an ellipse, separate rotations from stretching, and motivate low-rank compression.",
+    "video": "assets/videos/mathematics/linear-algebra/singular-value-decomposition.mp4"
+  },
+  {
+    "title": "Gaussian Elimination: Exposing Pivots and Solutions",
+    "knowledgePoint": "Gaussian Elimination",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: choose pivots, eliminate one column at a time, reach RREF, and read rank and the solution.",
+    "video": "assets/videos/mathematics/linear-algebra/gaussian-elimination.mp4"
+  },
+  {
+    "title": "Rank-Nullity Theorem: Counting Hidden Dimensions",
+    "knowledgePoint": "Rank-Nullity Theorem",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: partition input dimensions into visible rank and hidden nullity, then verify the count on a four-column matrix.",
+    "video": "assets/videos/mathematics/linear-algebra/rank-nullity-theorem.mp4"
+  },
+  {
+    "title": "Gram-Schmidt Orthogonalization: Forming an Orthonormal Frame",
+    "knowledgePoint": "Gram-Schmidt Orthogonalization",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: turn an oblique basis into an orthonormal basis by projection, subtraction, and normalization without changing the span.",
+    "video": "assets/videos/mathematics/linear-algebra/gram-schmidt-orthogonalization.mp4"
+  },
+  {
+    "title": "QR Decomposition: Stable Least Squares",
+    "knowledgePoint": "QR Decomposition",
+    "prompt": "A 30-second silent English concept animation for Linear Algebra: package Gram-Schmidt into Q and R, verify QR equals A, and connect the factorization to stable least squares.",
+    "video": "assets/videos/mathematics/linear-algebra/qr-decomposition.mp4"
+  }
+]
