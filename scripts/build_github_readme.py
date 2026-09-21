@@ -95,15 +95,15 @@ def write_course_page(subject, course, prompts):
     page.write_text("\n".join(page_lines), encoding="utf-8")
 
 lines = [
-    "# Leadde Motion Prompt Library",
+    "# Leadde Knowledge in Motion",
     "",
-    f"> A GitHub-native catalog of **{len(items)} English Manim prompts** across **{len(library)} disciplines** and **{course_count} courses**.",
+    f"> An open educational animation and AI prompt library with **{len(items)} English prompts** across **{len(library)} disciplines** and **{course_count} courses**.",
     ">",
     "> Browse knowledge points and play finished videos directly with GitHub's native video player.",
     ">",
     "> **Download videos: [Browse course ZIP bundles →](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/releases/tag/course-video-downloads)**",
     ">",
-    "> **Ready to create your own? [Turn a prompt into an animation with Leadde →](https://leadde.ai/animation)**",
+    "> **Watch the concept. Reuse the prompt. [Create your own animation with Leadde →](https://leadde.ai/animation)**",
     "",
     "## Browse the library",
     "",

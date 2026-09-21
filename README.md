@@ -1,12 +1,12 @@
-# Leadde Motion Prompt Library
+# Leadde Knowledge in Motion
 
-> A GitHub-native catalog of **371 English Manim prompts** across **15 disciplines** and **35 courses**.
+> An open educational animation and AI prompt library with **371 English prompts** across **15 disciplines** and **35 courses**.
 >
 > Browse knowledge points and play finished videos directly with GitHub's native video player.
 >
 > **Download videos: [Browse course ZIP bundles →](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/releases/tag/course-video-downloads)**
 >
-> **Ready to create your own? [Turn a prompt into an animation with Leadde →](https://leadde.ai/animation)**
+> **Watch the concept. Reuse the prompt. [Create your own animation with Leadde →](https://leadde.ai/animation)**
 
 ## Browse the library
 
