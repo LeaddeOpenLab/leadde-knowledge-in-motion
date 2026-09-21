@@ -30,8 +30,7 @@ def bundle_name(first):
 def card(subject, courses):
     count = sum(len(prompts) for prompts in courses.values())
     return f'''<td width="33%" valign="top">
-  <img src="assets/subject-icons/{slug(subject)}.svg" width="54" alt="{html.escape(subject)} icon"><br>
-  <a href="#{slug(subject)}"><strong>{html.escape(subject)}</strong></a><br>
+  <a href="#{slug(subject)}"><img src="assets/subject-cards/{slug(subject)}.png" width="100%" alt="{html.escape(subject)} subject card"></a><br>
   <sub>{len(courses)} courses · {count} prompts</sub>
 </td>'''
 

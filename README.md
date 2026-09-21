@@ -13,86 +13,71 @@
 <table>
 <tr>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/computer-science.svg" width="54" alt="Computer Science icon"><br>
-  <a href="#computer-science"><strong>Computer Science</strong></a><br>
+  <a href="#computer-science"><img src="assets/subject-cards/computer-science.png" width="100%" alt="Computer Science subject card"></a><br>
   <sub>7 courses · 69 prompts</sub>
 </td>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/artificial-intelligence.svg" width="54" alt="Artificial Intelligence icon"><br>
-  <a href="#artificial-intelligence"><strong>Artificial Intelligence</strong></a><br>
+  <a href="#artificial-intelligence"><img src="assets/subject-cards/artificial-intelligence.png" width="100%" alt="Artificial Intelligence subject card"></a><br>
   <sub>6 courses · 60 prompts</sub>
 </td>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/mathematics.svg" width="54" alt="Mathematics icon"><br>
-  <a href="#mathematics"><strong>Mathematics</strong></a><br>
+  <a href="#mathematics"><img src="assets/subject-cards/mathematics.png" width="100%" alt="Mathematics subject card"></a><br>
   <sub>7 courses · 68 prompts</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/mathematics-statistics.svg" width="54" alt="Mathematics &amp; Statistics icon"><br>
-  <a href="#mathematics-statistics"><strong>Mathematics &amp; Statistics</strong></a><br>
+  <a href="#mathematics-statistics"><img src="assets/subject-cards/mathematics-statistics.png" width="100%" alt="Mathematics &amp; Statistics subject card"></a><br>
   <sub>1 courses · 11 prompts</sub>
 </td>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/physics.svg" width="54" alt="Physics icon"><br>
-  <a href="#physics"><strong>Physics</strong></a><br>
+  <a href="#physics"><img src="assets/subject-cards/physics.png" width="100%" alt="Physics subject card"></a><br>
   <sub>2 courses · 25 prompts</sub>
 </td>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/chemistry.svg" width="54" alt="Chemistry icon"><br>
-  <a href="#chemistry"><strong>Chemistry</strong></a><br>
+  <a href="#chemistry"><img src="assets/subject-cards/chemistry.png" width="100%" alt="Chemistry subject card"></a><br>
   <sub>1 courses · 14 prompts</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/life-sciences.svg" width="54" alt="Life Sciences icon"><br>
-  <a href="#life-sciences"><strong>Life Sciences</strong></a><br>
+  <a href="#life-sciences"><img src="assets/subject-cards/life-sciences.png" width="100%" alt="Life Sciences subject card"></a><br>
   <sub>1 courses · 12 prompts</sub>
 </td>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/neuroscience.svg" width="54" alt="Neuroscience icon"><br>
-  <a href="#neuroscience"><strong>Neuroscience</strong></a><br>
+  <a href="#neuroscience"><img src="assets/subject-cards/neuroscience.png" width="100%" alt="Neuroscience subject card"></a><br>
   <sub>1 courses · 10 prompts</sub>
 </td>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/psychology.svg" width="54" alt="Psychology icon"><br>
-  <a href="#psychology"><strong>Psychology</strong></a><br>
+  <a href="#psychology"><img src="assets/subject-cards/psychology.png" width="100%" alt="Psychology subject card"></a><br>
   <sub>1 courses · 13 prompts</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/economics.svg" width="54" alt="Economics icon"><br>
-  <a href="#economics"><strong>Economics</strong></a><br>
+  <a href="#economics"><img src="assets/subject-cards/economics.png" width="100%" alt="Economics subject card"></a><br>
   <sub>3 courses · 31 prompts</sub>
 </td>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/finance.svg" width="54" alt="Finance icon"><br>
-  <a href="#finance"><strong>Finance</strong></a><br>
+  <a href="#finance"><img src="assets/subject-cards/finance.png" width="100%" alt="Finance subject card"></a><br>
   <sub>1 courses · 12 prompts</sub>
 </td>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/political-science.svg" width="54" alt="Political Science icon"><br>
-  <a href="#political-science"><strong>Political Science</strong></a><br>
+  <a href="#political-science"><img src="assets/subject-cards/political-science.png" width="100%" alt="Political Science subject card"></a><br>
   <sub>1 courses · 14 prompts</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/philosophy.svg" width="54" alt="Philosophy icon"><br>
-  <a href="#philosophy"><strong>Philosophy</strong></a><br>
+  <a href="#philosophy"><img src="assets/subject-cards/philosophy.png" width="100%" alt="Philosophy subject card"></a><br>
   <sub>1 courses · 10 prompts</sub>
 </td>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/literature.svg" width="54" alt="Literature icon"><br>
-  <a href="#literature"><strong>Literature</strong></a><br>
+  <a href="#literature"><img src="assets/subject-cards/literature.png" width="100%" alt="Literature subject card"></a><br>
   <sub>1 courses · 10 prompts</sub>
 </td>
 <td width="33%" valign="top">
-  <img src="assets/subject-icons/astronomy.svg" width="54" alt="Astronomy icon"><br>
-  <a href="#astronomy"><strong>Astronomy</strong></a><br>
+  <a href="#astronomy"><img src="assets/subject-cards/astronomy.png" width="100%" alt="Astronomy subject card"></a><br>
   <sub>1 courses · 12 prompts</sub>
 </td>
 </tr>
