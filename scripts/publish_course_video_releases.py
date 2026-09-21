@@ -12,7 +12,7 @@ from collections import OrderedDict
 from pathlib import Path
 
 root = Path(__file__).resolve().parents[1]
-repository = "LeaddeOpenLab/leadde-motion-prompt-library"
+repository = "LeaddeOpenLab/leadde-knowledge-in-motion"
 api_root = f"https://api.github.com/repos/{repository}"
 token = os.environ.get("GITHUB_TOKEN")
 index_only = "--index-only" in sys.argv
@@ -68,7 +68,7 @@ for (subject, course, course_code), prompts in courses.items():
         _, release = request("POST", f"{api_root}/releases", payload)
     course_body = (
         f"All currently rendered videos for {course}. This asset is replaced when the course gains new videos.\n\n"
-        "[Browse all course video downloads](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/releases/tag/course-video-downloads)"
+        "[Browse all course video downloads](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/tag/course-video-downloads)"
     )
     _, release = request("PATCH", f"{api_root}/releases/{release['id']}", json.dumps({
         "name": f"[{subject}] {course} video bundle",

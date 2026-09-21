@@ -7,7 +7,7 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
-**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/releases/download/course-videos-artificial-intelligence-ai-cv/ai-cv-videos.zip)
+**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/download/course-videos-artificial-intelligence-ai-cv/ai-cv-videos.zip)
 
 ---
 
@@ -18,7 +18,7 @@
 
 https://github.com/user-attachments/assets/c5e24d00-a932-4e07-b8a8-5b087f289fa5
 
-[Download image-convolution.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/image-convolution.mp4)
+[Download image-convolution.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/image-convolution.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/c5e24d00-a932-4e07-b8a8-5b087f289fa5
 
 https://github.com/user-attachments/assets/033ff3a1-f172-42bc-aa14-2538df0205bf
 
-[Download edge-detection.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/edge-detection.mp4)
+[Download edge-detection.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/edge-detection.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/033ff3a1-f172-42bc-aa14-2538df0205bf
 
 https://github.com/user-attachments/assets/32274fac-3e34-483e-b299-5e45a68249ce
 
-[Download padding-and-stride.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/padding-and-stride.mp4)
+[Download padding-and-stride.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/padding-and-stride.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/32274fac-3e34-483e-b299-5e45a68249ce
 
 https://github.com/user-attachments/assets/c975a8a7-53ef-48d0-82a5-3a06d7bb9a25
 
-[Download pooling.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/pooling.mp4)
+[Download pooling.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/pooling.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -78,7 +78,7 @@ https://github.com/user-attachments/assets/c975a8a7-53ef-48d0-82a5-3a06d7bb9a25
 
 https://github.com/user-attachments/assets/2887366b-75df-41b0-8271-8774d309da35
 
-[Download receptive-field.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/receptive-field.mp4)
+[Download receptive-field.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/receptive-field.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -93,7 +93,7 @@ https://github.com/user-attachments/assets/2887366b-75df-41b0-8271-8774d309da35
 
 https://github.com/user-attachments/assets/4e39d6b0-0188-405e-bade-43df80ef9988
 
-[Download intersection-over-union-and-non-maximum-suppression.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/intersection-over-union-and-non-maximum-suppression.mp4)
+[Download intersection-over-union-and-non-maximum-suppression.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/intersection-over-union-and-non-maximum-suppression.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -108,7 +108,7 @@ https://github.com/user-attachments/assets/4e39d6b0-0188-405e-bade-43df80ef9988
 
 https://github.com/user-attachments/assets/1fbd27a8-717d-4923-905c-00c226f64425
 
-[Download semantic-segmentation.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/semantic-segmentation.mp4)
+[Download semantic-segmentation.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/semantic-segmentation.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -123,7 +123,7 @@ https://github.com/user-attachments/assets/1fbd27a8-717d-4923-905c-00c226f64425
 
 https://github.com/user-attachments/assets/1f271f47-e6d4-4595-a1db-389e63ec895c
 
-[Download image-data-augmentation.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/image-data-augmentation.mp4)
+[Download image-data-augmentation.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/computer-vision/image-data-augmentation.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

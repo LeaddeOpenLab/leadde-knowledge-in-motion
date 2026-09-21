@@ -8,7 +8,7 @@ from pathlib import Path
 
 root = Path(__file__).resolve().parents[1]
 items = json.loads((root / "data/prompts.json").read_text(encoding="utf-8"))
-repository_url = "https://github.com/LeaddeOpenLab/leadde-motion-prompt-library"
+repository_url = "https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion"
 
 library = OrderedDict()
 for item in items:
@@ -101,7 +101,7 @@ lines = [
     ">",
     "> Browse knowledge points and play finished videos directly with GitHub's native video player.",
     ">",
-    "> **Download videos: [Browse course ZIP bundles →](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/releases/tag/course-video-downloads)**",
+    "> **Download videos: [Browse course ZIP bundles →](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/tag/course-video-downloads)**",
     ">",
     "> **Watch the concept. Reuse the prompt. [Create your own animation with Leadde →](https://leadde.ai/animation)**",
     "",

@@ -7,7 +7,7 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
-**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/releases/download/course-videos-computer-science-cs-coa/cs-coa-videos.zip)
+**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/download/course-videos-computer-science-cs-coa/cs-coa-videos.zip)
 
 ---
 
@@ -18,7 +18,7 @@
 
 https://github.com/user-attachments/assets/eb56409e-d60a-4de2-91b0-dd1472cac0ee
 
-[Download two-s-complement.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/two-s-complement.mp4)
+[Download two-s-complement.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/two-s-complement.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/eb56409e-d60a-4de2-91b0-dd1472cac0ee
 
 https://github.com/user-attachments/assets/9475c337-86b9-4e6b-851b-4895afcccf05
 
-[Download floating-point-representation.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/floating-point-representation.mp4)
+[Download floating-point-representation.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/floating-point-representation.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/9475c337-86b9-4e6b-851b-4895afcccf05
 
 https://github.com/user-attachments/assets/224145d1-9d43-46f5-a1dc-0b526889b609
 
-[Download boolean-logic-gates.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/boolean-logic-gates.mp4)
+[Download boolean-logic-gates.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/boolean-logic-gates.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/224145d1-9d43-46f5-a1dc-0b526889b609
 
 https://github.com/user-attachments/assets/ab1c3e42-5f0e-41eb-a854-e4daab0e3e34
 
-[Download combinational-logic.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/combinational-logic.mp4)
+[Download combinational-logic.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/combinational-logic.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -78,7 +78,7 @@ https://github.com/user-attachments/assets/ab1c3e42-5f0e-41eb-a854-e4daab0e3e34
 
 https://github.com/user-attachments/assets/bd9d003b-391d-436c-8dfe-294e295e6fcc
 
-[Download sequential-logic-and-clocks.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/sequential-logic-and-clocks.mp4)
+[Download sequential-logic-and-clocks.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/sequential-logic-and-clocks.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -93,7 +93,7 @@ https://github.com/user-attachments/assets/bd9d003b-391d-436c-8dfe-294e295e6fcc
 
 https://github.com/user-attachments/assets/47e1367e-a0e7-4d00-bc9c-cfd1c3601ae0
 
-[Download cpu-fetch-decode-execute-cycle.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/cpu-fetch-decode-execute-cycle.mp4)
+[Download cpu-fetch-decode-execute-cycle.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/cpu-fetch-decode-execute-cycle.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -108,7 +108,7 @@ https://github.com/user-attachments/assets/47e1367e-a0e7-4d00-bc9c-cfd1c3601ae0
 
 https://github.com/user-attachments/assets/3c784d44-673f-43b1-9c83-819913a735a3
 
-[Download pipeline-hazards.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/pipeline-hazards.mp4)
+[Download pipeline-hazards.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/pipeline-hazards.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -123,7 +123,7 @@ https://github.com/user-attachments/assets/3c784d44-673f-43b1-9c83-819913a735a3
 
 https://github.com/user-attachments/assets/7f75be12-f342-440c-8459-273b3c55342e
 
-[Download cache-locality.mp4](https://github.com/LeaddeOpenLab/leadde-motion-prompt-library/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/cache-locality.mp4)
+[Download cache-locality.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-organization-and-architecture/cache-locality.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
