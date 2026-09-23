@@ -12,9 +12,9 @@
 <a id="c31-a001"></a>
 ## Partial Derivatives
 
-`C31-A001` · **▶ Play video below**
+`C31-A001` · Video ready
 
-https://github.com/user-attachments/assets/d85ce2f8-36af-4103-a51b-c34fbe50f4f9
+[![Preview of Partial Derivatives](../../assets/video-covers/mathematics/multivariable-calculus/partial-derivatives.jpg)](../../assets/videos/mathematics/multivariable-calculus/partial-derivatives.mp4)
 
 [Open or download partial-derivatives.mp4](../../assets/videos/mathematics/multivariable-calculus/partial-derivatives.mp4)
 
@@ -27,9 +27,9 @@ https://github.com/user-attachments/assets/d85ce2f8-36af-4103-a51b-c34fbe50f4f9
 <a id="c31-a002"></a>
 ## Gradient
 
-`C31-A002` · **▶ Play video below**
+`C31-A002` · Video ready
 
-https://github.com/user-attachments/assets/0358f275-42da-46d3-bde1-5276804961d6
+[![Preview of Gradient](../../assets/video-covers/mathematics/multivariable-calculus/gradient.jpg)](../../assets/videos/mathematics/multivariable-calculus/gradient.mp4)
 
 [Open or download gradient.mp4](../../assets/videos/mathematics/multivariable-calculus/gradient.mp4)
 
@@ -42,9 +42,9 @@ https://github.com/user-attachments/assets/0358f275-42da-46d3-bde1-5276804961d6
 <a id="c31-a003"></a>
 ## Directional Derivative
 
-`C31-A003` · **▶ Play video below**
+`C31-A003` · Video ready
 
-https://github.com/user-attachments/assets/58e50979-5e3c-42a7-a327-6043ddfca398
+[![Preview of Directional Derivative](../../assets/video-covers/mathematics/multivariable-calculus/directional-derivative.jpg)](../../assets/videos/mathematics/multivariable-calculus/directional-derivative.mp4)
 
 [Open or download directional-derivative.mp4](../../assets/videos/mathematics/multivariable-calculus/directional-derivative.mp4)
 
@@ -57,9 +57,9 @@ https://github.com/user-attachments/assets/58e50979-5e3c-42a7-a327-6043ddfca398
 <a id="c31-a004"></a>
 ## Jacobian Matrix
 
-`C31-A004` · **▶ Play video below**
+`C31-A004` · Video ready
 
-https://github.com/user-attachments/assets/6e7b64e7-cc7f-41fb-a801-bd158735c017
+[![Preview of Jacobian Matrix](../../assets/video-covers/mathematics/multivariable-calculus/jacobian-matrix.jpg)](../../assets/videos/mathematics/multivariable-calculus/jacobian-matrix.mp4)
 
 [Open or download jacobian-matrix.mp4](../../assets/videos/mathematics/multivariable-calculus/jacobian-matrix.mp4)
 
@@ -72,9 +72,9 @@ https://github.com/user-attachments/assets/6e7b64e7-cc7f-41fb-a801-bd158735c017
 <a id="c31-a005"></a>
 ## Hessian Matrix
 
-`C31-A005` · **▶ Play video below**
+`C31-A005` · Video ready
 
-https://github.com/user-attachments/assets/d6beeacf-b9b5-4401-8c17-bfd7f3d5f5bf
+[![Preview of Hessian Matrix](../../assets/video-covers/mathematics/multivariable-calculus/hessian-matrix.jpg)](../../assets/videos/mathematics/multivariable-calculus/hessian-matrix.mp4)
 
 [Open or download hessian-matrix.mp4](../../assets/videos/mathematics/multivariable-calculus/hessian-matrix.mp4)
 
@@ -87,9 +87,9 @@ https://github.com/user-attachments/assets/d6beeacf-b9b5-4401-8c17-bfd7f3d5f5bf
 <a id="c31-a006"></a>
 ## Lagrange Multipliers
 
-`C31-A006` · **▶ Play video below**
+`C31-A006` · Video ready
 
-https://github.com/user-attachments/assets/7c6ff29f-7ca1-41ad-bbf3-3e6861e44909
+[![Preview of Lagrange Multipliers](../../assets/video-covers/mathematics/multivariable-calculus/lagrange-multipliers.jpg)](../../assets/videos/mathematics/multivariable-calculus/lagrange-multipliers.mp4)
 
 [Open or download lagrange-multipliers.mp4](../../assets/videos/mathematics/multivariable-calculus/lagrange-multipliers.mp4)
 
@@ -102,9 +102,9 @@ https://github.com/user-attachments/assets/7c6ff29f-7ca1-41ad-bbf3-3e6861e44909
 <a id="c31-a007"></a>
 ## Double Integral
 
-`C31-A007` · **▶ Play video below**
+`C31-A007` · Video ready
 
-https://github.com/user-attachments/assets/3173397e-cb68-483b-bbd3-4c5c5772323e
+[![Preview of Double Integral](../../assets/video-covers/mathematics/multivariable-calculus/double-integral.jpg)](../../assets/videos/mathematics/multivariable-calculus/double-integral.mp4)
 
 [Open or download double-integral.mp4](../../assets/videos/mathematics/multivariable-calculus/double-integral.mp4)
 
@@ -117,9 +117,9 @@ https://github.com/user-attachments/assets/3173397e-cb68-483b-bbd3-4c5c5772323e
 <a id="c31-a008"></a>
 ## Divergence and Curl
 
-`C31-A008` · **▶ Play video below**
+`C31-A008` · Video ready
 
-https://github.com/user-attachments/assets/9de0d90a-407f-4b1b-87e4-34361fd5ed5d
+[![Preview of Divergence and Curl](../../assets/video-covers/mathematics/multivariable-calculus/divergence-and-curl.jpg)](../../assets/videos/mathematics/multivariable-calculus/divergence-and-curl.mp4)
 
 [Open or download divergence-and-curl.mp4](../../assets/videos/mathematics/multivariable-calculus/divergence-and-curl.mp4)
 
