@@ -4,6 +4,8 @@
 >
 > Browse knowledge points and open the current checked-in video from each course page.
 >
+> **Download videos: [Browse course ZIP bundles →](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/tag/course-video-downloads)**
+>
 > **Watch the concept. Reuse the prompt. [Create your own animation with Leadde →](https://leadde.ai/animation)**
 
 ## Browse the library
@@ -1200,6 +1202,12 @@ assets/videos/<subject-slug>/<course-slug>/<prompt-slug>.mp4
 ```
 
 Then set the matching entry in `data/prompts.json` to `status: ready` and populate its repository `video` path. Course pages link directly to that checked-in MP4; do not reuse older GitHub attachment URLs as players.
+
+Release ZIPs are separate copies. After changing a checked-in MP4, rebuild and replace its course bundle before announcing the update:
+
+```bash
+GITHUB_TOKEN=... python3 scripts/publish_course_video_releases.py
+```
 
 To refresh the prompt catalog from the source spreadsheet, run:
 
