@@ -5,12 +5,10 @@ import json
 import re
 from collections import OrderedDict
 from pathlib import Path
-from urllib.parse import urlencode
 
 root = Path(__file__).resolve().parents[1]
 items = json.loads((root / "data/prompts.json").read_text(encoding="utf-8"))
 repository_url = "https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion"
-site_url = "https://leaddeopenlab.github.io/leadde-knowledge-in-motion/"
 
 library = OrderedDict()
 for item in items:
@@ -22,9 +20,6 @@ def slug(value):
 
 def course_page(first):
     return f"catalog/{slug(first['subject'])}/{slug(first['tags'][1])}.md"
-
-def player_url(item):
-    return f"{site_url}?{urlencode({'subject': item['subject'], 'course': item['course']})}#{item['id'].lower()}"
 
 def card(subject, courses):
     count = sum(len(prompts) for prompts in courses.values())
@@ -72,15 +67,16 @@ def write_course_page(subject, course, prompts):
             f'<a id="{prompt["id"].lower()}"></a>',
             f"## {prompt['title']}",
             "",
-            f"`{prompt['id']}` · " + ("Video ready" if video_ready else "Video coming soon"),
+            f"`{prompt['id']}` · " + ("**▶ Play video below**" if prompt.get("player") else "Video ready" if video_ready else "Video coming soon"),
             "",
         ])
         if video_ready:
             video = prompt["video"]
             cover = video.replace("assets/videos/", "assets/video-covers/").replace(".mp4", ".jpg")
-            if (root / cover).is_file():
-                page_lines.extend([f"[![Preview of {prompt['title']}](../../{cover})]({player_url(prompt)})", ""])
-            page_lines.extend([f"[▶ Watch inline]({player_url(prompt)})", ""])
+            if prompt.get("player"):
+                page_lines.extend([prompt["player"], ""])
+            elif (root / cover).is_file():
+                page_lines.extend([f"[![Preview of {prompt['title']}](../../{cover})](../../{video})", ""])
             page_lines.extend([f"[Open or download {Path(video).name}](../../{video})", ""])
         page_lines.extend([
             "> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)",
@@ -97,7 +93,7 @@ lines = [
     "",
     f"> An open educational animation and AI prompt library with **{len(items)} English prompts** across **{len(library)} disciplines** and **{course_count} courses**.",
     ">",
-    f"> [Watch the video library with inline playback →]({site_url})",
+    "> Browse knowledge points and play finished videos directly with GitHub's native video player.",
     ">",
     "> **Download videos: [Browse course ZIP bundles →](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/tag/course-video-downloads)**",
     ">",
@@ -147,9 +143,8 @@ for subject, courses in library.items():
         ])
         for index, prompt in enumerate(prompts, 1):
             video_ready = prompt.get("status") == "ready" and prompt.get("video")
-            marker = "▶ PLAY VIDEO" if video_ready else "VIDEO COMING SOON"
-            target = player_url(prompt) if video_ready else f"{page}#{prompt['id'].lower()}"
-            lines.append(f"{index}. [**{html.escape(prompt['title'])}**]({target}) · `{prompt['id']}` · {marker}")
+            marker = "▶ PLAY VIDEO" if prompt.get("player") else "▶ OPEN VIDEO" if video_ready else "VIDEO COMING SOON"
+            lines.append(f"{index}. [**{html.escape(prompt['title'])}**]({page}#{prompt['id'].lower()}) · `{prompt['id']}` · {marker}")
         lines.append("")
     lines.extend(["---", ""])
 
@@ -162,7 +157,7 @@ lines.extend([
     "assets/videos/<subject-slug>/<course-slug>/<prompt-slug>.mp4",
     "```",
     "",
-    "Then set the matching entry in `data/prompts.json` to `status: ready` and populate its repository `video` path. The Pages player streams that checked-in MP4; course pages also keep a direct download link.",
+    "Then set the matching entry in `data/prompts.json` to `status: ready`, populate its repository `video` path, and upload the same MP4 as a GitHub attachment in this public repository. Put that attachment URL in `player`. The standalone URL renders as GitHub's native inline player; the repository MP4 remains the download source.",
     "",
     "Release ZIPs are separate copies. After changing a checked-in MP4, rebuild and replace its course bundle before announcing the update:",
     "",

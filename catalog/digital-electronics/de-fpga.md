@@ -12,11 +12,9 @@
 <a id="c39-a001"></a>
 ## Setup and Hold Time
 
-`C39-A001` · Video ready
+`C39-A001` · **▶ Play video below**
 
-[![Preview of Setup and Hold Time](../../assets/video-covers/digital-electronics/fpga-fundamentals/setup-and-hold-time.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=FPGA+Fundamentals#c39-a001)
-
-[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=FPGA+Fundamentals#c39-a001)
+https://github.com/user-attachments/assets/9b22c64b-9505-4d7d-859f-044a9fd19f55
 
 [Open or download setup-and-hold-time.mp4](../../assets/videos/digital-electronics/fpga-fundamentals/setup-and-hold-time.mp4)
 
@@ -29,11 +27,9 @@
 <a id="c39-a002"></a>
 ## Clock Domain Crossing
 
-`C39-A002` · Video ready
+`C39-A002` · **▶ Play video below**
 
-[![Preview of Clock Domain Crossing](../../assets/video-covers/digital-electronics/fpga-fundamentals/clock-domain-crossing.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=FPGA+Fundamentals#c39-a002)
-
-[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=FPGA+Fundamentals#c39-a002)
+https://github.com/user-attachments/assets/e72990fe-53e3-435a-901e-353c95d236b5
 
 [Open or download clock-domain-crossing.mp4](../../assets/videos/digital-electronics/fpga-fundamentals/clock-domain-crossing.mp4)
 
@@ -46,11 +42,9 @@
 <a id="c39-a003"></a>
 ## Pipeline Latency and Throughput
 
-`C39-A003` · Video ready
+`C39-A003` · **▶ Play video below**
 
-[![Preview of Pipeline Latency and Throughput](../../assets/video-covers/digital-electronics/fpga-fundamentals/pipeline-latency-and-throughput.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=FPGA+Fundamentals#c39-a003)
-
-[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=FPGA+Fundamentals#c39-a003)
+https://github.com/user-attachments/assets/1d7b66dc-379f-4b77-9142-1a0d1e9c3a37
 
 [Open or download pipeline-latency-and-throughput.mp4](../../assets/videos/digital-electronics/fpga-fundamentals/pipeline-latency-and-throughput.mp4)
 
@@ -63,11 +57,9 @@
 <a id="c39-a004"></a>
 ## Resource Sharing vs Parallel Hardware
 
-`C39-A004` · Video ready
+`C39-A004` · **▶ Play video below**
 
-[![Preview of Resource Sharing vs Parallel Hardware](../../assets/video-covers/digital-electronics/fpga-fundamentals/resource-sharing-vs-parallel-hardware.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=FPGA+Fundamentals#c39-a004)
-
-[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=FPGA+Fundamentals#c39-a004)
+https://github.com/user-attachments/assets/e854ae9e-308b-4da8-b525-efc2ae92a997
 
 [Open or download resource-sharing-vs-parallel-hardware.mp4](../../assets/videos/digital-electronics/fpga-fundamentals/resource-sharing-vs-parallel-hardware.mp4)
 

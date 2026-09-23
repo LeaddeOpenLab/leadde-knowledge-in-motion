@@ -14,11 +14,9 @@
 <a id="c29-a001"></a>
 ## States, Actions, and Rewards
 
-`C29-A001` · Video ready
+`C29-A001` · **▶ Play video below**
 
-[![Preview of States, Actions, and Rewards](../../assets/video-covers/artificial-intelligence/reinforcement-learning/states-actions-and-rewards.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a001)
-
-[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a001)
+https://github.com/user-attachments/assets/a0ab10a9-6c73-4c69-a992-f6b9686d28d5
 
 [Open or download states-actions-and-rewards.mp4](../../assets/videos/artificial-intelligence/reinforcement-learning/states-actions-and-rewards.mp4)
 
@@ -31,11 +29,9 @@
 <a id="c29-a002"></a>
 ## Discounted Return
 
-`C29-A002` · Video ready
+`C29-A002` · **▶ Play video below**
 
-[![Preview of Discounted Return](../../assets/video-covers/artificial-intelligence/reinforcement-learning/discounted-return.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a002)
-
-[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a002)
+https://github.com/user-attachments/assets/d0fbf0e1-e9ae-461d-9645-11830b659a8c
 
 [Open or download discounted-return.mp4](../../assets/videos/artificial-intelligence/reinforcement-learning/discounted-return.mp4)
 
@@ -48,11 +44,9 @@
 <a id="c29-a003"></a>
 ## Bellman Optimality Equation
 
-`C29-A003` · Video ready
+`C29-A003` · **▶ Play video below**
 
-[![Preview of Bellman Optimality Equation](../../assets/video-covers/artificial-intelligence/reinforcement-learning/bellman-optimality-equation.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a003)
-
-[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a003)
+https://github.com/user-attachments/assets/f9c507f5-08de-4bd7-bb9b-1cf0cb11ee77
 
 [Open or download bellman-optimality-equation.mp4](../../assets/videos/artificial-intelligence/reinforcement-learning/bellman-optimality-equation.mp4)
 
@@ -65,11 +59,9 @@
 <a id="c29-a004"></a>
 ## Q-Learning Update
 
-`C29-A004` · Video ready
+`C29-A004` · **▶ Play video below**
 
-[![Preview of Q-Learning Update](../../assets/video-covers/artificial-intelligence/reinforcement-learning/q-learning-update.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a004)
-
-[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a004)
+https://github.com/user-attachments/assets/1550bfd3-e422-4366-8b88-8f0c40856613
 
 [Open or download q-learning-update.mp4](../../assets/videos/artificial-intelligence/reinforcement-learning/q-learning-update.mp4)
 
@@ -82,11 +74,9 @@
 <a id="c29-a005"></a>
 ## Epsilon-Greedy Exploration
 
-`C29-A005` · Video ready
+`C29-A005` · **▶ Play video below**
 
-[![Preview of Epsilon-Greedy Exploration](../../assets/video-covers/artificial-intelligence/reinforcement-learning/epsilon-greedy-exploration.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a005)
-
-[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a005)
+https://github.com/user-attachments/assets/f4634b5b-57d3-4316-bfb6-c7cfaff83eb8
 
 [Open or download epsilon-greedy-exploration.mp4](../../assets/videos/artificial-intelligence/reinforcement-learning/epsilon-greedy-exploration.mp4)
 
@@ -99,11 +89,9 @@
 <a id="c29-a006"></a>
 ## Policy Gradient
 
-`C29-A006` · Video ready
+`C29-A006` · **▶ Play video below**
 
-[![Preview of Policy Gradient](../../assets/video-covers/artificial-intelligence/reinforcement-learning/policy-gradient.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a006)
-
-[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a006)
+https://github.com/user-attachments/assets/7c5fb956-3e1b-44bc-ad1a-5bab1cd4411a
 
 [Open or download policy-gradient.mp4](../../assets/videos/artificial-intelligence/reinforcement-learning/policy-gradient.mp4)
 
@@ -116,11 +104,9 @@
 <a id="c29-a007"></a>
 ## Actor-Critic Method
 
-`C29-A007` · Video ready
+`C29-A007` · **▶ Play video below**
 
-[![Preview of Actor-Critic Method](../../assets/video-covers/artificial-intelligence/reinforcement-learning/actor-critic-method.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a007)
-
-[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a007)
+https://github.com/user-attachments/assets/112bfb5e-966d-4f91-9bd8-284a686b81ca
 
 [Open or download actor-critic-method.mp4](../../assets/videos/artificial-intelligence/reinforcement-learning/actor-critic-method.mp4)
 
@@ -133,11 +119,9 @@
 <a id="c29-a008"></a>
 ## Experience Replay
 
-`C29-A008` · Video ready
+`C29-A008` · **▶ Play video below**
 
-[![Preview of Experience Replay](../../assets/video-covers/artificial-intelligence/reinforcement-learning/experience-replay.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a008)
-
-[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Reinforcement+Learning#c29-a008)
+https://github.com/user-attachments/assets/9a6426a9-11ea-44cd-b464-15973200476b
 
 [Open or download experience-replay.mp4](../../assets/videos/artificial-intelligence/reinforcement-learning/experience-replay.mp4)
 
