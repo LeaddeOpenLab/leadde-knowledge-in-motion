@@ -8,6 +8,7 @@ from pathlib import Path
 
 root = Path(__file__).resolve().parents[1]
 items = json.loads((root / "data/prompts.json").read_text(encoding="utf-8"))
+repository_url = "https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion"
 
 library = OrderedDict()
 for item in items:
@@ -19,6 +20,12 @@ def slug(value):
 
 def course_page(first):
     return f"catalog/{slug(first['subject'])}/{slug(first['tags'][1])}.md"
+
+def release_tag(first):
+    return f"course-videos-{slug(first['subject'])}-{slug(first['tags'][1])}"
+
+def bundle_name(first):
+    return f"{slug(first['tags'][1])}-videos.zip"
 
 def card(subject, courses):
     count = sum(len(prompts) for prompts in courses.values())
@@ -52,6 +59,14 @@ def write_course_page(subject, course, prompts):
         "> **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)",
         "",
     ]
+    ready_prompts = [prompt for prompt in prompts if prompt.get("status") == "ready" and prompt.get("video")]
+    # Mathematics is delivered through inline players only; it has no course ZIP release.
+    if first["subject"] != "Mathematics" and ready_prompts and all(prompt.get("player") for prompt in ready_prompts):
+        bundle_url = f"{repository_url}/releases/download/{release_tag(first)}/{bundle_name(first)}"
+        page_lines.extend([
+            f"**Course download:** [Download all {len(ready_prompts)} videos as ZIP]({bundle_url})",
+            "",
+        ])
     page_lines.extend(["---", ""])
     for prompt in prompts:
         video_ready = prompt.get("status") == "ready" and prompt.get("video")
@@ -59,9 +74,15 @@ def write_course_page(subject, course, prompts):
             f'<a id="{prompt["id"].lower()}"></a>',
             f"## {prompt['title']}",
             "",
-            f"`{prompt['id']}` · " + ("Native playback pending" if video_ready else "Video coming soon"),
+            f"`{prompt['id']}` · " + ("**▶ Play video below**" if prompt.get("player") else "Video ready" if video_ready else "Video coming soon"),
             "",
         ])
+        if video_ready:
+            download_url = f"{repository_url}/raw/refs/heads/main/{prompt['video']}"
+            if prompt.get("player"):
+                # A GitHub attachment URL on its own line renders as GitHub's native video player.
+                page_lines.extend([prompt["player"], ""])
+            page_lines.extend([f"[Download {Path(prompt['video']).name}]({download_url})", ""])
         page_lines.extend([
             "> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)",
             "",
@@ -77,7 +98,9 @@ lines = [
     "",
     f"> An open educational animation and AI prompt library with **{len(items)} English prompts** across **{len(library)} disciplines** and **{course_count} courses**.",
     ">",
-    "> Browse knowledge points by discipline and course. Native video playback will return after the current attachments render publicly.",
+    "> Browse knowledge points and play finished videos directly with GitHub's native video player.",
+    ">",
+    "> **Download videos: [Browse course ZIP bundles →](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/tag/course-video-downloads)**",
     ">",
     "> **Watch the concept. Reuse the prompt. [Create your own animation with Leadde →](https://leadde.ai/animation)**",
     "",
@@ -125,7 +148,7 @@ for subject, courses in library.items():
         ])
         for index, prompt in enumerate(prompts, 1):
             video_ready = prompt.get("status") == "ready" and prompt.get("video")
-            marker = "NATIVE PLAYBACK PENDING" if video_ready else "VIDEO COMING SOON"
+            marker = "▶ PLAY VIDEO" if prompt.get("player") else "▶ OPEN VIDEO" if video_ready else "VIDEO COMING SOON"
             lines.append(f"{index}. [**{html.escape(prompt['title'])}**]({page}#{prompt['id'].lower()}) · `{prompt['id']}` · {marker}")
         lines.append("")
     lines.extend(["---", ""])
@@ -139,7 +162,13 @@ lines.extend([
     "assets/videos/<subject-slug>/<course-slug>/<prompt-slug>.mp4",
     "```",
     "",
-    "Then set the matching entry in `data/prompts.json` to `status: ready`, populate its repository `video` path, and add the matching GitHub attachment URL as `player` only after it renders as a native player on the public course page.",
+    "Then set the matching entry in `data/prompts.json` to `status: ready`, populate its repository `video` path, and add its GitHub attachment URL as `player`. A standalone GitHub attachment URL renders as the native inline player.",
+    "",
+    "Course ZIP assets use fixed Release tags and filenames. Rebuild and replace them after adding videos with:",
+    "",
+    "```bash",
+    "GITHUB_TOKEN=... python3 scripts/publish_course_video_releases.py",
+    "```",
     "",
     "To refresh the prompt catalog from the source spreadsheet, run:",
     "",
