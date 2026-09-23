@@ -7,8 +7,6 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
-**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/download/course-videos-artificial-intelligence-ai-rl/ai-rl-videos.zip)
-
 ---
 
 <a id="c29-a001"></a>
@@ -16,9 +14,7 @@
 
 `C29-A001` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/8a132cba-40fc-4ca7-997c-35eb98ee206d
-
-[Download states-actions-and-rewards.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/reinforcement-learning/states-actions-and-rewards.mp4)
+https://github.com/user-attachments/assets/a0ab10a9-6c73-4c69-a992-f6b9686d28d5
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -31,9 +27,7 @@ https://github.com/user-attachments/assets/8a132cba-40fc-4ca7-997c-35eb98ee206d
 
 `C29-A002` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/53804c0b-edaa-4964-a58a-ca5ce08dee71
-
-[Download discounted-return.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/reinforcement-learning/discounted-return.mp4)
+https://github.com/user-attachments/assets/d0fbf0e1-e9ae-461d-9645-11830b659a8c
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -46,9 +40,7 @@ https://github.com/user-attachments/assets/53804c0b-edaa-4964-a58a-ca5ce08dee71
 
 `C29-A003` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/49977840-143c-4aa4-ac67-6a5d23093e99
-
-[Download bellman-optimality-equation.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/reinforcement-learning/bellman-optimality-equation.mp4)
+https://github.com/user-attachments/assets/f9c507f5-08de-4bd7-bb9b-1cf0cb11ee77
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -61,9 +53,7 @@ https://github.com/user-attachments/assets/49977840-143c-4aa4-ac67-6a5d23093e99
 
 `C29-A004` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/e392660b-c8c1-496d-bf49-149bc4a4eebd
-
-[Download q-learning-update.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/reinforcement-learning/q-learning-update.mp4)
+https://github.com/user-attachments/assets/1550bfd3-e422-4366-8b88-8f0c40856613
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -76,9 +66,7 @@ https://github.com/user-attachments/assets/e392660b-c8c1-496d-bf49-149bc4a4eebd
 
 `C29-A005` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/a4f72376-40ea-48e6-a94f-3e6166879583
-
-[Download epsilon-greedy-exploration.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/reinforcement-learning/epsilon-greedy-exploration.mp4)
+https://github.com/user-attachments/assets/f4634b5b-57d3-4316-bfb6-c7cfaff83eb8
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -91,9 +79,7 @@ https://github.com/user-attachments/assets/a4f72376-40ea-48e6-a94f-3e6166879583
 
 `C29-A006` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/edc0860c-6d03-4321-a0c7-ce37cb0a6ffe
-
-[Download policy-gradient.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/reinforcement-learning/policy-gradient.mp4)
+https://github.com/user-attachments/assets/7c5fb956-3e1b-44bc-ad1a-5bab1cd4411a
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -106,9 +92,7 @@ https://github.com/user-attachments/assets/edc0860c-6d03-4321-a0c7-ce37cb0a6ffe
 
 `C29-A007` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/3af0fa40-b46d-4d21-a03b-2907bfca6050
-
-[Download actor-critic-method.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/reinforcement-learning/actor-critic-method.mp4)
+https://github.com/user-attachments/assets/112bfb5e-966d-4f91-9bd8-284a686b81ca
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -121,9 +105,7 @@ https://github.com/user-attachments/assets/3af0fa40-b46d-4d21-a03b-2907bfca6050
 
 `C29-A008` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/b9d8ae36-71ac-4099-ab26-d00188b96927
-
-[Download experience-replay.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/reinforcement-learning/experience-replay.mp4)
+https://github.com/user-attachments/assets/9a6426a9-11ea-44cd-b464-15973200476b
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

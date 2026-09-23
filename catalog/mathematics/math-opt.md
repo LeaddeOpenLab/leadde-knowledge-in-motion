@@ -14,9 +14,7 @@
 
 `C35-A001` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/e2e8de55-fd53-4be3-95c0-c5641799cd56
-
-[Download convex-sets-and-convex-functions.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/convex-sets-and-convex-functions.mp4)
+https://github.com/user-attachments/assets/d2c7703b-8828-41da-afd2-30ed41136efd
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -29,9 +27,7 @@ https://github.com/user-attachments/assets/e2e8de55-fd53-4be3-95c0-c5641799cd56
 
 `C35-A002` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/6512b5f2-d3a8-4fa6-bf70-3f2eae2d7492
-
-[Download first-order-optimality-conditions.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/first-order-optimality-conditions.mp4)
+https://github.com/user-attachments/assets/471cdf33-45b9-4475-af54-892e70639edf
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -44,9 +40,7 @@ https://github.com/user-attachments/assets/6512b5f2-d3a8-4fa6-bf70-3f2eae2d7492
 
 `C35-A003` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/fb33e330-65e7-4c5c-a7ee-5fc94c1b649b
-
-[Download second-order-optimality-conditions.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/second-order-optimality-conditions.mp4)
+https://github.com/user-attachments/assets/86bc0ab1-499f-4880-8ab2-d44527fb9691
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -59,9 +53,7 @@ https://github.com/user-attachments/assets/fb33e330-65e7-4c5c-a7ee-5fc94c1b649b
 
 `C35-A004` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/11bfe2c6-c0ad-4835-8431-b1d42a6f4684
-
-[Download gradient-descent-convergence.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/gradient-descent-convergence.mp4)
+https://github.com/user-attachments/assets/a54623cf-0a56-4026-b46e-e623587db154
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -74,9 +66,7 @@ https://github.com/user-attachments/assets/11bfe2c6-c0ad-4835-8431-b1d42a6f4684
 
 `C35-A005` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/ded78c1b-f5a3-447d-9363-5d52ead463cc
-
-[Download newton-s-method.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/newton-s-method.mp4)
+https://github.com/user-attachments/assets/ee93891c-ca08-43cf-a6f3-6a81ed652821
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -89,9 +79,7 @@ https://github.com/user-attachments/assets/ded78c1b-f5a3-447d-9363-5d52ead463cc
 
 `C35-A006` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/587d3939-f01a-4b5e-b6d5-57cd26f46611
-
-[Download lagrangian-duality.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/lagrangian-duality.mp4)
+https://github.com/user-attachments/assets/20efd0cf-6e79-4470-9c44-483ad421f59a
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -104,9 +92,7 @@ https://github.com/user-attachments/assets/587d3939-f01a-4b5e-b6d5-57cd26f46611
 
 `C35-A007` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/1c5c7053-28da-440a-b8ee-1b0f48d4078d
-
-[Download kkt-conditions.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/kkt-conditions.mp4)
+https://github.com/user-attachments/assets/25b37a8f-dee7-4686-ad56-38a9b0e37f0f
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -119,9 +105,7 @@ https://github.com/user-attachments/assets/1c5c7053-28da-440a-b8ee-1b0f48d4078d
 
 `C35-A008` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/36dc0913-1fbd-46eb-a42a-424aa57b04e2
-
-[Download projected-gradient-method.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/projected-gradient-method.mp4)
+https://github.com/user-attachments/assets/0052df99-e125-4ffa-ab0d-362fbe85e0ce
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

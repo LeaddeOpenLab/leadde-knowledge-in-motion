@@ -7,8 +7,6 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
-**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/download/course-videos-artificial-intelligence-ai-gen/ai-gen-videos.zip)
-
 ---
 
 <a id="c30-a001"></a>
@@ -16,9 +14,7 @@
 
 `C30-A001` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/ea2693df-6d82-4309-81c2-574bfa8b1eb5
-
-[Download autoencoder.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/generative-artificial-intelligence/autoencoder.mp4)
+https://github.com/user-attachments/assets/db7b09c7-c3a6-4828-9422-59d08c48b973
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -31,9 +27,7 @@ https://github.com/user-attachments/assets/ea2693df-6d82-4309-81c2-574bfa8b1eb5
 
 `C30-A002` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/1d98cc6e-2f7f-4750-9b94-619f98bedfba
-
-[Download variational-autoencoder-reparameterization.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/generative-artificial-intelligence/variational-autoencoder-reparameterization.mp4)
+https://github.com/user-attachments/assets/f2389773-fe1e-42a2-8d9b-ce33274d7945
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -46,9 +40,7 @@ https://github.com/user-attachments/assets/1d98cc6e-2f7f-4750-9b94-619f98bedfba
 
 `C30-A003` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/ca0c4b23-c2d0-472e-84d5-f42183524edc
-
-[Download latent-space-interpolation.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/generative-artificial-intelligence/latent-space-interpolation.mp4)
+https://github.com/user-attachments/assets/679ff532-2117-4838-a448-136a10d363f7
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -61,9 +53,7 @@ https://github.com/user-attachments/assets/ca0c4b23-c2d0-472e-84d5-f42183524edc
 
 `C30-A004` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/6ec3bfe7-109b-4074-bc38-aadf2ff62017
-
-[Download generative-adversarial-training.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/generative-artificial-intelligence/generative-adversarial-training.mp4)
+https://github.com/user-attachments/assets/03b1f50c-69e9-41d7-b6dd-a9805177d22d
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -76,9 +66,7 @@ https://github.com/user-attachments/assets/6ec3bfe7-109b-4074-bc38-aadf2ff62017
 
 `C30-A005` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/e9936ea2-a664-4be3-bd07-9164dbb8557c
-
-[Download mode-collapse.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/generative-artificial-intelligence/mode-collapse.mp4)
+https://github.com/user-attachments/assets/f0ce1ae6-7ccb-41cb-bcad-aab0240efb1f
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -91,9 +79,7 @@ https://github.com/user-attachments/assets/e9936ea2-a664-4be3-bd07-9164dbb8557c
 
 `C30-A006` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/e4a3429a-2192-435b-8d01-b7e99fd743c8
-
-[Download diffusion-forward-noising.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/generative-artificial-intelligence/diffusion-forward-noising.mp4)
+https://github.com/user-attachments/assets/3673f433-858e-437a-9442-f8370c2f2a37
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -106,9 +92,7 @@ https://github.com/user-attachments/assets/e4a3429a-2192-435b-8d01-b7e99fd743c8
 
 `C30-A007` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/616f6ff0-f826-49af-aa5e-0690c47dd19b
-
-[Download diffusion-reverse-denoising.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/generative-artificial-intelligence/diffusion-reverse-denoising.mp4)
+https://github.com/user-attachments/assets/633597a5-29a7-448c-8383-b5204dcec032
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -121,9 +105,7 @@ https://github.com/user-attachments/assets/616f6ff0-f826-49af-aa5e-0690c47dd19b
 
 `C30-A008` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/11c64991-5766-4d76-8cd4-f255407f4c6b
-
-[Download classifier-free-guidance.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/generative-artificial-intelligence/classifier-free-guidance.mp4)
+https://github.com/user-attachments/assets/4b37e14b-2701-40d4-b1ff-53b271d0a39c
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

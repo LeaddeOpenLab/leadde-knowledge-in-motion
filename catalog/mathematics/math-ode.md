@@ -14,9 +14,7 @@
 
 `C32-A001` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/0dc25539-4a85-474f-9d02-153d59eb0372
-
-[Download separable-differential-equations.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/separable-differential-equations.mp4)
+https://github.com/user-attachments/assets/4c87ea25-9087-4ad8-a12a-65c65d4b4057
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -29,9 +27,7 @@ https://github.com/user-attachments/assets/0dc25539-4a85-474f-9d02-153d59eb0372
 
 `C32-A002` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/71b0446f-e2bd-4c44-b04e-e90ea562b89f
-
-[Download first-order-linear-differential-equations.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/first-order-linear-differential-equations.mp4)
+https://github.com/user-attachments/assets/0c7feead-67e5-4718-94da-88ecd060588f
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -44,9 +40,7 @@ https://github.com/user-attachments/assets/71b0446f-e2bd-4c44-b04e-e90ea562b89f
 
 `C32-A003` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/07e7fd66-308a-40a6-964a-ffdd06cfd928
-
-[Download phase-line.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/phase-line.mp4)
+https://github.com/user-attachments/assets/de9015df-5bf0-4ea8-bb2c-481a77423d6b
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -59,9 +53,7 @@ https://github.com/user-attachments/assets/07e7fd66-308a-40a6-964a-ffdd06cfd928
 
 `C32-A004` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/d0a87a03-3ce3-44cc-968f-8196b7fc4e03
-
-[Download stability-of-equilibria.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/stability-of-equilibria.mp4)
+https://github.com/user-attachments/assets/a85d3b50-6a3d-47bd-819f-dbfb0ac216e8
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -74,9 +66,7 @@ https://github.com/user-attachments/assets/d0a87a03-3ce3-44cc-968f-8196b7fc4e03
 
 `C32-A005` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/7230ef6d-168d-4786-ba00-fdbad197ec9d
-
-[Download second-order-homogeneous-equations.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/second-order-homogeneous-equations.mp4)
+https://github.com/user-attachments/assets/534e0691-1936-4f5b-8deb-0c06d6cda752
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -89,9 +79,7 @@ https://github.com/user-attachments/assets/7230ef6d-168d-4786-ba00-fdbad197ec9d
 
 `C32-A006` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/2fe0a2cb-6d1b-42c0-adf1-151b1268794e
-
-[Download forced-oscillation-and-resonance.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/forced-oscillation-and-resonance.mp4)
+https://github.com/user-attachments/assets/00774131-59cc-4f70-9de5-f102c73287e1
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -104,9 +92,7 @@ https://github.com/user-attachments/assets/2fe0a2cb-6d1b-42c0-adf1-151b1268794e
 
 `C32-A007` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/eede0422-cbd0-472b-bd8a-fc42e47ff1d3
-
-[Download phase-portrait-of-an-ode-system.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/phase-portrait-of-an-ode-system.mp4)
+https://github.com/user-attachments/assets/f60856c9-54d6-4aba-83fa-6f10710a0229
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -119,9 +105,7 @@ https://github.com/user-attachments/assets/eede0422-cbd0-472b-bd8a-fc42e47ff1d3
 
 `C32-A008` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/8c9704ee-38ae-43e6-99f4-eb663eed3060
-
-[Download euler-s-method.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/euler-s-method.mp4)
+https://github.com/user-attachments/assets/70337c45-71f8-4d76-96b3-48e21f25d21e
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

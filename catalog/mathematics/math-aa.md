@@ -14,9 +14,7 @@
 
 `C34-A001` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/fcb58179-00a8-4abf-9275-852ebab18c51
-
-[Download group-axioms.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/abstract-algebra/group-axioms.mp4)
+https://github.com/user-attachments/assets/d805e26a-2c51-47b2-be48-f8a5c4c814e2
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -29,9 +27,7 @@ https://github.com/user-attachments/assets/fcb58179-00a8-4abf-9275-852ebab18c51
 
 `C34-A002` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/57531828-27cc-4a55-9656-a335b602cf02
-
-[Download subgroups.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/abstract-algebra/subgroups.mp4)
+https://github.com/user-attachments/assets/5fac3f7d-ea98-4cdb-8296-a0ed33cd2cf3
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -44,9 +40,7 @@ https://github.com/user-attachments/assets/57531828-27cc-4a55-9656-a335b602cf02
 
 `C34-A003` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/c41a8196-4f19-4747-902a-2e0ded7dee54
-
-[Download cyclic-groups.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/abstract-algebra/cyclic-groups.mp4)
+https://github.com/user-attachments/assets/08aeef90-eba1-4557-8190-8fe195190b92
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -59,9 +53,7 @@ https://github.com/user-attachments/assets/c41a8196-4f19-4747-902a-2e0ded7dee54
 
 `C34-A004` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/ef61e008-5022-4f6d-a3b7-64d581a2ea48
-
-[Download permutation-groups.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/abstract-algebra/permutation-groups.mp4)
+https://github.com/user-attachments/assets/e1918c94-5451-42d8-9514-daa0753335e5
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -74,9 +66,7 @@ https://github.com/user-attachments/assets/ef61e008-5022-4f6d-a3b7-64d581a2ea48
 
 `C34-A005` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/2863e6c5-fd8c-4316-bf38-9461e30ce3f6
-
-[Download cosets-and-lagrange-s-theorem.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/abstract-algebra/cosets-and-lagrange-s-theorem.mp4)
+https://github.com/user-attachments/assets/30100f20-94ce-4be9-a3ff-02f4618a9417
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -89,9 +79,7 @@ https://github.com/user-attachments/assets/2863e6c5-fd8c-4316-bf38-9461e30ce3f6
 
 `C34-A006` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/e487f7fc-ed9a-4540-858f-01f0e931f8dc
-
-[Download group-homomorphisms.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/abstract-algebra/group-homomorphisms.mp4)
+https://github.com/user-attachments/assets/6abf9995-1d32-46e1-908a-480c59407749
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -104,9 +92,7 @@ https://github.com/user-attachments/assets/e487f7fc-ed9a-4540-858f-01f0e931f8dc
 
 `C34-A007` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/1660f83d-27fb-4832-a46e-dfd647ab0478
-
-[Download rings-and-ideals.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/abstract-algebra/rings-and-ideals.mp4)
+https://github.com/user-attachments/assets/f45b0cb9-88b8-40c2-95fb-a66706f30b1a
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -119,9 +105,7 @@ https://github.com/user-attachments/assets/1660f83d-27fb-4832-a46e-dfd647ab0478
 
 `C34-A008` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/af675b6c-8c04-4b4f-b1cc-207c9ede192c
-
-[Download finite-fields.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/abstract-algebra/finite-fields.mp4)
+https://github.com/user-attachments/assets/66bb6290-58cd-4945-a5ef-08410c87a848
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

@@ -7,8 +7,6 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
-**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/download/course-videos-computer-science-cs-db/cs-db-videos.zip)
-
 ---
 
 <a id="c24-a001"></a>
@@ -16,9 +14,7 @@
 
 `C24-A001` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/fab3614d-c948-4003-b797-3e674e12a98a
-
-[Download entity-relationship-model.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/database-systems/entity-relationship-model.mp4)
+https://github.com/user-attachments/assets/32615eea-ad98-4277-927c-d3d1bbeaf4c2
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -31,9 +27,7 @@ https://github.com/user-attachments/assets/fab3614d-c948-4003-b797-3e674e12a98a
 
 `C24-A002` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/8b21bd2b-4fed-4344-81a0-f54cf6e4cfd0
-
-[Download primary-and-foreign-keys.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/database-systems/primary-and-foreign-keys.mp4)
+https://github.com/user-attachments/assets/201cfe59-092a-4fab-9bf0-c1c5805efa82
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -46,9 +40,7 @@ https://github.com/user-attachments/assets/8b21bd2b-4fed-4344-81a0-f54cf6e4cfd0
 
 `C24-A003` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/51207398-55b7-4ae2-a62f-72d2decd3156
-
-[Download functional-dependencies.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/database-systems/functional-dependencies.mp4)
+https://github.com/user-attachments/assets/028f0891-3485-4d43-9c81-a8ae4e45ba8b
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -61,9 +53,7 @@ https://github.com/user-attachments/assets/51207398-55b7-4ae2-a62f-72d2decd3156
 
 `C24-A004` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/3ec05591-1234-47b1-a5e5-5eb99613a7bb
-
-[Download database-normalization.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/database-systems/database-normalization.mp4)
+https://github.com/user-attachments/assets/ef89a1fb-e61c-40fa-bb33-54deb247d182
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -76,9 +66,7 @@ https://github.com/user-attachments/assets/3ec05591-1234-47b1-a5e5-5eb99613a7bb
 
 `C24-A005` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/7efad585-ac98-4bee-abf7-498d5420488f
-
-[Download b-tree-index.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/database-systems/b-tree-index.mp4)
+https://github.com/user-attachments/assets/7b29526e-c8fa-4bdb-952b-82a8b895f01a
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -91,9 +79,7 @@ https://github.com/user-attachments/assets/7efad585-ac98-4bee-abf7-498d5420488f
 
 `C24-A006` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/c90245ee-c2ec-4056-ba06-25c3590d6a5f
-
-[Download acid-transactions.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/database-systems/acid-transactions.mp4)
+https://github.com/user-attachments/assets/c640465a-4c42-4bf0-a232-98234456ada7
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -106,9 +92,7 @@ https://github.com/user-attachments/assets/c90245ee-c2ec-4056-ba06-25c3590d6a5f
 
 `C24-A007` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/e03e3381-e4b0-436e-bb62-7ebc3e275581
-
-[Download concurrency-control-and-locks.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/database-systems/concurrency-control-and-locks.mp4)
+https://github.com/user-attachments/assets/6454ace4-f3d8-4b31-882d-d3438ff98be3
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -121,9 +105,7 @@ https://github.com/user-attachments/assets/e03e3381-e4b0-436e-bb62-7ebc3e275581
 
 `C24-A008` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/ef0223ed-f760-487b-8e8b-6873e5972527
-
-[Download multiversion-concurrency-control.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/database-systems/multiversion-concurrency-control.mp4)
+https://github.com/user-attachments/assets/8893642a-8b99-4402-af74-2590600e7e3f
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

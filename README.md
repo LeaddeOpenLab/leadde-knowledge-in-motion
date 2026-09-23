@@ -4,8 +4,6 @@
 >
 > Browse knowledge points and play finished videos directly with GitHub's native video player.
 >
-> **Download videos: [Browse course ZIP bundles →](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/tag/course-video-downloads)**
->
 > **Watch the concept. Reuse the prompt. [Create your own animation with Leadde →](https://leadde.ai/animation)**
 
 ## Browse the library
@@ -1129,10 +1127,10 @@
 
 #### Knowledge points
 
-1. [**Interrupt Entry and Return**](catalog/embedded-systems/es-mcu.md#c36-a001) · `C36-A001` · ▶ OPEN VIDEO
-2. [**Timer Overflow and Compare Match**](catalog/embedded-systems/es-mcu.md#c36-a002) · `C36-A002` · ▶ OPEN VIDEO
-3. [**DMA Data Transfer**](catalog/embedded-systems/es-mcu.md#c36-a003) · `C36-A003` · ▶ OPEN VIDEO
-4. [**I²C Start, ACK and Stop**](catalog/embedded-systems/es-mcu.md#c36-a004) · `C36-A004` · ▶ OPEN VIDEO
+1. [**Interrupt Entry and Return**](catalog/embedded-systems/es-mcu.md#c36-a001) · `C36-A001` · ▶ PLAY VIDEO
+2. [**Timer Overflow and Compare Match**](catalog/embedded-systems/es-mcu.md#c36-a002) · `C36-A002` · ▶ PLAY VIDEO
+3. [**DMA Data Transfer**](catalog/embedded-systems/es-mcu.md#c36-a003) · `C36-A003` · ▶ PLAY VIDEO
+4. [**I²C Start, ACK and Stop**](catalog/embedded-systems/es-mcu.md#c36-a004) · `C36-A004` · ▶ PLAY VIDEO
 
 ### [Real-Time Operating Systems](catalog/embedded-systems/es-rtos.md)
 
@@ -1140,10 +1138,10 @@
 
 #### Knowledge points
 
-1. [**Task State Transitions**](catalog/embedded-systems/es-rtos.md#c37-a001) · `C37-A001` · ▶ OPEN VIDEO
-2. [**Priority Preemption**](catalog/embedded-systems/es-rtos.md#c37-a002) · `C37-A002` · ▶ OPEN VIDEO
-3. [**Mutex and Critical Section**](catalog/embedded-systems/es-rtos.md#c37-a003) · `C37-A003` · ▶ OPEN VIDEO
-4. [**Priority Inversion**](catalog/embedded-systems/es-rtos.md#c37-a004) · `C37-A004` · ▶ OPEN VIDEO
+1. [**Task State Transitions**](catalog/embedded-systems/es-rtos.md#c37-a001) · `C37-A001` · ▶ PLAY VIDEO
+2. [**Priority Preemption**](catalog/embedded-systems/es-rtos.md#c37-a002) · `C37-A002` · ▶ PLAY VIDEO
+3. [**Mutex and Critical Section**](catalog/embedded-systems/es-rtos.md#c37-a003) · `C37-A003` · ▶ PLAY VIDEO
+4. [**Priority Inversion**](catalog/embedded-systems/es-rtos.md#c37-a004) · `C37-A004` · ▶ PLAY VIDEO
 
 ---
 
@@ -1174,11 +1172,11 @@
 
 #### Knowledge points
 
-1. [**Combinational Propagation Delay**](catalog/digital-electronics/de-dld.md#c38-a001) · `C38-A001` · ▶ OPEN VIDEO
-2. [**Edge-Triggered Flip-Flop**](catalog/digital-electronics/de-dld.md#c38-a002) · `C38-A002` · ▶ OPEN VIDEO
-3. [**Finite State Machine Transition**](catalog/digital-electronics/de-dld.md#c38-a003) · `C38-A003` · ▶ OPEN VIDEO
-4. [**Metastability**](catalog/digital-electronics/de-dld.md#c38-a004) · `C38-A004` · ▶ OPEN VIDEO
-5. [**Shift Register**](catalog/digital-electronics/de-dld.md#c38-a005) · `C38-A005` · ▶ OPEN VIDEO
+1. [**Combinational Propagation Delay**](catalog/digital-electronics/de-dld.md#c38-a001) · `C38-A001` · ▶ PLAY VIDEO
+2. [**Edge-Triggered Flip-Flop**](catalog/digital-electronics/de-dld.md#c38-a002) · `C38-A002` · ▶ PLAY VIDEO
+3. [**Finite State Machine Transition**](catalog/digital-electronics/de-dld.md#c38-a003) · `C38-A003` · ▶ PLAY VIDEO
+4. [**Metastability**](catalog/digital-electronics/de-dld.md#c38-a004) · `C38-A004` · ▶ PLAY VIDEO
+5. [**Shift Register**](catalog/digital-electronics/de-dld.md#c38-a005) · `C38-A005` · ▶ PLAY VIDEO
 
 ### [FPGA Fundamentals](catalog/digital-electronics/de-fpga.md)
 
@@ -1186,10 +1184,10 @@
 
 #### Knowledge points
 
-1. [**Setup and Hold Time**](catalog/digital-electronics/de-fpga.md#c39-a001) · `C39-A001` · ▶ OPEN VIDEO
-2. [**Clock Domain Crossing**](catalog/digital-electronics/de-fpga.md#c39-a002) · `C39-A002` · ▶ OPEN VIDEO
-3. [**Pipeline Latency and Throughput**](catalog/digital-electronics/de-fpga.md#c39-a003) · `C39-A003` · ▶ OPEN VIDEO
-4. [**Resource Sharing vs Parallel Hardware**](catalog/digital-electronics/de-fpga.md#c39-a004) · `C39-A004` · ▶ OPEN VIDEO
+1. [**Setup and Hold Time**](catalog/digital-electronics/de-fpga.md#c39-a001) · `C39-A001` · ▶ PLAY VIDEO
+2. [**Clock Domain Crossing**](catalog/digital-electronics/de-fpga.md#c39-a002) · `C39-A002` · ▶ PLAY VIDEO
+3. [**Pipeline Latency and Throughput**](catalog/digital-electronics/de-fpga.md#c39-a003) · `C39-A003` · ▶ PLAY VIDEO
+4. [**Resource Sharing vs Parallel Hardware**](catalog/digital-electronics/de-fpga.md#c39-a004) · `C39-A004` · ▶ PLAY VIDEO
 
 ---
 
@@ -1202,12 +1200,6 @@ assets/videos/<subject-slug>/<course-slug>/<prompt-slug>.mp4
 ```
 
 Then set the matching entry in `data/prompts.json` to `status: ready`, populate its repository `video` path, and add its GitHub attachment URL as `player`. A standalone GitHub attachment URL renders as the native inline player.
-
-Course ZIP assets use fixed Release tags and filenames. Rebuild and replace them after adding videos with:
-
-```bash
-GITHUB_TOKEN=... python3 scripts/publish_course_video_releases.py
-```
 
 To refresh the prompt catalog from the source spreadsheet, run:
 

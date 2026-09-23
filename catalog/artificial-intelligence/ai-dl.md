@@ -7,8 +7,6 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
-**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/download/course-videos-artificial-intelligence-ai-dl/ai-dl-videos.zip)
-
 ---
 
 <a id="c26-a001"></a>
@@ -16,9 +14,7 @@
 
 `C26-A001` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/660fb578-4b88-43b0-8cd9-dd8dfbefb8ac
-
-[Download artificial-neuron.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/artificial-neuron.mp4)
+https://github.com/user-attachments/assets/6d6bfe7d-d00a-4d9b-8174-f69a6f3d6ec3
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -31,9 +27,7 @@ https://github.com/user-attachments/assets/660fb578-4b88-43b0-8cd9-dd8dfbefb8ac
 
 `C26-A002` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/cc6cd634-5857-4ecb-a390-d48dafc1903f
-
-[Download activation-functions.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/activation-functions.mp4)
+https://github.com/user-attachments/assets/18734cd9-8b46-4748-82be-59beab7d38f8
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -46,9 +40,7 @@ https://github.com/user-attachments/assets/cc6cd634-5857-4ecb-a390-d48dafc1903f
 
 `C26-A003` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/3dd623e9-0301-4141-99a1-3245a74f8f3b
-
-[Download parameter-initialization.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/parameter-initialization.mp4)
+https://github.com/user-attachments/assets/6fcb644b-e297-4e66-b32a-d1eb6ae06135
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -61,9 +53,7 @@ https://github.com/user-attachments/assets/3dd623e9-0301-4141-99a1-3245a74f8f3b
 
 `C26-A004` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/01ad0b37-8916-4a07-a1e6-bbc3c9b23cb7
-
-[Download batch-normalization.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/batch-normalization.mp4)
+https://github.com/user-attachments/assets/2b8d5a6b-fc27-4f2f-8216-19433d8d8d70
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -76,9 +66,7 @@ https://github.com/user-attachments/assets/01ad0b37-8916-4a07-a1e6-bbc3c9b23cb7
 
 `C26-A005` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/1216cf53-09e1-4eeb-b212-0595e479f6b1
-
-[Download dropout.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/dropout.mp4)
+https://github.com/user-attachments/assets/759fbeb2-ca17-4148-be56-48092e449e32
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -91,9 +79,7 @@ https://github.com/user-attachments/assets/1216cf53-09e1-4eeb-b212-0595e479f6b1
 
 `C26-A006` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/17e2dcf5-691a-404b-8e4e-b7d9e0cd05fa
-
-[Download convolutional-neural-network.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/convolutional-neural-network.mp4)
+https://github.com/user-attachments/assets/6b165ff9-a075-4a17-a691-0f6f0e1412df
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -106,9 +92,7 @@ https://github.com/user-attachments/assets/17e2dcf5-691a-404b-8e4e-b7d9e0cd05fa
 
 `C26-A007` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/3e2a4b2e-7955-4816-b4a8-d2d4c3a34d52
-
-[Download vanishing-gradients-in-recurrent-neural-networks.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/vanishing-gradients-in-recurrent-neural-networks.mp4)
+https://github.com/user-attachments/assets/655bc692-e554-43a3-aec5-6b4f7ff9bd45
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -121,9 +105,7 @@ https://github.com/user-attachments/assets/3e2a4b2e-7955-4816-b4a8-d2d4c3a34d52
 
 `C26-A008` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/9365d14c-e05f-4e9b-9b5a-e25880bfe980
-
-[Download attention-mechanism.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/artificial-intelligence/deep-learning/attention-mechanism.mp4)
+https://github.com/user-attachments/assets/b35ebc51-abcd-4c3e-9479-316f82f007a8
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

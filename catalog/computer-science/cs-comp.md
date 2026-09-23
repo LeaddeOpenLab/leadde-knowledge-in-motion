@@ -7,8 +7,6 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
-**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/download/course-videos-computer-science-cs-comp/cs-comp-videos.zip)
-
 ---
 
 <a id="c25-a001"></a>
@@ -16,9 +14,7 @@
 
 `C25-A001` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/bbca391f-1be0-41d8-a48c-386e67bb353b
-
-[Download lexical-analysis-and-tokens.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/compiler-design/lexical-analysis-and-tokens.mp4)
+https://github.com/user-attachments/assets/12eab0d9-dc3f-4ec2-a788-c59a178232c3
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -31,9 +27,7 @@ https://github.com/user-attachments/assets/bbca391f-1be0-41d8-a48c-386e67bb353b
 
 `C25-A002` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/66ff7c13-514b-4c63-9ea5-a2c8f4c30e52
-
-[Download regular-expression-to-finite-automaton.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/compiler-design/regular-expression-to-finite-automaton.mp4)
+https://github.com/user-attachments/assets/e16487fb-4bbf-4ab6-907c-c09bc35d9e93
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -46,9 +40,7 @@ https://github.com/user-attachments/assets/66ff7c13-514b-4c63-9ea5-a2c8f4c30e52
 
 `C25-A003` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/d3a89741-a5a3-4774-881a-fa6c1d94d9f6
-
-[Download context-free-grammar.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/compiler-design/context-free-grammar.mp4)
+https://github.com/user-attachments/assets/024fe452-442b-4606-af06-57f5b77d0b6d
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -61,9 +53,7 @@ https://github.com/user-attachments/assets/d3a89741-a5a3-4774-881a-fa6c1d94d9f6
 
 `C25-A004` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/92b6aa35-95d2-4fbc-b79b-b1a499567e9a
-
-[Download abstract-syntax-tree.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/compiler-design/abstract-syntax-tree.mp4)
+https://github.com/user-attachments/assets/b6b5a8dc-a48f-4ebe-beea-d9d8eb872fb5
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -76,9 +66,7 @@ https://github.com/user-attachments/assets/92b6aa35-95d2-4fbc-b79b-b1a499567e9a
 
 `C25-A005` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/add57747-bd10-4d91-addd-6bfc59522fe7
-
-[Download recursive-descent-parsing.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/compiler-design/recursive-descent-parsing.mp4)
+https://github.com/user-attachments/assets/13370d33-0097-41ef-a289-b1c30740e1a2
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -91,9 +79,7 @@ https://github.com/user-attachments/assets/add57747-bd10-4d91-addd-6bfc59522fe7
 
 `C25-A006` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/d6de691d-7449-4f4f-927c-bb62cb7a35ce
-
-[Download intermediate-representation.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/compiler-design/intermediate-representation.mp4)
+https://github.com/user-attachments/assets/4284c191-39e5-417b-95e0-df8a658e0f42
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -106,9 +92,7 @@ https://github.com/user-attachments/assets/d6de691d-7449-4f4f-927c-bb62cb7a35ce
 
 `C25-A007` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/a9de63a8-0fe5-4c65-8041-e5fbbbd885bf
-
-[Download data-flow-analysis.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/compiler-design/data-flow-analysis.mp4)
+https://github.com/user-attachments/assets/90440156-61b7-488f-987a-af3337245e0b
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -121,9 +105,7 @@ https://github.com/user-attachments/assets/a9de63a8-0fe5-4c65-8041-e5fbbbd885bf
 
 `C25-A008` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/a85c7162-8243-4545-b6fc-f735614bc97c
-
-[Download register-allocation.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/compiler-design/register-allocation.mp4)
+https://github.com/user-attachments/assets/f4cc6add-3240-488f-9fef-05eb73e12326
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

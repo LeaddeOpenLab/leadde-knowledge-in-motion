@@ -7,8 +7,6 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
-**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/download/course-videos-computer-science-cs-net/cs-net-videos.zip)
-
 ---
 
 <a id="c23-a001"></a>
@@ -16,9 +14,7 @@
 
 `C23-A001` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/4350f2c0-fe84-4122-af0d-0521e980db16
-
-[Download osi-and-tcp-ip-layers.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-networks/osi-and-tcp-ip-layers.mp4)
+https://github.com/user-attachments/assets/3b90757f-1272-4722-a89a-452339326d17
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -31,9 +27,7 @@ https://github.com/user-attachments/assets/4350f2c0-fe84-4122-af0d-0521e980db16
 
 `C23-A002` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/a9f047ec-d617-4c3e-a389-1441e0b14197
-
-[Download packet-encapsulation.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-networks/packet-encapsulation.mp4)
+https://github.com/user-attachments/assets/7fdeebc2-d7fe-4f3e-be3d-9e67ce0a4e08
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -46,9 +40,7 @@ https://github.com/user-attachments/assets/a9f047ec-d617-4c3e-a389-1441e0b14197
 
 `C23-A003` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/329d4be6-1b7b-42ca-9112-6a131660b369
-
-[Download subnet-masks-and-cidr.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-networks/subnet-masks-and-cidr.mp4)
+https://github.com/user-attachments/assets/02adfe2d-dd84-4a18-819d-860a776eb779
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -61,9 +53,7 @@ https://github.com/user-attachments/assets/329d4be6-1b7b-42ca-9112-6a131660b369
 
 `C23-A004` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/2881a892-0360-4cd6-9051-1eedeb261dd5
-
-[Download longest-prefix-routing-match.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-networks/longest-prefix-routing-match.mp4)
+https://github.com/user-attachments/assets/d70ea01d-4768-432d-9adc-721d7f9e9727
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -76,9 +66,7 @@ https://github.com/user-attachments/assets/2881a892-0360-4cd6-9051-1eedeb261dd5
 
 `C23-A005` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/5d72fac1-7a0f-47b0-84e1-d4b07af1ac35
-
-[Download tcp-three-way-handshake.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-networks/tcp-three-way-handshake.mp4)
+https://github.com/user-attachments/assets/46bb6ede-ab3b-4af3-9540-f31ceb8a6ea8
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -91,9 +79,7 @@ https://github.com/user-attachments/assets/5d72fac1-7a0f-47b0-84e1-d4b07af1ac35
 
 `C23-A006` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/74673e1a-1a69-4494-8e04-44a455510688
-
-[Download tcp-congestion-window.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-networks/tcp-congestion-window.mp4)
+https://github.com/user-attachments/assets/c1b7e966-eac8-4763-8216-d2be3d59252b
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -106,9 +92,7 @@ https://github.com/user-attachments/assets/74673e1a-1a69-4494-8e04-44a455510688
 
 `C23-A007` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/7d6845b0-627b-4c0f-b016-588dda6bb7fa
-
-[Download dns-resolution.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-networks/dns-resolution.mp4)
+https://github.com/user-attachments/assets/c5ac2b26-81a4-4781-b3a3-0d8edb9022e0
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -121,9 +105,7 @@ https://github.com/user-attachments/assets/7d6845b0-627b-4c0f-b016-588dda6bb7fa
 
 `C23-A008` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/d1030ceb-009a-4b01-a987-c268b3a8e48e
-
-[Download http-request-and-response.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/computer-networks/http-request-and-response.mp4)
+https://github.com/user-attachments/assets/2fd24c4d-5c12-47a4-8adc-8477dceec2ba
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

@@ -14,9 +14,7 @@
 
 `C31-A001` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/9da78ab5-d5d5-41fd-be8f-beab96fad560
-
-[Download partial-derivatives.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/multivariable-calculus/partial-derivatives.mp4)
+https://github.com/user-attachments/assets/d85ce2f8-36af-4103-a51b-c34fbe50f4f9
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -29,9 +27,7 @@ https://github.com/user-attachments/assets/9da78ab5-d5d5-41fd-be8f-beab96fad560
 
 `C31-A002` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/138a69c3-453e-4b59-8a90-29d10f51f980
-
-[Download gradient.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/multivariable-calculus/gradient.mp4)
+https://github.com/user-attachments/assets/0358f275-42da-46d3-bde1-5276804961d6
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -44,9 +40,7 @@ https://github.com/user-attachments/assets/138a69c3-453e-4b59-8a90-29d10f51f980
 
 `C31-A003` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/dea029b1-cf7c-4ed3-a908-166d2d35447d
-
-[Download directional-derivative.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/multivariable-calculus/directional-derivative.mp4)
+https://github.com/user-attachments/assets/58e50979-5e3c-42a7-a327-6043ddfca398
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -59,9 +53,7 @@ https://github.com/user-attachments/assets/dea029b1-cf7c-4ed3-a908-166d2d35447d
 
 `C31-A004` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/5a7b23df-3e57-4a36-bbaf-cbc1b3945af0
-
-[Download jacobian-matrix.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/multivariable-calculus/jacobian-matrix.mp4)
+https://github.com/user-attachments/assets/6e7b64e7-cc7f-41fb-a801-bd158735c017
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -74,9 +66,7 @@ https://github.com/user-attachments/assets/5a7b23df-3e57-4a36-bbaf-cbc1b3945af0
 
 `C31-A005` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/b62cbf86-3603-4c78-8c27-23417a2092da
-
-[Download hessian-matrix.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/multivariable-calculus/hessian-matrix.mp4)
+https://github.com/user-attachments/assets/d6beeacf-b9b5-4401-8c17-bfd7f3d5f5bf
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -89,9 +79,7 @@ https://github.com/user-attachments/assets/b62cbf86-3603-4c78-8c27-23417a2092da
 
 `C31-A006` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/ffe2897e-300a-40b6-80e7-211790c487d4
-
-[Download lagrange-multipliers.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/multivariable-calculus/lagrange-multipliers.mp4)
+https://github.com/user-attachments/assets/7c6ff29f-7ca1-41ad-bbf3-3e6861e44909
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -104,9 +92,7 @@ https://github.com/user-attachments/assets/ffe2897e-300a-40b6-80e7-211790c487d4
 
 `C31-A007` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/665c2938-c01b-468b-875f-bcea70944136
-
-[Download double-integral.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/multivariable-calculus/double-integral.mp4)
+https://github.com/user-attachments/assets/3173397e-cb68-483b-bbd3-4c5c5772323e
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -119,9 +105,7 @@ https://github.com/user-attachments/assets/665c2938-c01b-468b-875f-bcea70944136
 
 `C31-A008` · **▶ Play video below**
 
-https://github.com/user-attachments/assets/e7ed0f35-8a3b-48de-99c8-4b768928e00e
-
-[Download divergence-and-curl.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/multivariable-calculus/divergence-and-curl.mp4)
+https://github.com/user-attachments/assets/9de0d90a-407f-4b1b-87e4-34361fd5ed5d
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
