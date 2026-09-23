@@ -1,6 +1,6 @@
 # Leadde Knowledge in Motion
 
-> An open educational animation and AI prompt library with **387 English prompts** across **17 disciplines** and **39 courses**.
+> An open educational animation and AI prompt library with **388 English prompts** across **17 disciplines** and **39 courses**.
 >
 > Browse knowledge points and play finished videos directly with GitHub's native video player.
 >
@@ -88,7 +88,7 @@
 </td>
 <td width="33%" valign="top">
   <a href="#digital-electronics"><img src="assets/subject-cards/digital-electronics.png" width="100%" alt="Digital Electronics subject card"></a><br>
-  <sub>2 courses · 8 prompts</sub>
+  <sub>2 courses · 9 prompts</sub>
 </td>
 <td></td>
 </tr>
@@ -1150,14 +1150,14 @@
 <a id="digital-electronics"></a>
 ## Digital Electronics
 
-**2 courses · 8 prompts** &nbsp; [Back to cards](#browse-the-library)
+**2 courses · 9 prompts** &nbsp; [Back to cards](#browse-the-library)
 
 <table>
 <tr>
 <td width="33%" valign="top">
   <a href="catalog/digital-electronics/de-dld.md"><img src="assets/course-covers/de-dld.svg" width="100%" alt="Digital Logic Design course cover"></a><br>
   <a href="catalog/digital-electronics/de-dld.md"><strong>Digital Logic Design</strong></a><br>
-  <sub>4 prompts · Digital Design and Computer Architecture (Harris and Harris)</sub>
+  <sub>5 prompts · Digital Design and Computer Architecture (Harris and Harris)</sub>
 </td>
 <td width="33%" valign="top">
   <a href="catalog/digital-electronics/de-fpga.md"><img src="assets/course-covers/de-fpga.svg" width="100%" alt="FPGA Fundamentals course cover"></a><br>
@@ -1178,6 +1178,7 @@
 2. [**Edge-Triggered Flip-Flop**](catalog/digital-electronics/de-dld.md#c38-a002) · `C38-A002` · ▶ OPEN VIDEO
 3. [**Finite State Machine Transition**](catalog/digital-electronics/de-dld.md#c38-a003) · `C38-A003` · ▶ OPEN VIDEO
 4. [**Metastability**](catalog/digital-electronics/de-dld.md#c38-a004) · `C38-A004` · ▶ OPEN VIDEO
+5. [**Shift Register**](catalog/digital-electronics/de-dld.md#c38-a005) · `C38-A005` · ▶ OPEN VIDEO
 
 ### [FPGA Fundamentals](catalog/digital-electronics/de-fpga.md)
 

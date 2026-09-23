@@ -6032,5 +6032,24 @@
       "P0"
     ],
     "prompt": "A 30-second silent English concept animation for a university FPGA Fundamentals course: Resource Sharing vs Parallel Hardware. Compare duplicated functional units with one time-multiplexed unit to trade area against batch time.\n\nDark ground `#0e0d10` -> `#18181f` -> `#22222d`; primary `#33bbee` on the main entity; accent `#ee7733` on the key quantity; result `#009988` on the conclusion; warn `#cc3311` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + marker-travel — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames."
+  },
+  {
+    "id": "C38-A005",
+    "subject": "Digital Electronics",
+    "course": "Digital Logic Design",
+    "textbook": "Digital Design and Computer Architecture (Harris and Harris)",
+    "title": "Shift Register",
+    "seo_title": "Shift Register: Serial Bits Become 1101",
+    "cover": "assets/video-covers/digital-electronics/digital-logic-design/shift-register.jpg",
+    "status": "ready",
+    "video": "assets/videos/digital-electronics/digital-logic-design/shift-register.mp4",
+    "tags": [
+      "C38-A005",
+      "DE-DLD",
+      "P0"
+    ],
+    "prompt": "A 30-second silent English concept animation for a university Digital Logic Design course: Shift Register. Demonstrate four shared-clock storage cells shifting a serial 1, 0, 1, 1 stream into the parallel state 1101 after four rising edges.\n\nDark ground `#0e0d10` -> `#18181f` -> `#22222d`; primary `#33bbee` on the main entity; accent `#ee7733` on the key quantity; result `#009988` on the conclusion; warn `#cc3311` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "feishu_record_id": "recvw1ElXc6hY0",
+    "source_url": "https://hdlbits.01xz.net/wiki/shift4"
   }
 ]
