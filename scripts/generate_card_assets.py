@@ -36,6 +36,8 @@ ICONS = {
     "Philosophy": '<path d="M48 15c18 0 31 13 31 31S66 77 48 77 17 64 17 46 30 15 48 15Z" ' + STYLE + '/><path d="M48 15v62" ' + STYLE + '/>',
     "Literature": '<path d="M20 20c13-5 27-3 28 7v50c-1-10-15-12-28-7V20ZM76 20c-13-5-27-3-28 7v50c1-10 15-12 28-7V20Z" ' + STYLE + '/><path d="M48 27v50" ' + STYLE + '/>',
     "Astronomy": '<circle cx="48" cy="45" r="24" ' + STYLE + '/><path d="M48 10v11M48 69v11M13 45h11M72 45h11M22 19l8 8M66 63l8 8M74 19l-8 8M30 63l-8 8" ' + STYLE + '/>',
+    "Embedded Systems": '<rect x="22" y="22" width="52" height="52" rx="7" ' + STYLE + '/><path d="M34 12v10M48 12v10M62 12v10M34 74v10M48 74v10M62 74v10M12 34h10M12 48h10M12 62h10M74 34h10M74 48h10M74 62h10" ' + STYLE + '/>',
+    "Digital Electronics": '<path d="M12 62h16V32h20v30h20V32h16" ' + STYLE + '/><circle cx="28" cy="32" r="4" fill="#24292f"/><circle cx="48" cy="62" r="4" fill="#24292f"/><circle cx="68" cy="32" r="4" fill="#24292f"/>',
 }
 
 for subject, drawing in ICONS.items():

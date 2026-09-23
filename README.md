@@ -1,6 +1,6 @@
 # Leadde Knowledge in Motion
 
-> An open educational animation and AI prompt library with **371 English prompts** across **15 disciplines** and **35 courses**.
+> An open educational animation and AI prompt library with **387 English prompts** across **17 disciplines** and **39 courses**.
 >
 > Browse knowledge points and play finished videos directly with GitHub's native video player.
 >
@@ -80,6 +80,17 @@
   <a href="#astronomy"><img src="assets/subject-cards/astronomy.png" width="100%" alt="Astronomy subject card"></a><br>
   <sub>1 courses · 12 prompts</sub>
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+  <a href="#embedded-systems"><img src="assets/subject-cards/embedded-systems.png" width="100%" alt="Embedded Systems subject card"></a><br>
+  <sub>2 courses · 8 prompts</sub>
+</td>
+<td width="33%" valign="top">
+  <a href="#digital-electronics"><img src="assets/subject-cards/digital-electronics.png" width="100%" alt="Digital Electronics subject card"></a><br>
+  <sub>2 courses · 8 prompts</sub>
+</td>
+<td></td>
 </tr>
 </table>
 
@@ -1088,6 +1099,96 @@
 10. [**Dark matter**](catalog/astronomy/astr-160.md#c20-a010) · `C20-A010` · VIDEO COMING SOON
 11. [**Dark energy**](catalog/astronomy/astr-160.md#c20-a011) · `C20-A011` · VIDEO COMING SOON
 12. [**Indirect observational evidence**](catalog/astronomy/astr-160.md#c20-a012) · `C20-A012` · VIDEO COMING SOON
+
+---
+
+<a id="embedded-systems"></a>
+## Embedded Systems
+
+**2 courses · 8 prompts** &nbsp; [Back to cards](#browse-the-library)
+
+<table>
+<tr>
+<td width="33%" valign="top">
+  <a href="catalog/embedded-systems/es-mcu.md"><img src="assets/course-covers/es-mcu.svg" width="100%" alt="Microcontroller Fundamentals course cover"></a><br>
+  <a href="catalog/embedded-systems/es-mcu.md"><strong>Microcontroller Fundamentals</strong></a><br>
+  <sub>4 prompts · Course notes (no required textbook)</sub>
+</td>
+<td width="33%" valign="top">
+  <a href="catalog/embedded-systems/es-rtos.md"><img src="assets/course-covers/es-rtos.svg" width="100%" alt="Real-Time Operating Systems course cover"></a><br>
+  <a href="catalog/embedded-systems/es-rtos.md"><strong>Real-Time Operating Systems</strong></a><br>
+  <sub>4 prompts · Course notes (no required textbook)</sub>
+</td>
+<td></td>
+</tr>
+</table>
+
+### [Microcontroller Fundamentals](catalog/embedded-systems/es-mcu.md)
+
+**TEXTBOOK · Course notes (no required textbook)** &nbsp; [Open course page](catalog/embedded-systems/es-mcu.md)
+
+#### Knowledge points
+
+1. [**Interrupt Entry and Return**](catalog/embedded-systems/es-mcu.md#c36-a001) · `C36-A001` · ▶ OPEN VIDEO
+2. [**Timer Overflow and Compare Match**](catalog/embedded-systems/es-mcu.md#c36-a002) · `C36-A002` · ▶ OPEN VIDEO
+3. [**DMA Data Transfer**](catalog/embedded-systems/es-mcu.md#c36-a003) · `C36-A003` · ▶ OPEN VIDEO
+4. [**I²C Start, ACK and Stop**](catalog/embedded-systems/es-mcu.md#c36-a004) · `C36-A004` · ▶ OPEN VIDEO
+
+### [Real-Time Operating Systems](catalog/embedded-systems/es-rtos.md)
+
+**TEXTBOOK · Course notes (no required textbook)** &nbsp; [Open course page](catalog/embedded-systems/es-rtos.md)
+
+#### Knowledge points
+
+1. [**Task State Transitions**](catalog/embedded-systems/es-rtos.md#c37-a001) · `C37-A001` · ▶ OPEN VIDEO
+2. [**Priority Preemption**](catalog/embedded-systems/es-rtos.md#c37-a002) · `C37-A002` · ▶ OPEN VIDEO
+3. [**Mutex and Critical Section**](catalog/embedded-systems/es-rtos.md#c37-a003) · `C37-A003` · ▶ OPEN VIDEO
+4. [**Priority Inversion**](catalog/embedded-systems/es-rtos.md#c37-a004) · `C37-A004` · ▶ OPEN VIDEO
+
+---
+
+<a id="digital-electronics"></a>
+## Digital Electronics
+
+**2 courses · 8 prompts** &nbsp; [Back to cards](#browse-the-library)
+
+<table>
+<tr>
+<td width="33%" valign="top">
+  <a href="catalog/digital-electronics/de-dld.md"><img src="assets/course-covers/de-dld.svg" width="100%" alt="Digital Logic Design course cover"></a><br>
+  <a href="catalog/digital-electronics/de-dld.md"><strong>Digital Logic Design</strong></a><br>
+  <sub>4 prompts · Digital Design and Computer Architecture (Harris and Harris)</sub>
+</td>
+<td width="33%" valign="top">
+  <a href="catalog/digital-electronics/de-fpga.md"><img src="assets/course-covers/de-fpga.svg" width="100%" alt="FPGA Fundamentals course cover"></a><br>
+  <a href="catalog/digital-electronics/de-fpga.md"><strong>FPGA Fundamentals</strong></a><br>
+  <sub>4 prompts · Course notes (no required textbook)</sub>
+</td>
+<td></td>
+</tr>
+</table>
+
+### [Digital Logic Design](catalog/digital-electronics/de-dld.md)
+
+**TEXTBOOK · Digital Design and Computer Architecture (Harris and Harris)** &nbsp; [Open course page](catalog/digital-electronics/de-dld.md)
+
+#### Knowledge points
+
+1. [**Combinational Propagation Delay**](catalog/digital-electronics/de-dld.md#c38-a001) · `C38-A001` · ▶ OPEN VIDEO
+2. [**Edge-Triggered Flip-Flop**](catalog/digital-electronics/de-dld.md#c38-a002) · `C38-A002` · ▶ OPEN VIDEO
+3. [**Finite State Machine Transition**](catalog/digital-electronics/de-dld.md#c38-a003) · `C38-A003` · ▶ OPEN VIDEO
+4. [**Metastability**](catalog/digital-electronics/de-dld.md#c38-a004) · `C38-A004` · ▶ OPEN VIDEO
+
+### [FPGA Fundamentals](catalog/digital-electronics/de-fpga.md)
+
+**TEXTBOOK · Course notes (no required textbook)** &nbsp; [Open course page](catalog/digital-electronics/de-fpga.md)
+
+#### Knowledge points
+
+1. [**Setup and Hold Time**](catalog/digital-electronics/de-fpga.md#c39-a001) · `C39-A001` · ▶ OPEN VIDEO
+2. [**Clock Domain Crossing**](catalog/digital-electronics/de-fpga.md#c39-a002) · `C39-A002` · ▶ OPEN VIDEO
+3. [**Pipeline Latency and Throughput**](catalog/digital-electronics/de-fpga.md#c39-a003) · `C39-A003` · ▶ OPEN VIDEO
+4. [**Resource Sharing vs Parallel Hardware**](catalog/digital-electronics/de-fpga.md#c39-a004) · `C39-A004` · ▶ OPEN VIDEO
 
 ---
 

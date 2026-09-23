@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none"><rect width="1200" height="630" rx="28" fill="#008B83"/>
+<circle cx="108" cy="100" r="128" stroke="#DFFFFA" stroke-width="7" opacity=".7"/>
+<circle cx="1090" cy="542" r="166" stroke="#DFFFFA" stroke-width="7" opacity=".7"/>
+<path d="M0 536C137 450 186 558 319 488M881 114c104-85 177 20 319-72" stroke="#DFFFFA" stroke-width="7" stroke-linecap="round" opacity=".7"/>
+<path d="M92 152h54M106 138v28M1026 454h54M1040 440v28" stroke="#DFFFFA" stroke-width="7" stroke-linecap="round" opacity=".7"/>
+<text x="600" y="280" text-anchor="middle" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700">FPGA Fundamentals</text></svg>

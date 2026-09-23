@@ -32,6 +32,8 @@ SUBJECTS = [
     ("philosophy", "Philosophy", "#A3A3A3", "philosophy"),
     ("literature", "Literature", "#F0ABFC", "literature"),
     ("astronomy", "Astronomy", "#818CF8", "astronomy"),
+    ("embedded-systems", "Embedded Systems", "#60A5FA", "embedded"),
+    ("digital-electronics", "Digital Electronics", "#33BBEE", "digital"),
 ]
 
 
@@ -227,6 +229,27 @@ def draw_astronomy(draw, accent):
         line(draw, [(675,175),(x,y)], rgba("#F4F7FF"), 3)
 
 
+def draw_embedded(draw, accent):
+    draw.rounded_rectangle((760, 205, 1010, 445), 24, outline=accent, width=8)
+    for x in range(790, 991, 50):
+        line(draw, [(x, 175), (x, 205)], accent, 6)
+        line(draw, [(x, 445), (x, 475)], accent, 6)
+    for y in range(235, 426, 48):
+        line(draw, [(730, y), (760, y)], accent, 6)
+        line(draw, [(1010, y), (1040, y)], accent, 6)
+    draw.rounded_rectangle((835, 275, 935, 375), 16, outline=rgba("#F4F7FF"), width=7)
+    line(draw, [(785, 325), (835, 325)], rgba("#F4F7FF"), 6)
+    line(draw, [(935, 325), (985, 325)], rgba("#F4F7FF"), 6)
+
+
+def draw_digital(draw, accent):
+    points = [(690, 405), (740, 405), (740, 250), (820, 250), (820, 405), (900, 405), (900, 250), (980, 250), (980, 405), (1060, 405)]
+    line(draw, points, accent, 10)
+    for x, y in [(740, 250), (820, 405), (900, 250), (980, 405)]:
+        node(draw, x, y, 12, rgba("#F4F7FF"), fill=accent, width=3)
+    draw.text((790, 145), "01", font=ImageFont.truetype(FONT_BOLD, 72), fill=rgba("#F4F7FF"))
+
+
 FIGURES = {
     "computer": draw_computer,
     "ai": draw_ai,
@@ -243,6 +266,8 @@ FIGURES = {
     "philosophy": draw_philosophy,
     "literature": draw_literature,
     "astronomy": draw_astronomy,
+    "embedded": draw_embedded,
+    "digital": draw_digital,
 }
 
 
