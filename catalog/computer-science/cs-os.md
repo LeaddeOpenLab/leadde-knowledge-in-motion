@@ -7,18 +7,16 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
-**Course download:** [Download all 8 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/download/course-videos-computer-science-cs-os/cs-os-videos.zip)
-
 ---
 
 <a id="c22-a001"></a>
 ## Processes and Threads
 
-`C22-A001` · **▶ Play video below**
+`C22-A001` · Video ready
 
-https://github.com/user-attachments/assets/5147b0d9-c87c-43f2-9bf3-2a18ffcef842
+[![Preview of Processes and Threads](../../assets/video-covers/computer-science/operating-systems/processes-and-threads.jpg)](../../assets/videos/computer-science/operating-systems/processes-and-threads.mp4)
 
-[Download processes-and-threads.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/operating-systems/processes-and-threads.mp4)
+[Open or download processes-and-threads.mp4](../../assets/videos/computer-science/operating-systems/processes-and-threads.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -29,11 +27,11 @@ https://github.com/user-attachments/assets/5147b0d9-c87c-43f2-9bf3-2a18ffcef842
 <a id="c22-a002"></a>
 ## Process State Transitions
 
-`C22-A002` · **▶ Play video below**
+`C22-A002` · Video ready
 
-https://github.com/user-attachments/assets/2663e547-96db-40a4-ae5e-ac7b590d8e98
+[![Preview of Process State Transitions](../../assets/video-covers/computer-science/operating-systems/process-state-transitions.jpg)](../../assets/videos/computer-science/operating-systems/process-state-transitions.mp4)
 
-[Download process-state-transitions.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/operating-systems/process-state-transitions.mp4)
+[Open or download process-state-transitions.mp4](../../assets/videos/computer-science/operating-systems/process-state-transitions.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -44,11 +42,11 @@ https://github.com/user-attachments/assets/2663e547-96db-40a4-ae5e-ac7b590d8e98
 <a id="c22-a003"></a>
 ## Context Switching
 
-`C22-A003` · **▶ Play video below**
+`C22-A003` · Video ready
 
-https://github.com/user-attachments/assets/99a72773-58c3-445b-a6c2-6f1c837e9c94
+[![Preview of Context Switching](../../assets/video-covers/computer-science/operating-systems/context-switching.jpg)](../../assets/videos/computer-science/operating-systems/context-switching.mp4)
 
-[Download context-switching.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/operating-systems/context-switching.mp4)
+[Open or download context-switching.mp4](../../assets/videos/computer-science/operating-systems/context-switching.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -59,11 +57,11 @@ https://github.com/user-attachments/assets/99a72773-58c3-445b-a6c2-6f1c837e9c94
 <a id="c22-a004"></a>
 ## CPU Scheduling
 
-`C22-A004` · **▶ Play video below**
+`C22-A004` · Video ready
 
-https://github.com/user-attachments/assets/e8379c6d-b424-45e1-8930-05a20a718f21
+[![Preview of CPU Scheduling](../../assets/video-covers/computer-science/operating-systems/cpu-scheduling.jpg)](../../assets/videos/computer-science/operating-systems/cpu-scheduling.mp4)
 
-[Download cpu-scheduling.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/operating-systems/cpu-scheduling.mp4)
+[Open or download cpu-scheduling.mp4](../../assets/videos/computer-science/operating-systems/cpu-scheduling.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -74,11 +72,11 @@ https://github.com/user-attachments/assets/e8379c6d-b424-45e1-8930-05a20a718f21
 <a id="c22-a005"></a>
 ## Virtual Memory Paging
 
-`C22-A005` · **▶ Play video below**
+`C22-A005` · Video ready
 
-https://github.com/user-attachments/assets/217de3d3-2af2-428f-8735-d582ca7292a6
+[![Preview of Virtual Memory Paging](../../assets/video-covers/computer-science/operating-systems/virtual-memory-paging.jpg)](../../assets/videos/computer-science/operating-systems/virtual-memory-paging.mp4)
 
-[Download virtual-memory-paging.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/operating-systems/virtual-memory-paging.mp4)
+[Open or download virtual-memory-paging.mp4](../../assets/videos/computer-science/operating-systems/virtual-memory-paging.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -89,11 +87,11 @@ https://github.com/user-attachments/assets/217de3d3-2af2-428f-8735-d582ca7292a6
 <a id="c22-a006"></a>
 ## Page-Table Address Translation
 
-`C22-A006` · **▶ Play video below**
+`C22-A006` · Video ready
 
-https://github.com/user-attachments/assets/aecf47c9-1cf8-42d1-8a8f-7f56cea390ad
+[![Preview of Page-Table Address Translation](../../assets/video-covers/computer-science/operating-systems/page-table-address-translation.jpg)](../../assets/videos/computer-science/operating-systems/page-table-address-translation.mp4)
 
-[Download page-table-address-translation.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/operating-systems/page-table-address-translation.mp4)
+[Open or download page-table-address-translation.mp4](../../assets/videos/computer-science/operating-systems/page-table-address-translation.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -104,11 +102,11 @@ https://github.com/user-attachments/assets/aecf47c9-1cf8-42d1-8a8f-7f56cea390ad
 <a id="c22-a007"></a>
 ## Page Replacement
 
-`C22-A007` · **▶ Play video below**
+`C22-A007` · Video ready
 
-https://github.com/user-attachments/assets/74ad220c-88d5-4723-933b-40cf26d0d05b
+[![Preview of Page Replacement](../../assets/video-covers/computer-science/operating-systems/page-replacement.jpg)](../../assets/videos/computer-science/operating-systems/page-replacement.mp4)
 
-[Download page-replacement.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/operating-systems/page-replacement.mp4)
+[Open or download page-replacement.mp4](../../assets/videos/computer-science/operating-systems/page-replacement.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -119,11 +117,11 @@ https://github.com/user-attachments/assets/74ad220c-88d5-4723-933b-40cf26d0d05b
 <a id="c22-a008"></a>
 ## Four Conditions for Deadlock
 
-`C22-A008` · **▶ Play video below**
+`C22-A008` · Video ready
 
-https://github.com/user-attachments/assets/ef031ab6-68f4-41f0-a5b2-5f835666dda0
+[![Preview of Four Conditions for Deadlock](../../assets/video-covers/computer-science/operating-systems/four-conditions-for-deadlock.jpg)](../../assets/videos/computer-science/operating-systems/four-conditions-for-deadlock.mp4)
 
-[Download four-conditions-for-deadlock.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/operating-systems/four-conditions-for-deadlock.mp4)
+[Open or download four-conditions-for-deadlock.mp4](../../assets/videos/computer-science/operating-systems/four-conditions-for-deadlock.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

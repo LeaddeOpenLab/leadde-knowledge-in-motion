@@ -7,18 +7,16 @@
 
 > **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)
 
-**Course download:** [Download all 16 videos as ZIP](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/download/course-videos-computer-science-cs50x/cs50x-videos.zip)
-
 ---
 
 <a id="c01-a001"></a>
 ## Pointer
 
-`C01-A001` · **▶ Play video below**
+`C01-A001` · Video ready
 
-https://github.com/user-attachments/assets/5d83efd1-a93e-4c8e-9b0d-59bdbacbad3d
+[![Preview of Pointer](../../assets/video-covers/computer-science/introduction-to-computer-science/pointer.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/pointer.mp4)
 
-[Download pointer.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/pointer.mp4)
+[Open or download pointer.mp4](../../assets/videos/computer-science/introduction-to-computer-science/pointer.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -29,11 +27,11 @@ https://github.com/user-attachments/assets/5d83efd1-a93e-4c8e-9b0d-59bdbacbad3d
 <a id="c01-a002"></a>
 ## Memory address
 
-`C01-A002` · **▶ Play video below**
+`C01-A002` · Video ready
 
-https://github.com/user-attachments/assets/bf504e53-5947-48f0-9c92-4075e8bb1e1b
+[![Preview of Memory address](../../assets/video-covers/computer-science/introduction-to-computer-science/memory-address.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/memory-address.mp4)
 
-[Download memory-address.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/memory-address.mp4)
+[Open or download memory-address.mp4](../../assets/videos/computer-science/introduction-to-computer-science/memory-address.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -44,11 +42,11 @@ https://github.com/user-attachments/assets/bf504e53-5947-48f0-9c92-4075e8bb1e1b
 <a id="c01-a003"></a>
 ## Memory layout
 
-`C01-A003` · **▶ Play video below**
+`C01-A003` · Video ready
 
-https://github.com/user-attachments/assets/142f1c47-add6-4151-bedc-6563c6194734
+[![Preview of Memory layout](../../assets/video-covers/computer-science/introduction-to-computer-science/memory-layout.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/memory-layout.mp4)
 
-[Download memory-layout.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/memory-layout.mp4)
+[Open or download memory-layout.mp4](../../assets/videos/computer-science/introduction-to-computer-science/memory-layout.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -59,11 +57,11 @@ https://github.com/user-attachments/assets/142f1c47-add6-4151-bedc-6563c6194734
 <a id="c01-a004"></a>
 ## Time complexity
 
-`C01-A004` · **▶ Play video below**
+`C01-A004` · Video ready
 
-https://github.com/user-attachments/assets/8645f636-26cd-44be-934c-4461b1171f5b
+[![Preview of Time complexity](../../assets/video-covers/computer-science/introduction-to-computer-science/time-complexity.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/time-complexity.mp4)
 
-[Download time-complexity.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/time-complexity.mp4)
+[Open or download time-complexity.mp4](../../assets/videos/computer-science/introduction-to-computer-science/time-complexity.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -74,11 +72,11 @@ https://github.com/user-attachments/assets/8645f636-26cd-44be-934c-4461b1171f5b
 <a id="c01-a005"></a>
 ## Algorithm growth rate
 
-`C01-A005` · **▶ Play video below**
+`C01-A005` · Video ready
 
-https://github.com/user-attachments/assets/e171ff6f-5ac8-40c2-93dc-2cd505f2fa73
+[![Preview of Algorithm growth rate](../../assets/video-covers/computer-science/introduction-to-computer-science/algorithm-growth-rate.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/algorithm-growth-rate.mp4)
 
-[Download algorithm-growth-rate.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/algorithm-growth-rate.mp4)
+[Open or download algorithm-growth-rate.mp4](../../assets/videos/computer-science/introduction-to-computer-science/algorithm-growth-rate.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -89,11 +87,11 @@ https://github.com/user-attachments/assets/e171ff6f-5ac8-40c2-93dc-2cd505f2fa73
 <a id="c01-a006"></a>
 ## Sorting process
 
-`C01-A006` · **▶ Play video below**
+`C01-A006` · Video ready
 
-https://github.com/user-attachments/assets/67eb3374-f198-4cda-9c72-34ae33fa36b5
+[![Preview of Sorting process](../../assets/video-covers/computer-science/introduction-to-computer-science/sorting-process.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/sorting-process.mp4)
 
-[Download sorting-process.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/sorting-process.mp4)
+[Open or download sorting-process.mp4](../../assets/videos/computer-science/introduction-to-computer-science/sorting-process.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -104,11 +102,11 @@ https://github.com/user-attachments/assets/67eb3374-f198-4cda-9c72-34ae33fa36b5
 <a id="c01-a007"></a>
 ## Binary search
 
-`C01-A007` · **▶ Play video below**
+`C01-A007` · Video ready
 
-https://github.com/user-attachments/assets/2399ba49-d336-46b8-9b2b-4a1bf8b89aa9
+[![Preview of Binary search](../../assets/video-covers/computer-science/introduction-to-computer-science/binary-search.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/binary-search.mp4)
 
-[Download binary-search.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/binary-search.mp4)
+[Open or download binary-search.mp4](../../assets/videos/computer-science/introduction-to-computer-science/binary-search.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -119,11 +117,11 @@ https://github.com/user-attachments/assets/2399ba49-d336-46b8-9b2b-4a1bf8b89aa9
 <a id="c01-a008"></a>
 ## Linked list
 
-`C01-A008` · **▶ Play video below**
+`C01-A008` · Video ready
 
-https://github.com/user-attachments/assets/0610742d-874d-4ad8-ac01-c1fc65763c51
+[![Preview of Linked list](../../assets/video-covers/computer-science/introduction-to-computer-science/linked-list.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/linked-list.mp4)
 
-[Download linked-list.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/linked-list.mp4)
+[Open or download linked-list.mp4](../../assets/videos/computer-science/introduction-to-computer-science/linked-list.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -134,11 +132,11 @@ https://github.com/user-attachments/assets/0610742d-874d-4ad8-ac01-c1fc65763c51
 <a id="c01-a009"></a>
 ## Tree structure
 
-`C01-A009` · **▶ Play video below**
+`C01-A009` · Video ready
 
-https://github.com/user-attachments/assets/85601696-dc1b-40d0-9b02-540900fa493b
+[![Preview of Tree structure](../../assets/video-covers/computer-science/introduction-to-computer-science/tree-structure.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/tree-structure.mp4)
 
-[Download tree-structure.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/tree-structure.mp4)
+[Open or download tree-structure.mp4](../../assets/videos/computer-science/introduction-to-computer-science/tree-structure.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -149,11 +147,11 @@ https://github.com/user-attachments/assets/85601696-dc1b-40d0-9b02-540900fa493b
 <a id="c01-a010"></a>
 ## Hash table
 
-`C01-A010` · **▶ Play video below**
+`C01-A010` · Video ready
 
-https://github.com/user-attachments/assets/f76bb668-6289-47ab-9a5e-60f65a130f81
+[![Preview of Hash table](../../assets/video-covers/computer-science/introduction-to-computer-science/hash-table.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/hash-table.mp4)
 
-[Download hash-table.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/hash-table.mp4)
+[Open or download hash-table.mp4](../../assets/videos/computer-science/introduction-to-computer-science/hash-table.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -164,11 +162,11 @@ https://github.com/user-attachments/assets/f76bb668-6289-47ab-9a5e-60f65a130f81
 <a id="c01-a011"></a>
 ## Relational model
 
-`C01-A011` · **▶ Play video below**
+`C01-A011` · Video ready
 
-https://github.com/user-attachments/assets/5958194d-e984-4005-84a5-fd2aa8cd710e
+[![Preview of Relational model](../../assets/video-covers/computer-science/introduction-to-computer-science/relational-model.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/relational-model.mp4)
 
-[Download relational-model.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/relational-model.mp4)
+[Open or download relational-model.mp4](../../assets/videos/computer-science/introduction-to-computer-science/relational-model.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -179,11 +177,11 @@ https://github.com/user-attachments/assets/5958194d-e984-4005-84a5-fd2aa8cd710e
 <a id="c01-a012"></a>
 ## SQL JOIN
 
-`C01-A012` · **▶ Play video below**
+`C01-A012` · Video ready
 
-https://github.com/user-attachments/assets/7429d9a6-5b3d-4e72-88e2-58f1436ef1e2
+[![Preview of SQL JOIN](../../assets/video-covers/computer-science/introduction-to-computer-science/sql-join.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/sql-join.mp4)
 
-[Download sql-join.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/sql-join.mp4)
+[Open or download sql-join.mp4](../../assets/videos/computer-science/introduction-to-computer-science/sql-join.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -194,11 +192,11 @@ https://github.com/user-attachments/assets/7429d9a6-5b3d-4e72-88e2-58f1436ef1e2
 <a id="c01-a013"></a>
 ## Stack vs. Heap
 
-`C01-A013` · **▶ Play video below**
+`C01-A013` · Video ready
 
-https://github.com/user-attachments/assets/750a83cf-b5a8-4740-8ec6-6f3ed9fb0acf
+[![Preview of Stack vs. Heap](../../assets/video-covers/computer-science/introduction-to-computer-science/stack-vs-heap.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/stack-vs-heap.mp4)
 
-[Download stack-vs-heap.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/stack-vs-heap.mp4)
+[Open or download stack-vs-heap.mp4](../../assets/videos/computer-science/introduction-to-computer-science/stack-vs-heap.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -209,11 +207,11 @@ https://github.com/user-attachments/assets/750a83cf-b5a8-4740-8ec6-6f3ed9fb0acf
 <a id="c01-a014"></a>
 ## Pointer Dereferencing
 
-`C01-A014` · **▶ Play video below**
+`C01-A014` · Video ready
 
-https://github.com/user-attachments/assets/939f789e-1dd1-4060-90ab-e7ddb26a9e4d
+[![Preview of Pointer Dereferencing](../../assets/video-covers/computer-science/introduction-to-computer-science/pointer-dereferencing.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/pointer-dereferencing.mp4)
 
-[Download pointer-dereferencing.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/pointer-dereferencing.mp4)
+[Open or download pointer-dereferencing.mp4](../../assets/videos/computer-science/introduction-to-computer-science/pointer-dereferencing.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -224,11 +222,11 @@ https://github.com/user-attachments/assets/939f789e-1dd1-4060-90ab-e7ddb26a9e4d
 <a id="c01-a015"></a>
 ## Pointer Arithmetic
 
-`C01-A015` · **▶ Play video below**
+`C01-A015` · Video ready
 
-https://github.com/user-attachments/assets/728836c2-2b4f-4158-a65f-20b0f5a90ac2
+[![Preview of Pointer Arithmetic](../../assets/video-covers/computer-science/introduction-to-computer-science/pointer-arithmetic.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/pointer-arithmetic.mp4)
 
-[Download pointer-arithmetic.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/pointer-arithmetic.mp4)
+[Open or download pointer-arithmetic.mp4](../../assets/videos/computer-science/introduction-to-computer-science/pointer-arithmetic.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -239,11 +237,11 @@ https://github.com/user-attachments/assets/728836c2-2b4f-4158-a65f-20b0f5a90ac2
 <a id="c01-a016"></a>
 ## Recursive Call Stack
 
-`C01-A016` · **▶ Play video below**
+`C01-A016` · Video ready
 
-https://github.com/user-attachments/assets/f778b6e3-38ab-4e7b-b96f-c3bb582c6412
+[![Preview of Recursive Call Stack](../../assets/video-covers/computer-science/introduction-to-computer-science/recursive-call-stack.jpg)](../../assets/videos/computer-science/introduction-to-computer-science/recursive-call-stack.mp4)
 
-[Download recursive-call-stack.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/computer-science/introduction-to-computer-science/recursive-call-stack.mp4)
+[Open or download recursive-call-stack.mp4](../../assets/videos/computer-science/introduction-to-computer-science/recursive-call-stack.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

@@ -12,11 +12,11 @@
 <a id="c32-a001"></a>
 ## Separable Differential Equations
 
-`C32-A001` · **▶ Play video below**
+`C32-A001` · Video ready
 
-https://github.com/user-attachments/assets/0dc25539-4a85-474f-9d02-153d59eb0372
+[![Preview of Separable Differential Equations](../../assets/video-covers/mathematics/ordinary-differential-equations/separable-differential-equations.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/separable-differential-equations.mp4)
 
-[Download separable-differential-equations.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/separable-differential-equations.mp4)
+[Open or download separable-differential-equations.mp4](../../assets/videos/mathematics/ordinary-differential-equations/separable-differential-equations.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -27,11 +27,11 @@ https://github.com/user-attachments/assets/0dc25539-4a85-474f-9d02-153d59eb0372
 <a id="c32-a002"></a>
 ## First-Order Linear Differential Equations
 
-`C32-A002` · **▶ Play video below**
+`C32-A002` · Video ready
 
-https://github.com/user-attachments/assets/71b0446f-e2bd-4c44-b04e-e90ea562b89f
+[![Preview of First-Order Linear Differential Equations](../../assets/video-covers/mathematics/ordinary-differential-equations/first-order-linear-differential-equations.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/first-order-linear-differential-equations.mp4)
 
-[Download first-order-linear-differential-equations.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/first-order-linear-differential-equations.mp4)
+[Open or download first-order-linear-differential-equations.mp4](../../assets/videos/mathematics/ordinary-differential-equations/first-order-linear-differential-equations.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -42,11 +42,11 @@ https://github.com/user-attachments/assets/71b0446f-e2bd-4c44-b04e-e90ea562b89f
 <a id="c32-a003"></a>
 ## Phase Line
 
-`C32-A003` · **▶ Play video below**
+`C32-A003` · Video ready
 
-https://github.com/user-attachments/assets/07e7fd66-308a-40a6-964a-ffdd06cfd928
+[![Preview of Phase Line](../../assets/video-covers/mathematics/ordinary-differential-equations/phase-line.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/phase-line.mp4)
 
-[Download phase-line.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/phase-line.mp4)
+[Open or download phase-line.mp4](../../assets/videos/mathematics/ordinary-differential-equations/phase-line.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -57,11 +57,11 @@ https://github.com/user-attachments/assets/07e7fd66-308a-40a6-964a-ffdd06cfd928
 <a id="c32-a004"></a>
 ## Stability of Equilibria
 
-`C32-A004` · **▶ Play video below**
+`C32-A004` · Video ready
 
-https://github.com/user-attachments/assets/d0a87a03-3ce3-44cc-968f-8196b7fc4e03
+[![Preview of Stability of Equilibria](../../assets/video-covers/mathematics/ordinary-differential-equations/stability-of-equilibria.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/stability-of-equilibria.mp4)
 
-[Download stability-of-equilibria.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/stability-of-equilibria.mp4)
+[Open or download stability-of-equilibria.mp4](../../assets/videos/mathematics/ordinary-differential-equations/stability-of-equilibria.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -72,11 +72,11 @@ https://github.com/user-attachments/assets/d0a87a03-3ce3-44cc-968f-8196b7fc4e03
 <a id="c32-a005"></a>
 ## Second-Order Homogeneous Equations
 
-`C32-A005` · **▶ Play video below**
+`C32-A005` · Video ready
 
-https://github.com/user-attachments/assets/7230ef6d-168d-4786-ba00-fdbad197ec9d
+[![Preview of Second-Order Homogeneous Equations](../../assets/video-covers/mathematics/ordinary-differential-equations/second-order-homogeneous-equations.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/second-order-homogeneous-equations.mp4)
 
-[Download second-order-homogeneous-equations.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/second-order-homogeneous-equations.mp4)
+[Open or download second-order-homogeneous-equations.mp4](../../assets/videos/mathematics/ordinary-differential-equations/second-order-homogeneous-equations.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -87,11 +87,11 @@ https://github.com/user-attachments/assets/7230ef6d-168d-4786-ba00-fdbad197ec9d
 <a id="c32-a006"></a>
 ## Forced Oscillation and Resonance
 
-`C32-A006` · **▶ Play video below**
+`C32-A006` · Video ready
 
-https://github.com/user-attachments/assets/2fe0a2cb-6d1b-42c0-adf1-151b1268794e
+[![Preview of Forced Oscillation and Resonance](../../assets/video-covers/mathematics/ordinary-differential-equations/forced-oscillation-and-resonance.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/forced-oscillation-and-resonance.mp4)
 
-[Download forced-oscillation-and-resonance.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/forced-oscillation-and-resonance.mp4)
+[Open or download forced-oscillation-and-resonance.mp4](../../assets/videos/mathematics/ordinary-differential-equations/forced-oscillation-and-resonance.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -102,11 +102,11 @@ https://github.com/user-attachments/assets/2fe0a2cb-6d1b-42c0-adf1-151b1268794e
 <a id="c32-a007"></a>
 ## Phase Portrait of an ODE System
 
-`C32-A007` · **▶ Play video below**
+`C32-A007` · Video ready
 
-https://github.com/user-attachments/assets/eede0422-cbd0-472b-bd8a-fc42e47ff1d3
+[![Preview of Phase Portrait of an ODE System](../../assets/video-covers/mathematics/ordinary-differential-equations/phase-portrait-of-an-ode-system.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/phase-portrait-of-an-ode-system.mp4)
 
-[Download phase-portrait-of-an-ode-system.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/phase-portrait-of-an-ode-system.mp4)
+[Open or download phase-portrait-of-an-ode-system.mp4](../../assets/videos/mathematics/ordinary-differential-equations/phase-portrait-of-an-ode-system.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -117,11 +117,11 @@ https://github.com/user-attachments/assets/eede0422-cbd0-472b-bd8a-fc42e47ff1d3
 <a id="c32-a008"></a>
 ## Euler's Method
 
-`C32-A008` · **▶ Play video below**
+`C32-A008` · Video ready
 
-https://github.com/user-attachments/assets/8c9704ee-38ae-43e6-99f4-eb663eed3060
+[![Preview of Euler's Method](../../assets/video-covers/mathematics/ordinary-differential-equations/euler-s-method.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/euler-s-method.mp4)
 
-[Download euler-s-method.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/ordinary-differential-equations/euler-s-method.mp4)
+[Open or download euler-s-method.mp4](../../assets/videos/mathematics/ordinary-differential-equations/euler-s-method.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

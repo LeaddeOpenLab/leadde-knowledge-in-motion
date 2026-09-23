@@ -14,7 +14,9 @@
 
 `C38-A001` · Video ready
 
-[Download combinational-propagation-delay.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/digital-electronics/digital-logic-design/combinational-propagation-delay.mp4)
+[![Preview of Combinational Propagation Delay](../../assets/video-covers/digital-electronics/digital-logic-design/combinational-propagation-delay.jpg)](../../assets/videos/digital-electronics/digital-logic-design/combinational-propagation-delay.mp4)
+
+[Open or download combinational-propagation-delay.mp4](../../assets/videos/digital-electronics/digital-logic-design/combinational-propagation-delay.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -27,7 +29,9 @@
 
 `C38-A002` · Video ready
 
-[Download edge-triggered-flip-flop.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/digital-electronics/digital-logic-design/edge-triggered-flip-flop.mp4)
+[![Preview of Edge-Triggered Flip-Flop](../../assets/video-covers/digital-electronics/digital-logic-design/edge-triggered-flip-flop.jpg)](../../assets/videos/digital-electronics/digital-logic-design/edge-triggered-flip-flop.mp4)
+
+[Open or download edge-triggered-flip-flop.mp4](../../assets/videos/digital-electronics/digital-logic-design/edge-triggered-flip-flop.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -40,7 +44,9 @@
 
 `C38-A003` · Video ready
 
-[Download finite-state-machine-transition.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/digital-electronics/digital-logic-design/finite-state-machine-transition.mp4)
+[![Preview of Finite State Machine Transition](../../assets/video-covers/digital-electronics/digital-logic-design/finite-state-machine-transition.jpg)](../../assets/videos/digital-electronics/digital-logic-design/finite-state-machine-transition.mp4)
+
+[Open or download finite-state-machine-transition.mp4](../../assets/videos/digital-electronics/digital-logic-design/finite-state-machine-transition.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -53,7 +59,9 @@
 
 `C38-A004` · Video ready
 
-[Download metastability.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/digital-electronics/digital-logic-design/metastability.mp4)
+[![Preview of Metastability](../../assets/video-covers/digital-electronics/digital-logic-design/metastability.jpg)](../../assets/videos/digital-electronics/digital-logic-design/metastability.mp4)
+
+[Open or download metastability.mp4](../../assets/videos/digital-electronics/digital-logic-design/metastability.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -66,7 +74,9 @@
 
 `C38-A005` · Video ready
 
-[Download shift-register.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/digital-electronics/digital-logic-design/shift-register.mp4)
+[![Preview of Shift Register](../../assets/video-covers/digital-electronics/digital-logic-design/shift-register.jpg)](../../assets/videos/digital-electronics/digital-logic-design/shift-register.mp4)
+
+[Open or download shift-register.mp4](../../assets/videos/digital-electronics/digital-logic-design/shift-register.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

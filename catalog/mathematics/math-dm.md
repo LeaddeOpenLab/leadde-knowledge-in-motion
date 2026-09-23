@@ -12,11 +12,11 @@
 <a id="c33-a001"></a>
 ## Propositional Logic Truth Tables
 
-`C33-A001` · **▶ Play video below**
+`C33-A001` · Video ready
 
-https://github.com/user-attachments/assets/389439a1-c3c0-43b5-9ebb-42b77b8e7eeb
+[![Preview of Propositional Logic Truth Tables](../../assets/video-covers/mathematics/discrete-mathematics/propositional-logic-truth-tables.jpg)](../../assets/videos/mathematics/discrete-mathematics/propositional-logic-truth-tables.mp4)
 
-[Download propositional-logic-truth-tables.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/discrete-mathematics/propositional-logic-truth-tables.mp4)
+[Open or download propositional-logic-truth-tables.mp4](../../assets/videos/mathematics/discrete-mathematics/propositional-logic-truth-tables.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -27,11 +27,11 @@ https://github.com/user-attachments/assets/389439a1-c3c0-43b5-9ebb-42b77b8e7eeb
 <a id="c33-a002"></a>
 ## Mathematical Induction
 
-`C33-A002` · **▶ Play video below**
+`C33-A002` · Video ready
 
-https://github.com/user-attachments/assets/fa9ddd61-e6f0-4355-9231-aba96cf45f1c
+[![Preview of Mathematical Induction](../../assets/video-covers/mathematics/discrete-mathematics/mathematical-induction.jpg)](../../assets/videos/mathematics/discrete-mathematics/mathematical-induction.mp4)
 
-[Download mathematical-induction.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/discrete-mathematics/mathematical-induction.mp4)
+[Open or download mathematical-induction.mp4](../../assets/videos/mathematics/discrete-mathematics/mathematical-induction.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -42,11 +42,11 @@ https://github.com/user-attachments/assets/fa9ddd61-e6f0-4355-9231-aba96cf45f1c
 <a id="c33-a003"></a>
 ## Set Operations
 
-`C33-A003` · **▶ Play video below**
+`C33-A003` · Video ready
 
-https://github.com/user-attachments/assets/e046660d-f196-4293-9924-0b1e68b3f0db
+[![Preview of Set Operations](../../assets/video-covers/mathematics/discrete-mathematics/set-operations.jpg)](../../assets/videos/mathematics/discrete-mathematics/set-operations.mp4)
 
-[Download set-operations.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/discrete-mathematics/set-operations.mp4)
+[Open or download set-operations.mp4](../../assets/videos/mathematics/discrete-mathematics/set-operations.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -57,11 +57,11 @@ https://github.com/user-attachments/assets/e046660d-f196-4293-9924-0b1e68b3f0db
 <a id="c33-a004"></a>
 ## Relations and Equivalence Classes
 
-`C33-A004` · **▶ Play video below**
+`C33-A004` · Video ready
 
-https://github.com/user-attachments/assets/cfd824cd-efc8-463a-a8c4-17d3a949ba07
+[![Preview of Relations and Equivalence Classes](../../assets/video-covers/mathematics/discrete-mathematics/relations-and-equivalence-classes.jpg)](../../assets/videos/mathematics/discrete-mathematics/relations-and-equivalence-classes.mp4)
 
-[Download relations-and-equivalence-classes.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/discrete-mathematics/relations-and-equivalence-classes.mp4)
+[Open or download relations-and-equivalence-classes.mp4](../../assets/videos/mathematics/discrete-mathematics/relations-and-equivalence-classes.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -72,11 +72,11 @@ https://github.com/user-attachments/assets/cfd824cd-efc8-463a-a8c4-17d3a949ba07
 <a id="c33-a005"></a>
 ## Permutations and Combinations
 
-`C33-A005` · **▶ Play video below**
+`C33-A005` · Video ready
 
-https://github.com/user-attachments/assets/aebd45d4-7c5e-47d3-a33f-91a5c0d38185
+[![Preview of Permutations and Combinations](../../assets/video-covers/mathematics/discrete-mathematics/permutations-and-combinations.jpg)](../../assets/videos/mathematics/discrete-mathematics/permutations-and-combinations.mp4)
 
-[Download permutations-and-combinations.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/discrete-mathematics/permutations-and-combinations.mp4)
+[Open or download permutations-and-combinations.mp4](../../assets/videos/mathematics/discrete-mathematics/permutations-and-combinations.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -87,11 +87,11 @@ https://github.com/user-attachments/assets/aebd45d4-7c5e-47d3-a33f-91a5c0d38185
 <a id="c33-a006"></a>
 ## Pigeonhole Principle
 
-`C33-A006` · **▶ Play video below**
+`C33-A006` · Video ready
 
-https://github.com/user-attachments/assets/b672a3c1-f946-4115-a0f7-8fb16cc9a7e7
+[![Preview of Pigeonhole Principle](../../assets/video-covers/mathematics/discrete-mathematics/pigeonhole-principle.jpg)](../../assets/videos/mathematics/discrete-mathematics/pigeonhole-principle.mp4)
 
-[Download pigeonhole-principle.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/discrete-mathematics/pigeonhole-principle.mp4)
+[Open or download pigeonhole-principle.mp4](../../assets/videos/mathematics/discrete-mathematics/pigeonhole-principle.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -102,11 +102,11 @@ https://github.com/user-attachments/assets/b672a3c1-f946-4115-a0f7-8fb16cc9a7e7
 <a id="c33-a007"></a>
 ## Recurrence Relations
 
-`C33-A007` · **▶ Play video below**
+`C33-A007` · Video ready
 
-https://github.com/user-attachments/assets/37c5458e-20ff-4a87-941a-c270359058a7
+[![Preview of Recurrence Relations](../../assets/video-covers/mathematics/discrete-mathematics/recurrence-relations.jpg)](../../assets/videos/mathematics/discrete-mathematics/recurrence-relations.mp4)
 
-[Download recurrence-relations.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/discrete-mathematics/recurrence-relations.mp4)
+[Open or download recurrence-relations.mp4](../../assets/videos/mathematics/discrete-mathematics/recurrence-relations.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -117,11 +117,11 @@ https://github.com/user-attachments/assets/37c5458e-20ff-4a87-941a-c270359058a7
 <a id="c33-a008"></a>
 ## Graph Connectivity
 
-`C33-A008` · **▶ Play video below**
+`C33-A008` · Video ready
 
-https://github.com/user-attachments/assets/b1afd6ce-b3d3-48d9-b2fd-229da46187eb
+[![Preview of Graph Connectivity](../../assets/video-covers/mathematics/discrete-mathematics/graph-connectivity.jpg)](../../assets/videos/mathematics/discrete-mathematics/graph-connectivity.mp4)
 
-[Download graph-connectivity.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/discrete-mathematics/graph-connectivity.mp4)
+[Open or download graph-connectivity.mp4](../../assets/videos/mathematics/discrete-mathematics/graph-connectivity.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

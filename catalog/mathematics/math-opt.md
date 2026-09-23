@@ -12,11 +12,11 @@
 <a id="c35-a001"></a>
 ## Convex Sets and Convex Functions
 
-`C35-A001` · **▶ Play video below**
+`C35-A001` · Video ready
 
-https://github.com/user-attachments/assets/e2e8de55-fd53-4be3-95c0-c5641799cd56
+[![Preview of Convex Sets and Convex Functions](../../assets/video-covers/mathematics/optimization-theory/convex-sets-and-convex-functions.jpg)](../../assets/videos/mathematics/optimization-theory/convex-sets-and-convex-functions.mp4)
 
-[Download convex-sets-and-convex-functions.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/convex-sets-and-convex-functions.mp4)
+[Open or download convex-sets-and-convex-functions.mp4](../../assets/videos/mathematics/optimization-theory/convex-sets-and-convex-functions.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -27,11 +27,11 @@ https://github.com/user-attachments/assets/e2e8de55-fd53-4be3-95c0-c5641799cd56
 <a id="c35-a002"></a>
 ## First-Order Optimality Conditions
 
-`C35-A002` · **▶ Play video below**
+`C35-A002` · Video ready
 
-https://github.com/user-attachments/assets/6512b5f2-d3a8-4fa6-bf70-3f2eae2d7492
+[![Preview of First-Order Optimality Conditions](../../assets/video-covers/mathematics/optimization-theory/first-order-optimality-conditions.jpg)](../../assets/videos/mathematics/optimization-theory/first-order-optimality-conditions.mp4)
 
-[Download first-order-optimality-conditions.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/first-order-optimality-conditions.mp4)
+[Open or download first-order-optimality-conditions.mp4](../../assets/videos/mathematics/optimization-theory/first-order-optimality-conditions.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -42,11 +42,11 @@ https://github.com/user-attachments/assets/6512b5f2-d3a8-4fa6-bf70-3f2eae2d7492
 <a id="c35-a003"></a>
 ## Second-Order Optimality Conditions
 
-`C35-A003` · **▶ Play video below**
+`C35-A003` · Video ready
 
-https://github.com/user-attachments/assets/fb33e330-65e7-4c5c-a7ee-5fc94c1b649b
+[![Preview of Second-Order Optimality Conditions](../../assets/video-covers/mathematics/optimization-theory/second-order-optimality-conditions.jpg)](../../assets/videos/mathematics/optimization-theory/second-order-optimality-conditions.mp4)
 
-[Download second-order-optimality-conditions.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/second-order-optimality-conditions.mp4)
+[Open or download second-order-optimality-conditions.mp4](../../assets/videos/mathematics/optimization-theory/second-order-optimality-conditions.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -57,11 +57,11 @@ https://github.com/user-attachments/assets/fb33e330-65e7-4c5c-a7ee-5fc94c1b649b
 <a id="c35-a004"></a>
 ## Gradient Descent Convergence
 
-`C35-A004` · **▶ Play video below**
+`C35-A004` · Video ready
 
-https://github.com/user-attachments/assets/11bfe2c6-c0ad-4835-8431-b1d42a6f4684
+[![Preview of Gradient Descent Convergence](../../assets/video-covers/mathematics/optimization-theory/gradient-descent-convergence.jpg)](../../assets/videos/mathematics/optimization-theory/gradient-descent-convergence.mp4)
 
-[Download gradient-descent-convergence.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/gradient-descent-convergence.mp4)
+[Open or download gradient-descent-convergence.mp4](../../assets/videos/mathematics/optimization-theory/gradient-descent-convergence.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -72,11 +72,11 @@ https://github.com/user-attachments/assets/11bfe2c6-c0ad-4835-8431-b1d42a6f4684
 <a id="c35-a005"></a>
 ## Newton's Method
 
-`C35-A005` · **▶ Play video below**
+`C35-A005` · Video ready
 
-https://github.com/user-attachments/assets/ded78c1b-f5a3-447d-9363-5d52ead463cc
+[![Preview of Newton's Method](../../assets/video-covers/mathematics/optimization-theory/newton-s-method.jpg)](../../assets/videos/mathematics/optimization-theory/newton-s-method.mp4)
 
-[Download newton-s-method.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/newton-s-method.mp4)
+[Open or download newton-s-method.mp4](../../assets/videos/mathematics/optimization-theory/newton-s-method.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -87,11 +87,11 @@ https://github.com/user-attachments/assets/ded78c1b-f5a3-447d-9363-5d52ead463cc
 <a id="c35-a006"></a>
 ## Lagrangian Duality
 
-`C35-A006` · **▶ Play video below**
+`C35-A006` · Video ready
 
-https://github.com/user-attachments/assets/587d3939-f01a-4b5e-b6d5-57cd26f46611
+[![Preview of Lagrangian Duality](../../assets/video-covers/mathematics/optimization-theory/lagrangian-duality.jpg)](../../assets/videos/mathematics/optimization-theory/lagrangian-duality.mp4)
 
-[Download lagrangian-duality.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/lagrangian-duality.mp4)
+[Open or download lagrangian-duality.mp4](../../assets/videos/mathematics/optimization-theory/lagrangian-duality.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -102,11 +102,11 @@ https://github.com/user-attachments/assets/587d3939-f01a-4b5e-b6d5-57cd26f46611
 <a id="c35-a007"></a>
 ## KKT Conditions
 
-`C35-A007` · **▶ Play video below**
+`C35-A007` · Video ready
 
-https://github.com/user-attachments/assets/1c5c7053-28da-440a-b8ee-1b0f48d4078d
+[![Preview of KKT Conditions](../../assets/video-covers/mathematics/optimization-theory/kkt-conditions.jpg)](../../assets/videos/mathematics/optimization-theory/kkt-conditions.mp4)
 
-[Download kkt-conditions.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/kkt-conditions.mp4)
+[Open or download kkt-conditions.mp4](../../assets/videos/mathematics/optimization-theory/kkt-conditions.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -117,11 +117,11 @@ https://github.com/user-attachments/assets/1c5c7053-28da-440a-b8ee-1b0f48d4078d
 <a id="c35-a008"></a>
 ## Projected Gradient Method
 
-`C35-A008` · **▶ Play video below**
+`C35-A008` · Video ready
 
-https://github.com/user-attachments/assets/36dc0913-1fbd-46eb-a42a-424aa57b04e2
+[![Preview of Projected Gradient Method](../../assets/video-covers/mathematics/optimization-theory/projected-gradient-method.jpg)](../../assets/videos/mathematics/optimization-theory/projected-gradient-method.mp4)
 
-[Download projected-gradient-method.mp4](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/raw/refs/heads/main/assets/videos/mathematics/optimization-theory/projected-gradient-method.mp4)
+[Open or download projected-gradient-method.mp4](../../assets/videos/mathematics/optimization-theory/projected-gradient-method.mp4)
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
