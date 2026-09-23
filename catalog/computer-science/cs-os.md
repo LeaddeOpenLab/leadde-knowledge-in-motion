@@ -16,7 +16,9 @@
 
 `C22-A001` · Video ready
 
-[![Preview of Processes and Threads](../../assets/video-covers/computer-science/operating-systems/processes-and-threads.jpg)](../../assets/videos/computer-science/operating-systems/processes-and-threads.mp4)
+[![Preview of Processes and Threads](../../assets/video-covers/computer-science/operating-systems/processes-and-threads.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a001)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a001)
 
 [Open or download processes-and-threads.mp4](../../assets/videos/computer-science/operating-systems/processes-and-threads.mp4)
 
@@ -31,7 +33,9 @@
 
 `C22-A002` · Video ready
 
-[![Preview of Process State Transitions](../../assets/video-covers/computer-science/operating-systems/process-state-transitions.jpg)](../../assets/videos/computer-science/operating-systems/process-state-transitions.mp4)
+[![Preview of Process State Transitions](../../assets/video-covers/computer-science/operating-systems/process-state-transitions.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a002)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a002)
 
 [Open or download process-state-transitions.mp4](../../assets/videos/computer-science/operating-systems/process-state-transitions.mp4)
 
@@ -46,7 +50,9 @@
 
 `C22-A003` · Video ready
 
-[![Preview of Context Switching](../../assets/video-covers/computer-science/operating-systems/context-switching.jpg)](../../assets/videos/computer-science/operating-systems/context-switching.mp4)
+[![Preview of Context Switching](../../assets/video-covers/computer-science/operating-systems/context-switching.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a003)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a003)
 
 [Open or download context-switching.mp4](../../assets/videos/computer-science/operating-systems/context-switching.mp4)
 
@@ -61,7 +67,9 @@
 
 `C22-A004` · Video ready
 
-[![Preview of CPU Scheduling](../../assets/video-covers/computer-science/operating-systems/cpu-scheduling.jpg)](../../assets/videos/computer-science/operating-systems/cpu-scheduling.mp4)
+[![Preview of CPU Scheduling](../../assets/video-covers/computer-science/operating-systems/cpu-scheduling.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a004)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a004)
 
 [Open or download cpu-scheduling.mp4](../../assets/videos/computer-science/operating-systems/cpu-scheduling.mp4)
 
@@ -76,7 +84,9 @@
 
 `C22-A005` · Video ready
 
-[![Preview of Virtual Memory Paging](../../assets/video-covers/computer-science/operating-systems/virtual-memory-paging.jpg)](../../assets/videos/computer-science/operating-systems/virtual-memory-paging.mp4)
+[![Preview of Virtual Memory Paging](../../assets/video-covers/computer-science/operating-systems/virtual-memory-paging.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a005)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a005)
 
 [Open or download virtual-memory-paging.mp4](../../assets/videos/computer-science/operating-systems/virtual-memory-paging.mp4)
 
@@ -91,7 +101,9 @@
 
 `C22-A006` · Video ready
 
-[![Preview of Page-Table Address Translation](../../assets/video-covers/computer-science/operating-systems/page-table-address-translation.jpg)](../../assets/videos/computer-science/operating-systems/page-table-address-translation.mp4)
+[![Preview of Page-Table Address Translation](../../assets/video-covers/computer-science/operating-systems/page-table-address-translation.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a006)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a006)
 
 [Open or download page-table-address-translation.mp4](../../assets/videos/computer-science/operating-systems/page-table-address-translation.mp4)
 
@@ -106,7 +118,9 @@
 
 `C22-A007` · Video ready
 
-[![Preview of Page Replacement](../../assets/video-covers/computer-science/operating-systems/page-replacement.jpg)](../../assets/videos/computer-science/operating-systems/page-replacement.mp4)
+[![Preview of Page Replacement](../../assets/video-covers/computer-science/operating-systems/page-replacement.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a007)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a007)
 
 [Open or download page-replacement.mp4](../../assets/videos/computer-science/operating-systems/page-replacement.mp4)
 
@@ -121,7 +135,9 @@
 
 `C22-A008` · Video ready
 
-[![Preview of Four Conditions for Deadlock](../../assets/video-covers/computer-science/operating-systems/four-conditions-for-deadlock.jpg)](../../assets/videos/computer-science/operating-systems/four-conditions-for-deadlock.mp4)
+[![Preview of Four Conditions for Deadlock](../../assets/video-covers/computer-science/operating-systems/four-conditions-for-deadlock.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a008)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Operating+Systems#c22-a008)
 
 [Open or download four-conditions-for-deadlock.mp4](../../assets/videos/computer-science/operating-systems/four-conditions-for-deadlock.mp4)
 

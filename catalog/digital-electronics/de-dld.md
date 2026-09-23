@@ -14,7 +14,9 @@
 
 `C38-A001` · Video ready
 
-[![Preview of Combinational Propagation Delay](../../assets/video-covers/digital-electronics/digital-logic-design/combinational-propagation-delay.jpg)](../../assets/videos/digital-electronics/digital-logic-design/combinational-propagation-delay.mp4)
+[![Preview of Combinational Propagation Delay](../../assets/video-covers/digital-electronics/digital-logic-design/combinational-propagation-delay.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=Digital+Logic+Design#c38-a001)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=Digital+Logic+Design#c38-a001)
 
 [Open or download combinational-propagation-delay.mp4](../../assets/videos/digital-electronics/digital-logic-design/combinational-propagation-delay.mp4)
 
@@ -29,7 +31,9 @@
 
 `C38-A002` · Video ready
 
-[![Preview of Edge-Triggered Flip-Flop](../../assets/video-covers/digital-electronics/digital-logic-design/edge-triggered-flip-flop.jpg)](../../assets/videos/digital-electronics/digital-logic-design/edge-triggered-flip-flop.mp4)
+[![Preview of Edge-Triggered Flip-Flop](../../assets/video-covers/digital-electronics/digital-logic-design/edge-triggered-flip-flop.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=Digital+Logic+Design#c38-a002)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=Digital+Logic+Design#c38-a002)
 
 [Open or download edge-triggered-flip-flop.mp4](../../assets/videos/digital-electronics/digital-logic-design/edge-triggered-flip-flop.mp4)
 
@@ -44,7 +48,9 @@
 
 `C38-A003` · Video ready
 
-[![Preview of Finite State Machine Transition](../../assets/video-covers/digital-electronics/digital-logic-design/finite-state-machine-transition.jpg)](../../assets/videos/digital-electronics/digital-logic-design/finite-state-machine-transition.mp4)
+[![Preview of Finite State Machine Transition](../../assets/video-covers/digital-electronics/digital-logic-design/finite-state-machine-transition.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=Digital+Logic+Design#c38-a003)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=Digital+Logic+Design#c38-a003)
 
 [Open or download finite-state-machine-transition.mp4](../../assets/videos/digital-electronics/digital-logic-design/finite-state-machine-transition.mp4)
 
@@ -59,7 +65,9 @@
 
 `C38-A004` · Video ready
 
-[![Preview of Metastability](../../assets/video-covers/digital-electronics/digital-logic-design/metastability.jpg)](../../assets/videos/digital-electronics/digital-logic-design/metastability.mp4)
+[![Preview of Metastability](../../assets/video-covers/digital-electronics/digital-logic-design/metastability.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=Digital+Logic+Design#c38-a004)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=Digital+Logic+Design#c38-a004)
 
 [Open or download metastability.mp4](../../assets/videos/digital-electronics/digital-logic-design/metastability.mp4)
 
@@ -74,7 +82,9 @@
 
 `C38-A005` · Video ready
 
-[![Preview of Shift Register](../../assets/video-covers/digital-electronics/digital-logic-design/shift-register.jpg)](../../assets/videos/digital-electronics/digital-logic-design/shift-register.mp4)
+[![Preview of Shift Register](../../assets/video-covers/digital-electronics/digital-logic-design/shift-register.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=Digital+Logic+Design#c38-a005)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Digital+Electronics&course=Digital+Logic+Design#c38-a005)
 
 [Open or download shift-register.mp4](../../assets/videos/digital-electronics/digital-logic-design/shift-register.mp4)
 

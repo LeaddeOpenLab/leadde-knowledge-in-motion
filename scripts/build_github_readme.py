@@ -5,10 +5,12 @@ import json
 import re
 from collections import OrderedDict
 from pathlib import Path
+from urllib.parse import urlencode
 
 root = Path(__file__).resolve().parents[1]
 items = json.loads((root / "data/prompts.json").read_text(encoding="utf-8"))
 repository_url = "https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion"
+site_url = "https://leaddeopenlab.github.io/leadde-knowledge-in-motion/"
 
 library = OrderedDict()
 for item in items:
@@ -20,6 +22,9 @@ def slug(value):
 
 def course_page(first):
     return f"catalog/{slug(first['subject'])}/{slug(first['tags'][1])}.md"
+
+def player_url(item):
+    return f"{site_url}?{urlencode({'subject': item['subject'], 'course': item['course']})}#{item['id'].lower()}"
 
 def card(subject, courses):
     count = sum(len(prompts) for prompts in courses.values())
@@ -74,7 +79,8 @@ def write_course_page(subject, course, prompts):
             video = prompt["video"]
             cover = video.replace("assets/videos/", "assets/video-covers/").replace(".mp4", ".jpg")
             if (root / cover).is_file():
-                page_lines.extend([f"[![Preview of {prompt['title']}](../../{cover})](../../{video})", ""])
+                page_lines.extend([f"[![Preview of {prompt['title']}](../../{cover})]({player_url(prompt)})", ""])
+            page_lines.extend([f"[▶ Watch inline]({player_url(prompt)})", ""])
             page_lines.extend([f"[Open or download {Path(video).name}](../../{video})", ""])
         page_lines.extend([
             "> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)",
@@ -91,7 +97,7 @@ lines = [
     "",
     f"> An open educational animation and AI prompt library with **{len(items)} English prompts** across **{len(library)} disciplines** and **{course_count} courses**.",
     ">",
-    "> Browse knowledge points and open the current checked-in video from each course page.",
+    f"> [Watch the video library with inline playback →]({site_url})",
     ">",
     "> **Download videos: [Browse course ZIP bundles →](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/tag/course-video-downloads)**",
     ">",
@@ -141,8 +147,9 @@ for subject, courses in library.items():
         ])
         for index, prompt in enumerate(prompts, 1):
             video_ready = prompt.get("status") == "ready" and prompt.get("video")
-            marker = "▶ PLAY VIDEO" if prompt.get("player") else "▶ OPEN VIDEO" if video_ready else "VIDEO COMING SOON"
-            lines.append(f"{index}. [**{html.escape(prompt['title'])}**]({page}#{prompt['id'].lower()}) · `{prompt['id']}` · {marker}")
+            marker = "▶ PLAY VIDEO" if video_ready else "VIDEO COMING SOON"
+            target = player_url(prompt) if video_ready else f"{page}#{prompt['id'].lower()}"
+            lines.append(f"{index}. [**{html.escape(prompt['title'])}**]({target}) · `{prompt['id']}` · {marker}")
         lines.append("")
     lines.extend(["---", ""])
 
@@ -155,7 +162,7 @@ lines.extend([
     "assets/videos/<subject-slug>/<course-slug>/<prompt-slug>.mp4",
     "```",
     "",
-    "Then set the matching entry in `data/prompts.json` to `status: ready` and populate its repository `video` path. Course pages link directly to that checked-in MP4; do not reuse older GitHub attachment URLs as players.",
+    "Then set the matching entry in `data/prompts.json` to `status: ready` and populate its repository `video` path. The Pages player streams that checked-in MP4; course pages also keep a direct download link.",
     "",
     "Release ZIPs are separate copies. After changing a checked-in MP4, rebuild and replace its course bundle before announcing the update:",
     "",

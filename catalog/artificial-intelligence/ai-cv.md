@@ -16,7 +16,9 @@
 
 `C28-A001` · Video ready
 
-[![Preview of Image Convolution](../../assets/video-covers/artificial-intelligence/computer-vision/image-convolution.jpg)](../../assets/videos/artificial-intelligence/computer-vision/image-convolution.mp4)
+[![Preview of Image Convolution](../../assets/video-covers/artificial-intelligence/computer-vision/image-convolution.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a001)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a001)
 
 [Open or download image-convolution.mp4](../../assets/videos/artificial-intelligence/computer-vision/image-convolution.mp4)
 
@@ -31,7 +33,9 @@
 
 `C28-A002` · Video ready
 
-[![Preview of Edge Detection](../../assets/video-covers/artificial-intelligence/computer-vision/edge-detection.jpg)](../../assets/videos/artificial-intelligence/computer-vision/edge-detection.mp4)
+[![Preview of Edge Detection](../../assets/video-covers/artificial-intelligence/computer-vision/edge-detection.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a002)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a002)
 
 [Open or download edge-detection.mp4](../../assets/videos/artificial-intelligence/computer-vision/edge-detection.mp4)
 
@@ -46,7 +50,9 @@
 
 `C28-A003` · Video ready
 
-[![Preview of Padding and Stride](../../assets/video-covers/artificial-intelligence/computer-vision/padding-and-stride.jpg)](../../assets/videos/artificial-intelligence/computer-vision/padding-and-stride.mp4)
+[![Preview of Padding and Stride](../../assets/video-covers/artificial-intelligence/computer-vision/padding-and-stride.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a003)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a003)
 
 [Open or download padding-and-stride.mp4](../../assets/videos/artificial-intelligence/computer-vision/padding-and-stride.mp4)
 
@@ -61,7 +67,9 @@
 
 `C28-A004` · Video ready
 
-[![Preview of Pooling](../../assets/video-covers/artificial-intelligence/computer-vision/pooling.jpg)](../../assets/videos/artificial-intelligence/computer-vision/pooling.mp4)
+[![Preview of Pooling](../../assets/video-covers/artificial-intelligence/computer-vision/pooling.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a004)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a004)
 
 [Open or download pooling.mp4](../../assets/videos/artificial-intelligence/computer-vision/pooling.mp4)
 
@@ -76,7 +84,9 @@
 
 `C28-A005` · Video ready
 
-[![Preview of Receptive Field](../../assets/video-covers/artificial-intelligence/computer-vision/receptive-field.jpg)](../../assets/videos/artificial-intelligence/computer-vision/receptive-field.mp4)
+[![Preview of Receptive Field](../../assets/video-covers/artificial-intelligence/computer-vision/receptive-field.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a005)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a005)
 
 [Open or download receptive-field.mp4](../../assets/videos/artificial-intelligence/computer-vision/receptive-field.mp4)
 
@@ -91,7 +101,9 @@
 
 `C28-A006` · Video ready
 
-[![Preview of Intersection over Union and Non-Maximum Suppression](../../assets/video-covers/artificial-intelligence/computer-vision/intersection-over-union-and-non-maximum-suppression.jpg)](../../assets/videos/artificial-intelligence/computer-vision/intersection-over-union-and-non-maximum-suppression.mp4)
+[![Preview of Intersection over Union and Non-Maximum Suppression](../../assets/video-covers/artificial-intelligence/computer-vision/intersection-over-union-and-non-maximum-suppression.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a006)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a006)
 
 [Open or download intersection-over-union-and-non-maximum-suppression.mp4](../../assets/videos/artificial-intelligence/computer-vision/intersection-over-union-and-non-maximum-suppression.mp4)
 
@@ -106,7 +118,9 @@
 
 `C28-A007` · Video ready
 
-[![Preview of Semantic Segmentation](../../assets/video-covers/artificial-intelligence/computer-vision/semantic-segmentation.jpg)](../../assets/videos/artificial-intelligence/computer-vision/semantic-segmentation.mp4)
+[![Preview of Semantic Segmentation](../../assets/video-covers/artificial-intelligence/computer-vision/semantic-segmentation.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a007)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a007)
 
 [Open or download semantic-segmentation.mp4](../../assets/videos/artificial-intelligence/computer-vision/semantic-segmentation.mp4)
 
@@ -121,7 +135,9 @@
 
 `C28-A008` · Video ready
 
-[![Preview of Image Data Augmentation](../../assets/video-covers/artificial-intelligence/computer-vision/image-data-augmentation.jpg)](../../assets/videos/artificial-intelligence/computer-vision/image-data-augmentation.mp4)
+[![Preview of Image Data Augmentation](../../assets/video-covers/artificial-intelligence/computer-vision/image-data-augmentation.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a008)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Computer+Vision#c28-a008)
 
 [Open or download image-data-augmentation.mp4](../../assets/videos/artificial-intelligence/computer-vision/image-data-augmentation.mp4)
 

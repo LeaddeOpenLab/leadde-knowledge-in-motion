@@ -16,7 +16,9 @@
 
 `C27-A001` · Video ready
 
-[![Preview of Text Tokenization](../../assets/video-covers/artificial-intelligence/natural-language-processing/text-tokenization.jpg)](../../assets/videos/artificial-intelligence/natural-language-processing/text-tokenization.mp4)
+[![Preview of Text Tokenization](../../assets/video-covers/artificial-intelligence/natural-language-processing/text-tokenization.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a001)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a001)
 
 [Open or download text-tokenization.mp4](../../assets/videos/artificial-intelligence/natural-language-processing/text-tokenization.mp4)
 
@@ -31,7 +33,9 @@
 
 `C27-A002` · Video ready
 
-[![Preview of N-Gram Language Model](../../assets/video-covers/artificial-intelligence/natural-language-processing/n-gram-language-model.jpg)](../../assets/videos/artificial-intelligence/natural-language-processing/n-gram-language-model.mp4)
+[![Preview of N-Gram Language Model](../../assets/video-covers/artificial-intelligence/natural-language-processing/n-gram-language-model.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a002)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a002)
 
 [Open or download n-gram-language-model.mp4](../../assets/videos/artificial-intelligence/natural-language-processing/n-gram-language-model.mp4)
 
@@ -46,7 +50,9 @@
 
 `C27-A003` · Video ready
 
-[![Preview of Word Embeddings](../../assets/video-covers/artificial-intelligence/natural-language-processing/word-embeddings.jpg)](../../assets/videos/artificial-intelligence/natural-language-processing/word-embeddings.mp4)
+[![Preview of Word Embeddings](../../assets/video-covers/artificial-intelligence/natural-language-processing/word-embeddings.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a003)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a003)
 
 [Open or download word-embeddings.mp4](../../assets/videos/artificial-intelligence/natural-language-processing/word-embeddings.mp4)
 
@@ -61,7 +67,9 @@
 
 `C27-A004` · Video ready
 
-[![Preview of Positional Encoding](../../assets/video-covers/artificial-intelligence/natural-language-processing/positional-encoding.jpg)](../../assets/videos/artificial-intelligence/natural-language-processing/positional-encoding.mp4)
+[![Preview of Positional Encoding](../../assets/video-covers/artificial-intelligence/natural-language-processing/positional-encoding.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a004)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a004)
 
 [Open or download positional-encoding.mp4](../../assets/videos/artificial-intelligence/natural-language-processing/positional-encoding.mp4)
 
@@ -76,7 +84,9 @@
 
 `C27-A005` · Video ready
 
-[![Preview of Self-Attention](../../assets/video-covers/artificial-intelligence/natural-language-processing/self-attention.jpg)](../../assets/videos/artificial-intelligence/natural-language-processing/self-attention.mp4)
+[![Preview of Self-Attention](../../assets/video-covers/artificial-intelligence/natural-language-processing/self-attention.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a005)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a005)
 
 [Open or download self-attention.mp4](../../assets/videos/artificial-intelligence/natural-language-processing/self-attention.mp4)
 
@@ -91,7 +101,9 @@
 
 `C27-A006` · Video ready
 
-[![Preview of Encoder-Decoder Architecture](../../assets/video-covers/artificial-intelligence/natural-language-processing/encoder-decoder-architecture.jpg)](../../assets/videos/artificial-intelligence/natural-language-processing/encoder-decoder-architecture.mp4)
+[![Preview of Encoder-Decoder Architecture](../../assets/video-covers/artificial-intelligence/natural-language-processing/encoder-decoder-architecture.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a006)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a006)
 
 [Open or download encoder-decoder-architecture.mp4](../../assets/videos/artificial-intelligence/natural-language-processing/encoder-decoder-architecture.mp4)
 
@@ -106,7 +118,9 @@
 
 `C27-A007` · Video ready
 
-[![Preview of Beam Search](../../assets/video-covers/artificial-intelligence/natural-language-processing/beam-search.jpg)](../../assets/videos/artificial-intelligence/natural-language-processing/beam-search.mp4)
+[![Preview of Beam Search](../../assets/video-covers/artificial-intelligence/natural-language-processing/beam-search.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a007)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a007)
 
 [Open or download beam-search.mp4](../../assets/videos/artificial-intelligence/natural-language-processing/beam-search.mp4)
 
@@ -121,7 +135,9 @@
 
 `C27-A008` · Video ready
 
-[![Preview of Retrieval-Augmented Generation](../../assets/video-covers/artificial-intelligence/natural-language-processing/retrieval-augmented-generation.jpg)](../../assets/videos/artificial-intelligence/natural-language-processing/retrieval-augmented-generation.mp4)
+[![Preview of Retrieval-Augmented Generation](../../assets/video-covers/artificial-intelligence/natural-language-processing/retrieval-augmented-generation.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a008)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Natural+Language+Processing#c27-a008)
 
 [Open or download retrieval-augmented-generation.mp4](../../assets/videos/artificial-intelligence/natural-language-processing/retrieval-augmented-generation.mp4)
 

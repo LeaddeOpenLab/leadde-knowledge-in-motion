@@ -14,7 +14,9 @@
 
 `C32-A001` · Video ready
 
-[![Preview of Separable Differential Equations](../../assets/video-covers/mathematics/ordinary-differential-equations/separable-differential-equations.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/separable-differential-equations.mp4)
+[![Preview of Separable Differential Equations](../../assets/video-covers/mathematics/ordinary-differential-equations/separable-differential-equations.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a001)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a001)
 
 [Open or download separable-differential-equations.mp4](../../assets/videos/mathematics/ordinary-differential-equations/separable-differential-equations.mp4)
 
@@ -29,7 +31,9 @@
 
 `C32-A002` · Video ready
 
-[![Preview of First-Order Linear Differential Equations](../../assets/video-covers/mathematics/ordinary-differential-equations/first-order-linear-differential-equations.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/first-order-linear-differential-equations.mp4)
+[![Preview of First-Order Linear Differential Equations](../../assets/video-covers/mathematics/ordinary-differential-equations/first-order-linear-differential-equations.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a002)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a002)
 
 [Open or download first-order-linear-differential-equations.mp4](../../assets/videos/mathematics/ordinary-differential-equations/first-order-linear-differential-equations.mp4)
 
@@ -44,7 +48,9 @@
 
 `C32-A003` · Video ready
 
-[![Preview of Phase Line](../../assets/video-covers/mathematics/ordinary-differential-equations/phase-line.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/phase-line.mp4)
+[![Preview of Phase Line](../../assets/video-covers/mathematics/ordinary-differential-equations/phase-line.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a003)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a003)
 
 [Open or download phase-line.mp4](../../assets/videos/mathematics/ordinary-differential-equations/phase-line.mp4)
 
@@ -59,7 +65,9 @@
 
 `C32-A004` · Video ready
 
-[![Preview of Stability of Equilibria](../../assets/video-covers/mathematics/ordinary-differential-equations/stability-of-equilibria.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/stability-of-equilibria.mp4)
+[![Preview of Stability of Equilibria](../../assets/video-covers/mathematics/ordinary-differential-equations/stability-of-equilibria.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a004)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a004)
 
 [Open or download stability-of-equilibria.mp4](../../assets/videos/mathematics/ordinary-differential-equations/stability-of-equilibria.mp4)
 
@@ -74,7 +82,9 @@
 
 `C32-A005` · Video ready
 
-[![Preview of Second-Order Homogeneous Equations](../../assets/video-covers/mathematics/ordinary-differential-equations/second-order-homogeneous-equations.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/second-order-homogeneous-equations.mp4)
+[![Preview of Second-Order Homogeneous Equations](../../assets/video-covers/mathematics/ordinary-differential-equations/second-order-homogeneous-equations.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a005)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a005)
 
 [Open or download second-order-homogeneous-equations.mp4](../../assets/videos/mathematics/ordinary-differential-equations/second-order-homogeneous-equations.mp4)
 
@@ -89,7 +99,9 @@
 
 `C32-A006` · Video ready
 
-[![Preview of Forced Oscillation and Resonance](../../assets/video-covers/mathematics/ordinary-differential-equations/forced-oscillation-and-resonance.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/forced-oscillation-and-resonance.mp4)
+[![Preview of Forced Oscillation and Resonance](../../assets/video-covers/mathematics/ordinary-differential-equations/forced-oscillation-and-resonance.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a006)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a006)
 
 [Open or download forced-oscillation-and-resonance.mp4](../../assets/videos/mathematics/ordinary-differential-equations/forced-oscillation-and-resonance.mp4)
 
@@ -104,7 +116,9 @@
 
 `C32-A007` · Video ready
 
-[![Preview of Phase Portrait of an ODE System](../../assets/video-covers/mathematics/ordinary-differential-equations/phase-portrait-of-an-ode-system.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/phase-portrait-of-an-ode-system.mp4)
+[![Preview of Phase Portrait of an ODE System](../../assets/video-covers/mathematics/ordinary-differential-equations/phase-portrait-of-an-ode-system.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a007)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a007)
 
 [Open or download phase-portrait-of-an-ode-system.mp4](../../assets/videos/mathematics/ordinary-differential-equations/phase-portrait-of-an-ode-system.mp4)
 
@@ -119,7 +133,9 @@
 
 `C32-A008` · Video ready
 
-[![Preview of Euler's Method](../../assets/video-covers/mathematics/ordinary-differential-equations/euler-s-method.jpg)](../../assets/videos/mathematics/ordinary-differential-equations/euler-s-method.mp4)
+[![Preview of Euler's Method](../../assets/video-covers/mathematics/ordinary-differential-equations/euler-s-method.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a008)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Mathematics&course=Ordinary+Differential+Equations#c32-a008)
 
 [Open or download euler-s-method.mp4](../../assets/videos/mathematics/ordinary-differential-equations/euler-s-method.mp4)
 

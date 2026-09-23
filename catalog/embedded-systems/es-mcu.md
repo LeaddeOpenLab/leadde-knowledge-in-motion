@@ -14,7 +14,9 @@
 
 `C36-A001` · Video ready
 
-[![Preview of Interrupt Entry and Return](../../assets/video-covers/embedded-systems/microcontroller-fundamentals/interrupt-entry-and-return.jpg)](../../assets/videos/embedded-systems/microcontroller-fundamentals/interrupt-entry-and-return.mp4)
+[![Preview of Interrupt Entry and Return](../../assets/video-covers/embedded-systems/microcontroller-fundamentals/interrupt-entry-and-return.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Embedded+Systems&course=Microcontroller+Fundamentals#c36-a001)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Embedded+Systems&course=Microcontroller+Fundamentals#c36-a001)
 
 [Open or download interrupt-entry-and-return.mp4](../../assets/videos/embedded-systems/microcontroller-fundamentals/interrupt-entry-and-return.mp4)
 
@@ -29,7 +31,9 @@
 
 `C36-A002` · Video ready
 
-[![Preview of Timer Overflow and Compare Match](../../assets/video-covers/embedded-systems/microcontroller-fundamentals/timer-overflow-and-compare-match.jpg)](../../assets/videos/embedded-systems/microcontroller-fundamentals/timer-overflow-and-compare-match.mp4)
+[![Preview of Timer Overflow and Compare Match](../../assets/video-covers/embedded-systems/microcontroller-fundamentals/timer-overflow-and-compare-match.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Embedded+Systems&course=Microcontroller+Fundamentals#c36-a002)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Embedded+Systems&course=Microcontroller+Fundamentals#c36-a002)
 
 [Open or download timer-overflow-and-compare-match.mp4](../../assets/videos/embedded-systems/microcontroller-fundamentals/timer-overflow-and-compare-match.mp4)
 
@@ -44,7 +48,9 @@
 
 `C36-A003` · Video ready
 
-[![Preview of DMA Data Transfer](../../assets/video-covers/embedded-systems/microcontroller-fundamentals/dma-data-transfer.jpg)](../../assets/videos/embedded-systems/microcontroller-fundamentals/dma-data-transfer.mp4)
+[![Preview of DMA Data Transfer](../../assets/video-covers/embedded-systems/microcontroller-fundamentals/dma-data-transfer.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Embedded+Systems&course=Microcontroller+Fundamentals#c36-a003)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Embedded+Systems&course=Microcontroller+Fundamentals#c36-a003)
 
 [Open or download dma-data-transfer.mp4](../../assets/videos/embedded-systems/microcontroller-fundamentals/dma-data-transfer.mp4)
 
@@ -59,7 +65,9 @@
 
 `C36-A004` · Video ready
 
-[![Preview of I²C Start, ACK and Stop](../../assets/video-covers/embedded-systems/microcontroller-fundamentals/i2c-start-ack-and-stop.jpg)](../../assets/videos/embedded-systems/microcontroller-fundamentals/i2c-start-ack-and-stop.mp4)
+[![Preview of I²C Start, ACK and Stop](../../assets/video-covers/embedded-systems/microcontroller-fundamentals/i2c-start-ack-and-stop.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Embedded+Systems&course=Microcontroller+Fundamentals#c36-a004)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Embedded+Systems&course=Microcontroller+Fundamentals#c36-a004)
 
 [Open or download i2c-start-ack-and-stop.mp4](../../assets/videos/embedded-systems/microcontroller-fundamentals/i2c-start-ack-and-stop.mp4)
 

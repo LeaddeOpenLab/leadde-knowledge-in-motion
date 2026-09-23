@@ -16,7 +16,9 @@
 
 `C26-A001` · Video ready
 
-[![Preview of Artificial Neuron](../../assets/video-covers/artificial-intelligence/deep-learning/artificial-neuron.jpg)](../../assets/videos/artificial-intelligence/deep-learning/artificial-neuron.mp4)
+[![Preview of Artificial Neuron](../../assets/video-covers/artificial-intelligence/deep-learning/artificial-neuron.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a001)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a001)
 
 [Open or download artificial-neuron.mp4](../../assets/videos/artificial-intelligence/deep-learning/artificial-neuron.mp4)
 
@@ -31,7 +33,9 @@
 
 `C26-A002` · Video ready
 
-[![Preview of Activation Functions](../../assets/video-covers/artificial-intelligence/deep-learning/activation-functions.jpg)](../../assets/videos/artificial-intelligence/deep-learning/activation-functions.mp4)
+[![Preview of Activation Functions](../../assets/video-covers/artificial-intelligence/deep-learning/activation-functions.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a002)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a002)
 
 [Open or download activation-functions.mp4](../../assets/videos/artificial-intelligence/deep-learning/activation-functions.mp4)
 
@@ -46,7 +50,9 @@
 
 `C26-A003` · Video ready
 
-[![Preview of Parameter Initialization](../../assets/video-covers/artificial-intelligence/deep-learning/parameter-initialization.jpg)](../../assets/videos/artificial-intelligence/deep-learning/parameter-initialization.mp4)
+[![Preview of Parameter Initialization](../../assets/video-covers/artificial-intelligence/deep-learning/parameter-initialization.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a003)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a003)
 
 [Open or download parameter-initialization.mp4](../../assets/videos/artificial-intelligence/deep-learning/parameter-initialization.mp4)
 
@@ -61,7 +67,9 @@
 
 `C26-A004` · Video ready
 
-[![Preview of Batch Normalization](../../assets/video-covers/artificial-intelligence/deep-learning/batch-normalization.jpg)](../../assets/videos/artificial-intelligence/deep-learning/batch-normalization.mp4)
+[![Preview of Batch Normalization](../../assets/video-covers/artificial-intelligence/deep-learning/batch-normalization.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a004)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a004)
 
 [Open or download batch-normalization.mp4](../../assets/videos/artificial-intelligence/deep-learning/batch-normalization.mp4)
 
@@ -76,7 +84,9 @@
 
 `C26-A005` · Video ready
 
-[![Preview of Dropout](../../assets/video-covers/artificial-intelligence/deep-learning/dropout.jpg)](../../assets/videos/artificial-intelligence/deep-learning/dropout.mp4)
+[![Preview of Dropout](../../assets/video-covers/artificial-intelligence/deep-learning/dropout.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a005)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a005)
 
 [Open or download dropout.mp4](../../assets/videos/artificial-intelligence/deep-learning/dropout.mp4)
 
@@ -91,7 +101,9 @@
 
 `C26-A006` · Video ready
 
-[![Preview of Convolutional Neural Network](../../assets/video-covers/artificial-intelligence/deep-learning/convolutional-neural-network.jpg)](../../assets/videos/artificial-intelligence/deep-learning/convolutional-neural-network.mp4)
+[![Preview of Convolutional Neural Network](../../assets/video-covers/artificial-intelligence/deep-learning/convolutional-neural-network.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a006)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a006)
 
 [Open or download convolutional-neural-network.mp4](../../assets/videos/artificial-intelligence/deep-learning/convolutional-neural-network.mp4)
 
@@ -106,7 +118,9 @@
 
 `C26-A007` · Video ready
 
-[![Preview of Vanishing Gradients in Recurrent Neural Networks](../../assets/video-covers/artificial-intelligence/deep-learning/vanishing-gradients-in-recurrent-neural-networks.jpg)](../../assets/videos/artificial-intelligence/deep-learning/vanishing-gradients-in-recurrent-neural-networks.mp4)
+[![Preview of Vanishing Gradients in Recurrent Neural Networks](../../assets/video-covers/artificial-intelligence/deep-learning/vanishing-gradients-in-recurrent-neural-networks.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a007)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a007)
 
 [Open or download vanishing-gradients-in-recurrent-neural-networks.mp4](../../assets/videos/artificial-intelligence/deep-learning/vanishing-gradients-in-recurrent-neural-networks.mp4)
 
@@ -121,7 +135,9 @@
 
 `C26-A008` · Video ready
 
-[![Preview of Attention Mechanism](../../assets/video-covers/artificial-intelligence/deep-learning/attention-mechanism.jpg)](../../assets/videos/artificial-intelligence/deep-learning/attention-mechanism.mp4)
+[![Preview of Attention Mechanism](../../assets/video-covers/artificial-intelligence/deep-learning/attention-mechanism.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a008)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Artificial+Intelligence&course=Deep+Learning#c26-a008)
 
 [Open or download attention-mechanism.mp4](../../assets/videos/artificial-intelligence/deep-learning/attention-mechanism.mp4)
 

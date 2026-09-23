@@ -16,7 +16,9 @@
 
 `C21-A001` · Video ready
 
-[![Preview of Two's Complement](../../assets/video-covers/computer-science/computer-organization-and-architecture/two-s-complement.jpg)](../../assets/videos/computer-science/computer-organization-and-architecture/two-s-complement.mp4)
+[![Preview of Two's Complement](../../assets/video-covers/computer-science/computer-organization-and-architecture/two-s-complement.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a001)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a001)
 
 [Open or download two-s-complement.mp4](../../assets/videos/computer-science/computer-organization-and-architecture/two-s-complement.mp4)
 
@@ -31,7 +33,9 @@
 
 `C21-A002` · Video ready
 
-[![Preview of Floating-Point Representation](../../assets/video-covers/computer-science/computer-organization-and-architecture/floating-point-representation.jpg)](../../assets/videos/computer-science/computer-organization-and-architecture/floating-point-representation.mp4)
+[![Preview of Floating-Point Representation](../../assets/video-covers/computer-science/computer-organization-and-architecture/floating-point-representation.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a002)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a002)
 
 [Open or download floating-point-representation.mp4](../../assets/videos/computer-science/computer-organization-and-architecture/floating-point-representation.mp4)
 
@@ -46,7 +50,9 @@
 
 `C21-A003` · Video ready
 
-[![Preview of Boolean Logic Gates](../../assets/video-covers/computer-science/computer-organization-and-architecture/boolean-logic-gates.jpg)](../../assets/videos/computer-science/computer-organization-and-architecture/boolean-logic-gates.mp4)
+[![Preview of Boolean Logic Gates](../../assets/video-covers/computer-science/computer-organization-and-architecture/boolean-logic-gates.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a003)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a003)
 
 [Open or download boolean-logic-gates.mp4](../../assets/videos/computer-science/computer-organization-and-architecture/boolean-logic-gates.mp4)
 
@@ -61,7 +67,9 @@
 
 `C21-A004` · Video ready
 
-[![Preview of Combinational Logic](../../assets/video-covers/computer-science/computer-organization-and-architecture/combinational-logic.jpg)](../../assets/videos/computer-science/computer-organization-and-architecture/combinational-logic.mp4)
+[![Preview of Combinational Logic](../../assets/video-covers/computer-science/computer-organization-and-architecture/combinational-logic.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a004)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a004)
 
 [Open or download combinational-logic.mp4](../../assets/videos/computer-science/computer-organization-and-architecture/combinational-logic.mp4)
 
@@ -76,7 +84,9 @@
 
 `C21-A005` · Video ready
 
-[![Preview of Sequential Logic and Clocks](../../assets/video-covers/computer-science/computer-organization-and-architecture/sequential-logic-and-clocks.jpg)](../../assets/videos/computer-science/computer-organization-and-architecture/sequential-logic-and-clocks.mp4)
+[![Preview of Sequential Logic and Clocks](../../assets/video-covers/computer-science/computer-organization-and-architecture/sequential-logic-and-clocks.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a005)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a005)
 
 [Open or download sequential-logic-and-clocks.mp4](../../assets/videos/computer-science/computer-organization-and-architecture/sequential-logic-and-clocks.mp4)
 
@@ -91,7 +101,9 @@
 
 `C21-A006` · Video ready
 
-[![Preview of CPU Fetch-Decode-Execute Cycle](../../assets/video-covers/computer-science/computer-organization-and-architecture/cpu-fetch-decode-execute-cycle.jpg)](../../assets/videos/computer-science/computer-organization-and-architecture/cpu-fetch-decode-execute-cycle.mp4)
+[![Preview of CPU Fetch-Decode-Execute Cycle](../../assets/video-covers/computer-science/computer-organization-and-architecture/cpu-fetch-decode-execute-cycle.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a006)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a006)
 
 [Open or download cpu-fetch-decode-execute-cycle.mp4](../../assets/videos/computer-science/computer-organization-and-architecture/cpu-fetch-decode-execute-cycle.mp4)
 
@@ -106,7 +118,9 @@
 
 `C21-A007` · Video ready
 
-[![Preview of Pipeline Hazards](../../assets/video-covers/computer-science/computer-organization-and-architecture/pipeline-hazards.jpg)](../../assets/videos/computer-science/computer-organization-and-architecture/pipeline-hazards.mp4)
+[![Preview of Pipeline Hazards](../../assets/video-covers/computer-science/computer-organization-and-architecture/pipeline-hazards.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a007)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a007)
 
 [Open or download pipeline-hazards.mp4](../../assets/videos/computer-science/computer-organization-and-architecture/pipeline-hazards.mp4)
 
@@ -121,7 +135,9 @@
 
 `C21-A008` · Video ready
 
-[![Preview of Cache Locality](../../assets/video-covers/computer-science/computer-organization-and-architecture/cache-locality.jpg)](../../assets/videos/computer-science/computer-organization-and-architecture/cache-locality.mp4)
+[![Preview of Cache Locality](../../assets/video-covers/computer-science/computer-organization-and-architecture/cache-locality.jpg)](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a008)
+
+[▶ Watch inline](https://leaddeopenlab.github.io/leadde-knowledge-in-motion/?subject=Computer+Science&course=Computer+Organization+and+Architecture#c21-a008)
 
 [Open or download cache-locality.mp4](../../assets/videos/computer-science/computer-organization-and-architecture/cache-locality.mp4)
 
