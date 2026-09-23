@@ -12,9 +12,7 @@
 <a id="c32-a001"></a>
 ## Separable Differential Equations
 
-`C32-A001` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/4c87ea25-9087-4ad8-a12a-65c65d4b4057
+`C32-A001` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -25,9 +23,7 @@ https://github.com/user-attachments/assets/4c87ea25-9087-4ad8-a12a-65c65d4b4057
 <a id="c32-a002"></a>
 ## First-Order Linear Differential Equations
 
-`C32-A002` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/0c7feead-67e5-4718-94da-88ecd060588f
+`C32-A002` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -38,9 +34,7 @@ https://github.com/user-attachments/assets/0c7feead-67e5-4718-94da-88ecd060588f
 <a id="c32-a003"></a>
 ## Phase Line
 
-`C32-A003` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/de9015df-5bf0-4ea8-bb2c-481a77423d6b
+`C32-A003` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -51,9 +45,7 @@ https://github.com/user-attachments/assets/de9015df-5bf0-4ea8-bb2c-481a77423d6b
 <a id="c32-a004"></a>
 ## Stability of Equilibria
 
-`C32-A004` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/a85d3b50-6a3d-47bd-819f-dbfb0ac216e8
+`C32-A004` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -64,9 +56,7 @@ https://github.com/user-attachments/assets/a85d3b50-6a3d-47bd-819f-dbfb0ac216e8
 <a id="c32-a005"></a>
 ## Second-Order Homogeneous Equations
 
-`C32-A005` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/534e0691-1936-4f5b-8deb-0c06d6cda752
+`C32-A005` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -77,9 +67,7 @@ https://github.com/user-attachments/assets/534e0691-1936-4f5b-8deb-0c06d6cda752
 <a id="c32-a006"></a>
 ## Forced Oscillation and Resonance
 
-`C32-A006` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/00774131-59cc-4f70-9de5-f102c73287e1
+`C32-A006` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -90,9 +78,7 @@ https://github.com/user-attachments/assets/00774131-59cc-4f70-9de5-f102c73287e1
 <a id="c32-a007"></a>
 ## Phase Portrait of an ODE System
 
-`C32-A007` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/f60856c9-54d6-4aba-83fa-6f10710a0229
+`C32-A007` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -103,9 +89,7 @@ https://github.com/user-attachments/assets/f60856c9-54d6-4aba-83fa-6f10710a0229
 <a id="c32-a008"></a>
 ## Euler's Method
 
-`C32-A008` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/70337c45-71f8-4d76-96b3-48e21f25d21e
+`C32-A008` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

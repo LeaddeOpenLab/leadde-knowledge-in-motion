@@ -12,9 +12,7 @@
 <a id="c30-a001"></a>
 ## Autoencoder
 
-`C30-A001` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/db7b09c7-c3a6-4828-9422-59d08c48b973
+`C30-A001` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -25,9 +23,7 @@ https://github.com/user-attachments/assets/db7b09c7-c3a6-4828-9422-59d08c48b973
 <a id="c30-a002"></a>
 ## Variational Autoencoder Reparameterization
 
-`C30-A002` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/f2389773-fe1e-42a2-8d9b-ce33274d7945
+`C30-A002` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -38,9 +34,7 @@ https://github.com/user-attachments/assets/f2389773-fe1e-42a2-8d9b-ce33274d7945
 <a id="c30-a003"></a>
 ## Latent-Space Interpolation
 
-`C30-A003` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/679ff532-2117-4838-a448-136a10d363f7
+`C30-A003` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -51,9 +45,7 @@ https://github.com/user-attachments/assets/679ff532-2117-4838-a448-136a10d363f7
 <a id="c30-a004"></a>
 ## Generative Adversarial Training
 
-`C30-A004` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/03b1f50c-69e9-41d7-b6dd-a9805177d22d
+`C30-A004` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -64,9 +56,7 @@ https://github.com/user-attachments/assets/03b1f50c-69e9-41d7-b6dd-a9805177d22d
 <a id="c30-a005"></a>
 ## Mode Collapse
 
-`C30-A005` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/f0ce1ae6-7ccb-41cb-bcad-aab0240efb1f
+`C30-A005` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -77,9 +67,7 @@ https://github.com/user-attachments/assets/f0ce1ae6-7ccb-41cb-bcad-aab0240efb1f
 <a id="c30-a006"></a>
 ## Diffusion Forward Noising
 
-`C30-A006` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/3673f433-858e-437a-9442-f8370c2f2a37
+`C30-A006` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -90,9 +78,7 @@ https://github.com/user-attachments/assets/3673f433-858e-437a-9442-f8370c2f2a37
 <a id="c30-a007"></a>
 ## Diffusion Reverse Denoising
 
-`C30-A007` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/633597a5-29a7-448c-8383-b5204dcec032
+`C30-A007` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -103,9 +89,7 @@ https://github.com/user-attachments/assets/633597a5-29a7-448c-8383-b5204dcec032
 <a id="c30-a008"></a>
 ## Classifier-Free Guidance
 
-`C30-A008` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/4b37e14b-2701-40d4-b1ff-53b271d0a39c
+`C30-A008` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

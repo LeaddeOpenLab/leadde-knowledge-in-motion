@@ -12,9 +12,7 @@
 <a id="c21-a001"></a>
 ## Two's Complement
 
-`C21-A001` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/c24f90f1-3ebd-4bd3-a3cd-4f8e04e0693e
+`C21-A001` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -25,9 +23,7 @@ https://github.com/user-attachments/assets/c24f90f1-3ebd-4bd3-a3cd-4f8e04e0693e
 <a id="c21-a002"></a>
 ## Floating-Point Representation
 
-`C21-A002` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/1e6b7c19-34da-4542-993f-6ccbea0caaa1
+`C21-A002` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -38,9 +34,7 @@ https://github.com/user-attachments/assets/1e6b7c19-34da-4542-993f-6ccbea0caaa1
 <a id="c21-a003"></a>
 ## Boolean Logic Gates
 
-`C21-A003` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/26887920-f27c-491a-8565-5cdb0831c98b
+`C21-A003` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -51,9 +45,7 @@ https://github.com/user-attachments/assets/26887920-f27c-491a-8565-5cdb0831c98b
 <a id="c21-a004"></a>
 ## Combinational Logic
 
-`C21-A004` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/bddca0e7-dc0b-4c7d-85bb-6b3fbbf5fc59
+`C21-A004` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -64,9 +56,7 @@ https://github.com/user-attachments/assets/bddca0e7-dc0b-4c7d-85bb-6b3fbbf5fc59
 <a id="c21-a005"></a>
 ## Sequential Logic and Clocks
 
-`C21-A005` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/04fdd7fd-52bd-49ee-8e06-24b26deb83d3
+`C21-A005` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -77,9 +67,7 @@ https://github.com/user-attachments/assets/04fdd7fd-52bd-49ee-8e06-24b26deb83d3
 <a id="c21-a006"></a>
 ## CPU Fetch-Decode-Execute Cycle
 
-`C21-A006` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/4b8891be-256a-4cf3-a7e7-ead078936b31
+`C21-A006` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -90,9 +78,7 @@ https://github.com/user-attachments/assets/4b8891be-256a-4cf3-a7e7-ead078936b31
 <a id="c21-a007"></a>
 ## Pipeline Hazards
 
-`C21-A007` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/69403b36-47c3-4d74-a073-bfabb7698f8f
+`C21-A007` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 
@@ -103,9 +89,7 @@ https://github.com/user-attachments/assets/69403b36-47c3-4d74-a073-bfabb7698f8f
 <a id="c21-a008"></a>
 ## Cache Locality
 
-`C21-A008` · **▶ Play video below**
-
-https://github.com/user-attachments/assets/c1113e24-9dad-4afd-95dc-1eeb6fc85199
+`C21-A008` · Native playback pending
 
 > **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)
 

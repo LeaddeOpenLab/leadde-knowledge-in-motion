@@ -54,16 +54,14 @@ def write_course_page(subject, course, prompts):
     ]
     page_lines.extend(["---", ""])
     for prompt in prompts:
-        video_ready = prompt.get("status") == "ready" and prompt.get("player")
+        video_ready = prompt.get("status") == "ready" and prompt.get("video")
         page_lines.extend([
             f'<a id="{prompt["id"].lower()}"></a>',
             f"## {prompt['title']}",
             "",
-            f"`{prompt['id']}` · " + ("**▶ Play video below**" if video_ready else "Video coming soon"),
+            f"`{prompt['id']}` · " + ("Native playback pending" if video_ready else "Video coming soon"),
             "",
         ])
-        if video_ready:
-            page_lines.extend([prompt["player"], ""])
         page_lines.extend([
             "> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)",
             "",
@@ -79,7 +77,7 @@ lines = [
     "",
     f"> An open educational animation and AI prompt library with **{len(items)} English prompts** across **{len(library)} disciplines** and **{course_count} courses**.",
     ">",
-    "> Browse knowledge points and play finished videos directly with GitHub's native video player.",
+    "> Browse knowledge points by discipline and course. Native video playback will return after the current attachments render publicly.",
     ">",
     "> **Watch the concept. Reuse the prompt. [Create your own animation with Leadde →](https://leadde.ai/animation)**",
     "",
@@ -127,7 +125,7 @@ for subject, courses in library.items():
         ])
         for index, prompt in enumerate(prompts, 1):
             video_ready = prompt.get("status") == "ready" and prompt.get("video")
-            marker = "▶ PLAY VIDEO" if prompt.get("player") else "▶ OPEN VIDEO" if video_ready else "VIDEO COMING SOON"
+            marker = "NATIVE PLAYBACK PENDING" if video_ready else "VIDEO COMING SOON"
             lines.append(f"{index}. [**{html.escape(prompt['title'])}**]({page}#{prompt['id'].lower()}) · `{prompt['id']}` · {marker}")
         lines.append("")
     lines.extend(["---", ""])
@@ -141,7 +139,7 @@ lines.extend([
     "assets/videos/<subject-slug>/<course-slug>/<prompt-slug>.mp4",
     "```",
     "",
-    "Then set the matching entry in `data/prompts.json` to `status: ready`, populate its repository `video` path, and add the matching public GitHub attachment URL as `player`. Keep the attachment referenced in the public repository. Its URL on a line by itself renders as GitHub's native video player.",
+    "Then set the matching entry in `data/prompts.json` to `status: ready`, populate its repository `video` path, and add the matching GitHub attachment URL as `player` only after it renders as a native player on the public course page.",
     "",
     "To refresh the prompt catalog from the source spreadsheet, run:",
     "",
