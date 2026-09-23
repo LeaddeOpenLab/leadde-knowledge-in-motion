@@ -2,9 +2,7 @@
 
 > An open educational animation and AI prompt library with **388 English prompts** across **17 disciplines** and **39 courses**.
 >
-> Browse knowledge points and open the current checked-in video from each course page.
->
-> **Download videos: [Browse course ZIP bundles →](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/tag/course-video-downloads)**
+> Browse knowledge points and play finished videos directly with GitHub's native video player.
 >
 > **Watch the concept. Reuse the prompt. [Create your own animation with Leadde →](https://leadde.ai/animation)**
 
@@ -153,22 +151,22 @@
 
 #### Knowledge points
 
-1. [**Pointer**](catalog/computer-science/cs50x.md#c01-a001) · `C01-A001` · ▶ OPEN VIDEO
-2. [**Memory address**](catalog/computer-science/cs50x.md#c01-a002) · `C01-A002` · ▶ OPEN VIDEO
-3. [**Memory layout**](catalog/computer-science/cs50x.md#c01-a003) · `C01-A003` · ▶ OPEN VIDEO
-4. [**Time complexity**](catalog/computer-science/cs50x.md#c01-a004) · `C01-A004` · ▶ OPEN VIDEO
-5. [**Algorithm growth rate**](catalog/computer-science/cs50x.md#c01-a005) · `C01-A005` · ▶ OPEN VIDEO
-6. [**Sorting process**](catalog/computer-science/cs50x.md#c01-a006) · `C01-A006` · ▶ OPEN VIDEO
-7. [**Binary search**](catalog/computer-science/cs50x.md#c01-a007) · `C01-A007` · ▶ OPEN VIDEO
-8. [**Linked list**](catalog/computer-science/cs50x.md#c01-a008) · `C01-A008` · ▶ OPEN VIDEO
-9. [**Tree structure**](catalog/computer-science/cs50x.md#c01-a009) · `C01-A009` · ▶ OPEN VIDEO
-10. [**Hash table**](catalog/computer-science/cs50x.md#c01-a010) · `C01-A010` · ▶ OPEN VIDEO
-11. [**Relational model**](catalog/computer-science/cs50x.md#c01-a011) · `C01-A011` · ▶ OPEN VIDEO
-12. [**SQL JOIN**](catalog/computer-science/cs50x.md#c01-a012) · `C01-A012` · ▶ OPEN VIDEO
-13. [**Stack vs. Heap**](catalog/computer-science/cs50x.md#c01-a013) · `C01-A013` · ▶ OPEN VIDEO
-14. [**Pointer Dereferencing**](catalog/computer-science/cs50x.md#c01-a014) · `C01-A014` · ▶ OPEN VIDEO
-15. [**Pointer Arithmetic**](catalog/computer-science/cs50x.md#c01-a015) · `C01-A015` · ▶ OPEN VIDEO
-16. [**Recursive Call Stack**](catalog/computer-science/cs50x.md#c01-a016) · `C01-A016` · ▶ OPEN VIDEO
+1. [**Pointer**](catalog/computer-science/cs50x.md#c01-a001) · `C01-A001` · ▶ PLAY VIDEO
+2. [**Memory address**](catalog/computer-science/cs50x.md#c01-a002) · `C01-A002` · ▶ PLAY VIDEO
+3. [**Memory layout**](catalog/computer-science/cs50x.md#c01-a003) · `C01-A003` · ▶ PLAY VIDEO
+4. [**Time complexity**](catalog/computer-science/cs50x.md#c01-a004) · `C01-A004` · ▶ PLAY VIDEO
+5. [**Algorithm growth rate**](catalog/computer-science/cs50x.md#c01-a005) · `C01-A005` · ▶ PLAY VIDEO
+6. [**Sorting process**](catalog/computer-science/cs50x.md#c01-a006) · `C01-A006` · ▶ PLAY VIDEO
+7. [**Binary search**](catalog/computer-science/cs50x.md#c01-a007) · `C01-A007` · ▶ PLAY VIDEO
+8. [**Linked list**](catalog/computer-science/cs50x.md#c01-a008) · `C01-A008` · ▶ PLAY VIDEO
+9. [**Tree structure**](catalog/computer-science/cs50x.md#c01-a009) · `C01-A009` · ▶ PLAY VIDEO
+10. [**Hash table**](catalog/computer-science/cs50x.md#c01-a010) · `C01-A010` · ▶ PLAY VIDEO
+11. [**Relational model**](catalog/computer-science/cs50x.md#c01-a011) · `C01-A011` · ▶ PLAY VIDEO
+12. [**SQL JOIN**](catalog/computer-science/cs50x.md#c01-a012) · `C01-A012` · ▶ PLAY VIDEO
+13. [**Stack vs. Heap**](catalog/computer-science/cs50x.md#c01-a013) · `C01-A013` · ▶ PLAY VIDEO
+14. [**Pointer Dereferencing**](catalog/computer-science/cs50x.md#c01-a014) · `C01-A014` · ▶ PLAY VIDEO
+15. [**Pointer Arithmetic**](catalog/computer-science/cs50x.md#c01-a015) · `C01-A015` · ▶ PLAY VIDEO
+16. [**Recursive Call Stack**](catalog/computer-science/cs50x.md#c01-a016) · `C01-A016` · ▶ PLAY VIDEO
 
 ### [Introduction to Algorithms](catalog/computer-science/6-006.md)
 
@@ -176,19 +174,19 @@
 
 #### Knowledge points
 
-1. [**Divide and conquer recursion**](catalog/computer-science/6-006.md#c02-a001) · `C02-A001` · ▶ OPEN VIDEO
-2. [**Recursive**](catalog/computer-science/6-006.md#c02-a002) · `C02-A002` · ▶ OPEN VIDEO
-3. [**Heap structure**](catalog/computer-science/6-006.md#c02-a003) · `C02-A003` · ▶ OPEN VIDEO
-4. [**Heap sort**](catalog/computer-science/6-006.md#c02-a004) · `C02-A004` · ▶ OPEN VIDEO
-5. [**Balanced binary search tree**](catalog/computer-science/6-006.md#c02-a005) · `C02-A005` · ▶ OPEN VIDEO
-6. [**Graph search**](catalog/computer-science/6-006.md#c02-a006) · `C02-A006` · ▶ OPEN VIDEO
-7. [**Shortest path**](catalog/computer-science/6-006.md#c02-a007) · `C02-A007` · ▶ OPEN VIDEO
-8. [**Dynamic programming status**](catalog/computer-science/6-006.md#c02-a008) · `C02-A008` · ▶ OPEN VIDEO
-9. [**Dynamic programming transfer**](catalog/computer-science/6-006.md#c02-a009) · `C02-A009` · ▶ OPEN VIDEO
-10. [**Quicksort Partitioning**](catalog/computer-science/6-006.md#c02-a010) · `C02-A010` · ▶ OPEN VIDEO
-11. [**Merge Step in Merge Sort**](catalog/computer-science/6-006.md#c02-a011) · `C02-A011` · ▶ OPEN VIDEO
-12. [**Union-Find Path Compression**](catalog/computer-science/6-006.md#c02-a012) · `C02-A012` · ▶ OPEN VIDEO
-13. [**Topological Sorting**](catalog/computer-science/6-006.md#c02-a013) · `C02-A013` · ▶ OPEN VIDEO
+1. [**Divide and conquer recursion**](catalog/computer-science/6-006.md#c02-a001) · `C02-A001` · ▶ PLAY VIDEO
+2. [**Recursive**](catalog/computer-science/6-006.md#c02-a002) · `C02-A002` · ▶ PLAY VIDEO
+3. [**Heap structure**](catalog/computer-science/6-006.md#c02-a003) · `C02-A003` · ▶ PLAY VIDEO
+4. [**Heap sort**](catalog/computer-science/6-006.md#c02-a004) · `C02-A004` · ▶ PLAY VIDEO
+5. [**Balanced binary search tree**](catalog/computer-science/6-006.md#c02-a005) · `C02-A005` · ▶ PLAY VIDEO
+6. [**Graph search**](catalog/computer-science/6-006.md#c02-a006) · `C02-A006` · ▶ PLAY VIDEO
+7. [**Shortest path**](catalog/computer-science/6-006.md#c02-a007) · `C02-A007` · ▶ PLAY VIDEO
+8. [**Dynamic programming status**](catalog/computer-science/6-006.md#c02-a008) · `C02-A008` · ▶ PLAY VIDEO
+9. [**Dynamic programming transfer**](catalog/computer-science/6-006.md#c02-a009) · `C02-A009` · ▶ PLAY VIDEO
+10. [**Quicksort Partitioning**](catalog/computer-science/6-006.md#c02-a010) · `C02-A010` · ▶ PLAY VIDEO
+11. [**Merge Step in Merge Sort**](catalog/computer-science/6-006.md#c02-a011) · `C02-A011` · ▶ PLAY VIDEO
+12. [**Union-Find Path Compression**](catalog/computer-science/6-006.md#c02-a012) · `C02-A012` · ▶ PLAY VIDEO
+13. [**Topological Sorting**](catalog/computer-science/6-006.md#c02-a013) · `C02-A013` · ▶ PLAY VIDEO
 
 ### [Computer Organization and Architecture](catalog/computer-science/cs-coa.md)
 
@@ -196,14 +194,14 @@
 
 #### Knowledge points
 
-1. [**Two&#x27;s Complement**](catalog/computer-science/cs-coa.md#c21-a001) · `C21-A001` · ▶ OPEN VIDEO
-2. [**Floating-Point Representation**](catalog/computer-science/cs-coa.md#c21-a002) · `C21-A002` · ▶ OPEN VIDEO
-3. [**Boolean Logic Gates**](catalog/computer-science/cs-coa.md#c21-a003) · `C21-A003` · ▶ OPEN VIDEO
-4. [**Combinational Logic**](catalog/computer-science/cs-coa.md#c21-a004) · `C21-A004` · ▶ OPEN VIDEO
-5. [**Sequential Logic and Clocks**](catalog/computer-science/cs-coa.md#c21-a005) · `C21-A005` · ▶ OPEN VIDEO
-6. [**CPU Fetch-Decode-Execute Cycle**](catalog/computer-science/cs-coa.md#c21-a006) · `C21-A006` · ▶ OPEN VIDEO
-7. [**Pipeline Hazards**](catalog/computer-science/cs-coa.md#c21-a007) · `C21-A007` · ▶ OPEN VIDEO
-8. [**Cache Locality**](catalog/computer-science/cs-coa.md#c21-a008) · `C21-A008` · ▶ OPEN VIDEO
+1. [**Two&#x27;s Complement**](catalog/computer-science/cs-coa.md#c21-a001) · `C21-A001` · ▶ PLAY VIDEO
+2. [**Floating-Point Representation**](catalog/computer-science/cs-coa.md#c21-a002) · `C21-A002` · ▶ PLAY VIDEO
+3. [**Boolean Logic Gates**](catalog/computer-science/cs-coa.md#c21-a003) · `C21-A003` · ▶ PLAY VIDEO
+4. [**Combinational Logic**](catalog/computer-science/cs-coa.md#c21-a004) · `C21-A004` · ▶ PLAY VIDEO
+5. [**Sequential Logic and Clocks**](catalog/computer-science/cs-coa.md#c21-a005) · `C21-A005` · ▶ PLAY VIDEO
+6. [**CPU Fetch-Decode-Execute Cycle**](catalog/computer-science/cs-coa.md#c21-a006) · `C21-A006` · ▶ PLAY VIDEO
+7. [**Pipeline Hazards**](catalog/computer-science/cs-coa.md#c21-a007) · `C21-A007` · ▶ PLAY VIDEO
+8. [**Cache Locality**](catalog/computer-science/cs-coa.md#c21-a008) · `C21-A008` · ▶ PLAY VIDEO
 
 ### [Operating Systems](catalog/computer-science/cs-os.md)
 
@@ -211,14 +209,14 @@
 
 #### Knowledge points
 
-1. [**Processes and Threads**](catalog/computer-science/cs-os.md#c22-a001) · `C22-A001` · ▶ OPEN VIDEO
-2. [**Process State Transitions**](catalog/computer-science/cs-os.md#c22-a002) · `C22-A002` · ▶ OPEN VIDEO
-3. [**Context Switching**](catalog/computer-science/cs-os.md#c22-a003) · `C22-A003` · ▶ OPEN VIDEO
-4. [**CPU Scheduling**](catalog/computer-science/cs-os.md#c22-a004) · `C22-A004` · ▶ OPEN VIDEO
-5. [**Virtual Memory Paging**](catalog/computer-science/cs-os.md#c22-a005) · `C22-A005` · ▶ OPEN VIDEO
-6. [**Page-Table Address Translation**](catalog/computer-science/cs-os.md#c22-a006) · `C22-A006` · ▶ OPEN VIDEO
-7. [**Page Replacement**](catalog/computer-science/cs-os.md#c22-a007) · `C22-A007` · ▶ OPEN VIDEO
-8. [**Four Conditions for Deadlock**](catalog/computer-science/cs-os.md#c22-a008) · `C22-A008` · ▶ OPEN VIDEO
+1. [**Processes and Threads**](catalog/computer-science/cs-os.md#c22-a001) · `C22-A001` · ▶ PLAY VIDEO
+2. [**Process State Transitions**](catalog/computer-science/cs-os.md#c22-a002) · `C22-A002` · ▶ PLAY VIDEO
+3. [**Context Switching**](catalog/computer-science/cs-os.md#c22-a003) · `C22-A003` · ▶ PLAY VIDEO
+4. [**CPU Scheduling**](catalog/computer-science/cs-os.md#c22-a004) · `C22-A004` · ▶ PLAY VIDEO
+5. [**Virtual Memory Paging**](catalog/computer-science/cs-os.md#c22-a005) · `C22-A005` · ▶ PLAY VIDEO
+6. [**Page-Table Address Translation**](catalog/computer-science/cs-os.md#c22-a006) · `C22-A006` · ▶ PLAY VIDEO
+7. [**Page Replacement**](catalog/computer-science/cs-os.md#c22-a007) · `C22-A007` · ▶ PLAY VIDEO
+8. [**Four Conditions for Deadlock**](catalog/computer-science/cs-os.md#c22-a008) · `C22-A008` · ▶ PLAY VIDEO
 
 ### [Computer Networks](catalog/computer-science/cs-net.md)
 
@@ -226,14 +224,14 @@
 
 #### Knowledge points
 
-1. [**OSI and TCP/IP Layers**](catalog/computer-science/cs-net.md#c23-a001) · `C23-A001` · ▶ OPEN VIDEO
-2. [**Packet Encapsulation**](catalog/computer-science/cs-net.md#c23-a002) · `C23-A002` · ▶ OPEN VIDEO
-3. [**Subnet Masks and CIDR**](catalog/computer-science/cs-net.md#c23-a003) · `C23-A003` · ▶ OPEN VIDEO
-4. [**Longest-Prefix Routing Match**](catalog/computer-science/cs-net.md#c23-a004) · `C23-A004` · ▶ OPEN VIDEO
-5. [**TCP Three-Way Handshake**](catalog/computer-science/cs-net.md#c23-a005) · `C23-A005` · ▶ OPEN VIDEO
-6. [**TCP Congestion Window**](catalog/computer-science/cs-net.md#c23-a006) · `C23-A006` · ▶ OPEN VIDEO
-7. [**DNS Resolution**](catalog/computer-science/cs-net.md#c23-a007) · `C23-A007` · ▶ OPEN VIDEO
-8. [**HTTP Request and Response**](catalog/computer-science/cs-net.md#c23-a008) · `C23-A008` · ▶ OPEN VIDEO
+1. [**OSI and TCP/IP Layers**](catalog/computer-science/cs-net.md#c23-a001) · `C23-A001` · ▶ PLAY VIDEO
+2. [**Packet Encapsulation**](catalog/computer-science/cs-net.md#c23-a002) · `C23-A002` · ▶ PLAY VIDEO
+3. [**Subnet Masks and CIDR**](catalog/computer-science/cs-net.md#c23-a003) · `C23-A003` · ▶ PLAY VIDEO
+4. [**Longest-Prefix Routing Match**](catalog/computer-science/cs-net.md#c23-a004) · `C23-A004` · ▶ PLAY VIDEO
+5. [**TCP Three-Way Handshake**](catalog/computer-science/cs-net.md#c23-a005) · `C23-A005` · ▶ PLAY VIDEO
+6. [**TCP Congestion Window**](catalog/computer-science/cs-net.md#c23-a006) · `C23-A006` · ▶ PLAY VIDEO
+7. [**DNS Resolution**](catalog/computer-science/cs-net.md#c23-a007) · `C23-A007` · ▶ PLAY VIDEO
+8. [**HTTP Request and Response**](catalog/computer-science/cs-net.md#c23-a008) · `C23-A008` · ▶ PLAY VIDEO
 
 ### [Database Systems](catalog/computer-science/cs-db.md)
 
@@ -241,14 +239,14 @@
 
 #### Knowledge points
 
-1. [**Entity-Relationship Model**](catalog/computer-science/cs-db.md#c24-a001) · `C24-A001` · ▶ OPEN VIDEO
-2. [**Primary and Foreign Keys**](catalog/computer-science/cs-db.md#c24-a002) · `C24-A002` · ▶ OPEN VIDEO
-3. [**Functional Dependencies**](catalog/computer-science/cs-db.md#c24-a003) · `C24-A003` · ▶ OPEN VIDEO
-4. [**Database Normalization**](catalog/computer-science/cs-db.md#c24-a004) · `C24-A004` · ▶ OPEN VIDEO
-5. [**B+ Tree Index**](catalog/computer-science/cs-db.md#c24-a005) · `C24-A005` · ▶ OPEN VIDEO
-6. [**ACID Transactions**](catalog/computer-science/cs-db.md#c24-a006) · `C24-A006` · ▶ OPEN VIDEO
-7. [**Concurrency Control and Locks**](catalog/computer-science/cs-db.md#c24-a007) · `C24-A007` · ▶ OPEN VIDEO
-8. [**Multiversion Concurrency Control**](catalog/computer-science/cs-db.md#c24-a008) · `C24-A008` · ▶ OPEN VIDEO
+1. [**Entity-Relationship Model**](catalog/computer-science/cs-db.md#c24-a001) · `C24-A001` · ▶ PLAY VIDEO
+2. [**Primary and Foreign Keys**](catalog/computer-science/cs-db.md#c24-a002) · `C24-A002` · ▶ PLAY VIDEO
+3. [**Functional Dependencies**](catalog/computer-science/cs-db.md#c24-a003) · `C24-A003` · ▶ PLAY VIDEO
+4. [**Database Normalization**](catalog/computer-science/cs-db.md#c24-a004) · `C24-A004` · ▶ PLAY VIDEO
+5. [**B+ Tree Index**](catalog/computer-science/cs-db.md#c24-a005) · `C24-A005` · ▶ PLAY VIDEO
+6. [**ACID Transactions**](catalog/computer-science/cs-db.md#c24-a006) · `C24-A006` · ▶ PLAY VIDEO
+7. [**Concurrency Control and Locks**](catalog/computer-science/cs-db.md#c24-a007) · `C24-A007` · ▶ PLAY VIDEO
+8. [**Multiversion Concurrency Control**](catalog/computer-science/cs-db.md#c24-a008) · `C24-A008` · ▶ PLAY VIDEO
 
 ### [Compiler Design](catalog/computer-science/cs-comp.md)
 
@@ -256,14 +254,14 @@
 
 #### Knowledge points
 
-1. [**Lexical Analysis and Tokens**](catalog/computer-science/cs-comp.md#c25-a001) · `C25-A001` · ▶ OPEN VIDEO
-2. [**Regular Expression to Finite Automaton**](catalog/computer-science/cs-comp.md#c25-a002) · `C25-A002` · ▶ OPEN VIDEO
-3. [**Context-Free Grammar**](catalog/computer-science/cs-comp.md#c25-a003) · `C25-A003` · ▶ OPEN VIDEO
-4. [**Abstract Syntax Tree**](catalog/computer-science/cs-comp.md#c25-a004) · `C25-A004` · ▶ OPEN VIDEO
-5. [**Recursive-Descent Parsing**](catalog/computer-science/cs-comp.md#c25-a005) · `C25-A005` · ▶ OPEN VIDEO
-6. [**Intermediate Representation**](catalog/computer-science/cs-comp.md#c25-a006) · `C25-A006` · ▶ OPEN VIDEO
-7. [**Data-Flow Analysis**](catalog/computer-science/cs-comp.md#c25-a007) · `C25-A007` · ▶ OPEN VIDEO
-8. [**Register Allocation**](catalog/computer-science/cs-comp.md#c25-a008) · `C25-A008` · ▶ OPEN VIDEO
+1. [**Lexical Analysis and Tokens**](catalog/computer-science/cs-comp.md#c25-a001) · `C25-A001` · ▶ PLAY VIDEO
+2. [**Regular Expression to Finite Automaton**](catalog/computer-science/cs-comp.md#c25-a002) · `C25-A002` · ▶ PLAY VIDEO
+3. [**Context-Free Grammar**](catalog/computer-science/cs-comp.md#c25-a003) · `C25-A003` · ▶ PLAY VIDEO
+4. [**Abstract Syntax Tree**](catalog/computer-science/cs-comp.md#c25-a004) · `C25-A004` · ▶ PLAY VIDEO
+5. [**Recursive-Descent Parsing**](catalog/computer-science/cs-comp.md#c25-a005) · `C25-A005` · ▶ PLAY VIDEO
+6. [**Intermediate Representation**](catalog/computer-science/cs-comp.md#c25-a006) · `C25-A006` · ▶ PLAY VIDEO
+7. [**Data-Flow Analysis**](catalog/computer-science/cs-comp.md#c25-a007) · `C25-A007` · ▶ PLAY VIDEO
+8. [**Register Allocation**](catalog/computer-science/cs-comp.md#c25-a008) · `C25-A008` · ▶ PLAY VIDEO
 
 ---
 
@@ -315,26 +313,26 @@
 
 #### Knowledge points
 
-1. [**Decision boundary**](catalog/artificial-intelligence/6-036.md#c03-a001) · `C03-A001` · ▶ OPEN VIDEO
-2. [**Feature space**](catalog/artificial-intelligence/6-036.md#c03-a002) · `C03-A002` · ▶ OPEN VIDEO
-3. [**Gradient descent**](catalog/artificial-intelligence/6-036.md#c03-a003) · `C03-A003` · ▶ OPEN VIDEO
-4. [**Loss of terrain**](catalog/artificial-intelligence/6-036.md#c03-a004) · `C03-A004` · ▶ OPEN VIDEO
-5. [**Overfitting**](catalog/artificial-intelligence/6-036.md#c03-a005) · `C03-A005` · ▶ OPEN VIDEO
-6. [**Underfitting**](catalog/artificial-intelligence/6-036.md#c03-a006) · `C03-A006` · ▶ OPEN VIDEO
-7. [**Model bias**](catalog/artificial-intelligence/6-036.md#c03-a007) · `C03-A007` · ▶ OPEN VIDEO
-8. [**Model variance**](catalog/artificial-intelligence/6-036.md#c03-a008) · `C03-A008` · ▶ OPEN VIDEO
-9. [**Backpropagation**](catalog/artificial-intelligence/6-036.md#c03-a009) · `C03-A009` · ▶ OPEN VIDEO
-10. [**Chain rule**](catalog/artificial-intelligence/6-036.md#c03-a010) · `C03-A010` · ▶ OPEN VIDEO
-11. [**Markov decision process**](catalog/artificial-intelligence/6-036.md#c03-a011) · `C03-A011` · ▶ OPEN VIDEO
-12. [**Value iteration**](catalog/artificial-intelligence/6-036.md#c03-a012) · `C03-A012` · ▶ OPEN VIDEO
-13. [**Linear Regression**](catalog/artificial-intelligence/6-036.md#c03-a013) · `C03-A013` · ▶ OPEN VIDEO
-14. [**Logistic Regression**](catalog/artificial-intelligence/6-036.md#c03-a014) · `C03-A014` · ▶ OPEN VIDEO
-15. [**Softmax Classification**](catalog/artificial-intelligence/6-036.md#c03-a015) · `C03-A015` · ▶ OPEN VIDEO
-16. [**K-Nearest Neighbors**](catalog/artificial-intelligence/6-036.md#c03-a016) · `C03-A016` · ▶ OPEN VIDEO
-17. [**Maximum-Margin Support Vector Machine**](catalog/artificial-intelligence/6-036.md#c03-a017) · `C03-A017` · ▶ OPEN VIDEO
-18. [**Decision-Tree Information Gain**](catalog/artificial-intelligence/6-036.md#c03-a018) · `C03-A018` · ▶ OPEN VIDEO
-19. [**K-Means Clustering**](catalog/artificial-intelligence/6-036.md#c03-a019) · `C03-A019` · ▶ OPEN VIDEO
-20. [**Principal Component Analysis**](catalog/artificial-intelligence/6-036.md#c03-a020) · `C03-A020` · ▶ OPEN VIDEO
+1. [**Decision boundary**](catalog/artificial-intelligence/6-036.md#c03-a001) · `C03-A001` · ▶ PLAY VIDEO
+2. [**Feature space**](catalog/artificial-intelligence/6-036.md#c03-a002) · `C03-A002` · ▶ PLAY VIDEO
+3. [**Gradient descent**](catalog/artificial-intelligence/6-036.md#c03-a003) · `C03-A003` · ▶ PLAY VIDEO
+4. [**Loss of terrain**](catalog/artificial-intelligence/6-036.md#c03-a004) · `C03-A004` · ▶ PLAY VIDEO
+5. [**Overfitting**](catalog/artificial-intelligence/6-036.md#c03-a005) · `C03-A005` · ▶ PLAY VIDEO
+6. [**Underfitting**](catalog/artificial-intelligence/6-036.md#c03-a006) · `C03-A006` · ▶ PLAY VIDEO
+7. [**Model bias**](catalog/artificial-intelligence/6-036.md#c03-a007) · `C03-A007` · ▶ PLAY VIDEO
+8. [**Model variance**](catalog/artificial-intelligence/6-036.md#c03-a008) · `C03-A008` · ▶ PLAY VIDEO
+9. [**Backpropagation**](catalog/artificial-intelligence/6-036.md#c03-a009) · `C03-A009` · ▶ PLAY VIDEO
+10. [**Chain rule**](catalog/artificial-intelligence/6-036.md#c03-a010) · `C03-A010` · ▶ PLAY VIDEO
+11. [**Markov decision process**](catalog/artificial-intelligence/6-036.md#c03-a011) · `C03-A011` · ▶ PLAY VIDEO
+12. [**Value iteration**](catalog/artificial-intelligence/6-036.md#c03-a012) · `C03-A012` · ▶ PLAY VIDEO
+13. [**Linear Regression**](catalog/artificial-intelligence/6-036.md#c03-a013) · `C03-A013` · ▶ PLAY VIDEO
+14. [**Logistic Regression**](catalog/artificial-intelligence/6-036.md#c03-a014) · `C03-A014` · ▶ PLAY VIDEO
+15. [**Softmax Classification**](catalog/artificial-intelligence/6-036.md#c03-a015) · `C03-A015` · ▶ PLAY VIDEO
+16. [**K-Nearest Neighbors**](catalog/artificial-intelligence/6-036.md#c03-a016) · `C03-A016` · ▶ PLAY VIDEO
+17. [**Maximum-Margin Support Vector Machine**](catalog/artificial-intelligence/6-036.md#c03-a017) · `C03-A017` · ▶ PLAY VIDEO
+18. [**Decision-Tree Information Gain**](catalog/artificial-intelligence/6-036.md#c03-a018) · `C03-A018` · ▶ PLAY VIDEO
+19. [**K-Means Clustering**](catalog/artificial-intelligence/6-036.md#c03-a019) · `C03-A019` · ▶ PLAY VIDEO
+20. [**Principal Component Analysis**](catalog/artificial-intelligence/6-036.md#c03-a020) · `C03-A020` · ▶ PLAY VIDEO
 
 ### [Deep Learning](catalog/artificial-intelligence/ai-dl.md)
 
@@ -342,14 +340,14 @@
 
 #### Knowledge points
 
-1. [**Artificial Neuron**](catalog/artificial-intelligence/ai-dl.md#c26-a001) · `C26-A001` · ▶ OPEN VIDEO
-2. [**Activation Functions**](catalog/artificial-intelligence/ai-dl.md#c26-a002) · `C26-A002` · ▶ OPEN VIDEO
-3. [**Parameter Initialization**](catalog/artificial-intelligence/ai-dl.md#c26-a003) · `C26-A003` · ▶ OPEN VIDEO
-4. [**Batch Normalization**](catalog/artificial-intelligence/ai-dl.md#c26-a004) · `C26-A004` · ▶ OPEN VIDEO
-5. [**Dropout**](catalog/artificial-intelligence/ai-dl.md#c26-a005) · `C26-A005` · ▶ OPEN VIDEO
-6. [**Convolutional Neural Network**](catalog/artificial-intelligence/ai-dl.md#c26-a006) · `C26-A006` · ▶ OPEN VIDEO
-7. [**Vanishing Gradients in Recurrent Neural Networks**](catalog/artificial-intelligence/ai-dl.md#c26-a007) · `C26-A007` · ▶ OPEN VIDEO
-8. [**Attention Mechanism**](catalog/artificial-intelligence/ai-dl.md#c26-a008) · `C26-A008` · ▶ OPEN VIDEO
+1. [**Artificial Neuron**](catalog/artificial-intelligence/ai-dl.md#c26-a001) · `C26-A001` · ▶ PLAY VIDEO
+2. [**Activation Functions**](catalog/artificial-intelligence/ai-dl.md#c26-a002) · `C26-A002` · ▶ PLAY VIDEO
+3. [**Parameter Initialization**](catalog/artificial-intelligence/ai-dl.md#c26-a003) · `C26-A003` · ▶ PLAY VIDEO
+4. [**Batch Normalization**](catalog/artificial-intelligence/ai-dl.md#c26-a004) · `C26-A004` · ▶ PLAY VIDEO
+5. [**Dropout**](catalog/artificial-intelligence/ai-dl.md#c26-a005) · `C26-A005` · ▶ PLAY VIDEO
+6. [**Convolutional Neural Network**](catalog/artificial-intelligence/ai-dl.md#c26-a006) · `C26-A006` · ▶ PLAY VIDEO
+7. [**Vanishing Gradients in Recurrent Neural Networks**](catalog/artificial-intelligence/ai-dl.md#c26-a007) · `C26-A007` · ▶ PLAY VIDEO
+8. [**Attention Mechanism**](catalog/artificial-intelligence/ai-dl.md#c26-a008) · `C26-A008` · ▶ PLAY VIDEO
 
 ### [Natural Language Processing](catalog/artificial-intelligence/ai-nlp.md)
 
@@ -357,14 +355,14 @@
 
 #### Knowledge points
 
-1. [**Text Tokenization**](catalog/artificial-intelligence/ai-nlp.md#c27-a001) · `C27-A001` · ▶ OPEN VIDEO
-2. [**N-Gram Language Model**](catalog/artificial-intelligence/ai-nlp.md#c27-a002) · `C27-A002` · ▶ OPEN VIDEO
-3. [**Word Embeddings**](catalog/artificial-intelligence/ai-nlp.md#c27-a003) · `C27-A003` · ▶ OPEN VIDEO
-4. [**Positional Encoding**](catalog/artificial-intelligence/ai-nlp.md#c27-a004) · `C27-A004` · ▶ OPEN VIDEO
-5. [**Self-Attention**](catalog/artificial-intelligence/ai-nlp.md#c27-a005) · `C27-A005` · ▶ OPEN VIDEO
-6. [**Encoder-Decoder Architecture**](catalog/artificial-intelligence/ai-nlp.md#c27-a006) · `C27-A006` · ▶ OPEN VIDEO
-7. [**Beam Search**](catalog/artificial-intelligence/ai-nlp.md#c27-a007) · `C27-A007` · ▶ OPEN VIDEO
-8. [**Retrieval-Augmented Generation**](catalog/artificial-intelligence/ai-nlp.md#c27-a008) · `C27-A008` · ▶ OPEN VIDEO
+1. [**Text Tokenization**](catalog/artificial-intelligence/ai-nlp.md#c27-a001) · `C27-A001` · ▶ PLAY VIDEO
+2. [**N-Gram Language Model**](catalog/artificial-intelligence/ai-nlp.md#c27-a002) · `C27-A002` · ▶ PLAY VIDEO
+3. [**Word Embeddings**](catalog/artificial-intelligence/ai-nlp.md#c27-a003) · `C27-A003` · ▶ PLAY VIDEO
+4. [**Positional Encoding**](catalog/artificial-intelligence/ai-nlp.md#c27-a004) · `C27-A004` · ▶ PLAY VIDEO
+5. [**Self-Attention**](catalog/artificial-intelligence/ai-nlp.md#c27-a005) · `C27-A005` · ▶ PLAY VIDEO
+6. [**Encoder-Decoder Architecture**](catalog/artificial-intelligence/ai-nlp.md#c27-a006) · `C27-A006` · ▶ PLAY VIDEO
+7. [**Beam Search**](catalog/artificial-intelligence/ai-nlp.md#c27-a007) · `C27-A007` · ▶ PLAY VIDEO
+8. [**Retrieval-Augmented Generation**](catalog/artificial-intelligence/ai-nlp.md#c27-a008) · `C27-A008` · ▶ PLAY VIDEO
 
 ### [Computer Vision](catalog/artificial-intelligence/ai-cv.md)
 
@@ -372,14 +370,14 @@
 
 #### Knowledge points
 
-1. [**Image Convolution**](catalog/artificial-intelligence/ai-cv.md#c28-a001) · `C28-A001` · ▶ OPEN VIDEO
-2. [**Edge Detection**](catalog/artificial-intelligence/ai-cv.md#c28-a002) · `C28-A002` · ▶ OPEN VIDEO
-3. [**Padding and Stride**](catalog/artificial-intelligence/ai-cv.md#c28-a003) · `C28-A003` · ▶ OPEN VIDEO
-4. [**Pooling**](catalog/artificial-intelligence/ai-cv.md#c28-a004) · `C28-A004` · ▶ OPEN VIDEO
-5. [**Receptive Field**](catalog/artificial-intelligence/ai-cv.md#c28-a005) · `C28-A005` · ▶ OPEN VIDEO
-6. [**Intersection over Union and Non-Maximum Suppression**](catalog/artificial-intelligence/ai-cv.md#c28-a006) · `C28-A006` · ▶ OPEN VIDEO
-7. [**Semantic Segmentation**](catalog/artificial-intelligence/ai-cv.md#c28-a007) · `C28-A007` · ▶ OPEN VIDEO
-8. [**Image Data Augmentation**](catalog/artificial-intelligence/ai-cv.md#c28-a008) · `C28-A008` · ▶ OPEN VIDEO
+1. [**Image Convolution**](catalog/artificial-intelligence/ai-cv.md#c28-a001) · `C28-A001` · ▶ PLAY VIDEO
+2. [**Edge Detection**](catalog/artificial-intelligence/ai-cv.md#c28-a002) · `C28-A002` · ▶ PLAY VIDEO
+3. [**Padding and Stride**](catalog/artificial-intelligence/ai-cv.md#c28-a003) · `C28-A003` · ▶ PLAY VIDEO
+4. [**Pooling**](catalog/artificial-intelligence/ai-cv.md#c28-a004) · `C28-A004` · ▶ PLAY VIDEO
+5. [**Receptive Field**](catalog/artificial-intelligence/ai-cv.md#c28-a005) · `C28-A005` · ▶ PLAY VIDEO
+6. [**Intersection over Union and Non-Maximum Suppression**](catalog/artificial-intelligence/ai-cv.md#c28-a006) · `C28-A006` · ▶ PLAY VIDEO
+7. [**Semantic Segmentation**](catalog/artificial-intelligence/ai-cv.md#c28-a007) · `C28-A007` · ▶ PLAY VIDEO
+8. [**Image Data Augmentation**](catalog/artificial-intelligence/ai-cv.md#c28-a008) · `C28-A008` · ▶ PLAY VIDEO
 
 ### [Reinforcement Learning](catalog/artificial-intelligence/ai-rl.md)
 
@@ -387,14 +385,14 @@
 
 #### Knowledge points
 
-1. [**States, Actions, and Rewards**](catalog/artificial-intelligence/ai-rl.md#c29-a001) · `C29-A001` · ▶ OPEN VIDEO
-2. [**Discounted Return**](catalog/artificial-intelligence/ai-rl.md#c29-a002) · `C29-A002` · ▶ OPEN VIDEO
-3. [**Bellman Optimality Equation**](catalog/artificial-intelligence/ai-rl.md#c29-a003) · `C29-A003` · ▶ OPEN VIDEO
-4. [**Q-Learning Update**](catalog/artificial-intelligence/ai-rl.md#c29-a004) · `C29-A004` · ▶ OPEN VIDEO
-5. [**Epsilon-Greedy Exploration**](catalog/artificial-intelligence/ai-rl.md#c29-a005) · `C29-A005` · ▶ OPEN VIDEO
-6. [**Policy Gradient**](catalog/artificial-intelligence/ai-rl.md#c29-a006) · `C29-A006` · ▶ OPEN VIDEO
-7. [**Actor-Critic Method**](catalog/artificial-intelligence/ai-rl.md#c29-a007) · `C29-A007` · ▶ OPEN VIDEO
-8. [**Experience Replay**](catalog/artificial-intelligence/ai-rl.md#c29-a008) · `C29-A008` · ▶ OPEN VIDEO
+1. [**States, Actions, and Rewards**](catalog/artificial-intelligence/ai-rl.md#c29-a001) · `C29-A001` · ▶ PLAY VIDEO
+2. [**Discounted Return**](catalog/artificial-intelligence/ai-rl.md#c29-a002) · `C29-A002` · ▶ PLAY VIDEO
+3. [**Bellman Optimality Equation**](catalog/artificial-intelligence/ai-rl.md#c29-a003) · `C29-A003` · ▶ PLAY VIDEO
+4. [**Q-Learning Update**](catalog/artificial-intelligence/ai-rl.md#c29-a004) · `C29-A004` · ▶ PLAY VIDEO
+5. [**Epsilon-Greedy Exploration**](catalog/artificial-intelligence/ai-rl.md#c29-a005) · `C29-A005` · ▶ PLAY VIDEO
+6. [**Policy Gradient**](catalog/artificial-intelligence/ai-rl.md#c29-a006) · `C29-A006` · ▶ PLAY VIDEO
+7. [**Actor-Critic Method**](catalog/artificial-intelligence/ai-rl.md#c29-a007) · `C29-A007` · ▶ PLAY VIDEO
+8. [**Experience Replay**](catalog/artificial-intelligence/ai-rl.md#c29-a008) · `C29-A008` · ▶ PLAY VIDEO
 
 ### [Generative Artificial Intelligence](catalog/artificial-intelligence/ai-gen.md)
 
@@ -402,14 +400,14 @@
 
 #### Knowledge points
 
-1. [**Autoencoder**](catalog/artificial-intelligence/ai-gen.md#c30-a001) · `C30-A001` · ▶ OPEN VIDEO
-2. [**Variational Autoencoder Reparameterization**](catalog/artificial-intelligence/ai-gen.md#c30-a002) · `C30-A002` · ▶ OPEN VIDEO
-3. [**Latent-Space Interpolation**](catalog/artificial-intelligence/ai-gen.md#c30-a003) · `C30-A003` · ▶ OPEN VIDEO
-4. [**Generative Adversarial Training**](catalog/artificial-intelligence/ai-gen.md#c30-a004) · `C30-A004` · ▶ OPEN VIDEO
-5. [**Mode Collapse**](catalog/artificial-intelligence/ai-gen.md#c30-a005) · `C30-A005` · ▶ OPEN VIDEO
-6. [**Diffusion Forward Noising**](catalog/artificial-intelligence/ai-gen.md#c30-a006) · `C30-A006` · ▶ OPEN VIDEO
-7. [**Diffusion Reverse Denoising**](catalog/artificial-intelligence/ai-gen.md#c30-a007) · `C30-A007` · ▶ OPEN VIDEO
-8. [**Classifier-Free Guidance**](catalog/artificial-intelligence/ai-gen.md#c30-a008) · `C30-A008` · ▶ OPEN VIDEO
+1. [**Autoencoder**](catalog/artificial-intelligence/ai-gen.md#c30-a001) · `C30-A001` · ▶ PLAY VIDEO
+2. [**Variational Autoencoder Reparameterization**](catalog/artificial-intelligence/ai-gen.md#c30-a002) · `C30-A002` · ▶ PLAY VIDEO
+3. [**Latent-Space Interpolation**](catalog/artificial-intelligence/ai-gen.md#c30-a003) · `C30-A003` · ▶ PLAY VIDEO
+4. [**Generative Adversarial Training**](catalog/artificial-intelligence/ai-gen.md#c30-a004) · `C30-A004` · ▶ PLAY VIDEO
+5. [**Mode Collapse**](catalog/artificial-intelligence/ai-gen.md#c30-a005) · `C30-A005` · ▶ PLAY VIDEO
+6. [**Diffusion Forward Noising**](catalog/artificial-intelligence/ai-gen.md#c30-a006) · `C30-A006` · ▶ PLAY VIDEO
+7. [**Diffusion Reverse Denoising**](catalog/artificial-intelligence/ai-gen.md#c30-a007) · `C30-A007` · ▶ PLAY VIDEO
+8. [**Classifier-Free Guidance**](catalog/artificial-intelligence/ai-gen.md#c30-a008) · `C30-A008` · ▶ PLAY VIDEO
 
 ---
 
@@ -470,18 +468,18 @@
 
 #### Knowledge points
 
-1. [**Limit**](catalog/mathematics/18-01.md#c04-a001) · `C04-A001` · ▶ OPEN VIDEO
-2. [**Continuity**](catalog/mathematics/18-01.md#c04-a002) · `C04-A002` · ▶ OPEN VIDEO
-3. [**Derivatives as local rates of change**](catalog/mathematics/18-01.md#c04-a003) · `C04-A003` · ▶ OPEN VIDEO
-4. [**Fundamental Theorem of Calculus**](catalog/mathematics/18-01.md#c04-a004) · `C04-A004` · ▶ OPEN VIDEO
-5. [**Volume of rotation**](catalog/mathematics/18-01.md#c04-a005) · `C04-A005` · ▶ OPEN VIDEO
-6. [**Integral slice**](catalog/mathematics/18-01.md#c04-a006) · `C04-A006` · ▶ OPEN VIDEO
-7. [**Infinite series**](catalog/mathematics/18-01.md#c04-a007) · `C04-A007` · ▶ OPEN VIDEO
-8. [**Taylor Expand**](catalog/mathematics/18-01.md#c04-a008) · `C04-A008` · ▶ OPEN VIDEO
-9. [**Epsilon-Delta Definition of a Limit**](catalog/mathematics/18-01.md#c04-a009) · `C04-A009` · ▶ OPEN VIDEO
-10. [**Left- and Right-Hand Limits**](catalog/mathematics/18-01.md#c04-a010) · `C04-A010` · ▶ OPEN VIDEO
-11. [**Chain Rule**](catalog/mathematics/18-01.md#c04-a011) · `C04-A011` · ▶ OPEN VIDEO
-12. [**Implicit Differentiation**](catalog/mathematics/18-01.md#c04-a012) · `C04-A012` · ▶ OPEN VIDEO
+1. [**Limit**](catalog/mathematics/18-01.md#c04-a001) · `C04-A001` · ▶ PLAY VIDEO
+2. [**Continuity**](catalog/mathematics/18-01.md#c04-a002) · `C04-A002` · ▶ PLAY VIDEO
+3. [**Derivatives as local rates of change**](catalog/mathematics/18-01.md#c04-a003) · `C04-A003` · ▶ PLAY VIDEO
+4. [**Fundamental Theorem of Calculus**](catalog/mathematics/18-01.md#c04-a004) · `C04-A004` · ▶ PLAY VIDEO
+5. [**Volume of rotation**](catalog/mathematics/18-01.md#c04-a005) · `C04-A005` · ▶ PLAY VIDEO
+6. [**Integral slice**](catalog/mathematics/18-01.md#c04-a006) · `C04-A006` · ▶ PLAY VIDEO
+7. [**Infinite series**](catalog/mathematics/18-01.md#c04-a007) · `C04-A007` · ▶ PLAY VIDEO
+8. [**Taylor Expand**](catalog/mathematics/18-01.md#c04-a008) · `C04-A008` · ▶ PLAY VIDEO
+9. [**Epsilon-Delta Definition of a Limit**](catalog/mathematics/18-01.md#c04-a009) · `C04-A009` · ▶ PLAY VIDEO
+10. [**Left- and Right-Hand Limits**](catalog/mathematics/18-01.md#c04-a010) · `C04-A010` · ▶ PLAY VIDEO
+11. [**Chain Rule**](catalog/mathematics/18-01.md#c04-a011) · `C04-A011` · ▶ PLAY VIDEO
+12. [**Implicit Differentiation**](catalog/mathematics/18-01.md#c04-a012) · `C04-A012` · ▶ PLAY VIDEO
 
 ### [Linear Algebra](catalog/mathematics/18-06.md)
 
@@ -489,22 +487,22 @@
 
 #### Knowledge points
 
-1. [**Column space**](catalog/mathematics/18-06.md#c05-a001) · `C05-A001` · ▶ OPEN VIDEO
-2. [**Line space**](catalog/mathematics/18-06.md#c05-a002) · `C05-A002` · ▶ OPEN VIDEO
-3. [**Zero space**](catalog/mathematics/18-06.md#c05-a003) · `C05-A003` · ▶ OPEN VIDEO
-4. [**Left zero space**](catalog/mathematics/18-06.md#c05-a004) · `C05-A004` · ▶ OPEN VIDEO
-5. [**Orthographic projection**](catalog/mathematics/18-06.md#c05-a005) · `C05-A005` · ▶ OPEN VIDEO
-6. [**Least squares**](catalog/mathematics/18-06.md#c05-a006) · `C05-A006` · ▶ OPEN VIDEO
-7. [**Determinant**](catalog/mathematics/18-06.md#c05-a007) · `C05-A007` · ▶ OPEN VIDEO
-8. [**Volume scaling for linear transformations**](catalog/mathematics/18-06.md#c05-a008) · `C05-A008` · ▶ OPEN VIDEO
-9. [**Eigenvalue**](catalog/mathematics/18-06.md#c05-a009) · `C05-A009` · ▶ OPEN VIDEO
-10. [**Eigenvector**](catalog/mathematics/18-06.md#c05-a010) · `C05-A010` · ▶ OPEN VIDEO
-11. [**Matrix diagonalization**](catalog/mathematics/18-06.md#c05-a011) · `C05-A011` · ▶ OPEN VIDEO
-12. [**Singular value decomposition**](catalog/mathematics/18-06.md#c05-a012) · `C05-A012` · ▶ OPEN VIDEO
-13. [**Gaussian Elimination**](catalog/mathematics/18-06.md#c05-a013) · `C05-A013` · ▶ OPEN VIDEO
-14. [**Rank-Nullity Theorem**](catalog/mathematics/18-06.md#c05-a014) · `C05-A014` · ▶ OPEN VIDEO
-15. [**Gram-Schmidt Orthogonalization**](catalog/mathematics/18-06.md#c05-a015) · `C05-A015` · ▶ OPEN VIDEO
-16. [**QR Decomposition**](catalog/mathematics/18-06.md#c05-a016) · `C05-A016` · ▶ OPEN VIDEO
+1. [**Column space**](catalog/mathematics/18-06.md#c05-a001) · `C05-A001` · ▶ PLAY VIDEO
+2. [**Line space**](catalog/mathematics/18-06.md#c05-a002) · `C05-A002` · ▶ PLAY VIDEO
+3. [**Zero space**](catalog/mathematics/18-06.md#c05-a003) · `C05-A003` · ▶ PLAY VIDEO
+4. [**Left zero space**](catalog/mathematics/18-06.md#c05-a004) · `C05-A004` · ▶ PLAY VIDEO
+5. [**Orthographic projection**](catalog/mathematics/18-06.md#c05-a005) · `C05-A005` · ▶ PLAY VIDEO
+6. [**Least squares**](catalog/mathematics/18-06.md#c05-a006) · `C05-A006` · ▶ PLAY VIDEO
+7. [**Determinant**](catalog/mathematics/18-06.md#c05-a007) · `C05-A007` · ▶ PLAY VIDEO
+8. [**Volume scaling for linear transformations**](catalog/mathematics/18-06.md#c05-a008) · `C05-A008` · ▶ PLAY VIDEO
+9. [**Eigenvalue**](catalog/mathematics/18-06.md#c05-a009) · `C05-A009` · ▶ PLAY VIDEO
+10. [**Eigenvector**](catalog/mathematics/18-06.md#c05-a010) · `C05-A010` · ▶ PLAY VIDEO
+11. [**Matrix diagonalization**](catalog/mathematics/18-06.md#c05-a011) · `C05-A011` · ▶ PLAY VIDEO
+12. [**Singular value decomposition**](catalog/mathematics/18-06.md#c05-a012) · `C05-A012` · ▶ PLAY VIDEO
+13. [**Gaussian Elimination**](catalog/mathematics/18-06.md#c05-a013) · `C05-A013` · ▶ PLAY VIDEO
+14. [**Rank-Nullity Theorem**](catalog/mathematics/18-06.md#c05-a014) · `C05-A014` · ▶ PLAY VIDEO
+15. [**Gram-Schmidt Orthogonalization**](catalog/mathematics/18-06.md#c05-a015) · `C05-A015` · ▶ PLAY VIDEO
+16. [**QR Decomposition**](catalog/mathematics/18-06.md#c05-a016) · `C05-A016` · ▶ PLAY VIDEO
 
 ### [Multivariable Calculus](catalog/mathematics/math-mvc.md)
 
@@ -512,14 +510,14 @@
 
 #### Knowledge points
 
-1. [**Partial Derivatives**](catalog/mathematics/math-mvc.md#c31-a001) · `C31-A001` · ▶ OPEN VIDEO
-2. [**Gradient**](catalog/mathematics/math-mvc.md#c31-a002) · `C31-A002` · ▶ OPEN VIDEO
-3. [**Directional Derivative**](catalog/mathematics/math-mvc.md#c31-a003) · `C31-A003` · ▶ OPEN VIDEO
-4. [**Jacobian Matrix**](catalog/mathematics/math-mvc.md#c31-a004) · `C31-A004` · ▶ OPEN VIDEO
-5. [**Hessian Matrix**](catalog/mathematics/math-mvc.md#c31-a005) · `C31-A005` · ▶ OPEN VIDEO
-6. [**Lagrange Multipliers**](catalog/mathematics/math-mvc.md#c31-a006) · `C31-A006` · ▶ OPEN VIDEO
-7. [**Double Integral**](catalog/mathematics/math-mvc.md#c31-a007) · `C31-A007` · ▶ OPEN VIDEO
-8. [**Divergence and Curl**](catalog/mathematics/math-mvc.md#c31-a008) · `C31-A008` · ▶ OPEN VIDEO
+1. [**Partial Derivatives**](catalog/mathematics/math-mvc.md#c31-a001) · `C31-A001` · ▶ PLAY VIDEO
+2. [**Gradient**](catalog/mathematics/math-mvc.md#c31-a002) · `C31-A002` · ▶ PLAY VIDEO
+3. [**Directional Derivative**](catalog/mathematics/math-mvc.md#c31-a003) · `C31-A003` · ▶ PLAY VIDEO
+4. [**Jacobian Matrix**](catalog/mathematics/math-mvc.md#c31-a004) · `C31-A004` · ▶ PLAY VIDEO
+5. [**Hessian Matrix**](catalog/mathematics/math-mvc.md#c31-a005) · `C31-A005` · ▶ PLAY VIDEO
+6. [**Lagrange Multipliers**](catalog/mathematics/math-mvc.md#c31-a006) · `C31-A006` · ▶ PLAY VIDEO
+7. [**Double Integral**](catalog/mathematics/math-mvc.md#c31-a007) · `C31-A007` · ▶ PLAY VIDEO
+8. [**Divergence and Curl**](catalog/mathematics/math-mvc.md#c31-a008) · `C31-A008` · ▶ PLAY VIDEO
 
 ### [Ordinary Differential Equations](catalog/mathematics/math-ode.md)
 
@@ -527,14 +525,14 @@
 
 #### Knowledge points
 
-1. [**Separable Differential Equations**](catalog/mathematics/math-ode.md#c32-a001) · `C32-A001` · ▶ OPEN VIDEO
-2. [**First-Order Linear Differential Equations**](catalog/mathematics/math-ode.md#c32-a002) · `C32-A002` · ▶ OPEN VIDEO
-3. [**Phase Line**](catalog/mathematics/math-ode.md#c32-a003) · `C32-A003` · ▶ OPEN VIDEO
-4. [**Stability of Equilibria**](catalog/mathematics/math-ode.md#c32-a004) · `C32-A004` · ▶ OPEN VIDEO
-5. [**Second-Order Homogeneous Equations**](catalog/mathematics/math-ode.md#c32-a005) · `C32-A005` · ▶ OPEN VIDEO
-6. [**Forced Oscillation and Resonance**](catalog/mathematics/math-ode.md#c32-a006) · `C32-A006` · ▶ OPEN VIDEO
-7. [**Phase Portrait of an ODE System**](catalog/mathematics/math-ode.md#c32-a007) · `C32-A007` · ▶ OPEN VIDEO
-8. [**Euler&#x27;s Method**](catalog/mathematics/math-ode.md#c32-a008) · `C32-A008` · ▶ OPEN VIDEO
+1. [**Separable Differential Equations**](catalog/mathematics/math-ode.md#c32-a001) · `C32-A001` · ▶ PLAY VIDEO
+2. [**First-Order Linear Differential Equations**](catalog/mathematics/math-ode.md#c32-a002) · `C32-A002` · ▶ PLAY VIDEO
+3. [**Phase Line**](catalog/mathematics/math-ode.md#c32-a003) · `C32-A003` · ▶ PLAY VIDEO
+4. [**Stability of Equilibria**](catalog/mathematics/math-ode.md#c32-a004) · `C32-A004` · ▶ PLAY VIDEO
+5. [**Second-Order Homogeneous Equations**](catalog/mathematics/math-ode.md#c32-a005) · `C32-A005` · ▶ PLAY VIDEO
+6. [**Forced Oscillation and Resonance**](catalog/mathematics/math-ode.md#c32-a006) · `C32-A006` · ▶ PLAY VIDEO
+7. [**Phase Portrait of an ODE System**](catalog/mathematics/math-ode.md#c32-a007) · `C32-A007` · ▶ PLAY VIDEO
+8. [**Euler&#x27;s Method**](catalog/mathematics/math-ode.md#c32-a008) · `C32-A008` · ▶ PLAY VIDEO
 
 ### [Discrete Mathematics](catalog/mathematics/math-dm.md)
 
@@ -542,14 +540,14 @@
 
 #### Knowledge points
 
-1. [**Propositional Logic Truth Tables**](catalog/mathematics/math-dm.md#c33-a001) · `C33-A001` · ▶ OPEN VIDEO
-2. [**Mathematical Induction**](catalog/mathematics/math-dm.md#c33-a002) · `C33-A002` · ▶ OPEN VIDEO
-3. [**Set Operations**](catalog/mathematics/math-dm.md#c33-a003) · `C33-A003` · ▶ OPEN VIDEO
-4. [**Relations and Equivalence Classes**](catalog/mathematics/math-dm.md#c33-a004) · `C33-A004` · ▶ OPEN VIDEO
-5. [**Permutations and Combinations**](catalog/mathematics/math-dm.md#c33-a005) · `C33-A005` · ▶ OPEN VIDEO
-6. [**Pigeonhole Principle**](catalog/mathematics/math-dm.md#c33-a006) · `C33-A006` · ▶ OPEN VIDEO
-7. [**Recurrence Relations**](catalog/mathematics/math-dm.md#c33-a007) · `C33-A007` · ▶ OPEN VIDEO
-8. [**Graph Connectivity**](catalog/mathematics/math-dm.md#c33-a008) · `C33-A008` · ▶ OPEN VIDEO
+1. [**Propositional Logic Truth Tables**](catalog/mathematics/math-dm.md#c33-a001) · `C33-A001` · ▶ PLAY VIDEO
+2. [**Mathematical Induction**](catalog/mathematics/math-dm.md#c33-a002) · `C33-A002` · ▶ PLAY VIDEO
+3. [**Set Operations**](catalog/mathematics/math-dm.md#c33-a003) · `C33-A003` · ▶ PLAY VIDEO
+4. [**Relations and Equivalence Classes**](catalog/mathematics/math-dm.md#c33-a004) · `C33-A004` · ▶ PLAY VIDEO
+5. [**Permutations and Combinations**](catalog/mathematics/math-dm.md#c33-a005) · `C33-A005` · ▶ PLAY VIDEO
+6. [**Pigeonhole Principle**](catalog/mathematics/math-dm.md#c33-a006) · `C33-A006` · ▶ PLAY VIDEO
+7. [**Recurrence Relations**](catalog/mathematics/math-dm.md#c33-a007) · `C33-A007` · ▶ PLAY VIDEO
+8. [**Graph Connectivity**](catalog/mathematics/math-dm.md#c33-a008) · `C33-A008` · ▶ PLAY VIDEO
 
 ### [Abstract Algebra](catalog/mathematics/math-aa.md)
 
@@ -557,14 +555,14 @@
 
 #### Knowledge points
 
-1. [**Group Axioms**](catalog/mathematics/math-aa.md#c34-a001) · `C34-A001` · ▶ OPEN VIDEO
-2. [**Subgroups**](catalog/mathematics/math-aa.md#c34-a002) · `C34-A002` · ▶ OPEN VIDEO
-3. [**Cyclic Groups**](catalog/mathematics/math-aa.md#c34-a003) · `C34-A003` · ▶ OPEN VIDEO
-4. [**Permutation Groups**](catalog/mathematics/math-aa.md#c34-a004) · `C34-A004` · ▶ OPEN VIDEO
-5. [**Cosets and Lagrange&#x27;s Theorem**](catalog/mathematics/math-aa.md#c34-a005) · `C34-A005` · ▶ OPEN VIDEO
-6. [**Group Homomorphisms**](catalog/mathematics/math-aa.md#c34-a006) · `C34-A006` · ▶ OPEN VIDEO
-7. [**Rings and Ideals**](catalog/mathematics/math-aa.md#c34-a007) · `C34-A007` · ▶ OPEN VIDEO
-8. [**Finite Fields**](catalog/mathematics/math-aa.md#c34-a008) · `C34-A008` · ▶ OPEN VIDEO
+1. [**Group Axioms**](catalog/mathematics/math-aa.md#c34-a001) · `C34-A001` · ▶ PLAY VIDEO
+2. [**Subgroups**](catalog/mathematics/math-aa.md#c34-a002) · `C34-A002` · ▶ PLAY VIDEO
+3. [**Cyclic Groups**](catalog/mathematics/math-aa.md#c34-a003) · `C34-A003` · ▶ PLAY VIDEO
+4. [**Permutation Groups**](catalog/mathematics/math-aa.md#c34-a004) · `C34-A004` · ▶ PLAY VIDEO
+5. [**Cosets and Lagrange&#x27;s Theorem**](catalog/mathematics/math-aa.md#c34-a005) · `C34-A005` · ▶ PLAY VIDEO
+6. [**Group Homomorphisms**](catalog/mathematics/math-aa.md#c34-a006) · `C34-A006` · ▶ PLAY VIDEO
+7. [**Rings and Ideals**](catalog/mathematics/math-aa.md#c34-a007) · `C34-A007` · ▶ PLAY VIDEO
+8. [**Finite Fields**](catalog/mathematics/math-aa.md#c34-a008) · `C34-A008` · ▶ PLAY VIDEO
 
 ### [Optimization Theory](catalog/mathematics/math-opt.md)
 
@@ -572,14 +570,14 @@
 
 #### Knowledge points
 
-1. [**Convex Sets and Convex Functions**](catalog/mathematics/math-opt.md#c35-a001) · `C35-A001` · ▶ OPEN VIDEO
-2. [**First-Order Optimality Conditions**](catalog/mathematics/math-opt.md#c35-a002) · `C35-A002` · ▶ OPEN VIDEO
-3. [**Second-Order Optimality Conditions**](catalog/mathematics/math-opt.md#c35-a003) · `C35-A003` · ▶ OPEN VIDEO
-4. [**Gradient Descent Convergence**](catalog/mathematics/math-opt.md#c35-a004) · `C35-A004` · ▶ OPEN VIDEO
-5. [**Newton&#x27;s Method**](catalog/mathematics/math-opt.md#c35-a005) · `C35-A005` · ▶ OPEN VIDEO
-6. [**Lagrangian Duality**](catalog/mathematics/math-opt.md#c35-a006) · `C35-A006` · ▶ OPEN VIDEO
-7. [**KKT Conditions**](catalog/mathematics/math-opt.md#c35-a007) · `C35-A007` · ▶ OPEN VIDEO
-8. [**Projected Gradient Method**](catalog/mathematics/math-opt.md#c35-a008) · `C35-A008` · ▶ OPEN VIDEO
+1. [**Convex Sets and Convex Functions**](catalog/mathematics/math-opt.md#c35-a001) · `C35-A001` · ▶ PLAY VIDEO
+2. [**First-Order Optimality Conditions**](catalog/mathematics/math-opt.md#c35-a002) · `C35-A002` · ▶ PLAY VIDEO
+3. [**Second-Order Optimality Conditions**](catalog/mathematics/math-opt.md#c35-a003) · `C35-A003` · ▶ PLAY VIDEO
+4. [**Gradient Descent Convergence**](catalog/mathematics/math-opt.md#c35-a004) · `C35-A004` · ▶ PLAY VIDEO
+5. [**Newton&#x27;s Method**](catalog/mathematics/math-opt.md#c35-a005) · `C35-A005` · ▶ PLAY VIDEO
+6. [**Lagrangian Duality**](catalog/mathematics/math-opt.md#c35-a006) · `C35-A006` · ▶ PLAY VIDEO
+7. [**KKT Conditions**](catalog/mathematics/math-opt.md#c35-a007) · `C35-A007` · ▶ PLAY VIDEO
+8. [**Projected Gradient Method**](catalog/mathematics/math-opt.md#c35-a008) · `C35-A008` · ▶ PLAY VIDEO
 
 ---
 
@@ -1129,10 +1127,10 @@
 
 #### Knowledge points
 
-1. [**Interrupt Entry and Return**](catalog/embedded-systems/es-mcu.md#c36-a001) · `C36-A001` · ▶ OPEN VIDEO
-2. [**Timer Overflow and Compare Match**](catalog/embedded-systems/es-mcu.md#c36-a002) · `C36-A002` · ▶ OPEN VIDEO
-3. [**DMA Data Transfer**](catalog/embedded-systems/es-mcu.md#c36-a003) · `C36-A003` · ▶ OPEN VIDEO
-4. [**I²C Start, ACK and Stop**](catalog/embedded-systems/es-mcu.md#c36-a004) · `C36-A004` · ▶ OPEN VIDEO
+1. [**Interrupt Entry and Return**](catalog/embedded-systems/es-mcu.md#c36-a001) · `C36-A001` · ▶ PLAY VIDEO
+2. [**Timer Overflow and Compare Match**](catalog/embedded-systems/es-mcu.md#c36-a002) · `C36-A002` · ▶ PLAY VIDEO
+3. [**DMA Data Transfer**](catalog/embedded-systems/es-mcu.md#c36-a003) · `C36-A003` · ▶ PLAY VIDEO
+4. [**I²C Start, ACK and Stop**](catalog/embedded-systems/es-mcu.md#c36-a004) · `C36-A004` · ▶ PLAY VIDEO
 
 ### [Real-Time Operating Systems](catalog/embedded-systems/es-rtos.md)
 
@@ -1140,10 +1138,10 @@
 
 #### Knowledge points
 
-1. [**Task State Transitions**](catalog/embedded-systems/es-rtos.md#c37-a001) · `C37-A001` · ▶ OPEN VIDEO
-2. [**Priority Preemption**](catalog/embedded-systems/es-rtos.md#c37-a002) · `C37-A002` · ▶ OPEN VIDEO
-3. [**Mutex and Critical Section**](catalog/embedded-systems/es-rtos.md#c37-a003) · `C37-A003` · ▶ OPEN VIDEO
-4. [**Priority Inversion**](catalog/embedded-systems/es-rtos.md#c37-a004) · `C37-A004` · ▶ OPEN VIDEO
+1. [**Task State Transitions**](catalog/embedded-systems/es-rtos.md#c37-a001) · `C37-A001` · ▶ PLAY VIDEO
+2. [**Priority Preemption**](catalog/embedded-systems/es-rtos.md#c37-a002) · `C37-A002` · ▶ PLAY VIDEO
+3. [**Mutex and Critical Section**](catalog/embedded-systems/es-rtos.md#c37-a003) · `C37-A003` · ▶ PLAY VIDEO
+4. [**Priority Inversion**](catalog/embedded-systems/es-rtos.md#c37-a004) · `C37-A004` · ▶ PLAY VIDEO
 
 ---
 
@@ -1174,11 +1172,11 @@
 
 #### Knowledge points
 
-1. [**Combinational Propagation Delay**](catalog/digital-electronics/de-dld.md#c38-a001) · `C38-A001` · ▶ OPEN VIDEO
-2. [**Edge-Triggered Flip-Flop**](catalog/digital-electronics/de-dld.md#c38-a002) · `C38-A002` · ▶ OPEN VIDEO
-3. [**Finite State Machine Transition**](catalog/digital-electronics/de-dld.md#c38-a003) · `C38-A003` · ▶ OPEN VIDEO
-4. [**Metastability**](catalog/digital-electronics/de-dld.md#c38-a004) · `C38-A004` · ▶ OPEN VIDEO
-5. [**Shift Register**](catalog/digital-electronics/de-dld.md#c38-a005) · `C38-A005` · ▶ OPEN VIDEO
+1. [**Combinational Propagation Delay**](catalog/digital-electronics/de-dld.md#c38-a001) · `C38-A001` · ▶ PLAY VIDEO
+2. [**Edge-Triggered Flip-Flop**](catalog/digital-electronics/de-dld.md#c38-a002) · `C38-A002` · ▶ PLAY VIDEO
+3. [**Finite State Machine Transition**](catalog/digital-electronics/de-dld.md#c38-a003) · `C38-A003` · ▶ PLAY VIDEO
+4. [**Metastability**](catalog/digital-electronics/de-dld.md#c38-a004) · `C38-A004` · ▶ PLAY VIDEO
+5. [**Shift Register**](catalog/digital-electronics/de-dld.md#c38-a005) · `C38-A005` · ▶ PLAY VIDEO
 
 ### [FPGA Fundamentals](catalog/digital-electronics/de-fpga.md)
 
@@ -1186,10 +1184,10 @@
 
 #### Knowledge points
 
-1. [**Setup and Hold Time**](catalog/digital-electronics/de-fpga.md#c39-a001) · `C39-A001` · ▶ OPEN VIDEO
-2. [**Clock Domain Crossing**](catalog/digital-electronics/de-fpga.md#c39-a002) · `C39-A002` · ▶ OPEN VIDEO
-3. [**Pipeline Latency and Throughput**](catalog/digital-electronics/de-fpga.md#c39-a003) · `C39-A003` · ▶ OPEN VIDEO
-4. [**Resource Sharing vs Parallel Hardware**](catalog/digital-electronics/de-fpga.md#c39-a004) · `C39-A004` · ▶ OPEN VIDEO
+1. [**Setup and Hold Time**](catalog/digital-electronics/de-fpga.md#c39-a001) · `C39-A001` · ▶ PLAY VIDEO
+2. [**Clock Domain Crossing**](catalog/digital-electronics/de-fpga.md#c39-a002) · `C39-A002` · ▶ PLAY VIDEO
+3. [**Pipeline Latency and Throughput**](catalog/digital-electronics/de-fpga.md#c39-a003) · `C39-A003` · ▶ PLAY VIDEO
+4. [**Resource Sharing vs Parallel Hardware**](catalog/digital-electronics/de-fpga.md#c39-a004) · `C39-A004` · ▶ PLAY VIDEO
 
 ---
 
@@ -1201,13 +1199,7 @@ When a video is complete, place it at:
 assets/videos/<subject-slug>/<course-slug>/<prompt-slug>.mp4
 ```
 
-Then set the matching entry in `data/prompts.json` to `status: ready` and populate its repository `video` path. Course pages link directly to that checked-in MP4; do not reuse older GitHub attachment URLs as players.
-
-Release ZIPs are separate copies. After changing a checked-in MP4, rebuild and replace its course bundle before announcing the update:
-
-```bash
-GITHUB_TOKEN=... python3 scripts/publish_course_video_releases.py
-```
+Then set the matching entry in `data/prompts.json` to `status: ready`, populate its repository `video` path, and add the matching public GitHub attachment URL as `player`. Keep the attachment referenced in the public repository. Its URL on a line by itself renders as GitHub's native video player.
 
 To refresh the prompt catalog from the source spreadsheet, run:
 

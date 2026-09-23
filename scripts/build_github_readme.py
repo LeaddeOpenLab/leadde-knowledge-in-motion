@@ -8,7 +8,6 @@ from pathlib import Path
 
 root = Path(__file__).resolve().parents[1]
 items = json.loads((root / "data/prompts.json").read_text(encoding="utf-8"))
-repository_url = "https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion"
 
 library = OrderedDict()
 for item in items:
@@ -53,29 +52,18 @@ def write_course_page(subject, course, prompts):
         "> **Turn your own idea into an animation:** [Create with Leadde →](https://leadde.ai/animation)",
         "",
     ]
-    if subject in {"Computer Science", "Artificial Intelligence"} and all(
-        item.get("status") == "ready" and item.get("video") for item in prompts
-    ):
-        code = slug(first["tags"][1])
-        tag = f"course-videos-{slug(subject)}-{code}"
-        bundle_url = f"{repository_url}/releases/download/{tag}/{code}-videos.zip"
-        page_lines.extend([f"**Course download:** [Download all {len(prompts)} videos as ZIP]({bundle_url})", ""])
     page_lines.extend(["---", ""])
     for prompt in prompts:
-        video_ready = prompt.get("status") == "ready" and prompt.get("video")
+        video_ready = prompt.get("status") == "ready" and prompt.get("player")
         page_lines.extend([
             f'<a id="{prompt["id"].lower()}"></a>',
             f"## {prompt['title']}",
             "",
-            f"`{prompt['id']}` · " + ("Video ready" if video_ready else "Video coming soon"),
+            f"`{prompt['id']}` · " + ("**▶ Play video below**" if video_ready else "Video coming soon"),
             "",
         ])
         if video_ready:
-            video = prompt["video"]
-            cover = video.replace("assets/videos/", "assets/video-covers/").replace(".mp4", ".jpg")
-            if (root / cover).is_file():
-                page_lines.extend([f"[![Preview of {prompt['title']}](../../{cover})](../../{video})", ""])
-            page_lines.extend([f"[Open or download {Path(video).name}](../../{video})", ""])
+            page_lines.extend([prompt["player"], ""])
         page_lines.extend([
             "> **Make this concept move:** [Create an animation with Leadde →](https://leadde.ai/animation)",
             "",
@@ -91,9 +79,7 @@ lines = [
     "",
     f"> An open educational animation and AI prompt library with **{len(items)} English prompts** across **{len(library)} disciplines** and **{course_count} courses**.",
     ">",
-    "> Browse knowledge points and open the current checked-in video from each course page.",
-    ">",
-    "> **Download videos: [Browse course ZIP bundles →](https://github.com/LeaddeOpenLab/leadde-knowledge-in-motion/releases/tag/course-video-downloads)**",
+    "> Browse knowledge points and play finished videos directly with GitHub's native video player.",
     ">",
     "> **Watch the concept. Reuse the prompt. [Create your own animation with Leadde →](https://leadde.ai/animation)**",
     "",
@@ -155,13 +141,7 @@ lines.extend([
     "assets/videos/<subject-slug>/<course-slug>/<prompt-slug>.mp4",
     "```",
     "",
-    "Then set the matching entry in `data/prompts.json` to `status: ready` and populate its repository `video` path. Course pages link directly to that checked-in MP4; do not reuse older GitHub attachment URLs as players.",
-    "",
-    "Release ZIPs are separate copies. After changing a checked-in MP4, rebuild and replace its course bundle before announcing the update:",
-    "",
-    "```bash",
-    "GITHUB_TOKEN=... python3 scripts/publish_course_video_releases.py",
-    "```",
+    "Then set the matching entry in `data/prompts.json` to `status: ready`, populate its repository `video` path, and add the matching public GitHub attachment URL as `player`. Keep the attachment referenced in the public repository. Its URL on a line by itself renders as GitHub's native video player.",
     "",
     "To refresh the prompt catalog from the source spreadsheet, run:",
     "",
