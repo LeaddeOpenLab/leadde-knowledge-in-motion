@@ -1564,7 +1564,7 @@
       "AI-NLP",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: Text Tokenization. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: Text Tokenization. Show a sentence splitting into tokens, map tokens to stable IDs, compare granularity tradeoffs, and close on the vocabulary invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. flip-and-slide + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/2d1b74c4-2d30-4877-ba34-40408685a0e9"
   },
   {
@@ -1580,7 +1580,7 @@
       "AI-NLP",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: N-Gram Language Model. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: N-Gram Language Model. Move a finite context window, turn sequence counts into probabilities, add smoothing, compare candidate endings, and expose the memory limit.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. slide-up + marker-travel + count-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/57e5c8cc-e980-427c-ba3f-20cf17f3e4d0"
   },
   {
@@ -1596,7 +1596,7 @@
       "AI-NLP",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: Word Embeddings. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: Word Embeddings. Place words in a semantic space, reveal neighborhoods and vector offsets, demonstrate an analogy, and close on learned geometry.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + slide-up + pop-in — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/70fe17dc-6db9-4432-af49-22e554aab490"
   },
   {
@@ -1612,7 +1612,7 @@
       "AI-NLP",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: Positional Encoding. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: Positional Encoding. Add position vectors to token vectors, sweep sinusoidal frequencies, relate phase to distance, and show order becoming observable.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + slide-up + band-sweep — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/b097dcec-9352-4243-b8d9-b4e41b63bfd0"
   },
   {
@@ -1628,7 +1628,7 @@
       "AI-NLP",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: Self-Attention. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: Self-Attention. Project tokens into queries, keys, and values; score, normalize, mix context, then resolve a concrete pronoun dependency.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + count-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/64a60450-916d-4839-8339-f984811adb50"
   },
   {
@@ -1644,7 +1644,7 @@
       "AI-NLP",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: Encoder-Decoder Architecture. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: Encoder-Decoder Architecture. Encode a source into contextual memory, decode a target autoregressively, bridge them with cross-attention, and trace a translation example.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + marker-travel — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/774f7dfb-871d-4335-a040-ad15107fde17"
   },
   {
@@ -1660,7 +1660,7 @@
       "AI-NLP",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: Beam Search. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: Beam Search. Expand a hypothesis tree, retain the top-scoring beams, compare greedy and beam outcomes, and show the search-quality tradeoff.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + slide-up + pop-in — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/08cf684f-3ede-47c9-90df-b8b8eabc0c0e"
   },
   {
@@ -1676,7 +1676,7 @@
       "AI-NLP",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: Retrieval-Augmented Generation. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Natural Language Processing course: Retrieval-Augmented Generation. Embed a query, retrieve nearby documents, augment the prompt with evidence, generate a grounded answer, and close the loop.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. stagger-in + pop-in + marker-travel — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/e0ce9b34-c607-4bf8-b5de-4b31e026f024"
   },
   {
@@ -1692,7 +1692,7 @@
       "AI-CV",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Image Convolution. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Image Convolution. Slide a kernel over an image patch, multiply cellwise, sum the products, and reveal the resulting feature map.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. pop-in + marker-travel + count-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/c5e24d00-a932-4e07-b8a8-5b087f289fa5"
   },
   {
@@ -1708,7 +1708,7 @@
       "AI-CV",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Edge Detection. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Edge Detection. Compute horizontal and vertical gradients, combine their magnitudes, and show how intensity transitions become edges.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + band-sweep + count-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/033ff3a1-f172-42bc-aa14-2538df0205bf"
   },
   {
@@ -1724,7 +1724,7 @@
       "AI-CV",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Padding and Stride. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Padding and Stride. Add padding, change stride, calculate output size, compare spatial coverage, and make the geometry tradeoff explicit.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. pop-in + marker-travel + count-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/32274fac-3e34-483e-b299-5e45a68249ce"
   },
   {
@@ -1740,7 +1740,7 @@
       "AI-CV",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Pooling. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Pooling. Downsample a feature grid with max and average pooling, compare their retained signals, and show spatial compression.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. flip-and-slide + pop-in + marker-travel — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/c975a8a7-53ef-48d0-82a5-3a06d7bb9a25"
   },
   {
@@ -1756,7 +1756,7 @@
       "AI-CV",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Receptive Field. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Receptive Field. Grow the visible input region layer by layer, quantify receptive-field expansion, and connect local filters to global context.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + band-sweep + count-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/2887366b-75df-41b0-8271-8774d309da35"
   },
   {
@@ -1772,7 +1772,7 @@
       "AI-CV",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Intersection over Union and Non-Maximum Suppression. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Intersection over Union and Non-Maximum Suppression. Construct intersection and union, calculate IoU, rank candidate boxes, suppress redundant detections, and retain the winner.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. stagger-in + pop-in + count-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/4e39d6b0-0188-405e-bade-43df80ef9988"
   },
   {
@@ -1788,7 +1788,7 @@
       "AI-CV",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Semantic Segmentation. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Semantic Segmentation. Extract spatial features, decode them to full resolution, assign a class to every pixel, and reveal the semantic mask.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. flip-and-slide + pop-in + band-sweep — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/1fbd27a8-717d-4923-905c-00c226f64425"
   },
   {
@@ -1804,7 +1804,7 @@
       "AI-CV",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Image Data Augmentation. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Computer Vision course: Image Data Augmentation. Apply geometry and appearance transforms, compare paired samples, vary random seeds, and preserve labels while increasing diversity.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. flip-and-slide + stagger-in + band-sweep — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/1f271f47-e6d4-4595-a1db-389e63ec895c"
   },
   {
@@ -1820,7 +1820,7 @@
       "AI-RL",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: States, Actions, and Rewards. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: States, Actions, and Rewards. Show how states, actions, rewards, transitions, and trajectories form the data of reinforcement learning.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/8a132cba-40fc-4ca7-997c-35eb98ee206d"
   },
   {
@@ -1836,7 +1836,7 @@
       "AI-RL",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: Discounted Return. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: Discounted Return. Derive discounted return term by term, compare short and long paths, and explain gamma as a planning horizon.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/53804c0b-edaa-4964-a58a-ca5ce08dee71"
   },
   {
@@ -1852,7 +1852,7 @@
       "AI-RL",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: Bellman Optimality Equation. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: Bellman Optimality Equation. Build Bellman backups across action branches, select the maximum, and connect optimal value to a greedy policy.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/49977840-143c-4aa4-ac67-6a5d23093e99"
   },
   {
@@ -1868,7 +1868,7 @@
       "AI-RL",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: Q-Learning Update. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: Q-Learning Update. Follow a complete Q-learning update from transition through target, TD error, cell correction, and iteration.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/e392660b-c8c1-496d-bf49-149bc4a4eebd"
   },
   {
@@ -1884,7 +1884,7 @@
       "AI-RL",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: Epsilon-Greedy Exploration. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: Epsilon-Greedy Exploration. Explain the explore–exploit split, derive the normalized action probabilities, and show epsilon decay.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/a4f72376-40ea-48e6-a94f-3e6166879583"
   },
   {
@@ -1900,7 +1900,7 @@
       "AI-RL",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: Policy Gradient. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: Policy Gradient. Trace sampled actions to discounted credit, likelihood-weighted gradients, a variance-reducing baseline, and ascent.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/edc0860c-6d03-4321-a0c7-ce37cb0a6ffe"
   },
   {
@@ -1916,7 +1916,7 @@
       "AI-RL",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: Actor-Critic Method. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: Actor-Critic Method. Separate actor and critic roles, derive advantage from TD error, and show their coupled update loop.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/3af0fa40-b46d-4d21-a03b-2907bfca6050"
   },
   {
@@ -1932,7 +1932,7 @@
       "AI-RL",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: Experience Replay. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Reinforcement Learning course: Experience Replay. Show why sequential samples are correlated and how a randomly sampled replay mini-batch changes learning.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/b9d8ae36-71ac-4099-ab26-d00188b96927"
   },
   {
@@ -1948,7 +1948,7 @@
       "AI-GEN",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Autoencoder. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Autoencoder. Demonstrate compression through a bottleneck, pixel reconstruction, and the criterion for a useful latent code.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/ea2693df-6d82-4309-81c2-574bfa8b1eb5"
   },
   {
@@ -1964,7 +1964,7 @@
       "AI-GEN",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Variational Autoencoder Reparameterization. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Variational Autoencoder Reparameterization. Separate posterior parameters, fixed noise, scale-shift sampling, differentiable gradients, and the two-part VAE objective.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/1d98cc6e-2f7f-4750-9b94-619f98bedfba"
   },
   {
@@ -1980,7 +1980,7 @@
       "AI-GEN",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Latent-Space Interpolation. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Latent-Space Interpolation. Interpolate between encoded endpoints, plot computed waypoints, and decode the path to test semantic continuity.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/ca0c4b23-c2d0-472e-84d5-f42183524edc"
   },
   {
@@ -1996,7 +1996,7 @@
       "AI-GEN",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Generative Adversarial Training. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Generative Adversarial Training. Alternate discriminator and generator updates, track score-gap progress, and explain distribution matching.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/6ec3bfe7-109b-4074-bc38-aadf2ff62017"
   },
   {
@@ -2012,7 +2012,7 @@
       "AI-GEN",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Mode Collapse. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Mode Collapse. Contrast a multimodal target with a collapsed generator, then diagnose lost coverage using entropy and batches.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/e9936ea2-a664-4be3-bd07-9164dbb8557c"
   },
   {
@@ -2028,7 +2028,7 @@
       "AI-GEN",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Diffusion Forward Noising. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Diffusion Forward Noising. Show progressive corruption, the beta schedule, the closed-form jump to any time, and the resulting training tuple.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/e4a3429a-2192-435b-8d01-b7e99fd743c8"
   },
   {
@@ -2044,7 +2044,7 @@
       "AI-GEN",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Diffusion Reverse Denoising. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Diffusion Reverse Denoising. Walk from Gaussian noise through prediction, subtraction, repeated checkpoints, and the final generated sample.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/616f6ff0-f826-49af-aa5e-0690c47dd19b"
   },
   {
@@ -2060,7 +2060,7 @@
       "AI-GEN",
       "P0"
     ],
-    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Classifier-Free Guidance. Build intuition, trace the three-step mechanism, apply one concrete example, and end on the central invariant.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. draw-on + stagger-in + slide-up — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
+    "prompt": "A 30-second silent English concept animation for a university Generative Artificial Intelligence course: Classifier-Free Guidance. Derive classifier-free guidance from condition dropout, dual predictions, vector extrapolation, and its diversity trade-off.\n\nLight ground `#ffffff` -> `#f6f8fb` -> `#eaeff6`; primary `#0072b2` on the main entity; accent `#e69f00` on the key quantity; result `#009e73` on the conclusion; warn `#d55e00` on danger; \"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", sans-serif throughout, 700-800 headings, 21px uppercase kickers at 5px letter-spacing. staggered fade-in with draw-on paths — each element fades in over 12f with offsets stepping 8-14f, and nothing lands in a scene's last 25 frames.",
     "player": "https://github.com/user-attachments/assets/11c64991-5766-4d76-8cd4-f255407f4c6b"
   },
   {
